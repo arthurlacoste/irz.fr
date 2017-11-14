@@ -4,7 +4,7 @@ jQuery plugin settings and other scripts
 
 const getGif = function (search) {
   request = new XMLHttpRequest;
-  request.open('GET', 'http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag='+search, true);
+  request.open('GET', 'https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag='+search, true);
 
   request.onload = function() {
     if (request.status >= 200 && request.status < 400){
