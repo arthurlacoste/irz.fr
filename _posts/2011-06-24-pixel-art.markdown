@@ -1,0 +1,26 @@
+---
+author: art
+comments: true
+date: 2011-06-24 06:00:12+00:00
+layout: post
+link: https://irz.fr/pixel-art/
+slug: pixel-art
+title: Le pixel-art, qu'est ce que c'est ?
+wordpress_id: 1438448266
+categories:
+- Dessins
+post_format:
+- Galerie
+tags:
+- pixel-art
+---
+
+![](https://static.irz.fr/2011/06/fee-des-bois1.png)
+
+L'art nait de contraintes. On le sait tous. Et le pixel-art en est l'une de ses plus illustres représentations. En effet, le pixel-art à été imposé par le nombre restreint de pixels qu'il était possible d'afficher sur les premiers écrans.
+
+Lorsque je me suis décidé à créer [la page Wikipédia du Pixel-Art](http://fr.wikipedia.org/wiki/Pixel_art) en juin 2005, j'avais défini le pixel-art ainsi "Le pixel-art, comme son nom l'indique, consiste à réaliser une composition pixel par pixel; un travail de passionné en somme."
+
+Bref, passons les introductions, et voici des petits gif animés en pixel-art que j'ai <del>pixelisé</del> dessiné en 2005. Ça ne me rajeuni pas. Ils représentent tous une fée des bois en situation. La première, stoïque. La seconde, travaillant. Le troisième, en <del>boulet</del> prisonnier. La dernier est déguisé en o0o, pixel-artiste que j'affectionne tout particulièrement. Je vous recommande d'ailleurs d'aller faire un tour sur [son site](http://www.o0o.ch) qui regorge de petites images de ce style !
+
+![](https://static.irz.fr/2011/06/0A0.gif) ![](https://static.irz.fr/2011/06/0A0_02.gif) ![](https://static.irz.fr/2011/06/0A0_05.gif) ![](https://static.irz.fr/2011/06/0A0_03.gif)

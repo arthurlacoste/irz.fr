@@ -1,0 +1,72 @@
+---
+author: hugosieo
+comments: true
+date: 2017-04-12 17:59:14+00:00
+layout: post
+link: https://irz.fr/mastodon/
+slug: mastodon
+title: Mastodon ? Plus qu'un gros mammouth, un nouveau réseau
+wordpress_id: 1438493851
+categories:
+- Actu
+---
+
+Depuis quelques semaines, un pachyderme s’est installé sur la toile d’internet, et il a bien l’intention de la faire vibrer, quitte à voler dans les plumes d’un certain oiseau… Son nom, <span style="color: #800000">**Mastodon**</span>, nouveau réseau social qui effectue une percée spectaculaire dans le monde d’internet. On ne pouvait évidemment pas passer à côté de quelque chose d’aussi imposant 
+_
+<!--more-->
+
+![](https://static.irz.fr/2017/04/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png)
+
+# Mais alors… Mastodon, qu’est-ce que c’est ?
+
+Commençons par le commencement… Mastodon est une plateforme de micro-blogging, open-source et décentralisé, qui apparait comme un concurrent à twitter. Il reprend certains codes qui vous paraitront familiers, comme les « **_TOOTS _**» ou « **_POUET _**» qui sont les messages que vous posterez, laissant place à un peu plus de liberté.
+
+Il se base sur un principe de serveurs indépendants, appelés **instances**, que tout à chacun peut créer. Et même si chaque serveur peut paraître isolé, ils sont aussi reliés, car chaque instance est capable de communiquer avec les autres, sauf si l’administrateur en a décidé autrement.
+
+Ce principe a été accueilli comme un OVNI dans les sphères d’internet, parce qu’il se différencie des autres plateformes de ce genre par l’absence de publicités (ciblées ou non) ou les informations sélectionnées « pour vous ». Vous savez, les fameuses « cette publication pourrait vous intéresser » ou les suggestions de pages/personnes…
+
+Le fait de pouvoir envoyer des messages et qu’ils soient vus par tout le monde peut-être intimidant au premier abord. On peut en effet avoir l’impression de se retrouver dans un couloir rempli d’inconnus, mais une fois qu’on a sauté le pas, on a accès à une communauté intéressante et impliquée.
+
+# Comment ça marche ?
+
+C’est étonnamment simple d’utilisation, après avoir passé l’étape de l’inscription et du rattachement à une instance, le reste est assez intuitif.
+
+En ce qui concerne le visuel, très épuré, il se compose de plusieurs colonnes, rendant la navigation simple, fluide et agréable.
+
+Vous avez vos informations, les pouets des personnes que vous suivez, ce que vous avez boosté (retweeté pour les twittos). La colonne du milieu est dédiée aux notifications vous concernant, quand on vous répond, qui vous suit, etc... Pour enfin finir sur la colonne de droite, permettant de consulter les différents fils d’actualités.
+
+![](https://static.irz.fr/2017/04/capture1-640x296.png)
+
+Chaque utilisateur peut poser un message, appelés « _Pouets _» (ou « _Toot _» en anglais, ndlr) limité à 500 caractères, public ou privé, ou encore avec une partie du contenu caché, visible uniquement si les personnes souhaitant le voir cliquent dessus (une sorte de fonction « _spoiler _» pour ne pas tout afficher de base, utile pour du contenu sensible).
+
+Il est possible de suivre des profils, et d’être suivi à son tour, et même si la recherche n’est pour l’instant pas très réussie pour trouver des personnes sur d’autres instances que la sienne. Il est possible d’accéder au profil d’une personne via votre navigateur en utilisant l’adresse : <span style="text-decoration: underline">nom-de-mon.instance/@pseudo</span>
+
+![](https://static.irz.fr/2017/04/capture2-640x302.png)
+
+# En bref
+
+Mastodon est un réseau encore jeune, balbutiant, mais intéressant dans sa démarche, le principe des instances et de la plateforme open source et libre. Les 500 caractères laissent place à plus de liberté qu’un tweet, cependant, on se demande si ce n’est pas un peu trop ?
+
+Les différents flux d’actualités, celui de son instance, et celui des instances reliées permettent de suivre toutes les personnes inscrites en même temps. Beaucoup d’informations sont présentes, ce qui fait qu’on peut facilement passer à côté de quelque chose.
+
+En ce qui concerne les données personnelles, chaque administrateur a accès aux données de son instance, et même si certaines instances sont claires sur ce qu’elles font de ces données, d’autres sont plus obscures à ce sujet. Veillez donc à bien choisir où vous vous positionnez &#x1f609;
+
+Dans tous les cas, même si certains voulaient enterrer le mammouth rapidement après son annonce, il semble que celui-ci ait le poil dur, et qu’il est bien décidé à se faire une place parmi les plus grands.
+
+En tout cas, nous on a essayé, et pour l'instant, on l'a adopté.
+
+Vous pouvez nous retrouver sur Mastodon :
+[@Sieo@octodon.social](https://octodon.social/@sieo) et [@arthak@mastodon.social](https://mastodon.social/@arthak)
+
+# En lire davantage
+
+Pour ceux qui voudraient aller plus loin, voici une liste d'articles et des liens fort intéressants sur le sujet :
+ - [Liste des instances (vous pouvez ajouter la votre manuellement)](https://instances.mastodon.xyz)
+ - [Statistiques détaillées des différentes instances répertoriées](http://sp3r4z.fr/mastodon/general.php)
+ - [Créer une instance Mastodon](https://angristan.fr/installer-instance-mastodon-debian-8/)
+ - [Pourquoi il faut bien réfléchir avant de monter sa propre instance ?](https://www.taneleo.fr/reseau-mastodon-a-lire-avant-d-ouvrir-votre-instance)
+ - [Envoyer un flux RSS sur Mastodon en Python](https://carlchenet.com/vos-flux-rss-sur-le-reseau-mastodon-avec-le-bot-feed2toot/)
+ - [Récuperer ses followings/followers via Twitter](http://mastodon-bridge.herokuapp.com)
+ - [Notre Github avec différents script Grease Monkey pour étendre l'interface, afficher entièrement les images, ou disposer d'un thème plus clair](https://github.com/arthurlacoste/MastodonCloudTheme)
+
+**Alors, allez vous rejoindre le mammouth vous aussi ?**

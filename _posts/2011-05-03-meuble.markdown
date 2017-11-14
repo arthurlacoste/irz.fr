@@ -1,0 +1,16 @@
+---
+author: art
+comments: true
+date: 2011-05-03 21:32:44+00:00
+layout: post
+link: https://irz.fr/meuble/
+slug: meuble
+title: Un meuble ou la vie
+wordpress_id: 121
+categories:
+- Dessins
+---
+
+Ca fait un mois que j'ai déménagé. Nous n'avons plus besoin de meuble, ils ont tous étés trouvés sur des sites de dons. Petit hommage a ceux-ci :
+
+![](https://static.irz.fr/2011/05/cerberus-2011-05-03-%C3%A0-23.19.24.png)

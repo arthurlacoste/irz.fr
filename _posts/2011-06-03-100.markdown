@@ -1,0 +1,53 @@
+---
+author: art
+comments: true
+date: 2011-06-03 00:15:46+00:00
+layout: post
+link: https://irz.fr/100/
+slug: '100'
+title: 100ème article sur le blog
+wordpress_id: 1438447610
+categories:
+- 3615MyLife
+post_format:
+- Galerie
+tags:
+- nostalgie
+---
+
+[![](https://static.irz.fr/2011/06/100.png)](https://static.irz.fr/2011/06/100.png)
+
+Aujourd'hui est grand jour ! Je célèbre mes 100 articles sur le blog ! Et oui, c'est arrivé plus vite que prévu.
+
+Les archives de ce blog sont une véritable pagaille, et il m'arrive fréquemment d'insérer des articles pré-datés, pour les laisser à l'époque ou je les ai écris, comme un gros bloc-notes en ligne.
+
+Faisons ensemble un petit tour du tour du propriétaire, histoire de voir ce que regorge ces archives.
+
+Il y a :
+
+
+
+	
+  * Des traductions d'articles high-tech à propos de [bing et du apple store](http://irz.fr/apple-il-est-temps-de-supprimer-bing-de-lapp-store/)
+
+	
+  * Un essai de [podcast avort](http://irz.fr/la-review-quatre/)é par manque de plaisir
+
+	
+  * Un [tutoriel PHP/Wordpress](http://irz.fr/calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress/) parmis tant d'autres
+
+	
+  * Un article sur [Einstein](http://irz.fr/lecons-de-vie-albert-einstein/) (traduction de développement personnel)
+
+	
+  * Une [interview](http://irz.fr/objectif-neige/)
+
+	
+  * Des [idées saugrenues](http://irz.fr/decoupez-une-micro-sim-carte-sim/) !
+
+
+J'ai un peu triché.
+
+Moi ? Tricheur ? Je vous explique. Tout d'abord, j'ai importé mes articles provenant de mon feu blog d'entrepreneur. Il y en avait un bon paquet, comprenant aussi des pages que j'ai transformé en article par soucis d'homogénéité. Il y avait mon [tumblr](http://www.tumblr.com/), un site proposant de réaliser du microblogging, une alternative/complément à twitter. Ce qui fait que j'ai des articles qui ne comportent qu'une phrase, et même pas de titre ! Mais peu importe. L'un dans l'autre, ça doit déjà faire quelque chose comme 80 articles (le terme d'article reste quand même très discutable). Ajouter à ça les articles transférés de arthak.com...
+
+Bonne bourre !

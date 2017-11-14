@@ -1,0 +1,18 @@
+---
+layout: archive
+permalink: /categories/
+title: "Articles par Categorie"
+author_profile: true
+---
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field="categories" %}
+
+{% for category in group_names %}
+  {% assign tag = category | slugify %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag }}" class="archive__subtitle remove {{ tag }}">{{ category }}</h2>
+  {% for post in posts %}
+    {% include tag-single.html tag=tag %}
+  {% endfor %}
+{% endfor %}

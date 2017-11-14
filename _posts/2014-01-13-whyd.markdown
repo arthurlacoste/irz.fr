@@ -1,0 +1,33 @@
+---
+author: art
+comments: true
+date: 2014-01-13 11:00:11+00:00
+layout: post
+link: https://irz.fr/whyd/
+slug: whyd
+title: Consommez la musique autrement avec Whyd
+wordpress_id: 1438449310
+categories:
+- Musique
+- Web
+post_format:
+- En passant
+tags:
+- réseau social
+---
+
+Aujourd'hui pour écouter de la musique sur internet, je suppose que vous utilisez principalement YouTube, GrooveShark, Pandora, Souncloud, Spotify et Deezer. Il n'y a pas vraiment de service centralisé qui réuni toutes vos chansons préférées. Il y a votre iPod, sur lequel vous avez téléchargé vos chansons préférées. Mais il vous manque quelque chose.
+
+[Whyd](http://whyd.com) est sorti de sa béta privée la semaine dernière et se veut d'être **le Pinterest de la musique**. Centraliseur de musique, il va reunir vos différentes sources d'écoutes. Curateur, vous allez pouvoir suivre les goûts de vos amis, et les tendances du peuple.
+
+Mais la ou s'arrête la plupart des services, Whyd va un peu plus loin : il vous permet de suivre des membres ayant des goûts similaires aux vôtre, et ainsi de vous permettre de découvrir des morceaux qui sont suceptibles de vous plaire.
+
+Attention, ne confondez pas Spotify/Deezer et Whyd : alors que les deux premiers vous permettent d'écouter à peu près tout ce que vous voulez issu des majors (du moins ils essayent...), Whyd met en avant un quasi concept de réseau social de la musique et ne propose aucun service d'abonnement payant. Oui, **le service est gratuit**, le buisness model prévu réside en parti sur la recommandation de concerts et de produits dérivés.
+
+Le principe est simple : à partir d'un bookmarklet (un lien de favori dynamique) que vous placez dans votre naviguateur, vous allez pouvoir, tout en surfant sur vos plateformes de lecteure de musique favoris, ajouter telle ou telle chanson sur Whyd.
+
+Cependant, le service va devoir s'attaquer à deux prinpaux problèmes. Tout d'abord Vevo (qui regroupe Universal Music Group et Sony Music Entertainment) à décidé de désactiver ses vidéos clips issus de Youtube. L'autre étant le mastodone Spotify qui n'est pas encore relié au service.
+
+Je vous invite par ailleurs à retrouver mon profil en suivant ce lien.
+
+

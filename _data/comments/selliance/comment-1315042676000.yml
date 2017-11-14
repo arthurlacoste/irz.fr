@@ -1,0 +1,14 @@
+name: art
+date: '2011-09-03 11:37:56'
+url: ''
+message: >-
+  Je t’arrête tout de suite : l'enregistrement ne se fait pas forcément coté
+  serveur. La bonne pratique est dans la mesure du possible de ne JAMAIS
+  transmettre le mot de passe au serveur, en la confiant au possible  a une
+  fonction javascript qui moulinera avant l'inscription.
+
+
+  Et transmettre le mot de passe par mail n'inspire pas la sécurité dans une
+  application, comme je l'ai dit, ça ne veut en effet pas forcément dire qu'elle
+  est stocké en base de donnée (quoi que Laurent a dit le contraire)...
+email: e57ec339b605619f102620573a8d5330

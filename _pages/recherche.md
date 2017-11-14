@@ -1,0 +1,36 @@
+---
+title: "Chercher"
+permalink: /recherche/
+tipue_search_active: true
+---
+
+<form action="{{ page.url | relative_url }}">
+  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+  <div style="clear: both;"></div>
+</form>
+
+
+<p id="tipue_search_content"></p>
+
+<div id="gif" class="remove">
+
+<span id="giphyme"></span></div>
+
+<script type="text/javascript">
+var $GET=[];
+window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,name,value){$GET[name]=value;});
+
+
+document.addEventListener('DOMContentLoaded', function () {
+  var url = $GET['q'] || 'search'
+  url = url.replace('{{ site.url }}','')
+  .replace(/-/g,' ').replace('/',' ');
+  console.log(url);
+
+  url = decodeURIComponent(url);
+
+  getGif(url);
+
+});
+</script>

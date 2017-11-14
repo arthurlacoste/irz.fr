@@ -1,0 +1,5 @@
+name: Lave-vaisselle
+date: '2012-10-05 23:15:52'
+url: 'http://ville-anonyme.com/'
+message: "Bonjour,\r\n\r\nJ'ai eu exactement le même problème, l'astuce donnée ne l'a pas résolu, par contre, son raccourci, sous cette forme...\r\n\r\nkillall -9 mysqld\r\n\r\n...a marché. Les voies de l'IOS sont impénétrables : ) En vous remerciant pour la piste."
+email: e6ddb070f52d4a6397b49215aa35e9e0

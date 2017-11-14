@@ -1,0 +1,95 @@
+---
+author: art
+comments: true
+date: 2017-02-24 12:03:00+00:00
+layout: post
+link: https://irz.fr/micode/
+slug: micode
+title: Micode = escroc ? J'ai creusé pour vous !
+wordpress_id: 1438493719
+categories:
+- Consommacteur
+post_format:
+- Vidéo
+tags:
+- arnaque
+- comment avoir plus d'abonné sur youtube
+- crack
+- fabien olicard
+- faille
+- Guklam
+- GuklamB
+- hack
+- Jeandravo
+- leboncoin
+- lien
+- m2marliave
+- michaelweb_fr
+- mickmick78
+- micode
+- micodeyt
+- mic_dm
+- mot de passe
+- navigateur
+- pentesting
+- phishing
+- piège
+- vulnérabilité
+- zero day
+header:
+  video:
+    id: MmWOxo5tFh8
+    provider: youtube
+---
+
+Il y a quelques jours, dans mes recommandations, je suis tombé sur cette vidéo : "J'ai hacké des arnaqueurs sur leboncoin". Je me suis empressé de cliquer, et sous ce titre putaclic au possible se cachait une vidéo fort sympathique, divertissante et même instructive ! J'étais abasourdi, moi qui ai de plus en plus l'habitude de tomber sur des vidéos merdiques de Vlog et autres prank à la con.<!-- more -->
+
+On ne sait pas vraiment qui est Micode. Etudiant débrouillard vulgarisant l'informatique avec brio, il est rentré dans le Youtube Game sans crier gare.
+
+Quand on y regarde de plus près, à l'heure ou j'écris ces lignes, Micode dispose de 131K abonnés, dont 130K obtenu ces 30 derniers jours. Depuis qu'il a fait sa vidéo avec Fabien Olicard, il a encore gagné 20K abonnés. 160K abonné en quelques semaines. C'est la plus forte ascension jamais enregistré sur Youtube en France. Non en fait j'en sais rien, mais c'est quand même assez impressionnant.
+
+**J'ai décidé d'investiguer, pour vous.**
+
+D'ici la fin de la vidéo, vous saurez tout de ce jeune homme qui fait trembler tout Youtube. Est-il un illuminati ? Franc-maçon ? Qu'est ce qui se cache derrière le mystère Micode ?
+
+La première chose que je me suis dit en voyant la date de la création de vidéo : oh putain la con, le mec a eu dépenser 10 000€ pour acheter autant de vues. Ceci ne doit pas être du tout rentable.
+
+En regardant toutes ses vidéos je me suis que finalement, il ne s'agissait tout simplement que l'application d'une de ses vidéos, il a hacké un tas d'ordinateur et s’est constitué un ensemble de **machines zombies** qui contrôle d'un tas d'ordinateurs qui regardent, likent, et s'abonnent sans vergogne. Pour vous expliquer, les machines zombies sont un ensemble d’ordinateurs que vous pouvez contrôler à distance, ce ne serait pas impossible, car il a déjà démontré dans sa première vidéo qu’il avait déjà utilisé cette technique pour déjouer des escrocs sur Leboncoin.
+
+Finalement, je suis revenu à la raison, et j’ai décidé de m’appuyer sur des indices laissés ça et là pour mieux cerner ce qui s’était réellement passé.
+
+Et pas besoin de chercher bien loin. Tel le petit poucet, Micode à disséminé de rares indices derrière lui. Et si je dis rare ce n’est pas pour rien, on fait facilement le tour des 59 tweets de Micode. Je le soupçonne de nettoyer ses tweets de temps en temps, et c’est une très bonne chose. Je devrai peut-être prendre exemple sur lui.
+
+j’ai trouvé le nom de l’un de ses autres comptes twitter @mic_dm, mais rien d’intéressant mis à part un tweet de réponse d’Antoine Carossio “Avec plaisir :)”. Mais sans le message d’origine, impossible de comprendre l’objet de cette mystérieuse conversation.
+
+Edit, suite à [un message d'Antoine Carossio](https://www.youtube.com/watch?v=MmWOxo5tFh8&lc=z12xhn0pyobqhbyy204cf13bnvagvfea1y40k) : "Si tu veux connaitre le message d'origine, Mickaël, que je ne connaissais pas, me demandait comment j'avais fait pour intégrer le double-diplôme HEC Paris - École polytechnique et si je pouvais le suivre afin de poursuivre en DM ;)"
+
+Entre twitter et Youtube, **j’ai quand même trouvé des éléments simple pour comprendre la clef de ce succès rapide**.
+
+Tout d'abord, on apprend dans la vidéo de Fabien Olicard intitulé "Comment Hacker un mot de passe", que le nom de Micode est Michaël (puis via d'autres recherches, son nom est en réalité Michaël X). Dans ses tweets, il indique qu’il suit ou a suivi un IUT Info.
+
+Au passage, si on regarde de près ses tweets, on peut voir qu’il s’est déjà fait striké l’une de ses vidéos car elle ne respectait pas les pratiques de Youtube concernant “le spam, les pratiques trompeuses et les escroqueries”.
+
+Il est indéniable que ces vidéos ont étés relayés. Tout d’abord par les Youtubeurs Gui high tech et Fabien Olicard. Mais on trouve aussi le site Koreus qui a relayé sa première vidéo.
+
+Mais ceci ne suffit pas. Ses vidéos sont efficaces.
+
+Voici les 3 raisons du succès incroyable de Micode :
+
+
+En quelques minutes, il enchaîne vulgarisation informatique, le tout avec un storytelling efficace, en restant dans le sensationnel. Et toutes les clefs sont dans cette phrase Vulgarisation + Story telling + viralité.
+
+Je vais vous expliquer ces 3 clefs du succès de Micode :
+
+**La vulgarisation :** c’est expliquer simplement quelque chose qui paraît complexe. Pour moi, la vulgarisation, c’est l’une des clefs de l’éducation.
+
+**Storytelling :** c'est le bonbon qui enrobe cette vulgarisation. Le storytelling est l’art de raconter une histoire. Ainsi l’interlocuteur peut s’identifier et comprendre le contexte de l’histoire.
+
+**Viralité :** le principal vecteur de partage. Jouer sur les émotions et le sensationnel, comme un magicien qui fait quelque chose d’inaccessible.
+
+Donc non, pour répondre à mon titre, Micode ne me semble pas être un escroc.
+
+C'est un très bon exemple pour tout ceux qui souhaitent se lancer sur YouTube, ou même dans n'importe quel business. Se lancer dans une niche, et utiliser comme pierre angulaire la vulgarisation, le storytelling, et la viralité. Merci Micode de montrer qu’on peut encore apporter quelque chose sur Youtube en 2017 !
+
+
+Note : Le nom de famille de Michaël a été retiré suite à sa demande.

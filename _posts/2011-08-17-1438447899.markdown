@@ -1,0 +1,36 @@
+---
+author: art
+comments: true
+date: 2011-08-17 11:53:37+00:00
+layout: post
+link: https://irz.fr/?p=1438447899
+published: false
+slug: '1438447899'
+title: L’erreur de code de la semaine
+wordpress_id: 1438447899
+categories:
+- Code de la route
+- Erreur de code
+tags:
+- autoroute
+- code
+- enpc
+- examen
+- pneumatique
+- pneus
+- pression
+- questions
+- révisions
+- série
+- surgonfler
+---
+
+[![](https://static.irz.fr/2011/05/pression-pneus.png)](https://static.irz.fr/2011/05/pression-pneus.png)
+
+La pression doit être vérifiée lorsque les pneus sont froids. Pour cela, ils doivent avoir roulé moins de 3 Km.
+
+Avant d'effectuer un long trajet sur autoroute et lorsque le véhicule est chargé, il est recommandé de surgonfler les pneus de 0,2 à 0,3 bars.
+
+Réponse B.
+
+

@@ -1,0 +1,14 @@
+---
+author: art
+comments: true
+date: 2010-10-17 11:44:00+00:00
+layout: post
+link: https://irz.fr/1335264168/
+slug: '1335264168'
+title: No Content Found
+wordpress_id: 1335264168
+categories:
+- Sortir
+---
+
+Le restaurant la scène, à cité internationale. Bonne table.

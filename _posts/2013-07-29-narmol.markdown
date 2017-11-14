@@ -1,0 +1,46 @@
+---
+author: art
+comments: true
+date: 2013-07-29 14:05:05+00:00
+layout: post
+link: https://irz.fr/narmol/
+slug: narmol
+title: 'J''ai testé pour vous : Narmol'
+wordpress_id: 1438449070
+categories:
+- Consommacteur
+post_format:
+- En passant
+---
+
+Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](http://irz.fr/tag/jai-teste-pour-vous/) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain. <!-- more -->
+
+
+
+Le site narmol.fr est tout beau, tout neuf, il vient de l’esprit déluré de Cyprien "Monsieur Dream" IOV, un youtubeur, ce genre de mec qui fait des millions de vue par vidéos avec des petits sketchs de 3 ou 4 minutes. Cela fait des années qu'il parle de ce projet d'entreprise spécialisé dans la VPC de t-shirt. Mais des années : "genre mille ans", [comme en atteste cette vidéo de lui](http://www.dailymotion.com/video/x3mdw8_ne-supportez-plus-monsieur-dream-po_fun) qui n'a pas moins de 6 ans !
+
+Le site fonctionne sur la base de t-shirt renouvelés chaque mois, et étant tirées en séries de 500 exemplaires pour chacun. Des séries limités, de nouveaux t-shirt chaque mois... Cela ne vous fait-il pas penser à quelque chose ? Oui, je veux bien entendu parler de laFraise, l'un des premiers site de vente de t-shirt personnalisé lorsqu'il était à son apogée, mené à la baguette par Patrice Cassard. Depuis revendu, Patrice à depuis vogué à d'autres créations d'entreprises voué au succès (dixit Archiduchesse, un site de vente de chaussettes).
+
+[![narmol](https://static.irz.fr/2013/07/narmol-640x355.png)](http://irz.fr/narmol/narmol/)
+
+Mais ce qui fait la différence entre la Fraise et Narmol, c'est qu'au lieu de faire participer des graphistes au projet, Cyprien est le seul "dessinateur" de ses t-shirts. De plus, on voit dès l'accès à la page d’accueil du site que le produit, ce n'est pas tant les t-shirts que ça, c'est en réalité Cyprien lui-même.
+
+En effet, le petit bonhomme, en plus de se voir attribué la casquette de dirigeant d'entreprise et d'illustrateur, il devient aussi son propre modèle, à part pour les modèles féminin, mais j'imagine qu'il aura l'occasion de se travestir plus tard...
+
+Concrètement, je m'attendais à un truc un peu bancal, mais mis à part le jour de la sortie du site ou tout s'est un peu précipité, l’engouffrement des fans provoquant un indéniable DDOS involontaire (déni de service), le site, créé & géré par les barbus de NewQuest est aux petits oignons (je ne reviendrait pas dessus : c'est une petite merveille très bien huilé), et L4 Logistics s'occupe de la logistique.
+
+Est-ce que la popularité (et la base client) de Cyprien permettra au site de décoller ? Je n'en doute pas, les stocks du premier mois ayant été écoulés quelques jours à peine après la sortie du site, je me dit qu'il aurait même pu faire des tirages de 1000. Sans doute le mois prochain.
+
+[![cats-rule-the-internet](https://static.irz.fr/2013/07/cats-rule-the-internet-640x300.jpg)](http://irz.fr/narmol/cats-rule-the-internet/)
+
+Concernant le service en lui-même, pas grand chose à redire, alors que j'ai commandé mon t-shirt le jour de la sortie du site (à peine quelques heures après son ouverture), j'ai reçu le colis sans encombres, la livraison à été assez rapide (commandé le 02/05, reçu le 10/05). Mais ce n'est pas très étonnant, sachant que toute la partie logistique est chapeauté par une entreprise spécialisée qui s'occupe de gérer toutes les commandes. Choix étrange qui doit de plus s'avérer onéreux !
+
+Seule bizarrerie, le 30/05, je reçois un courrier du site me demandant d'accuser réception de mon colis. En effet, ça me rappelle que durant le mois un site (colisprivee.com) m'envoyait des tas de mails pour me dire de valider ma commande, et j'ai même reçu un appel d'une dame me demandant si j'avais reçu un colis d'un certain Easy Nar... Mais tout ça n'avait pas de lien avec Narmol, le nom n'était jamais mentionné clairement. Bref, plus de peur que de mal, j'avais déjà le colis, mais c'est original de voir tout ce petit monde s'exciter pour savoir si mon colis était bien arrivé. Première fois que ça m'arrive et pourtant j'ai commandé sur un tas de sites...
+
+Donc si jamais ça vous arrive, au lieu (comme moi) de mettre en spam les mails de colisprive.com (qui n'étaient guère évocateurs), je vous conseille de leurs répondre, sinon vous allez être harcelé par leurs service client... ...proactifs !
+
+[![narmol-accuse](https://static.irz.fr/2013/07/narmol-accuse-640x373.png)](https://static.irz.fr/2013/07/narmol-accuse.png)
+
+Note : 9/10
+
+Conclusion, le site profite de l’engouffrement créé autour de la personnalité de Cyprien, je ne sait pas si cela durera dans le temps (on peut voir que quelques mois seulement après la sortie du site, les ventes commencent déjà à s’essouffler), mais en tout cas concernant le service en lui même, pas de problème, les délais sont plutôt bien respectés, et le seul point négatif et le harcèlement que j'ai subit pour savoir si mon colis était arrivé. S'il vous plaît : parlez du colis du site Narmol et pas autre chose !

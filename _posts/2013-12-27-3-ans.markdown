@@ -1,0 +1,110 @@
+---
+author: art
+comments: true
+date: 2013-12-27 08:01:16+00:00
+layout: post
+link: https://irz.fr/3-ans/
+slug: 3-ans
+title: IRZ fête ses 3 ans !
+wordpress_id: 1438449256
+categories:
+- 3615MyLife
+- Overgeek
+- Web
+post_format:
+- En passant
+tags:
+- monetisation
+- pub
+- redacteur
+---
+
+IRZ était au départ un énième blog. Je voulais me lâcher, en parlant de tout, mais surtout de rien. Un bloc notes "personnel" partagé sans grande ambition. Avec le temps, les visiteurs se sont accumulés et aujourd'hui, le site commence à atteindre une certaine maturité. Vous pouvez d'ailleurs lire [cet article](http://irz.fr/origine-nom-site-toute-verite-irz/), qui évoque la genèse de IRZ.
+
+
+
+
+
+**La problématique du fourre-tout**
+
+
+
+
+
+IRZ suit depuis le départ une ligne éditoriale chaotique, axée sur ce qui m'intéresse de manière générale : les nouvelles technologies, le e-commerce, le lifestyle, le développement, etc… Le tout étant découpé en deux. D'un côté il y a les articles tout publics, présents en page d'accueil, et d'un autre côté il y a tout les articles un peu plus techniques, un peu plus geeks, comprenant les [tutoriels](http://irz.fr/tutoriels-informatique/) et autres élucubrations prosaïque.
+
+
+
+
+
+**Monétisation**
+
+
+
+
+
+Depuis la naissance du site, il n'y a jamais eu d'encart publicitaire. Jamais. Et pourtant, j'ai commencé à générer quelques revenus à partir du site, via quelques articles rémunérés. Aujourd'hui, je commence tout doucement à songer à un petit encart sur le côté à titre experimental, voir si je peux tirer quelques euros supplémentaires du site.
+
+
+
+
+
+Je sais que parler d'argent dans la blogosphère à longtemps été tabou. Mais en vrai, je m'en fou.
+
+
+
+
+
+**Objectifs de l'année**
+
+
+
+
+
+Cette année, le nombre de visiteurs unique à quasiment doublé entre le début et la fin de l'année. Un peu plus de 500 VU / par jour. D'ici la fin de l'année 2014, je souhaite encore doubler le nombre de visiteurs. Pour ça, il va falloir un travail acharné, une stabilité accrue dans la rédaction des articles, et une Batmobile !
+
+
+
+
+
+Depuis le début, j'essaye d'écrire des billets pérennes. Un choix délibréré, qui permet d'attirer des lecteurs sur le long terme. Je suis toujours dans cette idée, mais je suis ouvert a des articles plus contextuels.
+
+
+
+
+
+Mais il est aussi question de longueur. [Il y a un an](http://irz.fr/mes-resolutions-en-2013/), je me suis mît dans la tête de faire des articles de plus de 1000 mots. Sur le papier, cela signifie approfondir un sujet. En réalité, pour certains sujets, cela implique un manque de réactivité, car je suis quelqu'un qui met pas mal de temps a écrire, et sur mon temps libre. J'ai pu l'expérimenter dernièrement avec l'article concernant Bitstrips, que j'ai terminé alors que l'application se trouve désormais dans le creux de la vague. Tout ceci pour dire que j'envisage d'écrire des articles plus concis, mais aussi plus nombreux.
+
+
+
+
+
+**Engager des rédacteurs**
+
+
+
+
+
+J'y réfléchi depuis un moment et en ai déjà parlé avec quelques personnes, mais il est temps de passer à la vitesse supérieure. En effet, même si l'idée de trouver des gens dans le même délire que moi et souhaitant rejoindre la rédaction me semble périlleuse, je reste confient et ouvert a toute propositions !
+
+
+
+
+
+**Les commentaires**
+
+
+
+
+
+Toujours en dofollow, les commentateurs continuent d'affluer sur le site, venant enrichir le contenu des articles (ou pas). Et n'oubliez pas : chaque commentaire de remerciement ou d'insulte me va droit au cœur ! Pas de changement a noter de ce côté la pour le moment.
+
+
+
+
+
+En conclusion, 2014 est une année qui réserve pleins de surprises, avec l'espoir de tenir le cap initié en 2013.
+
+
+
+

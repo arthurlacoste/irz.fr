@@ -1,0 +1,103 @@
+---
+author: art
+comments: true
+date: 2013-04-24 12:59:30+00:00
+layout: post
+link: https://irz.fr/500/
+slug: '500'
+title: Et là, il y a plus de 500 commentaires
+wordpress_id: 1438449021
+categories:
+- Blog
+post_format:
+- En passant
+---
+
+Alors que le soleil commence à peine à inonder ma chambre de ses rayons matinaux, mon téléphone se met à sonner. Et merde, ça m'apprendra à ne pas mettre mon smartphone sur silencieux. Mes yeux sont encore brumeux, mon corps enseveli sous une montagne de couverture. J'ai du mal à trouver l'appareil, qui se trouve dans la poche de mon jean, posé à même le sol. Je décroche le numéro anonyme.
+
+
+
+
+
+  * Allo, nous venons de voir que vous disposez de 500 commentaires sur votre blog !
+
+
+  * Ah bon, déjà ?
+
+
+  * Oui, et pour cette occasion, nous avons décidé de vous détruire, vous, et l'intégralité de votre site internet !
+
+
+  * Nooooonnn !!!!
+
+
+
+Et là.... ...Je me réveille.
+
+Et oui, 500 commentaires sur le blog ce n'est pas rien, j'avais déjà écrit un article il y a un peu moins d'un an qui fêtais les [200 commentaires](http://irz.fr/200-commentaires/) sur le site, mais là, je viens de passer le cap des 500. Je vais dans un premier temps vous parler un peu des commentaires.
+
+
+
+## A quoi ça sert de commenter ici ?
+
+
+
+Je vous vois bien lire cette question en prenant votre faux air niais. Oui, commenter ici à un intérêt, et d'ailleurs pas qu'un seul. Tout commence par une question d'égo. Oui vous avez bien lu. Je veux dire, quand vous commenter par ici, je vois que **vous avez lu ma prose**, et même si Google Analytics (mes stats) me disent "mec 4000 personnes sont allés sur la page de cet article", il y a une différence réelle entre le nombre de personne qui sont tombés sur une page au hasard d'une Google search et ceux qui ont réellement lu l'article en question !
+
+D'ailleurs, je l'avais déjà évoqué dans [cet article](http://irz.fr/origine-nom-site-toute-verite-irz/) (qui vous dévoile toute la vérité sur IRZ !!), mais si je me suis remis à bloguer, c'est parce que je commençais à recevoir pas mal de commentaires sur certains articles alors que ça faisait style 3 ou 4 mois que je n'avais pas mis les pieds par ici ! Donc oui, les commentaires on une influence sur le moral d'un blogueur. D'ailleurs j'apprécie tout particulièrement les commentaires négatifs même si je dois parfois insulter mes lecteurs de **fumeurs de baobab paranoïaque** ! Peace ! C'est bon les baobabs à fumer ?
+
+Autre chose, cela permet pour certains articles d'ajouter des informations complémentaires utiles pour les autres lecteurs, voir d'entamer une conversation autour du sujet ! Oui, vous avez le droit de commenter pour donner votre avis !
+
+Bien sûr, commenter vous donne le privilège d'interagir avec moi ! Ce n'est pas négligeable.
+
+Je finirai par quelque chose qui plaira à tout les fanatiques des [commentaires dofollow](http://irz.fr/meilleur-blog-dofollow/) : oui, ce site est do follow, ce qui permettra à vos liens de monter dans Google ! Il paraît même que je suis le [meilleur blog dofollow](http://irz.fr/meilleur-blog-dofollow/), mais ceci est une autre histoire...
+
+Petit bonus : commenter ici va vous permettre d'être intégré à ma base secrète et de devenir un agent secret d'ici quelques années ! Comment ça vous ne me croyez pas ?
+
+
+
+## Le top 10 des articles les plus commentés
+
+
+
+C'est donc l'occasion rêvé pour vous de faire un petit point sur les articles les plus commentés d'irz.fr. Je vais aussi mettre les statistiques en PV (je voulais mettre les VU mais je n'ai pas trouvé..) sur les 31 derniers jours (24 mars 2013-23 avr. 2013) pour qu'on se fasse une idée :
+
+1 : [J’ai testé pour vous : Digitaland](http://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland/)
+**Commentaires** : 44 **PV** : 1 470
+
+2 : [Coup de gueule contre le micro casque bluetooth H.ear de Halterrego](http://irz.fr/hear-halterrego-bbh200-beewi/)
+**Commentaires** : 33 **PV** : 1 249
+
+3 : [Je suis le meilleur blog dofollow](http://irz.fr/meilleur-blog-dofollow/)
+**Commentaires** : 31 **PV** : 92
+
+4 : [Mémo MAMP : Résoudre « Error: Could not connect to MySQL server! »](http://irz.fr/memo-mamp-resoudre-error-could-not-connect-to-mysql-server/)
+**Commentaires** : 29 **PV** : 153
+
+5 : [J’ai testé pour vous : ValueBasket](http://irz.fr/valuebasket/)
+**Commentaires** : 27 **PV** : 843
+
+6 : [Résoudre « Votre application » provient d’un développeur non identifié](http://irz.fr/provient-developpeur-non-identifie/)
+**Commentaires** : 21 **PV** : 1 905
+
+7 : [Mon premier tatouage](http://irz.fr/mon-premier-tatouage/)
+**Commentaires** : 18 **PV** : 146
+
+8 : [Aujourd’hui j’ai signé un billet de banque](http://irz.fr/aujourdhui-jai-signe-un-billet-de-banque/)
+**Commentaires** : 15 **PV** : 10
+
+9 : [Comment jailbreaker votre iPhone 5 et tout autre terminal sous iOS 6 ? (MAJ evasi0n 1.5.3)](http://irz.fr/jailbreak-ios6/)
+**Commentaires** : 12 **PV** : 1 226
+
+10 : [Qu’est ce que j’utilise pour écouter de la musique ?](http://irz.fr/ecouter-musique/)
+**Commentaires** : 12 **PV** : 166
+
+Donc au menu, 4 articles datant d'avant 2013, et les 6 autres étant de l'année en cours. Comme vous pouvez le voir, les pages vues ne sont pas forcément représentatives et proportionnelles au nombre de commentaires, ceci est notamment due à l'explosivité de certains articles, qui sont bien commenté juste après la publication, mais qui ne le sont plus par la suite (comme [Aujourd’hui j’ai signé un billet de banque](http://irz.fr/wp-admin/post.php?post=858&action=edit), qui a fait polémique alors que je n'étais lu que par mes amis (d'ailleurs je connais personnellement chacune des personnes qui a commenté l'article..)).
+
+Mais en réalité, l'article le plus commenté de toute ma carrière est [une interview](http://fbn.irz.fr/apero-facebook-saucisson-pinard/) que j'ai réalisé avec Sylvie François pour le site FacebookNews à propos d'un apéro, et qui a totalisé près de 56 commentaires...
+
+Un merci au mec qui à écrit le [500e commentaire](http://irz.fr/meilleur-blog-dofollow/comment-page-4/#comment-13193) : [Watt Communication](http://www.watt-communication.fr/) !
+
+Bien à vous.
+
+

@@ -1,0 +1,32 @@
+# main links
+main:
+  - title: "Chercher"
+    url: /recherche/
+  - title: "Archives"
+    url: /archives/
+  - title: "Contact"
+    url: /contact/
+  - title: "A propos"
+    url: /a-propos/
+
+about:
+  - title: A propos
+    url: /a-propos
+    children:
+      - title: "Introduction"
+        url: "/a-propos/#site-nav"
+      - title: "ligne éditoriale"
+        url: "/a-propos/#ligne-éditoriale"
+      - title: "Source de revenus"
+        url: "/a-propos/#source-de-revenus"
+      - title: "Licence"
+        url: "/a-propos/#licence"
+      - title: "Techniquement"
+        url: "/a-propos/#techniquement"
+  - title: "Qui suis-je"
+    url: /qui-suis-je/
+    children:
+      - title: "Introduction"
+        url: /qui-suis-je/
+      - title: "Me contacter"
+        url: /contact/

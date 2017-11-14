@@ -1,0 +1,52 @@
+---
+author: art
+comments: true
+date: 2010-12-24 07:51:58+00:00
+layout: post
+link: https://irz.fr/icompta/
+slug: icompta
+title: iCompta, votre comptabilité dans les nuages
+wordpress_id: 4
+categories:
+- Apple
+- Logiciels
+tags:
+- dropbox
+---
+
+La comptabilité vous effraie ? Vous avez du mal à gérer votre argent au jour le jour et êtes souvent à découvert ? Alors cette application Mac OS / iPhone vous rendra un grand service, pour le bien de l'humanité. Et surtout le vôtre.
+
+Après quelques mois d'utilisation, c'est réellement devenu un plaisir de "faire les comptes" et ce en temps réel, directement à la sortie du magasin / restaurant avec l'application iPhone, ou une fois de retour à la maison avec l'application desktop.
+
+J'avoue préférer présenter des solutions multiplateformes (bonjour Windows et linux !), mais nous commencerons par ce logiciel [payant](http://www.lyricapps.fr/iCompta/).
+
+
+### L'application iPhone
+
+
+![](https://static.irz.fr/2010/12/mzl.letmsdsk.320x480-75.jpg)
+Vous pouvez retrouver [iComptaMobile](http://itunes.apple.com/app/icompta-2-personal-finance/id294191195?mt=8) (iCompta 2 Personal Finance - 2.2.5, $4.99 - sur le App Store); J'ai commencé à utiliser iCompta sur iPhone. En effet, l'application mobile est pleinement fonctionnelle et de surcroît très intuitive. La gestion de vos différents comptes, le choix d'attribuer une catégorie (ou plusieurs !) à tel enregistrement, le système de pointage des entrées, rien n'est laissé au dépourvu.
+
+Pour les amateurs de graphiques et statistiques en tout genre, vous en aurez pour votre argent : diagramme en camembert colorés exprimant vos dépenses et revenus, un histogramme retrace l'évolution de votre solde, avec la possibilité d'avoir un budget prévisionnel (calculé à partir des entrées périodiques). Nous déplorerons un usage plus poussées des données précédemment enregistrées pour établir un budget approximatif plus "intelligent" (moyenne des dépenses précédentes sur un poste pour "prévoir" les dépenses du mois à venir).
+
+
+#### Synchronisation
+
+
+Outre la traditionnelle sauvegarde par mail de l'application iPhone et les complexes synchronisations par jeux de serveurs interposées (entre mac et un iPhone), l'application iPhone va désormais directement pouvoir se synchroniser à votre dossier Dropbox et ce, automatiquement. Pour disposer de cette fonctionnalité, il vous suffit d'entrer le nom et la destination de votre fichier dans l'onglet synchronisation de l'application Dropbox pour iPhone. Ensuite, pour que votre fichier se synchronise automatiquement au lancement de votre application, il vous suffit dans l'application Réglages, d'aller sur l'onglet Dropbox et d'activer la synchronisation automatique de Dropbox "Au lancement".
+
+
+### L'application Mac OS
+
+
+![](https://static.irz.fr/2010/12/hiro-2010-12-24-à-08.05.29-1024x718.png)
+
+Presque moins intuitive, elle n'en demeure pas pour le moins fonctionnelle. On retrouve tout les atouts qui font la popularité de iCompta sur iPhone, avec cependant des petits plus.
+
+J'ai personnellement remarqué la possibilité de choisir outre un pourcentage de catégorie, un prix lorsque seulement une partie d'une facture est destinée à une catégorie, alors qu'il n'est possible que de mettre un pourcentage dans l'application iPhone, obligeant pour les plus minutieux (comme moi) à effectuer un produit en croix.
+
+L'export en CSV, QIF, et OFX sont les bienvenus pour ceux qui souhaitent aller plus loin en utilisant notamment un tableur.
+
+Un système de règles est en place et de permet d'automatiser des tâches de transfert (par exemple). Je ne m'en suis personnellement jamais servi, mais c'est un dispositif qui n'est pas sur la version iPhone, et qui peut se révéler intéressante pour qui souhaite se pencher sur le sujet pendant les fêtes.
+
+Bref, vous pouvez foncer, pour [14,99€](http://www.lyricapps.fr/iCompta/) !

@@ -1,0 +1,5 @@
+name: Dév anonyme
+date: '2011-09-03 14:16:21'
+url: ''
+message: "La transmission du mot de passe au serveur lors de l'enregistrement ce fait obligatoirement avec un input type password et surtout pas en javascript car c'est dans ce cas que le password est récupérable. Si tu utilises javascript pour encoder le mot de passe, on peut retrouver facilement la fonction et donc la façon dont ce fait l'encodage et c'est ça qui est dangereux. Si tu as un exemple de site qui utilise ta technique, ça m'intéresse. La technique que je t'expose est utilisé par tout le monde et en particulier par les géants du web. \r\nPar contre, tu as raison dans le sens où le créateur du site à l'air d'avouer que les mots de passe ne sont pas encodé."
+email: e1a9e603573b718b5ab4199b64a4cdb2

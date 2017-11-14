@@ -1,0 +1,55 @@
+---
+author: art
+comments: true
+date: 2014-07-03 13:22:47+00:00
+layout: post
+link: https://irz.fr/confide/
+slug: confide
+title: Prise en main de Confide
+wordpress_id: 1438449377
+categories:
+- Android
+- Apple
+post_format:
+- En passant
+tags:
+- Android
+- cryptage
+- iOS
+- iPhone
+- Snapchat
+---
+
+Vous le cachez à tous, mais en réalité, vous êtes un agent secret. Vous avez donc besoin, entre deux missions sur le terrain, armés jusqu'aux dents, d'un canal de discussion crypté pour discuter avec votre agent de liaison. Alors que votre cœur tambourine dans votre poitrine, vous prenez la fuite, une énième fois.<!-- more -->
+
+De ce genre de scénario pourrait être issu la présentation de Confide, qui se veut être une manière sécurisée de communiquer. Souvent comparé à Snapchat pour son côté "je m'autodétruis après ma lecture" (éphémère quoi), c'est (contrairement à snapchat) un réel canal de discussion hermétique auquel vous avez à faire. Cela fait quelques semaines que je l'utilise, à vrai dire depuis que la version pour Androiï est sortie. Vous allez me dire "mais t'as pas un iPhone toi ?". Tout à fait, mais là, depuis près de 2 mois, l'appli est dispo sous iOS ET Androïd.
+
+
+## [Télécharger Confide](http://getconfide.com/app)
+
+
+Mais pourquoi devriez-vous utiliser Confide, vous qui n’êtes pas un agent secret ?
+
+**Parce que vous avez des choses à cacher.**
+
+Que ce soit à votre famille, vos amis, votre petite amie, ou bien à la police, il y a toujours des discussions dont on préférerait éviter qu'elles ne tombent entre de mauvaises mains.
+
+**Parce que vous ne savez pas ce que vont faire les gens de ce que vous leur écrivez. **
+
+Quand une personne reçoit un message, elle peut en faire ce qu'elle veut : le montrer à ses amis, sa famille ou à son avocat. Avec Confide, vous devez passer votre doigt le long de l'écran pour faire apparaître les mots les uns après les autres. Impossible de prendre une capture d'écran.
+
+De même, si vous pensiez pouvoir montrer votre message à quelqu'un, il faut qu'il soit là au moment ou vous recevez votre message. En effet, une fois que vous l'avez lu, il n'est plus possible de revenir dessus, il est automatiquement supprimé après sa lecture. Alors à moins de rester sur la page du message en courant et en priant pour que votre téléphone ne se verrouille pas (si le téléphone est verrouillé ou que vous sortez de l’application, le message disparaît), il va être compliqué de montrer ça à quelqu'un. Aucune preuve.
+
+La seule solution que j'ai trouvé et sortie de mon esprit tourmenté, c'est de filmer votre écran au moment ou vous lisez le message. Un peu comme ça :
+
+[embed]https://www.youtube.com/watch?v=y7PpP-oodh4[/embed]
+
+**Parce que vous allez pouvoir vous la péter en soirée.**
+
+Vous n'avez pas encore d'amis sur Confide ? Ce n'est pas grave. En soirée, allez dans "préférences", puis cliquez sur "message démo". L'application vous enverra un faux message, et vous pourrez ainsi montrer à vos amis comment c'est hype d'avoir Confide.
+
+
+## Conclusion : de petits détails à ajuster
+
+
+On aimerait quand même que l'application nous permette de mettre un mot de passe à l'entrée de l'app, changer de nom, d'envoyer des pièces jointes, ou de faire mille autres choses, comme faire le café. Mais non, elle se contente de faire ce qu'on lui demande : crypter vos messages à la volée. Et elle le fait bien. Il me semble que ce soit l'essentiel. Et puis bon, c'est gratuit, alors pourquoi s'en priver ?

@@ -1,0 +1,21 @@
+name: art
+date: '2011-09-04 13:28:46'
+url: ''
+message: >-
+  Hello dév, 
+
+
+  En fait le mot de passe n'est pas récupérable dans le sens ou en utilisant un
+  cryptage de type md5 (ou autres hash), il suffit après d'agir par comparaison,
+  et il n'y a pas d'algo qui "décrypte" le mot de passe, il faut juste encrypter
+  a nouveau le mot de passe et le comparer avec la chaîne crypté lors de
+  l'inscription.
+
+
+  Ce que je dis je ne l'ai pas rêvé, après faire un hash avant le transfert sur
+  le serveur n'est pas aussi efficace qu'un certificat de sécurité SSL, mais
+  envoyer un mot de passe en clair au serveur est une mauvaise pratique car (par
+  exemple) en se connectant sur le site en question a partir d'une borne
+  publique, il est possible de sniffer tes variables postées, et donc le fameux
+  mot de passe.
+email: e57ec339b605619f102620573a8d5330

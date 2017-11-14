@@ -1,0 +1,20 @@
+---
+author: art
+comments: true
+date: 2015-02-03 00:09:04+00:00
+layout: post
+link: https://irz.fr/info-exif/
+slug: info-exif
+title: Comment lire les information d'EXIF sous mac OSX ?
+wordpress_id: 1438449589
+categories:
+- Apple
+- Overgeek
+- Tutoriel
+---
+
+En ouvrant un fichier image dans aperçu, puis en allant dans "Outils" > "Afficher l'inspecteur (cmd+i)". Depuis l'inspecteur, dans l'onglet "info", vous disposez en fonction des appareils utilisés de sous-onglets EXIF, GPS, et TIFF.
+
+![En savoir plus](https://static.irz.fr/2015/02/exif-apercu-mac-osx.png)
+
+Vous pouvez ainsi de cette manière vérifier l'existence et/ou absence d'EXIF de vos fichiers.

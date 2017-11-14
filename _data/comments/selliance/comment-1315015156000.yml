@@ -1,0 +1,5 @@
+name: Dév anonyme
+date: '2011-09-03 03:59:16'
+url: ''
+message: "Je ne suis pas d'accords avec l'analyse de la gestion du mot de passe. Le fait que le mot de passe soit fourni dans le mail de veut pas dire qu'il est stocké en tant que tel dans la base de données. Si le mail est généré avant l'enregistrement, le mot de passe n'est qu'une variable que l'on peut placer dans le mail avant de l'encoder en md5 pour l'enregistrer en BDD. De plus, l'encodage se fait forcement avec un langage côté serveur comme php ou asp, pas javascript. \r\nEn revanche, si tu utilises la fonction pour récupérer ton mot de passe, après l'inscription, et que tu le reçois en clair dans le mail, il y a un problème de sécurité évident."
+email: e1a9e603573b718b5ab4199b64a4cdb2

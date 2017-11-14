@@ -1,0 +1,19 @@
+---
+author: art
+comments: true
+date: 2013-01-02 10:38:54+00:00
+layout: post
+link: https://irz.fr/sms-2013/
+slug: sms-2013
+title: Bonne année ! Les conversations qui vendent du rêve
+wordpress_id: 1438448566
+categories:
+- Parcours
+post_format:
+- Galerie
+---
+
+C'est sympa les sms de bonne année, on reçoit des trucs assez varié, on renouvelle son répertoire, bref : c'est la joie !
+
+
+![20130102-113831.jpg](https://static.irz.fr/2013/01/20130102-113831.jpg)

@@ -1,0 +1,51 @@
+---
+author: art
+comments: true
+date: 2011-10-12 18:05:34+00:00
+excerpt: '
+
+  <object type="application/x-shockwave-flash" width="480" height="270" id="canal527983"
+  name="canal527983" data="http://player.canalplus.fr/embed/flash/player.swf"><param
+  name="movie" value="http://player.canalplus.fr/embed/flash/player.swf"><param name="flashvars"
+  value="param=cplus&videoId=527983"><param name="allowScriptAccess" value="always"/><param
+  name="allowFullScreen" value="true"/><embed width="480" height="270" src="http://player.canalplus.fr/embed/flash/player.swf"
+  id="canal527983" name="canal527983" flashVars="param=cplus&videoId=527983" allowscriptaccess="always"
+  allowfullscreen="true" ><noembed>Veuillez installer Flash Player pour lire la vidéo</noembed></embed></object>
+
+  '
+layout: post
+link: https://irz.fr/bref/
+slug: bref
+title: Bref, J'ai eu 47 minutes de retard
+wordpress_id: 1438448420
+categories:
+- Video
+tags:
+- Bérengère Krief
+- Bref
+- j'ai couché avec une flic
+- J'ai eu 47 minutes de retard
+- J'ai eu un job
+- j'ai fait les courses avec mon père
+- J'étais coincé dans l'ascenseur
+- je me suis bourré la gueule
+- Je suis allé à ce mariage
+- Kyan Khojandi
+- mon pote s'est fait larguer
+---
+
+Véritable scénettes pleines d'humour de la vie quotidienne d'un "branleur", Bref se regarde avec un plaisir qui frise l'indécence.
+
+Voici le dernier épisode de Bref en date :
+Veuillez installer Flash Player pour lire la vidéo
+
+Veuillez installer Flash Player pour lire la vidéo
+
+Veuillez installer Flash Player pour lire la vidéo
+
+Veuillez installer Flash Player pour lire la vidéo
+
+
+Veuillez installer Flash Player pour lire la vidéo
+
+Veuillez installer Flash Player pour lire la vidéo

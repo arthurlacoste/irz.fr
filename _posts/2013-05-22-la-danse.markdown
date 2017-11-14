@@ -1,0 +1,27 @@
+---
+author: art
+comments: true
+date: 2013-05-22 13:46:19+00:00
+layout: post
+link: https://irz.fr/la-danse/
+slug: la-danse
+title: L'histoire de ma vie
+wordpress_id: 1438449068
+categories:
+- Coloriages
+- Dessins
+- Liveblog
+post_format:
+- En passant
+tags:
+- ballerine
+- danseuse
+- grosse
+- tutu
+---
+
+[![danseuse-histoire-de-la-vie](https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie-640x619.png)](https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie.png)<!-- more -->La danse, c'est l'histoire de toute ma vie... Comment ça, vous ne me croyez pas ?
+
+Version coloriage :
+
+[![la-danseuse](https://static.irz.fr/2013/05/la-danseuse.png)](https://static.irz.fr/2013/05/la-danseuse.png)Voir [tout les coloriages](http://irz.fr/coloriages/).

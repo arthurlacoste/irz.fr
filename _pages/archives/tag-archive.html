@@ -1,0 +1,19 @@
+---
+layout: archive
+permalink: /tags/
+title: "Articles par Tag"
+author_profile: false
+---
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
+
+
+{% for tag in group_names %}
+  {% assign tag_slug = tag | slugify %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag_slug }}" class="archive__subtitle remove {{ tag_slug }}">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include tag-single.html tag=tag_slug %}
+  {% endfor %}
+{% endfor %}

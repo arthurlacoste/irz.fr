@@ -1,0 +1,22 @@
+---
+author: art
+comments: true
+date: 2013-01-25 08:00:04+00:00
+layout: post
+link: https://irz.fr/nicotine/
+slug: nicotine
+title: Nicotine
+wordpress_id: 1438448655
+categories:
+- Divers
+post_format:
+- Galerie
+tags:
+- pince à linge
+---
+
+[![pinces-a-linges-nicotine](http://i2.wp.com/irz.fr/wp-content/uploads/2013/01/pinces-a-linges-nicotine-1024x633.png?resize=584,361)]
+
+
+
+"Arrête avec ce tube de nicotine ! Tu vas pourrir les draps avec cette connerie en plus de nous enfumer !!!"

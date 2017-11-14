@@ -1,0 +1,38 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item remove {{ include.tag }}">
+  <a href="{{ post.url | absolute_url }}" rel="permalink">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      {% if include.type == "grid" and teaser %}
+        <div class="archive__item-teaser">
+          <img src=
+            {% if teaser contains "://" %}
+              "{{ teaser }}"
+            {% else %}
+              "{{ teaser | absolute_url }}"
+            {% endif %}
+            alt="">
+        </div>
+      {% endif %}
+
+      <h2 class="archive__item-title" itemprop="headline">
+        <!-- addbyme ⚠️ add source support -->
+        {% if title %}<h1 class="post__title feature-title" itemprop="headline">{% include helpers/generate-feature-title.html title=title %}</h1>{% endif %}
+      </h2>
+      {% if post.read_time %}
+        <p class="page__meta__title"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      {% endif %}
+      {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
+    </article>
+  </a>
+</div>

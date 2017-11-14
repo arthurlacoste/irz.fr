@@ -1,0 +1,8 @@
+name: Dr Lacoste
+date: '2010-07-07 08:36:52'
+url: 'http://irz.fr'
+message: >-
+  C'est la redondance des champ de formulaire, un champ mail, et un champ pseudo
+  "qui doit obligatoirement être l'adresse mail". Autant ne pas mettre le champ
+  pseudo puisque cela force l'utilisateur à écrire 2 fois son adresse mail.
+email: 8f45a7b5561fc9096c9c2b2c4bbbed77

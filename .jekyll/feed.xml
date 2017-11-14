@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-14T22:40:07+01:00</updated><id>http://localhost:4000/</id><title type="html">IRZ</title><subtitle></subtitle><author><name>art</name><uri>http://arthurlacoste.com</uri></author><entry><title type="html">3 cadeaux à mettre entre toutes les mains</title><link href="http://localhost:4000/cadeau-mains" rel="alternate" type="text/html" title="3 cadeaux à mettre entre toutes les mains" /><published>2017-06-02T10:29:46+02:00</published><updated>2017-06-02T10:29:46+02:00</updated><id>http://localhost:4000/cadeau-mains</id><content type="html" xml:base="http://localhost:4000/cadeau-mains">&lt;p&gt;D’ici quelques semaines, c’est la fête des pères. Et comme c’est très logique, je vous propose donc de faire le point sur les cadeaux les plus   tendance du moment, mais pas forcément pour les papas ! Voici donc une liste de 3 cadeaux, pas forcément très cher, ni pas forcément très utile. Mais à quoi sert un cadeau si ce n’est à &lt;a href=&quot;https://irz.fr/meilleur-cadeau/&quot;&gt;procurer un émerveillement de ses congénères&lt;/a&gt; ?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://irz.fr/cadeau-mains/support-tablette-ibed/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/06/support-tablette-ibed.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On passe des heures à tenir cette fichue tablette. Avec le &lt;strong&gt;support pour tablette&lt;/strong&gt;, compagnon idéal d’une douce matinée au lit à deux, il est possible de regarder ses séries préférées ou travailler et poser son mug. Et il est même possible de déjeuner au lit ! 13€.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://irz.fr/cadeau-mains/platine-vinyle-rouge/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/06/platine-vinyle-rouge.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans le genre cadeau de luxe, voici la &lt;strong&gt;platine vinyle valise&lt;/strong&gt;. Un peu lourd à trimballer, elle sera cependant du plus bel effet dans votre salon. Bien que la lecture de vinyle soit sa première fonction, cette valise lit les clefs usb, mp3 et pourrait presque faire le café ! Comptez 260€ pour ce petit bijoux.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://irz.fr/cadeau-mains/tasse-va-te-faire-ideecadeau-fr_4333-2ff85743/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/06/tasse-va-te-faire-ideecadeau-fr_4333-2ff85743.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En parlant de café, j’ai trouvé la tasse parfaite ! Pour faire passer un message en douceur (ou pas) a votre invité, votre petit frère un peu relou ou votre belle mère, voici &lt;strong&gt;la tasse va te faire&lt;/strong&gt;. Un magnifique doigt est dissimulé dans le fond de la tasse, ce qui risque de surprendre votre interlocuteur, mais vous faire mourir de rire ! Cependant, veillez à bien remplir la tasse pour être certain de l’effet de surprise à retardement. On ne pourra plus dire que vous n’avez pas de doigté ! 13€.&lt;/p&gt;
+
+&lt;p&gt;Si après avoir lu cet article vous n’avez toujours pas d’idées de cadeaux, je vous suggère d’aller aire un tour sur ce site : &lt;a href=&quot;https://www.ideecadeau.fr/cadeau-femme&quot;&gt;www.ideecadeau.fr/cadeau-femme&lt;/a&gt;.&lt;/p&gt;</content><author><name>art</name></author><summary type="html">D’ici quelques semaines, c’est la fête des pères. Et comme c’est très logique, je vous propose donc de faire le point sur les cadeaux les plus tendance du moment, mais pas forcément pour les papas ! Voici donc une liste de 3 cadeaux, pas forcément très cher, ni pas forcément très utile. Mais à quoi sert un cadeau si ce n’est à procurer un émerveillement de ses congénères ?</summary></entry><entry><title type="html">On a testé Mastodon… Voici nos retours !</title><link href="http://localhost:4000/mastodon-nos-retours" rel="alternate" type="text/html" title="On a testé Mastodon... Voici nos retours !" /><published>2017-04-30T15:47:21+02:00</published><updated>2017-04-30T15:47:21+02:00</updated><id>http://localhost:4000/mastodon-nos-retours</id><content type="html" xml:base="http://localhost:4000/mastodon-nos-retours">&lt;p&gt;Dans un précédent article, nous vous présentions le nouveau réseau, Mastodon, qui perçait sur la toile. Nous l’avons testé, et il paraissait intéressant de vous en faire un petit retour ;)&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;Avant tout, il paraissait important de clarifier une chose, car ça a souvent été demandé. Oui une comparaison Twitter-Mastodon est possible, mais non, Mastodon n’a pas vocation à écraser Twitter, mais plus à se faire une place et cohabiter avec ce réseau sur la toile. Le public cible n’est en effet pas le même, étant pour l’instant moins attractif pour les néophytes des réseaux sociaux. Un certain nombre de personnes (dont je fais parti) ont décidés de quitter le niz de l’oiseau bleu à cause notamment des publicités de plus en plus présentes, du caractère agressif d’une grande partie de la communauté, ou encore du côté politique trop présent . Nous n’avons retrouvé pour l’instant aucune de ces choses là sur Mastodon (pour l’instant du moins), et il faut bien avouer que le fait de pouvoir toucher un large public tout de suite est relativement attrayant.&lt;/p&gt;
+
+&lt;p&gt;Pour cet article, nous avons privilégiés le listing des points qui nous ont parus positifs et négatifs plutôt qu’un long texte, question de lisibilité, voici donc nos avis :&lt;/p&gt;
+
+&lt;p&gt;Points positifs :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Le principe des instances, chaque instance à ses règles, sa communauté (par exemple l’instance &lt;em&gt;&lt;a href=&quot;http://witches.town&quot;&gt;witches.town&lt;/a&gt;&lt;/em&gt; assez connue du monde féministe) qui permet d’avoir sa communauté mais aussi d’être relié aux autres instances.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La visibilité publique instantanée, on peut toucher des personnes totalement étrangère à notre réseau sans avoir a se construire son réseau au préalable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Une communauté investie, qui réponds rapidement, l’avantage du réseau jeune est qu’il est moins propices aux “trolls” d’internet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La lecture des flux thématiques (avec l’utilisation de Hashtags), bien connu du monde de Twitter, permet de recenser les messages d’une même thématique dans un flux, cela ne marche que pour les mots préfixés du “#”.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Points négatifs :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Les messages privés sont des messages avec mention que l’on met en privé, il s’agit d’une alternative, mais nous avons trouvé cela décevant. Il n’est pas rare de voir des gens écrire une mention et oublier de passer le message en privé, le rendant donc visible de tous, super message “privé” donc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La confusion entre les différents flux (celui de son instance et le global) est souvent présent, on aura souvent tendance à aller sur le global. En effet, notre instance est présente dedans et on cherche a toucher le maximum de personne et ne rien louper.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Une dernière chose amusante que nous avons relevé, comment s’appelle les utilisateurs de Mastodon ?&lt;/p&gt;
+
+&lt;p&gt;Le grand gagnant semble être le Mastonaute (&lt;em&gt;le terme que nous préférons parmi les nombreux proposés sur le réseau, Mastonaute fais penser à astronautes, on se sent âme voyageuse, ndlr&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;En conclusion, nous avons décidés de donner une chance plus grande à ce réseau en nous investissant d’avantage par rapport à d’autres (Que ce soit en étant actif sur le réseau ou en développant quelques outils complémentaires).&lt;/p&gt;
+
+&lt;p&gt;Et vous ? Avez-vous testés? Avez-vous des retours différents ou des compléments? N’hésitez pas à faire partager vos impressions !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Compléments :&lt;/em&gt;
+A l’heure ou nous écrivons ces lignes, le japon à rejoint la communauté des mastonautes et certains ne souhaitent pas voir tous ces toots. Je vous conseille donc &lt;a href=&quot;https://github.com/arthurlacoste/mastodon-lang-remover/&quot;&gt;cet outil particulièrement efficace&lt;/a&gt; qu’un ami a développé, qui permet de filtrer les langues à afficher sur votre timeline.&lt;/p&gt;</content><author><name>hugosieo</name></author><summary type="html">Dans un précédent article, nous vous présentions le nouveau réseau, Mastodon, qui perçait sur la toile. Nous l’avons testé, et il paraissait intéressant de vous en faire un petit retour ;)</summary></entry><entry><title type="html">Mastodon ? Plus qu’un gros mammouth, un nouveau réseau</title><link href="http://localhost:4000/mastodon" rel="alternate" type="text/html" title="Mastodon ? Plus qu'un gros mammouth, un nouveau réseau" /><published>2017-04-12T19:59:14+02:00</published><updated>2017-04-12T19:59:14+02:00</updated><id>http://localhost:4000/mastodon</id><content type="html" xml:base="http://localhost:4000/mastodon">&lt;p&gt;Depuis quelques semaines, un pachyderme s’est installé sur la toile d’internet, et il a bien l’intention de la faire vibrer, quitte à voler dans les plumes d’un certain oiseau… Son nom, &lt;span style=&quot;color: #800000&quot;&gt;&lt;strong&gt;Mastodon&lt;/strong&gt;&lt;/span&gt;, nouveau réseau social qui effectue une percée spectaculaire dans le monde d’internet. On ne pouvait évidemment pas passer à côté de quelque chose d’aussi imposant 
+_
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://static.irz.fr/2017/04/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;mais-alors-mastodon-quest-ce-que-cest&quot;&gt;Mais alors… Mastodon, qu’est-ce que c’est ?&lt;/h1&gt;
+
+&lt;p&gt;Commençons par le commencement… Mastodon est une plateforme de micro-blogging, open-source et décentralisé, qui apparait comme un concurrent à twitter. Il reprend certains codes qui vous paraitront familiers, comme les « &lt;strong&gt;&lt;em&gt;TOOTS &lt;/em&gt;&lt;/strong&gt;» ou « &lt;strong&gt;&lt;em&gt;POUET &lt;/em&gt;&lt;/strong&gt;» qui sont les messages que vous posterez, laissant place à un peu plus de liberté.&lt;/p&gt;
+
+&lt;p&gt;Il se base sur un principe de serveurs indépendants, appelés &lt;strong&gt;instances&lt;/strong&gt;, que tout à chacun peut créer. Et même si chaque serveur peut paraître isolé, ils sont aussi reliés, car chaque instance est capable de communiquer avec les autres, sauf si l’administrateur en a décidé autrement.&lt;/p&gt;
+
+&lt;p&gt;Ce principe a été accueilli comme un OVNI dans les sphères d’internet, parce qu’il se différencie des autres plateformes de ce genre par l’absence de publicités (ciblées ou non) ou les informations sélectionnées « pour vous ». Vous savez, les fameuses « cette publication pourrait vous intéresser » ou les suggestions de pages/personnes…&lt;/p&gt;
+
+&lt;p&gt;Le fait de pouvoir envoyer des messages et qu’ils soient vus par tout le monde peut-être intimidant au premier abord. On peut en effet avoir l’impression de se retrouver dans un couloir rempli d’inconnus, mais une fois qu’on a sauté le pas, on a accès à une communauté intéressante et impliquée.&lt;/p&gt;
+
+&lt;h1 id=&quot;comment-ça-marche&quot;&gt;Comment ça marche ?&lt;/h1&gt;
+
+&lt;p&gt;C’est étonnamment simple d’utilisation, après avoir passé l’étape de l’inscription et du rattachement à une instance, le reste est assez intuitif.&lt;/p&gt;
+
+&lt;p&gt;En ce qui concerne le visuel, très épuré, il se compose de plusieurs colonnes, rendant la navigation simple, fluide et agréable.&lt;/p&gt;
+
+&lt;p&gt;Vous avez vos informations, les pouets des personnes que vous suivez, ce que vous avez boosté (retweeté pour les twittos). La colonne du milieu est dédiée aux notifications vous concernant, quand on vous répond, qui vous suit, etc… Pour enfin finir sur la colonne de droite, permettant de consulter les différents fils d’actualités.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://static.irz.fr/2017/04/capture1-640x296.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chaque utilisateur peut poser un message, appelés « &lt;em&gt;Pouets &lt;/em&gt;» (ou « &lt;em&gt;Toot &lt;/em&gt;» en anglais, ndlr) limité à 500 caractères, public ou privé, ou encore avec une partie du contenu caché, visible uniquement si les personnes souhaitant le voir cliquent dessus (une sorte de fonction « &lt;em&gt;spoiler &lt;/em&gt;» pour ne pas tout afficher de base, utile pour du contenu sensible).&lt;/p&gt;
+
+&lt;p&gt;Il est possible de suivre des profils, et d’être suivi à son tour, et même si la recherche n’est pour l’instant pas très réussie pour trouver des personnes sur d’autres instances que la sienne. Il est possible d’accéder au profil d’une personne via votre navigateur en utilisant l’adresse : &lt;span style=&quot;text-decoration: underline&quot;&gt;nom-de-mon.instance/@pseudo&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://static.irz.fr/2017/04/capture2-640x302.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;en-bref&quot;&gt;En bref&lt;/h1&gt;
+
+&lt;p&gt;Mastodon est un réseau encore jeune, balbutiant, mais intéressant dans sa démarche, le principe des instances et de la plateforme open source et libre. Les 500 caractères laissent place à plus de liberté qu’un tweet, cependant, on se demande si ce n’est pas un peu trop ?&lt;/p&gt;
+
+&lt;p&gt;Les différents flux d’actualités, celui de son instance, et celui des instances reliées permettent de suivre toutes les personnes inscrites en même temps. Beaucoup d’informations sont présentes, ce qui fait qu’on peut facilement passer à côté de quelque chose.&lt;/p&gt;
+
+&lt;p&gt;En ce qui concerne les données personnelles, chaque administrateur a accès aux données de son instance, et même si certaines instances sont claires sur ce qu’elles font de ces données, d’autres sont plus obscures à ce sujet. Veillez donc à bien choisir où vous vous positionnez 😉&lt;/p&gt;
+
+&lt;p&gt;Dans tous les cas, même si certains voulaient enterrer le mammouth rapidement après son annonce, il semble que celui-ci ait le poil dur, et qu’il est bien décidé à se faire une place parmi les plus grands.&lt;/p&gt;
+
+&lt;p&gt;En tout cas, nous on a essayé, et pour l’instant, on l’a adopté.&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez nous retrouver sur Mastodon :
+&lt;a href=&quot;https://octodon.social/@sieo&quot;&gt;@Sieo@octodon.social&lt;/a&gt; et &lt;a href=&quot;https://mastodon.social/@arthak&quot;&gt;@arthak@mastodon.social&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;en-lire-davantage&quot;&gt;En lire davantage&lt;/h1&gt;
+
+&lt;p&gt;Pour ceux qui voudraient aller plus loin, voici une liste d’articles et des liens fort intéressants sur le sujet :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://instances.mastodon.xyz&quot;&gt;Liste des instances (vous pouvez ajouter la votre manuellement)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sp3r4z.fr/mastodon/general.php&quot;&gt;Statistiques détaillées des différentes instances répertoriées&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angristan.fr/installer-instance-mastodon-debian-8/&quot;&gt;Créer une instance Mastodon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.taneleo.fr/reseau-mastodon-a-lire-avant-d-ouvrir-votre-instance&quot;&gt;Pourquoi il faut bien réfléchir avant de monter sa propre instance ?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://carlchenet.com/vos-flux-rss-sur-le-reseau-mastodon-avec-le-bot-feed2toot/&quot;&gt;Envoyer un flux RSS sur Mastodon en Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mastodon-bridge.herokuapp.com&quot;&gt;Récuperer ses followings/followers via Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/arthurlacoste/MastodonCloudTheme&quot;&gt;Notre Github avec différents script Grease Monkey pour étendre l’interface, afficher entièrement les images, ou disposer d’un thème plus clair&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Alors, allez vous rejoindre le mammouth vous aussi ?&lt;/strong&gt;&lt;/p&gt;</content><author><name>hugosieo</name></author><summary type="html">Depuis quelques semaines, un pachyderme s’est installé sur la toile d’internet, et il a bien l’intention de la faire vibrer, quitte à voler dans les plumes d’un certain oiseau… Son nom, Mastodon, nouveau réseau social qui effectue une percée spectaculaire dans le monde d’internet. On ne pouvait évidemment pas passer à côté de quelque chose d’aussi imposant _</summary></entry><entry><title type="html">10 tweets pour fêter la journée de la procrastination</title><link href="http://localhost:4000/journee-procrastination" rel="alternate" type="text/html" title="10 tweets pour fêter la journée de la procrastination" /><published>2017-03-25T16:32:45+01:00</published><updated>2017-03-25T16:32:45+01:00</updated><id>http://localhost:4000/journee-procrastination</id><content type="html" xml:base="http://localhost:4000/journee-procrastination">&lt;p&gt;Aujourd’hui, c’est la journée de la procrastination. C’est donc l’occasion pour moi de faire une petite sélection des meilleures punchlines de twittos ! Que la flemme soit avec toi, petit padawan.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/Adagio_officiel/status/845319481991802880&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/recettepourtous/status/755493736889651200&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/CollibrisLdL/status/845560927302889472&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/Lutti_Officiel/status/713320782802391040?&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/Jazeylec/status/842433505367851008&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/Marsupi_L_Ami/status/845599570436481025&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/Ligier_Officiel/status/713321881827459072?&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/Lolitadeperpi2/status/845579859766231040&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/HannabelleV/status/845654588858548225&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/veronirique/status/845657447083728896&lt;/p&gt;</content><author><name>art</name></author><summary type="html">Aujourd’hui, c’est la journée de la procrastination. C’est donc l’occasion pour moi de faire une petite sélection des meilleures punchlines de twittos ! Que la flemme soit avec toi, petit padawan.</summary></entry><entry><title type="html">Il s’auto-proclame le roi des radins !</title><link href="http://localhost:4000/le-roi-des-rats" rel="alternate" type="text/html" title="Il s'auto-proclame le roi des radins !" /><published>2017-03-11T17:37:12+01:00</published><updated>2017-03-11T17:37:12+01:00</updated><id>http://localhost:4000/le-roi-des-rats</id><content type="html" xml:base="http://localhost:4000/le-roi-des-rats">&lt;p&gt;Aussi incroyable que cela puisse paraître, cet homme décide de se proclamer le roi des rats !&lt;/p&gt;
+
+&lt;p&gt;Découvrez en exclusivité sur IRZ cette parodie de la chanson Shape of you de Ed Sheeran.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Et si ça ne vous suffit pas, voici une sélection d’autres parodies de la même chanson :&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/li7qFeHI5KM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://www.youtube.com/embed/VTU_SEgnF2g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;</content><author><name>art</name></author><category term="le roi des rats" /><category term="parodie ed sheeran shape of love" /><summary type="html">Aussi incroyable que cela puisse paraître, cet homme décide de se proclamer le roi des rats !</summary></entry><entry><title type="html">10 phrases de drague que vous ne devez jamais prononcer !</title><link href="http://localhost:4000/phrases-drague-interdites" rel="alternate" type="text/html" title="10 phrases de drague que vous ne devez jamais prononcer !" /><published>2017-03-09T06:00:16+01:00</published><updated>2017-03-09T06:00:16+01:00</updated><id>http://localhost:4000/phrases-drague-interdites</id><content type="html" xml:base="http://localhost:4000/phrases-drague-interdites">&lt;p&gt;Draguer. Pour certains ce mot fait peur, pour d’autres c’est un art (les pick up artist, ça vous parle ?).&lt;/p&gt;
+
+&lt;p&gt;Et il y en a qui n’ont pas froid aux yeux, qui tentent le tout pour le tout.&lt;/p&gt;
+
+&lt;p&gt;Je vous ai sélectionné le pire !&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/001-google/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/001-google.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/002-le-plein/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/002-le-plein.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/003-pires-phrases-de-drague-en-boite/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/003-pires-phrases-de-drague-en-boite.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/004-pires-phrases-de-drague-burger/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/004-pires-phrases-de-drague-burger.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/005-pires-phrases-de-drague-premier-regard-beauf/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/005-pires-phrases-de-drague-premier-regard-beauf.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/006-pires-phrases-de-drague-ghb-drole-beauf-2/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/006-pires-phrases-de-drague-ghb-drole-beauf-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/007-pires-phrases-de-drague-juif-drole-beauf/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/007-pires-phrases-de-drague-juif-drole-beauf.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/008-pires-phrases-de-drague-william-arcahon-drole-beauf/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/008-pires-phrases-de-drague-william-arcahon-drole-beauf.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/009-pires-phrases-de-drague-grignoter-drole-beauf/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/009-pires-phrases-de-drague-grignoter-drole-beauf.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://irz.fr/phrases-drague-interdites/010-pires-phrases-de-drague-capote-latex-drole-beauf-2/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/010-pires-phrases-de-drague-capote-latex-drole-beauf-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>art</name></author><category term="#LaPirePhraseDeDragueCEst" /><category term="phrase drague beauf" /><category term="phrase drague drole" /><category term="phrase drague lourde" /><summary type="html">Draguer. Pour certains ce mot fait peur, pour d’autres c’est un art (les pick up artist, ça vous parle ?).</summary></entry><entry><title type="html">10 images pour illustrer la journée du droit des femmes</title><link href="http://localhost:4000/images-journee-droit-femmes" rel="alternate" type="text/html" title="10 images pour illustrer la journée du droit des femmes" /><published>2017-03-08T17:52:16+01:00</published><updated>2017-03-08T17:52:16+01:00</updated><id>http://localhost:4000/images-journee-droit-femmes</id><content type="html" xml:base="http://localhost:4000/images-journee-droit-femmes"></content><author><name>art</name></author><category term="#JournéeDeLaFemme" /><category term="droit des femmes au travail" /><category term="droit des femmes date" /><summary type="html"></summary></entry><entry><title type="html">Il y a 20 ans Rage Against The Machine savait déjà pour Trump</title><link href="http://localhost:4000/rage-against-machine-trump" rel="alternate" type="text/html" title="Il y a 20 ans Rage Against The Machine savait déjà pour Trump" /><published>2017-03-07T11:29:17+01:00</published><updated>2017-03-07T11:29:17+01:00</updated><id>http://localhost:4000/rage-against-machine-trump</id><content type="html" xml:base="http://localhost:4000/rage-against-machine-trump">&lt;p&gt;Une société répressive dirigé par l’appât du gain et la télévision ? Et ou Donald Trump serait président ? Ce n’est pas un journal de 2016 que je vous lit, il s’agit bel et bien d’un clip de Rage Against The Machine datant de 1999 !&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;https://www.facebook.com/artetv/videos/10155191296198945/&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prophets of Rage&lt;/strong&gt;, ça vous parle ? C’est le nom du nouveau groupe comprenant des membres de Public Enemy, Cypress Hill et Rage Against The Machine.&lt;/p&gt;
+
+&lt;p&gt;D’ailleurs le logo de ce nouveau groupe déchire !&lt;/p&gt;
+
+&lt;p&gt;Vous voulez le voir ? Le voici :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://irz.fr/rage-against-machine-trump/prophet-of-rage-logo-2/&quot;&gt;&lt;img src=&quot;https://static.irz.fr/2017/03/prophet-of-rage-logo-1.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Et pour ceux qui adorent ce groupe mythique, je ne peux que vous suggérer d’écouter cette chanson généralissime “Killing in the name” :&lt;/p&gt;
+
+&lt;p&gt;https://www.youtube.com/watch?v=bWXazVhlyxQ&lt;/p&gt;
+
+&lt;p&gt;Et bien entendu Wake up, qui figure dans la BO de Matrix (c’est d’ailleurs comme ça que j’ai connu RATM !) :
+https://www.youtube.com/watch?v=wauzrPn0cfg&lt;/p&gt;
+
+&lt;p&gt;Si vous avez déjà été les voir en concert, il paraît qu’ils mettaient le feux ! Au passé oui, car ils se sont séparés depuis.&lt;/p&gt;</content><author><name>art</name></author><category term="Keywords Search Volume CPC AdWords Competition rage against the machine killing in the name" /><category term="Rage Against The Machine" /><summary type="html">Une société répressive dirigé par l’appât du gain et la télévision ? Et ou Donald Trump serait président ? Ce n’est pas un journal de 2016 que je vous lit, il s’agit bel et bien d’un clip de Rage Against The Machine datant de 1999 !</summary></entry><entry><title type="html">Burger King : elle ouvre son sandwich et ce qu’elle découvre va vous révolter !</title><link href="http://localhost:4000/burger-king-decouverte-whooper" rel="alternate" type="text/html" title="Burger King : elle ouvre son sandwich et ce qu'elle découvre va vous révolter !" /><published>2017-03-06T15:43:53+01:00</published><updated>2017-03-06T15:43:53+01:00</updated><id>http://localhost:4000/burger-king-decouverte-whooper</id><content type="html" xml:base="http://localhost:4000/burger-king-decouverte-whooper">&lt;p&gt;Il y a quelques jours à Burger King, alors qu’elle souhaitait retirer la tomate de son whooper, une Grenobloise à fait une incroyable découverte dans son burger.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;[&lt;img src=&quot;https://static.irz.fr/2017/03/burger-king-decouverte-incroyable.jpg&quot; alt=&quot;image burger king&quot; /&gt;]&lt;/p&gt;
+
+&lt;p&gt;Alors que certains clients se plaignent du Burger King au centre ville de Grenoble qui est “très sale” et “vraiment pas bon du tout”, C’est au restaurant de Meylan que cette étiquette indiquant la date de péremption d’un oeuf à été découvert dans un burger, sous le regard stupéfait de la cliente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Voyons le bon côté des choses, au moins son oeuf n’était pas périmé !&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est peut être le moment de reconsidérer sérieusement les endroits ou l’on va manger, et surtout de faire très attention, peut importe le lieu. L’idéal étant bien entendu de cultiver son propre potager !&lt;/p&gt;
+
+&lt;p&gt;Et vous, ou allez-vous manger ?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/groups/789503794408046/permalink/1593953103963107/&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;</content><author><name>art</name></author><category term="burger king decouverte" /><category term="burger king grenoble" /><category term="burger king menu" /><category term="burger king meylan" /><category term="burger king prix" /><summary type="html">Il y a quelques jours à Burger King, alors qu’elle souhaitait retirer la tomate de son whooper, une Grenobloise à fait une incroyable découverte dans son burger.</summary></entry><entry><title type="html">Youtube est notre nouvelle télévision ! Je vous explique le Watch time Youtube</title><link href="http://localhost:4000/watchtime-youube" rel="alternate" type="text/html" title="Youtube est notre nouvelle télévision ! Je vous explique le Watch time Youtube" /><published>2017-03-01T15:36:32+01:00</published><updated>2017-03-01T15:36:32+01:00</updated><id>http://localhost:4000/watchtime-youube</id><content type="html" xml:base="http://localhost:4000/watchtime-youube">&lt;p&gt;Je sais pas si vous avez déjà regardé un tuto sur Youtube ?&lt;/p&gt;
+
+&lt;p&gt;Moi quand je cherche quelque chose, je veux avoir la réponse tout de suite. Je suis peut être un peu impatient, ok. Mais pour moi, c’est comme une blague raciste : c’est mieux quand c’est court (Allez voir &lt;a href=&quot;https://www.youtube.com/channel/UCYcvf-TyyP0lAAqfsISAa0A&quot;&gt;la chaîne des Tchinis&lt;/a&gt;, ça en vaut le coup !).&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;Malheureusement, les mecs qui font des tutos sur Youtube ne semblent pas être du même avis que moi. Eux ils aiment bien quand c’est long, un peu comme ma…. chevelure. Mais pourquoi ? Et bien j’ai la réponse à cette question. D’ici la fin de cet article, tu sauras pourquoi des vidéos qui font 7 minutes pourraient en faire 3. Ou une. Ou même 30 secondes.&lt;/p&gt;
+
+&lt;p&gt;Et peut importe la vidéo, ça ne rate pas. &lt;strong&gt;Tu as toujours toujours un putain de générique qui sert à rien.&lt;/strong&gt; Et moi si le Générique fait plus de 3 secondes, je jump.&lt;/p&gt;
+
+&lt;p&gt;Un générique, c’est dans un film, quand tu vas au cinéma, et encore, même là je pourrais m’en passer.
+putain e générique de merde&lt;/p&gt;
+
+&lt;p&gt;Je vais prendre une vidéo au hasard, par exemple un tuto qui m’intéresse : comment travailler avec du fond vert. Bon, déjà ça commence par un titre, truc dont tout le monde se fout : un générique, mais il a l’avantage de ne pas dépasser les 5 secondes. Mais c’est presque déjà trop long. Parce qu’un générique, c’est dans un film, quand tu vas au cinéma, et encore, même là je pourrais m’en passer. Après il va dire bonjour, et même là parfois ils prennent du temps,  à part si tu t’appelles David Lafarge et que tu arrives à sortir plus de mots à la minute que Eminem.&lt;/p&gt;
+
+&lt;p&gt;Bon vous avez compris, Et finalement, la solution ne représente qu’une partie infime de la vidéo. J’adorerais qu’un tuto ne dure quelques secondes, et que presque à la “seconde 0”, on ai la solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mon rêve, ce serait des vidéos qui durent entre 30 secondes et une minute, et qui répondent à ma question sans détour.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mais ce n’est tout simplement pas possible. Enfin, je suppose qu’ils y en a qui existent, mais ce n’est pas ce qui remonte quand tu fais une recherche sur Youtube. Est-ce que vous savez pourquoi ?&lt;/p&gt;
+
+&lt;p&gt;C’est là qu’il est intéressant d’introduire la notion &lt;strong&gt;Watch time&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lorsque vous regardez une vidéo, Google enregistre le temps que vous avez passé à regarder la vidéo. Par exemple si vous ne regardez que la moitié de la vidéo, le watch time sera de… 50%. Je suis fier de vous. C’est une donnée qui est accessible pour tout Youtubeur, dans ses statistiques.&lt;/p&gt;
+
+&lt;p&gt;Et Google encourage les contenu qui monopolise le plus longtemps votre attention. Et ce n’est pas moi qui le dit ! Comme le dit la page d’aide Youtube :
+“Nous utilisons la durée de visionnage comme statistique dans notre algorithme de suggestion de vidéos. Il classe les vidéos en donnant la priorité à celles qui ont une durée de visionnage ou une session plus longue par rapport à celles qui disposent d’un plus grand nombre de clics.”&lt;/p&gt;
+
+&lt;p&gt;En clair, les vidéos longues avec &lt;strong&gt;un watch time important&lt;/strong&gt; sont privilégiées par Youtube, dans les recherches, mais aussi dans les suggestions, si vous ne regardez pas cette vidéo en plein écran et que vous êtes sur un PC, c’est la barre à droite là (geste branlé). Et non, ce n’était pas un geste masturbatoire.&lt;/p&gt;
+
+&lt;p&gt;Et cette course à l’audience, et au temps passé sur la plateforme, au final, ça me fait penser à quelque chose de plus ancien. Attendez-voir… Mais oui !! La télévision !&lt;/p&gt;
+
+&lt;p&gt;Mais la vous allez me dire : Oui mais &lt;strong&gt;Youtube c’est pas pareil, je choisis les chaines que je regarde&lt;/strong&gt;. Et oui ! Exactement. Sur une télé (télécommande dans les mains), tu peux choisir entre TF1, Arte et M6, et sur Youtube, tu as le choix entre Tibo InShape, Squeezie et IbraTV. Je ne dis pas qu’il n’y a pas de contenu de qualité. Il y en a, sur Youtube, autant qu’à la télé.&lt;/p&gt;
+
+&lt;p&gt;Mais il faut creuser un peu.&lt;/p&gt;
+
+&lt;p&gt;Quand vous regardez la télévision, le but est clair pour les chaînes : vous ramollir autant que possible pour rendre votre cerveau disponible pour les coupures publicitaires. Pour eux, le but c’est d’arriver au point ou de la bave coule de votre bouche.&lt;/p&gt;
+
+&lt;p&gt;Et finalement, Youtube, c’est un peu pareil.&lt;/p&gt;
+
+&lt;p&gt;Qu’en pensez-vous ?&lt;/p&gt;</content><author><name>art</name></author><category term="David Lafarge" /><category term="IbraTV" /><category term="Squeezie" /><category term="Tibo InShape" /><category term="wacthtime" /><category term="watch time optimiser" /><category term="watch time youtube" /><summary type="html">Je sais pas si vous avez déjà regardé un tuto sur Youtube ?</summary></entry></feed>

@@ -1,0 +1,39 @@
+---
+author: art
+comments: true
+date: 2013-09-30 06:42:14+00:00
+layout: post
+link: https://irz.fr/zalando/
+slug: zalando
+title: 'Ergonomie et Ecommerce : évoquons le cas Zalando'
+wordpress_id: 1438449178
+categories:
+- Consommacteur
+- Liveblog
+post_format:
+- En passant
+---
+
+https://youtu.be/OXRy-8wNvSQ
+
+Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
+
+Zalando est un pure player Allemand, spécialisé à la base dans la vente de chaussures en ligne, et qui s'est désormais placé comme l'un des fers de lance de l'industrie de la mode en ligne.<!-- more -->
+
+![zalando-homepage](https://static.irz.fr/2013/09/zalando-homepage-640x319.png)
+
+Autant vous le dire tout de suite, on est très loin des sites aux allures de sapin de noël, tel que GrosBill ou PriceMinister. Zalando, c'est avant tout un design (presque) épuré, et qui se veut clairement sobre. Place à une charte léchée, quasiment aux petits oignons.
+
+**Les pages de marque**
+
+Zalando est particulièrement plébiscité pour ces boutiques de marque. En effet, le site c'est - avec le temps - spécialisé dans la vente de vêtements de marque. Par exemple, si je veux aller sur la page de Benetton chez Zalando, je n'ai qu'à taper Benetton dans le moteur de recherche, et le site fait le reste.
+
+[![zalando-benetton](https://static.irz.fr/2013/09/zalando-benetton-640x536.png)](http://irz.fr/ergonomie-ecommerce-le-cas-zalando/zalando-benetton/)
+
+Comme vous pouvez le voir (et c'est similaire sur les pages de recherche), vous avez au niveau de la sidebar de gauche des sélecteurs très pratique, qui permettent de choisir une catégorie (homme, femme, enfants, mégère, etc..), une fourchette de prix, ainsi qu'une couleur en particulier. Cette petite chose en ajax permet de préciser en temps réel vos envies les plus folles.
+
+Les quatre premiers produits sont représentatif des vêtements préférés des utilisateurs, et vous pouvez ensuite trier votre recherche par nouveauté, prix, promo et notations.
+
+**Zalando Privé**
+
+Sur le site Zalando privé, vous pouvez profiter d'offres exceptionnelles, en cherchant bien, on peut trouver des articles soldés jusqu'à -75% !!! Vous pourriez presque en finir par devenir [un évangéliste](http://irz.fr/oui-je-suis-un-evangeliste/) !

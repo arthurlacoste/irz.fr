@@ -1,0 +1,5 @@
+name: ObseLeTe
+date: '2011-09-08 11:45:20'
+url: ''
+message: "Salut,\r\n\r\nNon:\r\n\r\n\r\n-----\r\n$ ps aux | grep mysql\r\n_mysql     141   0,0  0,7   800100  29276   ??  S    11:34     0:00.15 /usr/local/mysql/bin/mysqld --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data --plugin-dir=/usr/local/mysql/lib/plugin --user=mysql --log-error=/usr/local/mysql/data/developpement.local.err --pid-file=/usr/local/mysql/data/developpement.local.pid\r\nroot        69   0,0  0,0  2435548    816   ??  S    11:34     0:00.01 /bin/sh /usr/local/mysql/bin/mysqld_safe --datadir=/usr/local/mysql/data --pid-file=/usr/local/mysql/data/developpement.local.pid\r\nObseLeTe   405   0,0  0,0  2435120    528 s000  R+   11:43     0:00.00 grep mysql\r\n\r\ndeveloppement:~ ObseLeTe$ lsof -i\r\nCOMMAND   PID     USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME\r\nSystemUIS 179 ObseLeTe    6u  IPv4 0xffffff800c1b5980      0t0  UDP *:*\r\nSystemUIS 179 ObseLeTe   10u  IPv4 0xffffff800c1b3b80      0t0  UDP *:*\r\n\r\ndeveloppement:~ ObseLeTe$ killall -9 mysqld\r\nNo matching processes belonging to you were found"
+email: 3cd24e29504f9747de991fc95be38b76

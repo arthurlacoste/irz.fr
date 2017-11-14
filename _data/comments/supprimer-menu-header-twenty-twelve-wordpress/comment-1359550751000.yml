@@ -1,0 +1,5 @@
+name: Julio Potier (BoiteAWeb.fr)
+date: '2013-01-30 13:59:11'
+url: 'http://www.boiteaweb.fr'
+message: "Bonjour !\r\nJe découvre le blog ;)\r\n\r\nVoici la vraie bonne façon de faire :\r\n<code>add_filter( 'wp_nav_menu_args', 'wp_nav_menu_args_cb' );\r\nfunction wp_nav_menu_args_cb( $args )\r\n{\r\n\t$args['fallback_cb'] = '__return_null';\r\n\treturn $args;\r\n}</code>\r\n\r\nAvec ta modification, si le thème est mis à jour le menu revient, il est déjà mieux que passer par un thème enfant, mais pas toucher le code comme ça.\r\n\r\nA plus tard !"
+email: 8291a6fac33a60afe74432b2ef728cf6

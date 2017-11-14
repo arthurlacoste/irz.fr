@@ -1,0 +1,70 @@
+---
+author: art
+comments: true
+date: 2013-09-11 13:43:23+00:00
+layout: post
+link: https://irz.fr/site/
+slug: site
+title: A quoi ça sert, un site ?
+wordpress_id: 1438449146
+categories:
+- Web
+post_format:
+- En passant
+---
+
+Si vous êtes en train de lire cet article, vous êtes indubitablement l'une de ces innombrables personnes à parcourir quotidiennement (ou pas) internet, et ses nombreuses pages web. D'ailleurs un site, c'est ça : des (ou une) pages reliées les unes aux autres qui vous permettent de satisfaire vos envies.<!-- more -->
+
+Tour d'horizons des possibilitées offertes par un site.
+
+
+
+## Devenir le maître du monde
+
+
+
+Si vous avez une idée de génie, simple mais efficace, que vous faites une gigantesque levée de fond en trouvant des investisseurs Qatar, il y a moyen pour vous de devenir le maître du monde. Regardez Google, [Facebook](http://irz.fr/tag/facebook/) ou Amazon. Ce sont de _simples_ sites internet, mais ils sont ancrés dans l'inconscient collectif des gens, il sont devenus synonyme de moteur de recherche, de réseau social, ou bien de e-commerce.
+
+
+
+## Créer des opportunités
+
+
+
+Développer un projet autour d'un site, c'est aussi une histoire d'opportunité. Lorsque j'étais à mon compte il y a quelques années, j'ai eu l'occasion de développer des contacts avec des personnes qui ont participé à mon business.
+
+IRZ est effectivement une manière comme une autre de faire de riches rencontres, ou bien de rencontrer des riches (mais c'est tout de même plus rare !).
+
+
+
+## Développer une communauté
+
+
+
+Aujourd'hui encore, j'entretiens des relations privilégiés avec mes lecteurs, j'anime des débats autour de sujets qui me tiennent à cœur. Alors oui, parfois il y a beaucoup de commentaires et je n'ai pas trop le temps de répondre, je préfère parfois écrire un nouvel article quitte à délaisser quelque peu mes réponses. Et puis bon, tout webmaster à une vie !
+
+
+
+## Etre présent sur la toile
+
+
+
+Si vous représentez une marque, une association, un artiste ou que vous avez n'importe quel autre projet, disposer d'un site est devenu indispensable. Le minimum, c'est d'avoir une vitrine : une simple page avec votre adresse et le minimum d'infos utiles. Histoire de montrer qu'on est là sur internet, qu'on représente, et surtout histoire de disposer d'une ligne supplémentaire sur sa carte de visite.
+
+Car oui, vous pouvez, si vous n'avez pas de réel projet faire du personal branding et briller en société en scandant à qui le veut "oui MOI j'ai un site". Et vos amis tomberont de haut lorsqu'ils verront que votre domaine ne redirige que vers une gigantesque photo de vous en train de faire une duke face.
+
+Bien entendu, vous pouvez créer un truc plus chiadé, avec une vitrine + un site de [e-commerce](http://irz.fr/category/consommacteur/) + un blog + pleins de concours et autres trucs pour booster l'image de votre marque. Bref, vous êtes là, et on le sait.
+
+
+
+## Assouvir son envie d'être lu
+
+
+
+C'est bête à dire, mais quelqu'un qui écrit aime être lu. Comme quelqu'un qui chante aime être entendu (et qu'on lui dise qu'il a une belle voix), comme celui qui dessine aime être admiré. En réalité, n'importe qui peut acheter son bouquin "Le php/mysql pour les nuls" et refaire le monde. [Créer un site gratuit](http://siteweb.1and1.fr/creer-un-site-gratuit), c'est chronophage, mais créer une page html, c'est tellement simple : ça commence par <html>, et ça fini par </html> !
+
+Et si jamais vous avez un budget, sachez que [je monte des sites pour passer mon temps](http://arthurlacoste.com/mon-offre/)..
+
+_Bonus :_ Le fait d'avoir un site, ça veut pas dire que je m'y connait en ordinateurs, et que je vais vous aider réinstaller Windows. Ceci est dit !
+
+

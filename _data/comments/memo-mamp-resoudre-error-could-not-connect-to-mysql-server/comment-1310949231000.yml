@@ -1,0 +1,5 @@
+name: art
+date: '2011-07-18 02:33:51'
+url: ''
+message: "Hello, alors ferme MAMP, ouvre le terminal, tape les lignes suivantes les unes après les autres :\r\n\r\nps aux | grep mysql\r\nlsof -i\r\nkillall -9 mysqld\r\n\r\nEnsuite redémarre ton ordinateur et ouvre MAMP, démarre tes serveurs. Ca devrai fonctionner."
+email: e57ec339b605619f102620573a8d5330

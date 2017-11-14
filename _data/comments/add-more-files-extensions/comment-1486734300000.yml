@@ -1,0 +1,5 @@
+name: Francis
+date: '2017-02-10 14:45:00'
+url: ''
+message: "Bonjour Arthur\r\n\r\nTout fonctionne bien sur un site hébergé sur serveur local. Je peux importer un fichier .ttf par exemple sans problème.\r\nMais sur le même site hébergé, le plugin est installé, mais j'ai un message d'erreur \"Désolé, ce type de fichier n'est pas autorisé pour des raisons de sécurité.\" lorsque j'essaie d'importer le même fichier..."
+email: a26fd909fd26500f81f4db22b997334f

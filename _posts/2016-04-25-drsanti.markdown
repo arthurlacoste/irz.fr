@@ -1,0 +1,22 @@
+---
+author: art
+comments: true
+date: 2016-04-25 09:41:17+00:00
+layout: post
+link: https://irz.fr/drsanti/
+slug: drsanti
+title: C'est parti pour de nouvelles aventures !
+wordpress_id: 1438458650
+categories:
+- Dessins
+---
+
+Je me permet de vous faire part de l'ouverture du site [Dr Santi](http://drsanti.fr), un blog consacré à la BD et auquel je participe activement depuis son lancement.
+
+Docteur Santi est comme son nom l'indique, un praticien. Il soigne des gens la journée et passe ses nuits à dessiner, pour le plus grand désespoir de sa femme. Toutes les semaines, il vous proposera un strip : une petite planche de BD de quelques cases.
+
+Je vous laisse donc découvrir par vous même le site :
+[http://drsanti.fr](http://drsanti.fr)
+
+Vous pouvez faire un tour sur la page Facebook :
+[https://www.facebook.com/santidessine](https://www.facebook.com/santidessine/)

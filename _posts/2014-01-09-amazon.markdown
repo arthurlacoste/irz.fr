@@ -1,0 +1,43 @@
+---
+author: art
+comments: true
+date: 2014-01-09 07:00:06+00:00
+layout: post
+link: https://irz.fr/amazon/
+slug: amazon
+title: 'Amazon.fr : l''envers du décor'
+wordpress_id: 1438449278
+categories:
+- Consommacteur
+- Overgeek
+post_format:
+- En passant
+tags:
+- Un consommateur averti en vaut deux
+---
+
+Vous savez, internet permet de mettre sur un même pied d'égalité une multinationale et une petite entreprise familiale. D'aspect, la vitrine d'un site de e-commerce peut vous donner l'impression qu'une entreprise au bord de la faillite est en réalité prospère. 
+
+Certaines entreprises, tel [Archiduchesse](http://archiduchesse.com/), jouent la carte de la transparence à travers un blog, un compte-rendu de chiffre d'affaire du mois et même des photos, illustrant la vie quotidienne de e-commerçant.
+
+Pour d'autres acteurs majeurs de l'industrie, pour les plus gros pur players, la réalité est souvent plus floue. Libération à publié [un article](http://www.liberation.fr/economie/2013/12/17/une-employee-d-amazon-raconte-la-peur-organisee_967185) il y a quelques jours, nous dévoilant l'envers du décor d'Amazon, l'un des plus gros vendeur en ligne de livres, entre autre. Croisé au témoignage du journaliste Jean-Baptiste Malet (et de son livre _En Amazonie, infiltré dans le "meilleur des mondes"_), nous avons désormais une vision concrète des choses.
+
+**Je ne suis pas un numéro : je suis un homme libre !**
+
+Dans l'article publié par Libération, un paragraphe à attiré mon attention : "Tout a un code-barres chez Amazon : les articles, les 350 000 emplacements sur les étagères, les chariots qui servent à déplacer les produits commandés, les gens qui poussent ces chariots, les imprimantes, les voitures.". Il faut dire que nos jours, dans cette jungle, on est tous des numéros, réduit au terme de consommateurs. Oui madame la stagiaire d'Amazon : tu es un code barre, et tu l'étais bien avant de rentrer chez Amazon.
+
+Ce qui est intéressant dans ce témoignage, c'est que l'on trouve un parallèle entre son expérience et la vie de tout les jours : on passe (pour la plupart d'entre nous) notre vie à effectuer des actions vides de sens, tout en étant considéré par la société comme de simple lignes dans une base de donnée.
+
+**Reportage infiltré**
+
+Ce reportage infiltré de France 5 nous montre bien le malaise des managers qui évitent de parler des objectifs quotidiens des employés face à la caméra :
+
+[embed]http://www.youtube.com/watch?v=OBWF5dRoU5w[/embed]
+
+**L'intérêt des clients**
+
+Ce qui intéresse les clients lorsqu'ils achète sur un site de e-commerce, c'est un service de qualité : une livraison rapide (et gratuite si possible), un produit irréprochable, et un payement sécurisé. Alors parfois on a du mal à se rendre compte, mais toutes ses exigences ont des conséquence en terme de stratégie logistique. Amazon utilise la technique de management des 5S pour organiser le travail de ses ouvriers, et se sert des nouvelles technologies pour connaître en temps réel la position GPS de ses employés.
+
+Cet article ne va pas m'empêcher de dormir, mais nous éclaire sur les méthodologies employées par les plus grands acteurs du domaine du e-commerce.
+
+
