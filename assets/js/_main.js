@@ -2,10 +2,6 @@
 jQuery plugin settings and other scripts
 ========================================================================== */
 
-if (location.protocol === 'https:') {
-  location.href = 'http:' + window.location.href.substring(window.location.protocol.length);
-}
-
 const getGif = function (search) {
   request = new XMLHttpRequest;
   request.open('GET', 'http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag='+search, true);

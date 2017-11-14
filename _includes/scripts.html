@@ -14,8 +14,16 @@
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
 
+<script>
+
+if (location.protocol === 'https:') {
+  location.href = 'http:' + window.location.href.substring(window.location.protocol.length);
+}
+</script>
+
 {% if page.tipue_search_active or layout.tipue_search_active %}
   <script>
+
   $(document).ready(function() {
     $('#tipue_search_input').tipuesearch();
   });
