@@ -29,7 +29,7 @@ function unslug(text) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  var url = unglug($GET['q']) || 'search'
+  var url = unslug($GET['q']) || 'search'
   getGif(url);
 });
 </script>
