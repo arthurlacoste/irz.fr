@@ -48,6 +48,10 @@ var adjustFeatureWidth = function (element) {
 
 $(document).ready( function () {
 
+  $("form").submit(function(e){
+    e.preventDefault();
+  });
+
   var pageW = $('.page__content').width();
   $('.page__content img').each( function() {
     //70%
