@@ -11,4 +11,4 @@ categories:
 - Video
 ---
 
-[embed]http://www.youtube.com/v/UOadagqruHg[/embed]
+{% include video id="UOadagqruHg" provider="youtube" %}

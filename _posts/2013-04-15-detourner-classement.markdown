@@ -18,7 +18,7 @@ tags:
 
 Au menu du jour, nous allons voir comment détourner un classement. Tiens, et si commençait par parler un peu de Justin ? Non non, ça ne veut pas dire que j'écoute ! Quoi que, j'ai toujours bien aimé cette parodie - version Starcraft 2 - de baby des Nerd Alert, "Banelings"<!-- more --> :
 
-[embed]http://www.youtube.com/watch?v=fzMhh8zhTiY[/embed]
+{% include video id="fzMhh8zhTiY" provider="youtube" %}
 
 
 

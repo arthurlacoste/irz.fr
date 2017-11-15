@@ -33,7 +33,7 @@ Aujourd'hui si je vous parle de tout ça, c'est parce que toutes les conditions 
 
 
 
-[embed]http://www.youtube.com/watch?v=xG6p0z_W2Bo[/embed]
+{% include video id="xG6p0z_W2Bo" provider="youtube" %}
 
 
 

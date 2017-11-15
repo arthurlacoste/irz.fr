@@ -22,7 +22,7 @@ L'annonce est officielle ! Le premier set de la licence Simpons/Lego devrait êt
 
 Je vous laisse regarder cette vidéo ainsi que quelques photos du pack qui vous laisseront saliver d'envie ! En tout cas, moi je salive un peu. Beaucoup.
 
-[embed]http://www.youtube.com/watch?v=zxCIXqYaSPU[/embed]
+{% include video id="zxCIXqYaSPU" provider="youtube" %}
 
 [![lego-bart-chambre](https://static.irz.fr/2014/01/lego-bart-chambre-640x521.jpg)](https://irz.fr/recherche?q=lego-bart-chambre)
 

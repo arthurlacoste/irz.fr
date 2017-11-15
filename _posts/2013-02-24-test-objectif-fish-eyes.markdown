@@ -20,7 +20,7 @@ tags:
 
 Aujourd’hui je vais vous parler d’un produit pas très cher qui va un peu changer des photos que vous prenez habituellement avec votre téléphone : c’est un objectif fish-eyes ! 
 
-[embed]http://www.youtube.com/watch?v=i7ldLBa5KsM[/embed]
+{% include video id="i7ldLBa5KsM" provider="youtube" %}
 
 Alors autant vous dire tout de suite : ceci ne va pas améliorer la qualité de l’appareil photo intégré à votre téléphone. La grosse différence, c’est que vous allez disposer d’**un angle de vue démentiellement grand**. Presque 180° ! Pour vous donner une idée, vous allez pouvoir en intérieur, dans une petite pièce, capturer l’ensemble de la pièce, ou faire **une photo duck face** de vous-même (ou avec des amis). Bref, vous disposez vraiment du recul nécessaire à la prise de photo, tout type de circonstances confondues.
 

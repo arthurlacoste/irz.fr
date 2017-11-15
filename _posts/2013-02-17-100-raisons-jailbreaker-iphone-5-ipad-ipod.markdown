@@ -22,4 +22,4 @@ Bon effectivement, cette vidéo tourne depuis pas mal de temps, mais avec l'arri
 
 Je vous montre la porte, c'est a vous de la franchir mes amis :
 
-[embed]http://www.youtube.com/watch?v=woto09LEkh0[/embed]
+{% include video id="woto09LEkh0" provider="youtube" %}

@@ -16,4 +16,4 @@ tags:
 
 Aujourd'hui, c'est quand même la fête de la musique, alors je vous propose un petit intermède musical avec le dernier clip de Gorillaz "On Melancholy Hill", un très joli clip mélant 2D et 3D.
 
-[embed]http://www.youtube.com/v/9thjgHGS38k[/embed]
+{% include video id="9thjgHGS38k" provider="youtube" %}

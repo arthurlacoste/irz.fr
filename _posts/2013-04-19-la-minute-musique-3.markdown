@@ -18,6 +18,6 @@ tags:
 
 Comment ça j'écoute toujours la même chose ? Aujourd'hui, poussez le volume de votre sono à fond pour écouter le dernier son de Son of Kick "EOW", en featuring avec Virus Syndicate & Foreign Beggars. Ce qui nous amène à un <del>étrange</del> **violent** mélange de saveurs dubstep<!-- more -->, rythmé par les flow des Virus Syndicate & de Foreign Beggars.
 
-[embed]http://www.youtube.com/watch?v=lJmEeAp9RLA[/embed]
+{% include video id="lJmEeAp9RLA" provider="youtube" %}
 
 Au menu, un clip survitaminé réalisé par Charles Whitcher, à regarder si vous n'êtes pas du genre épileptique.

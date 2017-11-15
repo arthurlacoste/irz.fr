@@ -32,7 +32,7 @@ Ce qui est intéressant dans ce témoignage, c'est que l'on trouve un parallèle
 
 Ce reportage infiltré de France 5 nous montre bien le malaise des managers qui évitent de parler des objectifs quotidiens des employés face à la caméra :
 
-[embed]http://www.youtube.com/watch?v=OBWF5dRoU5w[/embed]
+{% include video id="OBWF5dRoU5w" provider="youtube" %}
 
 **L'intérêt des clients**
 

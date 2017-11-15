@@ -43,7 +43,7 @@ Je ne m'attarderais pas très longtemps sur le site internet, et pour cause, c'e
 
 J'aime bien aussi la petite vidéo localisé en Français, ça montre un peu une volonté de se donner une bonne image dans diverses langues.
 
-[embed]http://www.youtube.com/watch?v=zHLyH4MqV9E[/embed]
+{% include video id="zHLyH4MqV9E" provider="youtube" %}
 
 
 

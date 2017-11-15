@@ -24,4 +24,4 @@ C'est la première vidéo que j'ai faite avec le Canon FS100 que je venais d'avo
 
 Musique : **Les Numéros** de Bénabar
 
-[embed]http://www.youtube.com/watch?v=w7mPy4d1xHc[/embed]
+{% include video id="w7mPy4d1xHc" provider="youtube" %}
