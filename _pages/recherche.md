@@ -21,16 +21,15 @@ tipue_search_active: true
 var $GET=[];
 window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,name,value){$GET[name]=value;});
 
+function unslug(text) {
+  text = text.replace('{{ site.url }}','')
+  .replace(/-/g,' ').replace('/','');
+  text = decodeURIComponent(text);
+  return text;
+}
 
 document.addEventListener('DOMContentLoaded', function () {
-  var url = $GET['q'] || 'search'
-  url = url.replace('{{ site.url }}','')
-  .replace(/-/g,' ').replace('/',' ');
-  console.log(url);
-
-  url = decodeURIComponent(url);
-
+  var url = unglug($GET['q']) || 'search'
   getGif(url);
-
 });
 </script>
