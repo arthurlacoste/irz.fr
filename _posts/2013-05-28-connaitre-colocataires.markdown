@@ -16,7 +16,7 @@ tags:
 - poker
 ---
 
-Pas besoin d'aller à l'autre bout du globe pour avoir votre « Rendez-vous en terre inconnue » : [si vous vivez ou avez déjà vécu dans une colocation](http://irz.fr/tag/colocation/), vous savez de quoi je parle.<!-- more -->
+Pas besoin d'aller à l'autre bout du globe pour avoir votre « Rendez-vous en terre inconnue » : [si vous vivez ou avez déjà vécu dans une colocation](https://irz.fr/recherche?q=colocation), vous savez de quoi je parle.<!-- more -->
 
 Tous les jours, vous vous retrouvez à cohabiter avec des étudiants (et, si vous avez de la chance, des étudiantes) que vous ne connaissez pas forcément très bien...
 

@@ -22,7 +22,7 @@ Oui, vous vous en doutez, j'ai formulé mon titre comme une question, une questi
 
 Je ne sais pas vous, mais quand je suis bien comme ça, ça me donne envie de faire pleins de choses !
 
-J'ai commencé à prendre quelques cours de moto. Je concrétise un projet d'investissement immobilier. Je suis allé au Portugal (Papagaio !). Cette semaine, j'ai aussi prévu d'aller dans le sud, et en Allemagne, plus précisément à Europa Park avec la [colocation](http://irz.fr/tag/colocation/). Mes activités musicales ne sont pas non plus négligées, je me suis d'ailleurs à ce propos acheté une nouvelle guitare le mois dernier !
+J'ai commencé à prendre quelques cours de moto. Je concrétise un projet d'investissement immobilier. Je suis allé au Portugal (Papagaio !). Cette semaine, j'ai aussi prévu d'aller dans le sud, et en Allemagne, plus précisément à Europa Park avec la [colocation](https://irz.fr/recherche?q=colocation). Mes activités musicales ne sont pas non plus négligées, je me suis d'ailleurs à ce propos acheté une nouvelle guitare le mois dernier !
 
 Mais non, je ne vous ai pas oublié ! J'ai quelques articles sur le feu, et même si tout ces projets ont quelques peu étanché ma soif d'écriture, je n'ai pas dit mon dernier mot ! Après tout, je n'ai que 24 ans..
 

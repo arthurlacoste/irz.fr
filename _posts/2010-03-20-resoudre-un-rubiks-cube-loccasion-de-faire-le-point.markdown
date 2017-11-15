@@ -29,7 +29,7 @@ Et si je n'écris pas moi-même mes articles en anglais, c'est que [je n'ai pas 
 ### Projets vidéos
 
 
-Entre ma série d'[interviews d'entrepreneurs qui commence](http://irz.fr/objectif-neige/), des tutoriaux vidéos en préparation, un projet d'Atelier vidéo pour mon association, [la Review](http://irz.fr/tag/review/) à préparer, et encore d'autres surprises (j'en reparlerais plus tard), je teste ma capacité à être à l'écoute de mon environnement et mes capacités oratoires.
+Entre ma série d'[interviews d'entrepreneurs qui commence](http://irz.fr/objectif-neige/), des tutoriaux vidéos en préparation, un projet d'Atelier vidéo pour mon association, [la Review](https://irz.fr/recherche?q=review) à préparer, et encore d'autres surprises (j'en reparlerais plus tard), je teste ma capacité à être à l'écoute de mon environnement et mes capacités oratoires.
 
 
 ### L'actualité, c'est bien, mais....

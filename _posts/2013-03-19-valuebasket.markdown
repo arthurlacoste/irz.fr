@@ -27,7 +27,7 @@ https://youtu.be/OXRy-8wNvSQ
 
 Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
 
-Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](http://irz.fr/tag/jai-teste-pour-vous/) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.<!-- more -->
+Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](https://irz.fr/recherche?q=jai-teste-pour-vous) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.<!-- more -->
 
 Le site ValueBasket est, comme [Digitaland](http://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland/), l'un des sites proposant les prix les plus alléchants pour ses produits concernant les accessoires high-tech, téléphones portables, tablettes, et divers équipements audio.
 

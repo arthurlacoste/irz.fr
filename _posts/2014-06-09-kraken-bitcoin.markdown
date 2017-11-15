@@ -22,7 +22,7 @@ tags:
 - trading
 ---
 
-Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](http://irz.fr/tag/jai-teste-pour-vous/) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.
+Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](https://irz.fr/recherche?q=jai-teste-pour-vous) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.
 
 Il va de soi que dans le petit univers restreint des bitcoins, les plateformes d’échanges de Bitcoin sont l’un des éléments central de l’écosystème. Pour ceux d’entre-vous qui ne connaissent pas, le bitcoin est une monnaie cryptographique partagée en peer to peer. Chaque acteur minant inlassablement (en faisant tourner un logiciel) afin que gagner des bitcoins. En plus d’être une monnaie, elle est aussi un moyen de paiement. L’objectif avoué étant de permettre d’établir une alternative permettant de se dissocier des banques et de l’état.<!-- more -->
 

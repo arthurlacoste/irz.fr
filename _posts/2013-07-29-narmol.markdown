@@ -13,7 +13,7 @@ post_format:
 - En passant
 ---
 
-Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](http://irz.fr/tag/jai-teste-pour-vous/) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain. <!-- more -->
+Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](https://irz.fr/recherche?q=jai-teste-pour-vous) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain. <!-- more -->
 
 
 
