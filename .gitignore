@@ -15,3 +15,4 @@ npm-debug.log*
 todo.md
 .jekyll
 _draft
+package-lock.json
