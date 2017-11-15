@@ -20,7 +20,7 @@ Si vous avez comme moi réduit considérablement votre prise quotidienne de calo
 
 Voici une manière de résumer les choses :
 
-[![graphe-metabolisme](https://static.irz.fr/2016/01/graphe-metabolisme-640x384.jpg)](http://irz.fr/regime-fetes/graphe-metabolisme/)
+[![graphe-metabolisme](https://static.irz.fr/2016/01/graphe-metabolisme-640x384.jpg)](https://irz.fr/recherche?q=graphe-metabolisme)
 
 En clair, si vous faites un régime et que pendant 1 à 2 semaines vous ne perdez pas le moindre gramme, ce repas de folie devrait mettre un coup de boost à la perte de poids.
 
@@ -28,7 +28,7 @@ Pendant les fêtes, l'essentiel est d'arriver à ne pas cumuler les repas calori
 
 De mon côté, la métamorphose à opéré, et les fêtes de fin d'année n'ont posé aucun problème. J'ai profité du foie gras, champagne, escargots et autres joyeuseté de circonstance, sans pour autant reprendre mes kilos perdus.
 
-[![6mois](https://static.irz.fr/2016/01/6mois.jpg)](http://irz.fr/regime-fetes/6mois/)
+[![6mois](https://static.irz.fr/2016/01/6mois.jpg)](https://irz.fr/recherche?q=6mois)
 
 Enfin bref, tout ça pour dire que tout va bien pour moi, et même si c'est mon deuxième "régime" en 7 ans (oui la première fois j'ai tenu plus de 5 ans sans reprendre mon poids), j'espère que cette fois-ci c'est la bonne. Quoi que, comme on dit, jamais 2 sans 3. Oui, ce dicton n'est pas la pour me porter chance.
 

@@ -22,7 +22,7 @@ Bonjour à tous ! Les mois de novembre et de décembre sont particulièrement pr
 
 A l'époque, quand j'étais gamin, j'adorai parcourir ces catalogues afin de les noter précieusement sur ma lettre adressé au père noël. Je découpait mes trouvailles, auprès du feu, durant ces longues soirées d'hiver. Maintenant, ces catalogues ne servent plus qu'à en extraire les grosses lettres et ainsi rédiger de magnifiques lettres de chantage. Ou a allumer le feu. Et encore, parfois le papier glacé n'est pas le moyen le plus pertinent d'entretenir une flamme...
 
-[![jaurais-la-peau](https://static.irz.fr/2014/12/jaurais-la-peau-640x151.jpg)](http://irz.fr/acheter-catalogue/jaurais-la-peau/)
+[![jaurais-la-peau](https://static.irz.fr/2014/12/jaurais-la-peau-640x151.jpg)](https://irz.fr/recherche?q=jaurais-la-peau)
 
 Aujourd'hui, comme vous avez dû le comprendre, je n'utilise plus les catalogues. Comme tout les jeunes de la génération Y, je surfe sur internet pour y trouver mes bons plans, en papillonnant de site en site, entre [Amazon](http://irz.fr/amazon/), et divers comparateurs en ligne. Mais puisque l'on parle de catalogue, j'ai deux choses à vous partager. La première, cette vidéo d'Ikea, qui n'est d'autre qu'une pub pour leurs dernier catalogue. Comme vous le comprendrez très vite, il s'agit d'une parodie des publicité Apple et elle est vraiment... Enfin, regardez-la quoi.
 

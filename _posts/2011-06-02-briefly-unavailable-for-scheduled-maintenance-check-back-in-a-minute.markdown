@@ -33,7 +33,7 @@ Bon ok, je t'explique. Normalement si tu as ton propre site WordPress tu dois sa
 
 Si tu es sous Filezilla, il faut que tu forces l'affichage des fichiers cachés :
 
-[caption id="attachment_1438448671" align="aligncenter" width="493"][![C'est tout simple :Allez dans le menu, au 5ème élément de la liste : Serveur cochez ”Forcer l'affichage des fichiers cachés” !](https://static.irz.fr/2011/06/filezilla-forcer-affichage-fichiers-caches.png)](http://irz.fr/briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute/filezilla-forcer-affichage-fichiers-caches/) Allez dans le menu, au 5ème élément de la liste : Serveur cochez ”Forcer l'affichage des fichiers cachés” ![/caption]
+[caption id="attachment_1438448671" align="aligncenter" width="493"][![C'est tout simple :Allez dans le menu, au 5ème élément de la liste : Serveur cochez ”Forcer l'affichage des fichiers cachés” !](https://static.irz.fr/2011/06/filezilla-forcer-affichage-fichiers-caches.png)](https://irz.fr/recherche?q=filezilla-forcer-affichage-fichiers-caches) Allez dans le menu, au 5ème élément de la liste : Serveur cochez ”Forcer l'affichage des fichiers cachés” ![/caption]
 
 Tu trouves le fichier .maintenance, et tu le supprime.
 

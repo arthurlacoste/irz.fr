@@ -13,13 +13,13 @@ categories:
 
 The other day I had a mad desire to buy a new cap, the season helping to tip the balance in this difficult choice. My last cap was a New Era 59 Fifty of Yankees baseball team (NY logo that everyone recognizes), black on black, that is to say, very simple in its genre. It has unfortunately disappeared during a drunken night in a bar, after several years of loyal service.<!-- more -->
 
-[![yankees-new-era](https://static.irz.fr/2013/08/yankees-new-era.jpg)](http://irz.fr/dois-je-garder-lautocollant-de-ma-casquette-new-era/yankees-new-era/)
+[![yankees-new-era](https://static.irz.fr/2013/08/yankees-new-era.jpg)](https://irz.fr/recherche?q=yankees-new-era)
 
 So I took a new cap last weekend, this time a little more colorful, always bearing the logo of the team the Yankees, but this time - unlike the first time - I hesitated to remove the 59Fifty sticker on top of the cap. I don’t like the (many) labels stuck on laptops, as evidenced by a paragraph of this article (and especially this picture).
 
 The day after my purchase when I still had not removed the sticker, my girlfriend asked me why I left this sticker on top of the cap. I replied gravely (like it was the end of the world) and without further explanation that I must attend before removing.
 
-[![59-50](https://static.irz.fr/2013/08/59-50.png)](http://irz.fr/dois-je-garder-lautocollant-de-ma-casquette-new-era/59-50/)
+[![59-50](https://static.irz.fr/2013/08/59-50.png)](https://irz.fr/recherche?q=59-50)
 
 Two days later, while I thought it was really too ugly to linger with a sticker on the head, I simply ripped off.
 

@@ -19,7 +19,7 @@ Vous savez que j'aime ce qui est intuitif & ergonomique.
 
 Ben Movim c'est pas encore ça. Niveau ergonomie, ça va, mais en ce qui concerne l'intuitivité j'ai déjà vu mieux. Lors de la création d'un utilisateur, Movim affiche une page chelou avec des messages "Erreur à la connexion au serveur XMPP" lorsque l'on sélectionne un site... C'est pas très beau. Sans compter le fait de devoir scroller 30 secondes pour arriver à la suite du formulaire...
 
-[![movim-creation-utilisateur-xmpp](https://static.irz.fr/2013/02/movim-creation-utilisateur-xmpp.png)](http://irz.fr/movim-cest-de-la-merde-pour-creer-un-utilisateur/movim-creation-utilisateur-xmpp/)
+[![movim-creation-utilisateur-xmpp](https://static.irz.fr/2013/02/movim-creation-utilisateur-xmpp.png)](https://irz.fr/recherche?q=movim-creation-utilisateur-xmpp)
 
 L'autre jour j'ai essayé d'installer Movim, puis [j'ai bloqué à la création d'un utilisateur](http://irz.fr/movim-cest-de-la-merde-pour-creer-un-utilisateur/). C'est vrai qu'à part les install de WordPress et des projets de dev perso, j'ai plus trop l'habitude de sortir des sentiers battus.
 

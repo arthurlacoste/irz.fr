@@ -21,6 +21,6 @@ Pour effectuer votre Jailbreak, vous devez dans un premier temps désactiver "[L
 
 Après avoir lancé votre application, vous devez cliquer sur "start jailbreak".
 
-[![pangu8-2](https://static.irz.fr/2014/10/pangu8-2-640x477.png)](http://irz.fr/jailbreak-ios8-iphone-6/pangu8-2/)
+[![pangu8-2](https://static.irz.fr/2014/10/pangu8-2-640x477.png)](https://irz.fr/recherche?q=pangu8-2)
 
 Après ceci, vous devriez avoir l'application Pangu et Cydia installé sur votre appareil. 

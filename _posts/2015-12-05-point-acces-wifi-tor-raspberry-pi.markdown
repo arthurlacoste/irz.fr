@@ -467,7 +467,7 @@ Voilà, c'est fini ! faites un reboot et vérifiez si vos services fonctionnent 
 
 
 
-[![12077356_1149485491743392_1805889955_n](https://static.irz.fr/2015/12/12077356_1149485491743392_1805889955_n-640x694.jpg)](http://irz.fr/hotspot-wifi-tor-raspberry-pi/12077356_1149485491743392_1805889955_n/)
+[![12077356_1149485491743392_1805889955_n](https://static.irz.fr/2015/12/12077356_1149485491743392_1805889955_n-640x694.jpg)](https://irz.fr/recherche?q=12077356_1149485491743392_1805889955_n)
 
 Vous pouvez maintenant vous connecter a votre AP avec le mot de passe que vous avez défini.
 normalement si vous faite un tour sur https://check.torproject.org/ vous devriez avoir le message ' Félicitation vous êtes en train d'utiliser tor '.

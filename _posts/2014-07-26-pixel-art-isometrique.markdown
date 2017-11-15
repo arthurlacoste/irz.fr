@@ -49,7 +49,7 @@ Le deuxième élément est un bout de métal en forme de "u" inversé qui est en
 
 Pour donner vie à votre objet, vous pouvez l'animer. Il sera plus attrayant. Il faut définir le mouvement de cet objet. Nous allons simplement faire lever le loquet pour faire ouvrir le cadenas, puis revenir à la position initiale. Je ne vais pas vous faire de dessin, car le tutorial n'est pas consacré à l'animation en pixel art, mais seulement a donner du volume. Cependant, voici le résultat que l'on peut obtenir:
 
-[![cadenas-big](https://static.irz.fr/2014/07/cadenas-big.gif)](http://irz.fr/cadenas-isometrique/cadenas-big/)
+[![cadenas-big](https://static.irz.fr/2014/07/cadenas-big.gif)](https://irz.fr/recherche?q=cadenas-big)
 
 
 # IV - Verification

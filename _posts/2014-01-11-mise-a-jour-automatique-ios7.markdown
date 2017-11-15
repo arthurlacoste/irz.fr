@@ -24,7 +24,7 @@ Avant iOS 7, je me souvient que les mises à jour devaient être faites manuelle
 
 Depuis, il est possible de choisir cette option en allant dans Réglages > iTunes Store et App Store, en veillant que "Mises à jour" soit bien activé dans la partie Téléchargements automatiques.
 
-[![placeit (1)](https://static.irz.fr/2014/01/placeit-1.png)](http://irz.fr/mise-a-jour-automatique-ios7/maj-automatique-ios7/)
+[![placeit (1)](https://static.irz.fr/2014/01/placeit-1.png)](https://irz.fr/recherche?q=maj-automatique-ios7)
 
 Il est aussi possible d'activer les mises à jour automatiques en dehors du wifi via la case "Données cellulaires", mais il vaut mieux que votre offre data soit illimité, car vous allez prendre très vite beaucoup d'espace.
 

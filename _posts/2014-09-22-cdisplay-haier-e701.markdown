@@ -28,19 +28,19 @@ Le prix est quand même incroyable pour un produit de cette qualité : 50€, al
 Vous n'aimez pas les pubs ? Dans un prochain article nous verrons justement comment supprimer cette publicité disgracieuse et optimiser votre CDisplay.
 
 
-[![boite-cdisplay-carton](https://static.irz.fr/2014/09/boite-cdisplay-carton-640x853.jpg)](http://irz.fr/cdisplay-haier-e701/boite-cdisplay-carton/)
+[![boite-cdisplay-carton](https://static.irz.fr/2014/09/boite-cdisplay-carton-640x853.jpg)](https://irz.fr/recherche?q=boite-cdisplay-carton)
 
-[![boite-cdisplay-carton-ouvert](https://static.irz.fr/2014/09/boite-cdisplay-carton-ouvert-640x853.jpg)](http://irz.fr/cdisplay-haier-e701/boite-cdisplay-carton-ouvert/)
+[![boite-cdisplay-carton-ouvert](https://static.irz.fr/2014/09/boite-cdisplay-carton-ouvert-640x853.jpg)](https://irz.fr/recherche?q=boite-cdisplay-carton-ouvert)
 
-[![boite-cdisplay](https://static.irz.fr/2014/09/boite-cdisplay-640x853.jpg)](http://irz.fr/cdisplay-haier-e701/boite-cdisplay/)
+[![boite-cdisplay](https://static.irz.fr/2014/09/boite-cdisplay-640x853.jpg)](https://irz.fr/recherche?q=boite-cdisplay)
 
 
-[![unboxing-cdisplay](https://static.irz.fr/2014/09/unboxing-cdisplay-640x480.jpg)](http://irz.fr/cdisplay-haier-e701/unboxing-cdisplay/)
+[![unboxing-cdisplay](https://static.irz.fr/2014/09/unboxing-cdisplay-640x480.jpg)](https://irz.fr/recherche?q=unboxing-cdisplay)
 
-[![unboxing-cdiplay-chiffon-cable](https://static.irz.fr/2014/09/unboxing-cdiplay-chiffon-cable-640x480.jpg)](http://irz.fr/cdisplay-haier-e701/unboxing-cdiplay-chiffon-cable/)
+[![unboxing-cdiplay-chiffon-cable](https://static.irz.fr/2014/09/unboxing-cdiplay-chiffon-cable-640x480.jpg)](https://irz.fr/recherche?q=unboxing-cdiplay-chiffon-cable)
 
-[![cdisplay-ipad-mini](https://static.irz.fr/2014/09/cdisplay-ipad-mini-640x480.jpg)](http://irz.fr/cdisplay-haier-e701/cdisplay-ipad-mini/)
+[![cdisplay-ipad-mini](https://static.irz.fr/2014/09/cdisplay-ipad-mini-640x480.jpg)](https://irz.fr/recherche?q=cdisplay-ipad-mini)
 
-[![cdisplay-ipad-mini-dessus](https://static.irz.fr/2014/09/cdisplay-ipad-mini-dessus-640x480.jpg)](http://irz.fr/cdisplay-haier-e701/cdisplay-ipad-mini-dessus/)
+[![cdisplay-ipad-mini-dessus](https://static.irz.fr/2014/09/cdisplay-ipad-mini-dessus-640x480.jpg)](https://irz.fr/recherche?q=cdisplay-ipad-mini-dessus)
 
-[![2014-09-22 11.58.00](https://static.irz.fr/2014/09/2014-09-22-11.58.00-640x480.jpg)](http://irz.fr/cdisplay-haier-e701/2014-09-22-11-58-00/)
+[![2014-09-22 11.58.00](https://static.irz.fr/2014/09/2014-09-22-11.58.00-640x480.jpg)](https://irz.fr/recherche?q=2014-09-22-11-58-00)
