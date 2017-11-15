@@ -35,7 +35,7 @@ Cet article fait partie de la série “Mes premières fois” qui conte au jour
 
 Quand j’étais lycéen, j’avais longtemps envisagé de me faire tatouer. Ce qui me déplaisait, c’était l’idée de me voir refuser des jobs parce que mon tatouage était trop voyant. J’avais aussi peur, je présume, de souffrir. En effet, je déteste les aiguilles. Ça ne m'empêche pas de donner mon sang, mais ça fait peur.
 
-Ce que je rêvait d’avoir, c’était un code barre dans la nuque, avec à la place des chiffres habituels, mon blason de l’époque : [arthak](http://irz.fr/arthak/). Dans le genre “Je ne suis pas un numéro, mais quand même une victime de la société de consommation, et moi même un produit de cette société”. Je suis content de ne pas l’avoir fait, car l’endroit est effectivement peu pertinent pour travailler, il suffit de porter un t-shirt pour voir le tatouage. De plus, c’est un concept éphémère et vraiment un tatouage "de mode".
+Ce que je rêvait d’avoir, c’était un code barre dans la nuque, avec à la place des chiffres habituels, mon blason de l’époque : [arthak](https://irz.fr/arthak). Dans le genre “Je ne suis pas un numéro, mais quand même une victime de la société de consommation, et moi même un produit de cette société”. Je suis content de ne pas l’avoir fait, car l’endroit est effectivement peu pertinent pour travailler, il suffit de porter un t-shirt pour voir le tatouage. De plus, c’est un concept éphémère et vraiment un tatouage "de mode".
 
 [![salle-attente-velvet-grenoble](https://static.irz.fr/2013/01/salle-attente-velvet-grenoble-1024x682.jpg)](https://static.irz.fr/2013/01/salle-attente-velvet-grenoble.jpg)
 

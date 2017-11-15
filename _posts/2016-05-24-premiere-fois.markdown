@@ -17,7 +17,7 @@ Ce qui est énorme avec les premières fois, ce sont les frissons de l’inconnu
 
 Parfois, je relate ma première fois sous la forme d’un article ou d’un reportage photo comme beaucoup de gens. Mais souvent, le seul souvenir de l’instant passé me suffit à esquisser un sourire sur mon visage.
 
-Je me souviens de la première pièce de théâtre que j’ai écrite, bien avant Vakarm, des contraintes de délais et de mes répliques tarabiscotées, avec plus de didascalies que de texte. Je me souviens de [mon premier tatouage](http://irz.fr/mon-premier-tatouage/), la douleur mêlée au plaisir de devenir le support d’une oeuvre d’art. Je me souviens de ma première guitare, mes débuts difficiles et mes doigts douloureux.
+Je me souviens de la première pièce de théâtre que j’ai écrite, bien avant Vakarm, des contraintes de délais et de mes répliques tarabiscotées, avec plus de didascalies que de texte. Je me souviens de [mon premier tatouage](https://irz.fr/mon-premier-tatouage), la douleur mêlée au plaisir de devenir le support d’une oeuvre d’art. Je me souviens de ma première guitare, mes débuts difficiles et mes doigts douloureux.
 
 Je me rappelle de mes premiers jours en usine dans une fromagerie et des tâches répétitives. Je me souviens de mes petits mensonges par omission pour décrocher mon premier poste d’administrateur réseau dans un lycée. Je me souviens de mon premier site web, ma découverte du HTML, CSS, et surtout celle du PHP. Ma passion pour [le développement logiciel](http://arthurlacoste.com).
 

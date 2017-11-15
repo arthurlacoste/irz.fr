@@ -405,6 +405,6 @@ Voilà pourquoi :
 
 
 
-Envoyez-moi un mail [via la formulaire de contact.](http://irz.fr/contact/) Envoyez-moi un message signé et [chiffré avec ma clef,](http://irz.fr/pgp/) je vous répondrais.
+Envoyez-moi un mail [via la formulaire de contact.](https://irz.fr/contact) Envoyez-moi un message signé et [chiffré avec ma clef,](https://irz.fr/pgp) je vous répondrais.
 
 Cet document est inspiré de l'article de Jerzy J. Gangi [“The best PGP tutorial for Mac OS X, ever”](http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/).

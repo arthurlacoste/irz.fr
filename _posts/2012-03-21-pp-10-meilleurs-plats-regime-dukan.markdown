@@ -18,7 +18,7 @@ tags:
 - régime
 ---
 
-Alors que je parlais il y a quelques jours, voir quelques semaines, de ma [première expérience de perte de de poids](http://irz.fr/bien-dans-son-corps-perdre-du-poids-mais-comment-1/), je vous livre aujourd'hui un article concis évoquant les différents plats que je préfère, qui permettent - selon moi - de maigrir sans s'affamer.
+Alors que je parlais il y a quelques jours, voir quelques semaines, de ma [première expérience de perte de de poids](https://irz.fr/bien-dans-son-corps-perdre-du-poids-mais-comment-1), je vous livre aujourd'hui un article concis évoquant les différents plats que je préfère, qui permettent - selon moi - de maigrir sans s'affamer.
 
 Je ne suis pas un grand cuisinier, et j'aime les plats qui ne me prennent que quelques minutes à préparer. Ne vous étonnez donc pas de la simplicité des plats que vous vous apprêtez à lire, elle est le reflet de mes propres expériences culinaires.
 

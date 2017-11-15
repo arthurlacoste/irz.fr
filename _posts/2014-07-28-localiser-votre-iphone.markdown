@@ -43,5 +43,5 @@ Si vous avez perdu votre téléphone (dans le tram par exemple), vous avez plusi
 
 Attention, il faut au préalable que vous activiez l'option "localiser mon iPhone", dans les réglages de votre iPhone, sinon cette astuce ne va pas très bien fonctionner.
 
-[__Lire l'article : Activer la localisation de mon iPhone](http://irz.fr/activer-localisation-iphone/)
+[__Lire l'article : Activer la localisation de mon iPhone](https://irz.fr/activer-localisation-iphone)
 

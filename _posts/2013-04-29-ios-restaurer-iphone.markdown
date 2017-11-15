@@ -79,7 +79,7 @@ Une fois que vous aurez branché votre appareil à votre PC (ou votre mac), un m
   3
 
       
-A partir de là, je vous laisse formater votre iDevice, vous allez pouvoir vous en sortir. Ensuite, vous allez pouvoir [Jailbreaker votre iDevice](http://irz.fr/jailbreak-ios6/) si vous le souhaitez !
+A partir de là, je vous laisse formater votre iDevice, vous allez pouvoir vous en sortir. Ensuite, vous allez pouvoir [Jailbreaker votre iDevice](https://irz.fr/jailbreak-ios6) si vous le souhaitez !
 
 
 

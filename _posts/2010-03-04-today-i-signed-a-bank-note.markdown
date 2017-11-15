@@ -11,7 +11,7 @@ categories:
 - Journey
 ---
 
-[French (and original) article](http://irz.fr/aujourdhui-jai-signe-un-billet-de-banque/)
+[French (and original) article](https://irz.fr/aujourdhui-jai-signe-un-billet-de-banque)
 
 [![](https://static.irz.fr/2010/03/cash-wad-300x225.jpg)](https://static.irz.fr/2010/03/cash-wad.jpg) No, it’s not a joke, I went and did it.  At the moment that the price of the pound sterling plummeted, I scribbled my signature on a ten euro note.  It wasn’t a 500€ bill in my hand, but for the moment I’ll have to be satisfied with this one.
 

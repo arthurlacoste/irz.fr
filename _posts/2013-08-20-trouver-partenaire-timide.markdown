@@ -27,7 +27,7 @@ Vous avez beau être indépendante(s), si vous aspirez à une vie de couple, ce 
 
 
 
-L'une des réponses, c'est internet ! Pour ceux d'entre vous qui voient en moi un joyeux luron qui enchaîne avec entrain les soirées, vous n'avez pas tout à fait tort, mais ceci n'empêche pas un gros problème relationnel : celui du premier pas. Alors oui, je ne vous balance pas un article sur la timidité dans le vent : c'est aussi mon cas. Et entre mes premiers pas sur les sites en ligne et [ma première rencontre sur internet](http://irz.fr/site-de-rencontre/), il s'en écoulé de l'eau sous les ponts ! Faire le premier pas pour un homme, dans notre société moderne française, c'est la norme. Mais ce n'est pas donné à tout le monde d'avoir les couilles d'aborder une inconnue dans un bar, une soirée, ou dans un train.
+L'une des réponses, c'est internet ! Pour ceux d'entre vous qui voient en moi un joyeux luron qui enchaîne avec entrain les soirées, vous n'avez pas tout à fait tort, mais ceci n'empêche pas un gros problème relationnel : celui du premier pas. Alors oui, je ne vous balance pas un article sur la timidité dans le vent : c'est aussi mon cas. Et entre mes premiers pas sur les sites en ligne et [ma première rencontre sur internet](https://irz.fr/site-de-rencontre), il s'en écoulé de l'eau sous les ponts ! Faire le premier pas pour un homme, dans notre société moderne française, c'est la norme. Mais ce n'est pas donné à tout le monde d'avoir les couilles d'aborder une inconnue dans un bar, une soirée, ou dans un train.
 
 
 

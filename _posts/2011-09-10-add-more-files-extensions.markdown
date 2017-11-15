@@ -30,7 +30,7 @@ tags:
 - wordpress
 ---
 
-Ce plugin fait suite a cet article concernant l'[ajout de types mime, ou des extensions de fichiers à la volée](http://irz.fr/ajouter-un-type-mime/).
+Ce plugin fait suite a cet article concernant l'[ajout de types mime, ou des extensions de fichiers à la volée](https://irz.fr/ajouter-un-type-mime).
 
 Qui n'a jamais eu le message : "**Tel fichier n’a pas pu être mis en ligne suite à une erreur - Désolé, ce type de fichier n’est pas autorisé pour des raisons de sécurité.**" ? C'est le message qui s'affiche lorsque vous essayer d'utiliser l'utilitaire d'upload de Wordpress en utilisant une extension interdite par défaut par votre CMS préféré.
 
@@ -48,4 +48,4 @@ Certifié valide Wordpress 3.2.1.
 
 **[Télécharger Add more files extensions](https://github.com/arthurlacoste/add-more-files-extensions)**
 
-Pour ce qui est détails technique, [j'ai écrit un tutoriel](http://irz.fr/ajouter-un-type-mime/) pour mettre ça en place en natif (dans votre thème Wordpress).
+Pour ce qui est détails technique, [j'ai écrit un tutoriel](https://irz.fr/ajouter-un-type-mime) pour mettre ça en place en natif (dans votre thème Wordpress).

@@ -101,5 +101,5 @@ Maintenant que je dis ça, si ça se trouve ce vendeur ambulant m'a vendu du pol
 
 [caption id="attachment_143844" align="aligncenter" width="640"][![diabo](https://static.irz.fr/2013/03/IMG_0305-640x426.jpg)](https://irz.fr/recherche?q=praia-do-diabo) Vue sur la praia do Diabo depuis l'Arpoador[/caption]
 
-Vous pouvez voir d'autres articles à propos du brésil en allant [sur cette page](http://irz.fr/?s=br%C3%A9sil). Et si vous aimez ces photos, il y a aussi [un album spécial](http://irz.fr/bresil-petits-culs/) pour un ami qui aime les corps de femme.
+Vous pouvez voir d'autres articles à propos du brésil en allant [sur cette page](http://irz.fr/?s=br%C3%A9sil). Et si vous aimez ces photos, il y a aussi [un album spécial](https://irz.fr/bresil-petits-culs) pour un ami qui aime les corps de femme.
 

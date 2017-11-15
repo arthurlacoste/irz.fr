@@ -24,4 +24,4 @@ tags:
 
 Version coloriage :
 
-[![la-danseuse](https://static.irz.fr/2013/05/la-danseuse.png)](https://static.irz.fr/2013/05/la-danseuse.png)Voir [tout les coloriages](http://irz.fr/coloriages/).
+[![la-danseuse](https://static.irz.fr/2013/05/la-danseuse.png)](https://static.irz.fr/2013/05/la-danseuse.png)Voir [tout les coloriages](https://irz.fr/coloriages).

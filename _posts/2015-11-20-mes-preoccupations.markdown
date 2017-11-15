@@ -18,7 +18,7 @@ J'ai arrêté le sucre il y a quelques mois, et l'ai retiré totalement de mon 
 
 Je ne conduit pas de voiture et n'en conduirait probablement jamais. Je suis piéton, cycliste, et utilise parfois les transports en commun. Je pense que l'on peut se passer des énergies fossiles et des véhicules motorisés pour 90% de nos déplacements quotidien. J'envisage d'écrire un ouvrage - un jour - sur le sujet.
 
-Je pratique la musculation. Je ne cherche pas à avoir de beaux et gros muscles comme mon ami Jimmy, mais j'entretiens mon corps au quotidien au poids du corps. Je fréquente une salle pour le cardio, et je vais régulièrement faire des séances (gratuites) de Fit Challenge [Herbalife](http://irz.fr/justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie/).
+Je pratique la musculation. Je ne cherche pas à avoir de beaux et gros muscles comme mon ami Jimmy, mais j'entretiens mon corps au quotidien au poids du corps. Je fréquente une salle pour le cardio, et je vais régulièrement faire des séances (gratuites) de Fit Challenge [Herbalife](https://irz.fr/justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie).
 
 Le précepte du zéro déchet m'est familier depuis la lecture du livre de Béa Johnson sur le sujet. Je m'emploi au quotidien à trier et éviter le superflu. Le plus compliqué est de prendre de bonnes habitudes à vrai dire. Mais il y a toujours une marge de progression de possible : j'envisage de me procurer un lombricomposteur dans les semaines à venir.
 

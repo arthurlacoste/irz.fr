@@ -15,7 +15,7 @@ tags:
 - malbouffe
 ---
 
-Voici ce que j'ai reçu ce matin par courrier avec accusé de réception : un joli courrier de l'avocat du [Crocus de charancieu](http://irz.fr/restaurant-le-crocus-charancieu-moules-frites/). Suite à ce courrier et pour ne pas être condamné pour diffamation, je modifie l'article de manière à ne plus être inquiété par la justice.
+Voici ce que j'ai reçu ce matin par courrier avec accusé de réception : un joli courrier de l'avocat du [Crocus de charancieu](https://irz.fr/restaurant-le-crocus-charancieu-moules-frites). Suite à ce courrier et pour ne pas être condamné pour diffamation, je modifie l'article de manière à ne plus être inquiété par la justice.
 
 [![](https://static.irz.fr/2011/08/Image-2-e1313605677928-613x1024.jpg)](https://static.irz.fr/2011/08/Image-2-e1313605677928.jpg)
 

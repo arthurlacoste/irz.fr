@@ -23,7 +23,7 @@ tags:
 - wp_list_categories
 ---
 
-Suite à des demandes récurrentes, voici comment faire pour afficher non pas toutes les catégories (j'en ai une liste longue comme le bras et il est possible d'explorer tout ça dans la page [Archives](http://irz.fr/archives/)), mais une liste définie de catégories à afficher en barre latérale.
+Suite à des demandes récurrentes, voici comment faire pour afficher non pas toutes les catégories (j'en ai une liste longue comme le bras et il est possible d'explorer tout ça dans la page [Archives](https://irz.fr/archives)), mais une liste définie de catégories à afficher en barre latérale.
 
 Perso, j'utilise [Exec-PHP](http://bluesome.net/post/2005/08/18/50/) et ajoute directement le code dans un nouveau Widget type Texte (Apparence > Widgets).
 

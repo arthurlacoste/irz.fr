@@ -24,7 +24,7 @@ L'autre jour, j'avais une folle envie de me prendre une nouvelle casquette, la s
 
 [![yankees-new-era](https://static.irz.fr/2013/08/yankees-new-era.jpg)](https://irz.fr/recherche?q=yankees-new-era)
 
-J'ai donc pris une nouvelle casquette le week-end dernier, cette fois-ci un peu plus coloré, arborant toujours le logo de l'équipe des Yankees, mais cette fois-ci - contrairement à la première fois - j'ai hésité à enlever l'autocollant 50Fifty disposé sur le dessus de la casquette. Je n'aime pas trop les (nombreuses) étiquettes collées par exemple sur les ordinateurs portables, comme en témoigne un paragraphe de [cet article](http://irz.fr/on-va-switcher/) (et surtout [cette photo](https://static.irz.fr/2011/08/photo-1024x764.jpg)).
+J'ai donc pris une nouvelle casquette le week-end dernier, cette fois-ci un peu plus coloré, arborant toujours le logo de l'équipe des Yankees, mais cette fois-ci - contrairement à la première fois - j'ai hésité à enlever l'autocollant 50Fifty disposé sur le dessus de la casquette. Je n'aime pas trop les (nombreuses) étiquettes collées par exemple sur les ordinateurs portables, comme en témoigne un paragraphe de [cet article](https://irz.fr/on-va-switcher) (et surtout [cette photo](https://static.irz.fr/2011/08/photo-1024x764.jpg)).
 
 Le sticker en question ressemble à ça (à part que je porte du 7 3/8 pour ceux qui veulent me faire des cadeaux !) :
 

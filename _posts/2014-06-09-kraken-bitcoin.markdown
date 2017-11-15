@@ -46,7 +46,7 @@ En l'occurrence la somme engagé dans ce test était de près de 1000€.
 
 Depuis le [17 juillet 2015](https://blog.kraken.com/post/255/reduced-trade-fees-coming-august-1st/), un modèle maker / taker a été mis en place : un maker vend ses cryptomonnaies au marché (a un prix inférieur), un taker achète des cryptomonnaies (un peu plus cher). Ceci peut se voir au nicveau de la barre astucieuse, par un couple de montants séparés par une barre transversale : "0.16% / 0.26%" par exemple.
 
-[![](https://static.irz.fr/2014/06/kraken-fees-maker-taker.png)](https://irz.fr/kraken-bitcoin/kraken-fees-maker-taker/)
+[![](https://static.irz.fr/2014/06/kraken-fees-maker-taker.png)](https://irz.fr/recherche?q=kraken-fees-maker-taker)
 
 **Remplir mon portefeuille Bitcoin.** De la même manière que l’achat des Bitcoin, le versement vers un portefeuille distant est instantanément effectué et visible sur la [Blockchain](https://blockchain.info) ! Bien entendu, il faut quelques minutes pour que le réseau Bitcoin confirme ma transaction. Le soucis avec Bitcoin-Central est que les transactions sont effectués à heures fixes tout les jours, il est donc possible d’attendre jusqu’à 24h pour votre transfert. Ceci est un peut plus problématique car du fait de la haute volatilité du Bitcoin, si vous souhaitez faire un achat en direct, il est important d’avoir le temps le plus réduit possible entre la récupération des BTC et l’achat d’un article sur un site de e-commerce. Les frais pour un transfert de cette espèce est de 0.00050 BTC, soit 25 centimes d’euros au cours actuel, ces frais sont fixes. A mesure de comparaison, aucun frais chez Paymium.
 

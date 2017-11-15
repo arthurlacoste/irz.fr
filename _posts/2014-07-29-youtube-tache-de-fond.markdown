@@ -45,7 +45,7 @@ Dans cet article
 
 
 
-Si vous êtes sous iOS, pas le choix : il va falloir que votre appareil soit jailbreaké. Vous pouvez [lire notre tuto indiquant comment jailbreaker un iPhone](http://irz.fr/jailbreak-ios7/). Une fois que ceci est fait, sur Cydia, recherchez le tweak appelé "YouTubed" dans le repository BigBoss.
+Si vous êtes sous iOS, pas le choix : il va falloir que votre appareil soit jailbreaké. Vous pouvez [lire notre tuto indiquant comment jailbreaker un iPhone](https://irz.fr/jailbreak-ios7). Une fois que ceci est fait, sur Cydia, recherchez le tweak appelé "YouTubed" dans le repository BigBoss.
 
 [![youtubed-cydia-tweak](https://static.irz.fr/2014/07/youtubed-cydia-tweak.png)](https://irz.fr/recherche?q=youtubed-cydia-tweak)
 

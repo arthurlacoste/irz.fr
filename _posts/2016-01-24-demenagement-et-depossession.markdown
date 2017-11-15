@@ -23,7 +23,7 @@ Et pourtant, c'était oublier qui je suis et surtout ce que je fais : depuis mai
 
 Mais il est temps de lâcher prise. Ces derniers mois, j'ai expérimenté quelques modes de vie alternatifs au fil de mes lectures, entre le zéro déchet de Béa Johnson et la vie "par le vide" de Marie Kondo, on peut dire que je me suis débarrassé de pas mal de choses, appris à prêter, moi qui ai toujours eu du mal avec ça.
 
-Maintenant je veux tout prêter, du moins ce que je n'utilise pas. Ici sur IRZ, j'ai toujours tout donné : mes impressions, mes maigres connaissances, et même [des coloriages maison](http://irz.fr/coloriages/) ! Mais je m'éloigne du sujet.
+Maintenant je veux tout prêter, du moins ce que je n'utilise pas. Ici sur IRZ, j'ai toujours tout donné : mes impressions, mes maigres connaissances, et même [des coloriages maison](https://irz.fr/coloriages) ! Mais je m'éloigne du sujet.
 
 Tout ça pour dire que j'aimerai bien avoir ma vie dans mon sac à dos. A chaque fois que je fais mon sac à dos pour partir quelques jours de chez moi, je me rend compte que je peux me passer de la plupart des choses que j'ai. Une paire de chaussures, quelques strings, un bon pull, un ordinateur et c'est parti ! N'est-ce pas ça la solution au final ? Arrêter de vivre quelque part ? Devenir un citoyen du monde et plus un simple grenoblois ?
 

@@ -76,7 +76,7 @@ Comme pour n'importe quel conducteur, le Permis B(E) nécessite d'être passé e
 ### Permis A1 : motocyclettes légères
 
 
-Le permis A1, qui s’obtient à 16 ans révolus, permet de conduire les [motocyclettes](http://irz.fr/motocyclette-cyclomoteur/) légères, dont la cylindrée n’excède pas 125 cm3 et dont la puissance est limitée à 11 kW, soit 15 CV.
+Le permis A1, qui s’obtient à 16 ans révolus, permet de conduire les [motocyclettes](https://irz.fr/motocyclette-cyclomoteur) légères, dont la cylindrée n’excède pas 125 cm3 et dont la puissance est limitée à 11 kW, soit 15 CV.
 
 **Faut-il une formation 125 si on a seulement le permis A1 ? **
 Oui, il faut passer le permis A, afin de conduire des motocyclettes de plus de 125 cm3.
@@ -93,7 +93,7 @@ Oui, il faut passer le permis A, afin de conduire des motocyclettes de plus de 1
   * Le permis A « accès progressif » s’obtient à 18 ans révolus. Il permet de piloter les motocyclettes dont la puissance est inférieure ou égale à 25 kW (34 CV), ainsi que les véhicules des catégories A1 et B1. Au bout de deux ans, le permis A « accès progressif » donne le permis A.
 
 	
-  * Le permis A, qui s’obtient à 21 ans révolus, concerne toutes les [motocyclettes](http://irz.fr/motocyclette-cyclomoteur/) dont la puissance est inférieure ou égale à 73,6 kW, soit 100 CV.
+  * Le permis A, qui s’obtient à 21 ans révolus, concerne toutes les [motocyclettes](https://irz.fr/motocyclette-cyclomoteur) dont la puissance est inférieure ou égale à 73,6 kW, soit 100 CV.
 
 
 

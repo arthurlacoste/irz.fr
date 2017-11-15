@@ -24,7 +24,7 @@ A l'époque, quand j'étais gamin, j'adorai parcourir ces catalogues afin de les
 
 [![jaurais-la-peau](https://static.irz.fr/2014/12/jaurais-la-peau-640x151.jpg)](https://irz.fr/recherche?q=jaurais-la-peau)
 
-Aujourd'hui, comme vous avez dû le comprendre, je n'utilise plus les catalogues. Comme tout les jeunes de la génération Y, je surfe sur internet pour y trouver mes bons plans, en papillonnant de site en site, entre [Amazon](http://irz.fr/amazon/), et divers comparateurs en ligne. Mais puisque l'on parle de catalogue, j'ai deux choses à vous partager. La première, cette vidéo d'Ikea, qui n'est d'autre qu'une pub pour leurs dernier catalogue. Comme vous le comprendrez très vite, il s'agit d'une parodie des publicité Apple et elle est vraiment... Enfin, regardez-la quoi.
+Aujourd'hui, comme vous avez dû le comprendre, je n'utilise plus les catalogues. Comme tout les jeunes de la génération Y, je surfe sur internet pour y trouver mes bons plans, en papillonnant de site en site, entre [Amazon](https://irz.fr/amazon), et divers comparateurs en ligne. Mais puisque l'on parle de catalogue, j'ai deux choses à vous partager. La première, cette vidéo d'Ikea, qui n'est d'autre qu'une pub pour leurs dernier catalogue. Comme vous le comprendrez très vite, il s'agit d'une parodie des publicité Apple et elle est vraiment... Enfin, regardez-la quoi.
 
 "La durée de vie de la batterie : éternelle !" Et oui !
 

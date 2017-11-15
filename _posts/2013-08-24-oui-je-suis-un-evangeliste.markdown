@@ -16,7 +16,7 @@ post_format:
 
 L’évangéliste était jadis l'adepte d'une religion qui tentait de convertir chaque personne qu'il rencontrait en propageant la "sainte" parole du Christ. D'ailleurs, ceci existe encore ! Mais bref, je suis loin d'être croyant, je suis plutôt du genre agnostique (ou athée selon mon humeur).<!-- more -->
 
-Je ne parle donc pas de ce type d’évangélisme. Je parle d’évangélisme de marque. Nous le sommes tous, que ce soit par habitude de boire la même marque de soda, par "éblouissement" de la qualité des produits (j'ai par exemple [Bowers & Wilkins](http://irz.fr/ecouter-musique/) en tête pour la qualité de leurs acoustique). Il y a même ces marques qui rentrent dans l'inconscient collectif, se substituant même au nom des objets tellement il deviennent emblématique de certains produits.
+Je ne parle donc pas de ce type d’évangélisme. Je parle d’évangélisme de marque. Nous le sommes tous, que ce soit par habitude de boire la même marque de soda, par "éblouissement" de la qualité des produits (j'ai par exemple [Bowers & Wilkins](https://irz.fr/ecouter-musique) en tête pour la qualité de leurs acoustique). Il y a même ces marques qui rentrent dans l'inconscient collectif, se substituant même au nom des objets tellement il deviennent emblématique de certains produits.
 
 Alors effectivement, la publicité participe à la démocratisation d'une marque, mais pour qu'elle s'installe sur le long terme, il n'y a que peu de choses qui comptent vraiment : la qualité du produit, son originalité, et le bouche à oreille que tout ceci produit...
 

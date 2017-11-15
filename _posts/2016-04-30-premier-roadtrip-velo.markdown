@@ -34,7 +34,7 @@ Il faut savoir que je suis parti avec l'attirail nécessaire pour dormir à la b
 Comme vous vous en doutez, j'ai effectivement trouvé un petit F1 à Chalon-sur-Saône.
 [gallery type="rectangular" size="medium" ids="1438459945,1438459946,1438459965,1438459963,1438459958,1438459959,1438459950,1438459952,1438459955,1438459956" orderby="rand"]
 
-[Première partie ici](http://irz.fr/premier-roadtrip-velo/)
+[Première partie ici](https://irz.fr/premier-roadtrip-velo)
 
 Le Lendemain, départ à 10h pour redescendre à Mâcon en passant cette fois-ci par Tournus. Cependant, j'ai loupé la première partie de la voie bleue, j'ai donc fait la première partie de la route sur la départementale. Et je peux vous le dire : je préfère largement rouler sur la piste cyclable !!! Une fois arrivé à Tournus, je récupère la piste :
 [gallery type="rectangular" size="medium" ids="1438459951,1438459947,1438459948,1438459949,1438459961,1438459962,1438459960,1438459957,1438459966,1438459954" orderby="rand"]

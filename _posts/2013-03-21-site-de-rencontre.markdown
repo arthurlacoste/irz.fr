@@ -57,7 +57,7 @@ Je ne rentrerais pas dans les détails, mais après quelques semaines à discute
 
 Bref, nous nous sommes rattrapés ensuite, en allant boire un verre à la bobine, puis en passant une nuit blanche à discuter chez elle. Vous savez, ces nuits que vous finissez en allant chercher les croissants en regardant le soleil se lever ? C'était ce genre de rencontre.
 
-Aujourd'hui encore, [Harmonie](http://irz.fr/premier-visage/) est restée une bonne amie.
+Aujourd'hui encore, [Harmonie](https://irz.fr/premier-visage) est restée une bonne amie.
 
 Depuis, j'ai fréquenté d'autres sites, j'ai fait d'autres rencontres extraordinaires. J'ai appris à me détacher de la rencontre "pure" comme je me plaisais à l'appeler. Celle qui commence par un regard ou un effleurement de peau. La rencontre par clavier interposés, oui, ça existe. C'est moins sexy, certes, mais ça a le mérite de faire parti du jeu. Je dirais même plus que ça fonctionne !
 

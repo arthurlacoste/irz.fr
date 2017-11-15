@@ -13,7 +13,7 @@ tags:
 - Amazon
 ---
 
-J'avais déjà écrit [à propos d'Amazon](http://irz.fr/amazon/) il y a quelques temps, un article qui évoquait notamment un reportage fait en infiltration de l'un de leurs entrepôt.<!-- more -->
+J'avais déjà écrit [à propos d'Amazon](https://irz.fr/amazon) il y a quelques temps, un article qui évoquait notamment un reportage fait en infiltration de l'un de leurs entrepôt.<!-- more -->
 
 Mais aujourd'hui, ce n'est pas l'objet de cet article. Aujourd'hui, je vais vous parler de vendre vos propres produits sur le Amazon Marketplace.
 

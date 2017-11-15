@@ -14,7 +14,7 @@ categories:
 - Zéro déchet
 ---
 
-Les périodes de fêtes sont l'occasion de mettre sa créativité à toute épreuve. Vous pouvez trouver un tas d'articles de DIY regorgeant d'inventivité, faits avec de matériaux durables/recyclables, des objets utiles, [ou pas du tout](http://irz.fr/guide-cadeau/).
+Les périodes de fêtes sont l'occasion de mettre sa créativité à toute épreuve. Vous pouvez trouver un tas d'articles de DIY regorgeant d'inventivité, faits avec de matériaux durables/recyclables, des objets utiles, [ou pas du tout](https://irz.fr/guide-cadeau).
 
 Avant de parler du cadeau en question, prenons une minute pour comprendre à quoi sert un cadeau. Un cadeau est offert à quelqu'un pour lui faire plaisir. Il remplit son rôle de cadeau à partir du moment ou il est déballé. Et l'on créait un "concentré" de cadeau, quelle forme aurait-il ? Il pourrait revêtir une forme de reconnaissance, de gratitude envers son congénère.
 

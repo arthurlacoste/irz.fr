@@ -79,7 +79,7 @@ Je suis un mec difficile, et ayant un smartphone, la plupart des pièces nomades
 
 Niveau casque le survivant de mes tests (après plus de 2 ans de portage intensif) est **le P5 de Bowers & Wilkins**. A ne pas confondre avec le P3 hein ! Il coûte près de 300 euros. Ouais quand même. Par contre niveau design, on est loin des casques style skateur que j’ai l’habitude de voir autour de moi. La, pas de plastique, pas de composants low-cost, le P5 est une combinaison parfaite de cuir de mouton et d’aluminium brossé.
 
-Bon, pour ce prix là, vous avez le droit à la totale : deux câbles, un micro intégré (avec petite télécommande qui va bien), un son puissant, et une tenue à tout épreuve. Ce casque, je l’ai depuis 2 ou 3 ans, et il ne m’a **jamais** laissé tomber. On est loin du [H.ear de Halterrego](http://irz.fr/hear-halterrego-bbh200-beewi/) (dixit le bbh200 de Bee Wi) dont je parlerais quand même un peu plus tard dans l’article.
+Bon, pour ce prix là, vous avez le droit à la totale : deux câbles, un micro intégré (avec petite télécommande qui va bien), un son puissant, et une tenue à tout épreuve. Ce casque, je l’ai depuis 2 ou 3 ans, et il ne m’a **jamais** laissé tomber. On est loin du [H.ear de Halterrego](https://irz.fr/hear-halterrego-bbh200-beewi) (dixit le bbh200 de Bee Wi) dont je parlerais quand même un peu plus tard dans l’article.
 
 Autre truc super stylé, c’est le fait de pouvoir changer votre câble mini jack, pour en mettre un plus court par exemple, comme les Beat de Dr Dre. Sauf que la, Bowers & Wilkins à intégré le branchement à l’intérieur du casque. Une question d'esthétique. Une réponse parfaite. Comme vous pouvez le voir sur le cliché plus bas, les mousses du casque sont aimantées, vous pouvez les enlever très facilement, pour changer le câble ou lorsque [elles sont trop usé](http://www.custom-cable.co.uk/b-and-w-p5-replacement-earpads.html)es.
 
@@ -92,7 +92,7 @@ Quel est le point commun entre tout les produits dont je viens de vous parler ? 
 
 J’avais essayé les Plantronics BackBeat il y a quelques années pour aller courir. Une vraie merde intra-auriculaire bluetooth qui te donne l’impression que tu possèdes un double sonotone et qui te déforme à moitié l’oreille.
 
-Mais ce qu’il m’arrive d’utiliser encore parfois (et [tant qu’il fonctionnera encore](http://irz.fr/hear-halterrego-bbh200-beewi/)) c’est le H.ear de Halterrego & le bbh200 de Bee Wi (c’est le même casque). Cependant je vous le déconseille, j’ai eu pas mal de retours négatifs à propos de cet appareil. En effet il y a trois ou quatre bugs récurrents : les problèmes de bouton de volume +, l’arceau qui - si tu le déplaces - fini par déconnecter l’un des écouteurs, les casques qui ne se rechargent pas...
+Mais ce qu’il m’arrive d’utiliser encore parfois (et [tant qu’il fonctionnera encore](https://irz.fr/hear-halterrego-bbh200-beewi)) c’est le H.ear de Halterrego & le bbh200 de Bee Wi (c’est le même casque). Cependant je vous le déconseille, j’ai eu pas mal de retours négatifs à propos de cet appareil. En effet il y a trois ou quatre bugs récurrents : les problèmes de bouton de volume +, l’arceau qui - si tu le déplaces - fini par déconnecter l’un des écouteurs, les casques qui ne se rechargent pas...
 
 
 ## Les enceintes portables

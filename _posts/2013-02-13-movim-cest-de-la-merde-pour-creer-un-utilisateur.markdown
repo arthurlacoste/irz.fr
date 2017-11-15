@@ -21,7 +21,7 @@ Ben Movim c'est pas encore ça. Niveau ergonomie, ça va, mais en ce qui concern
 
 [![movim-creation-utilisateur-xmpp](https://static.irz.fr/2013/02/movim-creation-utilisateur-xmpp.png)](https://irz.fr/recherche?q=movim-creation-utilisateur-xmpp)
 
-L'autre jour j'ai essayé d'installer Movim, puis [j'ai bloqué à la création d'un utilisateur](http://irz.fr/movim-cest-de-la-merde-pour-creer-un-utilisateur/). C'est vrai qu'à part les install de WordPress et des projets de dev perso, j'ai plus trop l'habitude de sortir des sentiers battus.
+L'autre jour j'ai essayé d'installer Movim, puis [j'ai bloqué à la création d'un utilisateur](https://irz.fr/movim-cest-de-la-merde-pour-creer-un-utilisateur). C'est vrai qu'à part les install de WordPress et des projets de dev perso, j'ai plus trop l'habitude de sortir des sentiers battus.
 
 Je ne suis même pas arrivé à me connecter à l'interface d'administration (dispo à l'adresse "site/admin" normalement). Pourtant je me souviens bien de l'identifiant que j'avais entré. Ça à dû buger (ou alors je suis de mauvaise fois et j'ai oublié mes id/mdp). Bref je supprime tout le ftp, je remet une autre version (ou la même je sais plus), et là j'ai le droit à un joli site/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/admin/ ! Avec le fameux message de Chrome "Cette page Web présente une boucle de redirection.". Bref.
 

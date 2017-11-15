@@ -34,7 +34,7 @@ Il vous est en effet sans doute déjà arrivé de souhaiter télécharger <del>u
 
 
 
-Si vous voulez vous simplifiez la vie sans avoir à toucher votre code, j'ai créé le plugin [add more files extensions](http://irz.fr/add-more-files-extensions/), qui permet de réaliser (avec une interface) ce que je m'apprête à vous décrire tout au long de cet article.
+Si vous voulez vous simplifiez la vie sans avoir à toucher votre code, j'ai créé le plugin [add more files extensions](https://irz.fr/add-more-files-extensions), qui permet de réaliser (avec une interface) ce que je m'apprête à vous décrire tout au long de cet article.
 
 
 

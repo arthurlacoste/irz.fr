@@ -32,7 +32,7 @@ tags:
 
 La solution evasi0n est la seule permettant un jailbreak untethered (jailbreak complet ne nécessitant pas de redémarrage avec un ordinateur de votre iDevice) de l'ensemble des terminaux sous iOS 7.0, 7.0.1, 7.0.2, 7.0.3 et 7.0.4.
 
-Si vous n'êtes pas convaincus par l'utilité du Jailbreak, je vous invite à lire cet article : [100 raisons de Jailbreaker votre iDevice](http://irz.fr/100-raisons-jailbreaker-iphone-5-ipad-ipod/) !
+Si vous n'êtes pas convaincus par l'utilité du Jailbreak, je vous invite à lire cet article : [100 raisons de Jailbreaker votre iDevice](https://irz.fr/100-raisons-jailbreaker-iphone-5-ipad-ipod) !
 
 
 
@@ -56,10 +56,10 @@ Si vous n'êtes pas sous  iOS 7.0, 7.0.1, 7.0.2, 7.0.3 ou bien 7.0.4 mais **
 
 
     
-  1. [suivre le tuto pour restaurer iOS](http://irz.fr/ios-restaurer-iphone/) et le passer à la dernière version jailbreakable de iOS 7.
+  1. [suivre le tuto pour restaurer iOS](https://irz.fr/ios-restaurer-iphone) et le passer à la dernière version jailbreakable de iOS 7.
 
     
-  2. Si vous êtes sous iOS 6 et que vous ne pouvez ou voulez pas changer, [jailbreakez iOS 6+](http://irz.fr/jailbreak-ios6/)
+  2. Si vous êtes sous iOS 6 et que vous ne pouvez ou voulez pas changer, [jailbreakez iOS 6+](https://irz.fr/jailbreak-ios6)
 
 
 

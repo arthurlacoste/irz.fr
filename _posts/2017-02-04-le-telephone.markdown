@@ -26,7 +26,7 @@ header:
     provider: youtube
 ---
 
-Il y a quelques jours, j’étais en station pour faire un peu de snowboard, il y avait [de la bonne peuf](http://irz.fr/de-la-bonne-puff/), mais j'ai perdu mon téléphone sur la piste, parce que j’avais laissé ma poche ouverte. Bon, J’ai quand même remonté la pente lorsque je m’en suis rendu compte, et après 10 minutes, en sueurs, il était là posé telle une relique, le graal : mon téléphone. Bon déjà, première chose. Si on est autant attaché à son téléphone, c’est qu’il y a deux raisons. La première, c’est le contenu du téléphone.
+Il y a quelques jours, j’étais en station pour faire un peu de snowboard, il y avait [de la bonne peuf](https://irz.fr/de-la-bonne-puff), mais j'ai perdu mon téléphone sur la piste, parce que j’avais laissé ma poche ouverte. Bon, J’ai quand même remonté la pente lorsque je m’en suis rendu compte, et après 10 minutes, en sueurs, il était là posé telle une relique, le graal : mon téléphone. Bon déjà, première chose. Si on est autant attaché à son téléphone, c’est qu’il y a deux raisons. La première, c’est le contenu du téléphone.
 <!-- more -->
 
 La deuxième. C’est la valeur de votre précieux. Et pour ça, je ne voit qu’une solution : il faut arrêter d’acheter des smartphones. Ok, je ne suis pas un très bon exemple. Mais j’ai une bonne excuse, c’était pour jouer à Pokémon Go ! 720€, et j’ai dépensé 20€ dans le jeu. D’ailleurs si quelqu’un veut des leurres.
@@ -47,4 +47,4 @@ Sinon j'ai développé une technique pour que personne ne me vole mon téléphon
 
 Voilà ! Ce sujet est terminé, je vous remercie pour votre soutien, pour les proches qui ont partagés mes vidéos un grand merci, ça fait super plaisir, d’ailleurs continuez à partager, mettez des pouces bleus, et abonnez vous si ce n'est pas déjà fait.
 
-Sinon je vais prendre une petite minute pour vous dire que j'ai atteint mon objectif. [Je m'étais mis au défi de passer à 67 kilos](http://irz.fr/le-dernier-repas-du-prisonnier/). Et Ben ça y est, j’ai un corps d’apollon poilu..
+Sinon je vais prendre une petite minute pour vous dire que j'ai atteint mon objectif. [Je m'étais mis au défi de passer à 67 kilos](https://irz.fr/le-dernier-repas-du-prisonnier). Et Ben ça y est, j’ai un corps d’apollon poilu..

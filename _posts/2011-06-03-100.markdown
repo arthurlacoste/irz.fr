@@ -28,22 +28,22 @@ Il y a :
 
 
 	
-  * Des traductions d'articles high-tech à propos de [bing et du apple store](http://irz.fr/apple-il-est-temps-de-supprimer-bing-de-lapp-store/)
+  * Des traductions d'articles high-tech à propos de [bing et du apple store](https://irz.fr/apple-il-est-temps-de-supprimer-bing-de-lapp-store)
 
 	
-  * Un essai de [podcast avort](http://irz.fr/la-review-quatre/)é par manque de plaisir
+  * Un essai de [podcast avort](https://irz.fr/la-review-quatre)é par manque de plaisir
 
 	
-  * Un [tutoriel PHP/Wordpress](http://irz.fr/calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress/) parmis tant d'autres
+  * Un [tutoriel PHP/Wordpress](https://irz.fr/calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress) parmis tant d'autres
 
 	
-  * Un article sur [Einstein](http://irz.fr/lecons-de-vie-albert-einstein/) (traduction de développement personnel)
+  * Un article sur [Einstein](https://irz.fr/lecons-de-vie-albert-einstein) (traduction de développement personnel)
 
 	
-  * Une [interview](http://irz.fr/objectif-neige/)
+  * Une [interview](https://irz.fr/objectif-neige)
 
 	
-  * Des [idées saugrenues](http://irz.fr/decoupez-une-micro-sim-carte-sim/) !
+  * Des [idées saugrenues](https://irz.fr/decoupez-une-micro-sim-carte-sim) !
 
 
 J'ai un peu triché.

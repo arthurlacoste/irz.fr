@@ -39,7 +39,7 @@ Aujourd'hui si je vous parle de tout ça, c'est parce que toutes les conditions 
 
 
 
-J'en ai déjà parlé [dans l'épisode 2](http://irz.fr/bresil-mon-premier-voyage-2-dans-mon-sac/), mais il faut se préparer un peu à se faire chier dans l'avion. Normal, je vais passer plus de 40h aller retour dans les airs, parcourir des milliers de kilomètres. Bref. Les divertissements sont de rigueur une fois que vous êtes au dessus des nuages.
+J'en ai déjà parlé [dans l'épisode 2](https://irz.fr/bresil-mon-premier-voyage-2-dans-mon-sac), mais il faut se préparer un peu à se faire chier dans l'avion. Normal, je vais passer plus de 40h aller retour dans les airs, parcourir des milliers de kilomètres. Bref. Les divertissements sont de rigueur une fois que vous êtes au dessus des nuages.
 
 
 
