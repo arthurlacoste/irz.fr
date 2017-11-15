@@ -16,7 +16,7 @@ Aujourd'hui sort un gros blockbuster Hollywoodien, je n'ai même pas besoin de d
 
 Aujourd'hui, je vais vous parler de Demain. Ce film est un petit bijoux dans son genre. C'est un documentaire qui propose des solutions pour résoudre les crises écologiques, économiques et sociales de l'humanité. De fil en aiguille sont évoqué l'alimentation, l'énergie, l'éducation, l'économie et la démocratie, comme faisant parti d'un même ensemble.
 
-https://www.youtube.com/watch?v=Bk2LnbrXx_I
+{% include video id="Bk2LnbrXx_I" provider="youtube" %}
 
 Je ne connaissais pas le travail de Cyril Dion, un écrivain et activiste français. Cependant, le nom (et le visage) du second réalisateur, Mélanie Laurent, ne m'est pas inconnu.
 

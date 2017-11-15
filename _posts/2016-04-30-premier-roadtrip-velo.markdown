@@ -13,7 +13,7 @@ categories:
 
 Je profite de mon train du retour pour faire le point sur ces quelques jours de vélo. Je voulais parler d'un road trip : j'avais pensé faire un peu plus de 150 km, en 3/4 jours, pour me préparer à un plus gros départ, peut être à l'étranger.<!-- more -->
 
-https://www.youtube.com/watch?v=fdswihZYaRc&feature=youtu.be
+{% include video id="fdswihZYaRc" provider="youtube" %}
 
 Mais au final, j'ai parcouru en deux jours l'ensemble de la boucle Mâcon > Chalon-sur-Saône, en passant par la voie verte et la voie bleue. Je ne pensais pas avaler autant de bitume en si peu de temps. Donc deux jours, ce n'est plus vraiment un road trip, si ?
 

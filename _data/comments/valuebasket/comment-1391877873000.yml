@@ -3,5 +3,5 @@ date: '2014-02-08 17:44:33'
 url: ''
 message: >-
   Pourtant ils disent le contraire sur cette vidéo :
-  http://www.youtube.com/watch?v=a2K4kuuQ7gM
+  {% include video id="a2K4kuuQ7gM" provider="youtube" %}
 email: d22c198ebeaa46dbd8c54bc0593bc64a

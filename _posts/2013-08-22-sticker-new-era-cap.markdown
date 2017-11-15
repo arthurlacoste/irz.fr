@@ -29,4 +29,4 @@ At the time, everyone took off very nicely the sticker until a rapper that I kee
 
 To conclude, here is a video that is very much in the tone of this article.
 
-http://www.youtube.com/watch?v=i5ZM0-f5_CU
+{% include video id="i5ZM0-f5_CU" provider="youtube" %}

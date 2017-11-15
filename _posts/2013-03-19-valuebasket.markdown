@@ -23,7 +23,7 @@ tags:
 - Un consommateur averti en vaut deux
 ---
 
-https://youtu.be/OXRy-8wNvSQ
+{% include video id="OXRy-8wNvSQ" provider="youtube" %}
 
 Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
 
@@ -114,7 +114,3 @@ En réalité, pour le reste, je n'ai eu aucun problème. En effet, le matériel 
 
 
 <blockquote>Ma note : 4 / 10</blockquote>
-
-
-
-

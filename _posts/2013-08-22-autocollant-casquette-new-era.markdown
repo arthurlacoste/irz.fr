@@ -41,7 +41,7 @@ A l'époque, tout le monde enlevait bien gentiment son autocollant, jusqu'à ce 
 Pour conclure, voici une petite vidéo totalement hilarante qui est tout à fait dans le ton de cet article :
 
 
-http://www.youtube.com/watch?v=i5ZM0-f5_CU
+{% include video id="i5ZM0-f5_CU" provider="youtube" %}
 
 
 [Crédit photo : "Moi et mon père", Marie Lacoste]

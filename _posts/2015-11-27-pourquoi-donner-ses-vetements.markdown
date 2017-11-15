@@ -23,9 +23,7 @@ Que ce soit Emmaüs, la Croix rouge, Le Relais, ou le Secours Populaire, chacun 
 
 Et comme le dit Macklemore dans son morceau Thrift Shop : "J'attire l'attention et en plus j'économise de l'argent, le bonheur ! / Sérieux, le style grand-père c'est une affaire". En d'autres terme, vous pouvez vous-même trouver des vêtements de seconde main originaux (pour ne pas dire unique).
 
-https://www.youtube.com/watch?v=QK8mJJJvaes
-
-
+{% include video id="QK8mJJJvaes" provider="youtube" %}
 
 **Des emplois**
 

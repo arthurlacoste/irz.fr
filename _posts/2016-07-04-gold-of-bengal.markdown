@@ -20,8 +20,8 @@ Il a embarqué avec quelques poules, une petite serre, un pistolet (pour chasser
 
 Voici les 3 épisodes de documentaire : "Le voyage de Gold of Bengal" :
 
-https://www.youtube.com/watch?v=E-W_e5LXKYU
+{% include video id="E-W_e5LXKYU" provider="youtube" %}
 
-https://www.youtube.com/watch?v=oreVdhF1LqI
+{% include video id="oreVdhF1LqI" provider="youtube" %}
 
-https://www.youtube.com/watch?v=OAx_60OBGK4
+{% include video id="OAx_60OBGK4" provider="youtube" %}

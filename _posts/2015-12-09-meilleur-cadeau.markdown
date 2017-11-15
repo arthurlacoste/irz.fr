@@ -26,6 +26,6 @@ Oui, ce cadeau est une lettre. Ce n'est pas une simple lettre que vous allez ré
 
 Florence Servan Schreiber est une journaliste, conférencière, Française et initiatrice du concept des "3 kifs par jour". Elle exprimera mieux que moi l'idée qui se cache derrière cette fameuse lettre de gratitude (elle en parle à partir de 8:53, mais le reste est tout aussi passionnant) :
 
-https://www.youtube.com/watch?v=nZUfJpVxUNI
+{% include video id="nZUfJpVxUNI" provider="youtube" %}
 
 La lettre de gratitude ne sera pas seulement appréciée par la personne qui recevra le cadeau, mais aussi par vous même. Des études ont en effet été faites, mettant en valeur un fait : une personne optimiste et joyeuse vit en moyenne 7 ans de plus.
