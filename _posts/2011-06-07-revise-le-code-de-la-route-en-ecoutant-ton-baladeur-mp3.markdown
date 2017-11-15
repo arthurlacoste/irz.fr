@@ -22,7 +22,7 @@ Vivement conseillé aux **gros écouteurs de musiques** et aux mémoires auditiv
 
 Vous pouvez même vous endormir en écoutant la voix virile de l'homme qui vous conseille, il parait que ça marche. Gardez le casque pendant la nuit, en mode "répétition continue".
 
-Bref, je conseille ça a tout ceux qui ne sont pas interessés par mes [erreurs de code](http://irz.fr/category/erreur-de-code/).
+Bref, je conseille ça a tout ceux qui ne sont pas interessés par mes [erreurs de code](https://irz.fr/).
 
 Télécharge le pack :
 

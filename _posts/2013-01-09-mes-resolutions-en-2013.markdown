@@ -72,7 +72,7 @@ Je vais commencer par Rio de Janeiro (la deuxième plus grande ville du Brésil
 
 
 
-J'en ai conscience : je suis un [Apple addict](http://irz.fr/category/apple/). Il suffit de faire le décompte de tout les produits Apple que je possède : un iPhone, un iPad, quelques iPod, un MacBook Air, une Time Capsule, une borne AirPort Express. D'après moi, ce n'est pas irréversible, c'est juste que j'aime prendre ce qui se fait de mieux en high-tech. Le meilleur compromis entre ergonomie, fonctionnalités et design. Rien que niveau téléphone, j'ai passé la moitié de l'année avec un **Samsung** Galaxy SII.
+J'en ai conscience : je suis un [Apple addict](https://irz.fr/). Il suffit de faire le décompte de tout les produits Apple que je possède : un iPhone, un iPad, quelques iPod, un MacBook Air, une Time Capsule, une borne AirPort Express. D'après moi, ce n'est pas irréversible, c'est juste que j'aime prendre ce qui se fait de mieux en high-tech. Le meilleur compromis entre ergonomie, fonctionnalités et design. Rien que niveau téléphone, j'ai passé la moitié de l'année avec un **Samsung** Galaxy SII.
 
 Pour la petite histoire, pas plus tard qu'hier, j'ai envisagé l'achat de la tablette Surface de Windows. Après quelques tests, le principal argument pour moi était réduit en poussière : on ne peut pas installer n'importe quelle application WIndows sur la Surface. En effet, l'OS de la surface est WIndows RT, une version de Windows 7 pour les processeurs ARM. Ce qui fait entre autres que n'importe quelle application ne peut pas être installé. Du coup, ça ne m’intéresse pas.
 

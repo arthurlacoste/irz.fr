@@ -50,4 +50,4 @@ Remarquez aussi la position du volant par rapport à la ligne qui donne un bon i
 Réponse B et D.
 
 
- Si vous avez aimé, retrouvez toutes les [erreurs de code de la semaine](http://irz.fr/category/erreur-de-code/) ! 
+ Si vous avez aimé, retrouvez toutes les [erreurs de code de la semaine](https://irz.fr/) ! 

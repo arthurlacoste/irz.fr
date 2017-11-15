@@ -19,7 +19,7 @@ En près de 2 ans d'existence de irz.fr, la version 3 du site ouvre ses portes !
 
 C'est donc un moment assez bien bien choisi pour faire une rétrospective a propos du site le plus débile et inutile que vous pouvez trouver sur internet. Je vous l'avait dit, je vais [chouchouter mon bébé cette année](http://irz.fr/mes-resolutions-en-2013/) ! Le nom de domaine à été acheté le 24 décembre 2010, à une date comprise entre mon anniversaire et Noël.
 
-Bon déjà je me demande bien ce que je foutais la veille du jour de noël sur mon PC pour acheter un nom de domaine. A si... 
+Bon déjà je me demande bien ce que je foutais la veille du jour de noël sur mon PC pour acheter un nom de domaine. A si...
 
 
 
@@ -129,7 +129,7 @@ Voici les différents thème que le site à arboré tout au long de ses deux ann
 
 
 
-[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](http://irz.fr/category/logiciels/), [Mac OS](http://irz.fr/category/apple), & [Tutoriel](http://irz.fr/category/tutoriel/).
+[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](https://irz.fr/), [Mac OS](http://irz.fr/category/apple), & [Tutoriel](https://irz.fr/).
 
 Pourtant je ne me suis pas cantonné à ces seuls catégories, car aujourd'hui je ne saurai pas dire combien il y a exactement de catégories sur le site. Même si j'ai [une belle page](http://irz.fr/archives) qui liste l'ensemble des articles par catégorie. Faudrait que je fasse du tri...
 
@@ -158,8 +158,6 @@ Voilà, vous y êtes. C'est simple, c'est beau. C'est lavé avec mirlaine. Ça 
 
 
 
-Le site IRZ à fait l'objet d'un nombre de plainte et de demandes de retrait de posts assez conséquent concernant pas mal d'articles ou [je critiquait des restaurants](http://irz.fr/restaurant-le-crocus-charancieu-moules-frites/) (avec [courrier d'avocat](http://irz.fr/diffamation-crocus-charancieu/)), [des services web](http://irz.fr/selliance/), ou bien lorsque je reprenais des diapositives ENPC pour réviser [le code de la route](http://irz.fr/category/code-de-la-route/). La rançon de la connerie ?
+Le site IRZ à fait l'objet d'un nombre de plainte et de demandes de retrait de posts assez conséquent concernant pas mal d'articles ou [je critiquait des restaurants](http://irz.fr/restaurant-le-crocus-charancieu-moules-frites/) (avec [courrier d'avocat](http://irz.fr/diffamation-crocus-charancieu/)), [des services web](http://irz.fr/selliance/), ou bien lorsque je reprenais des diapositives ENPC pour réviser [le code de la route](https://irz.fr/). La rançon de la connerie ?
 
 Et vous, **que pensez vous du nouveau design / logo de irz.fr** ?
-
-

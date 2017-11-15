@@ -13,7 +13,7 @@ post_format:
 - Galerie
 ---
 
-Lorsque je suis au code, je note mes erreurs (et parfois aussi les [situations](http://irz.fr/category/erreur-de-code/) justes) dans un petit carnet Moleskine pour me les remémorer avant chaque séance de code. Du coup, ça donne un ensemble de petites phrases (avec parfois des schémas...) que je fini par apprendre par coeur. A chaud, les voici, je les enrichirai sans doute encore un peu.
+Lorsque je suis au code, je note mes erreurs (et parfois aussi les [situations](https://irz.fr/) justes) dans un petit carnet Moleskine pour me les remémorer avant chaque séance de code. Du coup, ça donne un ensemble de petites phrases (avec parfois des schémas...) que je fini par apprendre par coeur. A chaud, les voici, je les enrichirai sans doute encore un peu.
 
 ![](https://static.irz.fr/2011/06/photo-e1307864768735-1024x485.jpg)
 

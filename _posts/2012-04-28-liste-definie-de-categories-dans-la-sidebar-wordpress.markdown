@@ -73,31 +73,31 @@ Voici la liste des variables utilisées :
 Le résultat final ressemblera à ceci :
 
 	
-  * [Tutoriel](http://irz.fr/category/tutoriel/) (29)
+  * [Tutoriel](https://irz.fr/) (29)
 
 	
-  * [Photo](http://irz.fr/category/photo/) (19)
+  * [Photo](https://irz.fr/) (19)
 
 	
-  * [Apple](http://irz.fr/category/apple/) (19)
+  * [Apple](https://irz.fr/) (19)
 
 	
-  * [Video](http://irz.fr/category/video/) (18)
+  * [Video](https://irz.fr/) (18)
 
 	
-  * [Dessins](http://irz.fr/category/dessins/) (17)
+  * [Dessins](https://irz.fr/) (17)
 
 	
-  * [3615MyLife](http://irz.fr/category/3615mylife/) (17)
+  * [3615MyLife](https://irz.fr/) (17)
 
 	
-  * [Parcours](http://irz.fr/category/parcours/) (16)
+  * [Parcours](https://irz.fr/) (16)
 
 	
-  * [Web](http://irz.fr/category/web/) (16)
+  * [Web](https://irz.fr/) (16)
 
 	
-  * [Logiciels](http://irz.fr/category/logiciels/) (12)
+  * [Logiciels](https://irz.fr/) (12)
 
 	
   * [Wordpress](http://irz.fr/wordpress) (11)
