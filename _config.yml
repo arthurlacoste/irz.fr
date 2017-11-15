@@ -13,13 +13,13 @@ title                    : "IRZ"
 title_img                : "assets/img/logo.svg"
 title_separator          : "-"
 name                     : "art"
-description              : ""
+description              : "Inspiration, réflexion, et partage du savoir"
 url                      : https://irz.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : arthurlacoste/irz.fr # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 170
 comments:
   provider               : staticman_v2 # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -67,7 +67,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : assets/img/logo-og-irz.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
