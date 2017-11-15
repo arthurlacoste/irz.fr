@@ -95,15 +95,15 @@ Le site est généré avec [Jekyll].
 
 
   [IRZ]: http://irz.fr
-  [depuis le 24 décembre 2010]: https://irz.fr/origine-nom-site-toute-verite-irz/
-  [Arthur]: https://irz.fr/qui-suis-je/ "Qui suis-je ?"
+  [depuis le 24 décembre 2010]: https://irz.fr/origine-nom-site-toute-verite-irz
+  [Arthur]: https://irz.fr/qui-suis-je "Qui suis-je ?"
 
   [via son flux RSS]: /feed.xml
   [@arthurlacoste]: http://twitter.com/arthurlacoste
-  [en suivant ce lien]: transparence/ "Transparence"
+  [en suivant ce lien]: /transparence "Transparence"
 
   [licence Creative Commons BY-NC-SA]: http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
-  [je vous suggère de lire cet article]: http://irz.fr/origine-nom-site-toute-verite-irz/
+  [je vous suggère de lire cet article]: http://irz.fr/origine-nom-site-toute-verite-irz
     "Toute la vérité sur irz.fr !"
   [Jekyll]: https://jekyllrb.com/
   [Github]: https://pages.github.com
