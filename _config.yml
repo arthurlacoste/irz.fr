@@ -33,7 +33,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -41,15 +41,15 @@ staticman:
   path                   : "/_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey: "6LfhwjgUAAAAAKe-NJJoSThrjQYCL-TpO5h8oXvH"
+  secret: "tBSOyntwF4JAoOvzfbOoDCx3XIi+Ts07RjVXwAdCCYjmN8N7v17qIxr9RpgAf5VMpaWhgp1dYVZ566JcKYV58037lO59yCP/InvbL6d8vxPRWzlSB+k3wXa+uBWZ7ttQiVjV7OdNfJQTF74accijyFLu1EAqfftb8pbjUWiGUX0="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
