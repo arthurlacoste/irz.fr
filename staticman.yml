@@ -23,7 +23,7 @@ comments:
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: "master"
+  branch: "gh-pages"
 
   commitMessage: "New comment"
 
@@ -98,7 +98,7 @@ comments:
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: true
-    siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
+    siteKey: "6LfhwjgUAAAAAKe-NJJoSThrjQYCL-TpO5h8oXvH"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+    secret: "tBSOyntwF4JAoOvzfbOoDCx3XIi+Ts07RjVXwAdCCYjmN8N7v17qIxr9RpgAf5VMpaWhgp1dYVZ566JcKYV58037lO59yCP/InvbL6d8vxPRWzlSB+k3wXa+uBWZ7ttQiVjV7OdNfJQTF74accijyFLu1EAqfftb8pbjUWiGUX0="
