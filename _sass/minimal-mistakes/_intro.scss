@@ -1,12 +1,12 @@
 
 .intro {
-    background: url(https://static.irz.fr/2017/11/background.gif)no-repeat center top;
+    background: url(https://static.irz.fr/2017/11/background.gif)no-repeat right center;
     background-color: #545454;
     min-height: 100vh;
     background-size: cover;
 
     @media (min-width: 768px) {
-      background: url(https://static.irz.fr/2017/11/background.gif)no-repeat right center;
+      background: url(https://static.irz.fr/2017/11/background.gif)no-repeat center top;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
