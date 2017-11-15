@@ -4,7 +4,6 @@ header:
 ---
 <!doctype html>
 <!--
-
 _  ___  ____
 | || . \|_  /
 | ||   / / /
@@ -22,9 +21,11 @@ Alors jouons ensemble.
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% if paginator.page==1 %}
     <div class="intro">
 
     </div>
+    {% endif %}
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
