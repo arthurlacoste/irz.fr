@@ -31,7 +31,7 @@ Quand j’ai décidé de paramétrer mon Mac et plus particulièrement de mettre
 
 
 
-Dans ce tutoriel, nous désignerons la plupart du temps le texte chiffré par “message” ou “mail”, mais en réalité, toute information que vous souhaitez garder sécurisé peut être chiffré, pour les autres, comme pour vous-même.
+Dans ce tutoriel, nous désignerons la plupart du temps le texte chiffré par “message” ou “mail”, mais en réalité, toute information que vous souhaitez garder sécurisée peut être chiffré, pour les autres, comme pour vous-même.
 
 
 
@@ -43,17 +43,17 @@ Dans ce tutoriel, nous désignerons la plupart du temps le texte chiffré par �
 
 
 
-  1. **Il fonctionne avec toutes les applications.** Contrairement aux autres tutoriels concernant PGP, celui-ci ne se soucis pas des logiciels que vous utilisez. Peut importe les outils que vous utilisez actuellement ou utiliserez dans le futur, PGP continuera de fonctionner. Si vous voulez chiffrer des mails, vous pouvez utiliser le logiciel que vous voulez : Mail.app, Thunderbird, Sparrow, Gmail, Airmail… Si vous voulez chiffrer autre chose que des mail, c’est possible aussi ! Vous pouvez écrire et chiffrer des documents Word, ou une formule Excel. Vous pouvez facilement chiffrer une URL sous Safari, Chrome, Firefox. Vous pouvez chiffrer un texte avec Message. Vous pouvez chiffrer une commande sur le terminal. Ça n’a aucune importance.
+  1. **Il fonctionne avec toutes les applications.** Contrairement aux autres tutoriels concernant PGP, celui-ci ne se soucis pas des logiciels que vous utilisez. Peut importe les outils que vous utilisez actuellement ou utiliserez dans le futur, PGP continuera de fonctionner. Si vous voulez chiffrer des mails, vous pouvez utiliser le logiciel que vous voulez : Mail.app, Thunderbird, Sparrow, Gmail, Airmail… Si vous voulez chiffrer autre chose que des mail, c’est possible aussi ! Vous pouvez écrire et chiffrer des documents Word, ou une formule Excel. Vous pouvez facilement chiffrer une URL sous Safari, Chrome, Firefox. Vous pouvez chiffrer un texte avec l’’application Message. Vous pouvez chiffrer une commande sur le terminal. Ça n’a aucune importance.
 
 
-  2. **Il est fait pour les utilisateurs de mac.** Il y a une certaine manière de faire les choses sur Mac. Si vous n’êtes pas familier avec le monde des Mac, vous ne pouvez pas forcément comprendre (c’est normal). Beaucoup de tutoriels que j’ai trouvé pour Mac OS X n’étaient pas fait pour les utilisateurs de Mac. Beaucoup veulent vous faire installer une usine à gaz à la Windows, ou une extension douteuse. ce tuto est fait pour les utilisateurs de mac. Il s’agit de PGP, installé de la manière dont Steve Jobs l’aurait implémenté.
+  2. **Il est fait pour les utilisateurs de mac.** Il y a une certaine manière de faire les choses sur Mac. Si vous n’êtes pas familier avec le monde des Mac, vous ne pouvez pas forcément comprendre (c’est normal). Beaucoup de tutoriels que j’ai trouvés pour Mac OS X n’étaient pas fait pour les utilisateurs de Mac. Beaucoup veulent vous faire installer une usine à gaz à la Windows, ou une extension douteuse. Ce tutoriel est fait pour les utilisateurs de Mac. Il s’agit de PGP, installé de la manière dont Steve Jobs l’aurait implémenté.
 
 
   3. **Il est Simple.** Avant tout, cette installation de PGP est simple. Une fois que vous avez compris comment ça marche, vous pourrez tout effectuer de A à Z.
 
 
 
-J’ai essayé des dizaines de manière d’installer PGP sur mon Mac. La plupart d’elles étaient mauvaises, et ce pour de nombreuses raisons. A tout les niveaux, ceci est la meilleure solution et ce dans 95% des situations !
+J’ai essayé des dizaines de manières d’installer PGP sur mon Mac. La plupart d’elles étaient mauvaises, et ce pour de nombreuses raisons. À tous les niveaux, ceci est la meilleure solution, et ce dans 95% des situations !
 
 
 
@@ -66,7 +66,7 @@ Cette étape est simple. Allez sur [le site de GPGTools](https://gpgtools.org/) 
 ![GPG Suite DMG](https://static.irz.fr/2015/02/GPG-Suite-dmg.png)
 ![GPGTools-install-1](https://static.irz.fr/2015/02/GPGTools-install-1.png)
 
-Pendant l’installation, vous pouvez utiliser tout les paramètres par défaut, excepté un. Dans “Type d’installation”, allez dans “Personnaliser”…
+Pendant l’installation, vous pouvez utiliser tous les paramètres par défaut, excepté un. Dans “Type d’installation”, allez dans “Personnaliser”…
 
 ![GPGTools-install-1](https://static.irz.fr/2015/02/GPGTools-install-2.png)
 
@@ -90,7 +90,7 @@ Lorsque l’installation est terminée, vous pouvez trouver une application appe
 ### Pourquoi parler d'une paire de clefs ?
 
 
-Lors de la création de clef, on parle toujours d’une paire de clef : en effet, peut importe l’outil que vous utilisez, le principe de PGP est de vous fournir 2 clefs.
+Lors de la création de clefs, on parle toujours d’une paire de clefs : en effet, peu importe l’outil que vous utilisez, le principe de PGP est de vous fournir 2 clefs.
 
 **La clef publique**, que vous partagerez à vos contacts afin qu'ils puissent chiffrer leurs messages à votre intention.
 
@@ -98,7 +98,7 @@ Lors de la création de clef, on parle toujours d’une paire de clef : en effet
 
 
 
-Une seconde fenêtre vous permettra ensuite de créer une nouvelle paire de clef. Tapez votre nom et votre adresse mail, puis cochez la case “Téléverser clé publique”.
+Une seconde fenêtre vous permettra ensuite de créer une nouvelle paire de clefs. Tapez votre nom et votre adresse mail, puis cochez la case “Téléverser clé publique”.
 
 ![créer nouvelle clef petit](https://static.irz.fr/2015/02/creer-nouvelle-clef-petit.png)
 
@@ -123,13 +123,13 @@ Dernièrement, soyez bien sûr que votre passphrase est un élément dont vous p
 
 
 
-Une fois que vous avez fait le choixs de votre phrase secrète, entrez la deux fois. Une fois que tout est bon, cliquez sur “Générer clef”.
+Une fois que vous avez fait le choix de votre phrase secrète, entrez-la deux fois. Une fois que tout est bon, cliquez sur “Générer clef”.
 
 Une phrase indiquant “Nous devons générer une grande quantité d’octets aléatoires. …”. Attendez quelques instants que la génération se termine :
 
 ![création d'une clef](https://static.irz.fr/2015/02/creation-clef.png)
 
-Et voilà ! Votre clef PGP est prête à être utilisé !
+Et voilà ! Votre clef PGP est prête à être utilisée !
 
 ![liste des clefs](https://static.irz.fr/2015/02/liste-clefs.png)
 
@@ -139,13 +139,13 @@ Et voilà ! Votre clef PGP est prête à être utilisé !
 
 
 
-Maintenant, vous allez paramétrer 4 raccourcis claviers sous OS X.
+Maintenant, vous allez paramétrer 4 raccourcis clavier sous OS X.
 
 Ouvrez les préférences Système, sélectionnez l’onglet “raccourcis”. Sur la partie gauche, sélectionnez le menu “Services”. Ensuite, descendez jusqu’à la sous-section “Texte”, vous verrez plusieurs raccourcis commençant par “OpenPGP :”.
 
 ![raccourci clavier 1](https://static.irz.fr/2015/02/raccourci-clavier-1.png)
 
-Décochez l’ensemble des cases, et supprimez les raccourcis claviers.
+Décochez l’ensemble des cases, et supprimez les raccourcis clavier.
 
 ![raccourci clavier 2](https://static.irz.fr/2015/02/raccourci-clavier-2.png)
 
@@ -168,7 +168,7 @@ Nous allons maintenant mettre en place quatre raccourcis :
 
 
 
-Bien entendu, ces choix de raccourcis ne sont qu’une proposition que vous pouvez personnaliser comme bon vous semble. Cependant, en fonction des raccourcis que vous choisissez, il ce peut que ceux-ci entrent en collisions avec d’autres (des paramètres système, ou propre aux applications).
+Bien entendu, ces choix de raccourcis ne sont qu’une proposition que vous pouvez personnaliser comme bon vous semble. Cependant, en fonction des raccourcis que vous choisissez, il ce peut que ceux-ci entrent en collision avec d’autres (des paramètres système, ou propre aux applications).
 
 Vos raccourcis clavier devraient donc ressembler à cela :
 
@@ -182,7 +182,7 @@ C’est tout ! Vous avez maintenant terminé de paramétrer PGP avec OpenPGP sur
 
 
 
-Vous pouvez tout chiffrer avec PGP, mais la plupart du temps, vous voudrez chiffrer un mail. Nous allons donc passer quelques minutes pour nous pencher la-dessus. Ces étapes peuvent être transposées pour tout type de chiffrement, sur toutes les applications de votre ordinateur.
+Vous pouvez tout chiffrer avec PGP, mais la plupart du temps, vous voudrez chiffrer un mail. Nous allons donc passer quelques minutes pour nous pencher là-dessus. Ces étapes peuvent être transposées pour tout type de chiffrement, sur toutes les applications de votre ordinateur.
 
 
 
@@ -229,7 +229,7 @@ Si votre ami dispose de plus d’une clef, sélectionnez la plus récente :
 
 ![Liste des clefs trouvées](https://static.irz.fr/2015/02/clef-trouve.png)
 
-Vous allez recevoir une confirmation vous indiquant que la clef de votre contact à bien été téléchargé. Cliquez ensuite sur “Fermer”.
+Vous allez recevoir une confirmation vous indiquant que la clef de votre contact a bien été téléchargée. Cliquez ensuite sur “Fermer”.
 
 ![Clef trouvées sur le serveur](https://static.irz.fr/2015/02/clef-importe.png)
 
@@ -294,14 +294,14 @@ J’ai donc reçu un message :
 Copiez le corps du message, comprenant les “—–BEGIN PGP MESSAGE—–” et “—–END PGP MESSAGE—–”. Copiez tout ce texte dans votre éditeur de texte favori (j’utilise TextWrangler en ce qui me concerne) :
 ![message reçu copié dans textwrangler](https://static.irz.fr/2015/02/message-recu-2-textwrangler.png)
 
-Sélectionnez tout le texte, puis tapez sur ⌃⌥⌘- pour déchiffrer le message. Vous serez immédiatement invité à entrer votre passphrase. Entrez la, puis cliquez sur “OK” :
+Sélectionnez tout le texte, puis tapez sur ⌃⌥⌘- pour déchiffrer le message. Vous serez immédiatement invité à entrer votre passphrase. Entrez-la, puis cliquez sur “OK” :
 ![message reçu déchiffrer](https://static.irz.fr/2015/02/message-recu-3-dechiffrer.png)
 
 Vous verrez tout de suite votre message déchiffré :
 ![message reçu à vérifier](https://static.irz.fr/2015/02/message-recu-4-a-verifier.png)
 
 Maintenant, vous pouvez vérifier le message. Sélectionnez le texte, puis tapez sur ⌃⌥⌘]. Vous verrez un message de confirmation :
-![message reçu verifié](https://static.irz.fr/2015/02/message-recu-5-verifie.png)
+![message reçu vérifié](https://static.irz.fr/2015/02/message-recu-5-verifie.png)
 
 Appuyez sur “OK”.
 
@@ -318,7 +318,7 @@ Pour cela, il est important de pouvoir exporter votre jeux de clefs dans un fich
 La manipulation est assez simple.
 
 
-Commencez par ouvrir l’application GPG Keychain Access, puis cliquez sur “Exporter” en haut à gauche de la fenêtre. Une boite de dialogue va s’ouvrir, vous permettant de choisir le nom du fichier. Cochez la case “Ajouter la clé secrète au fichier d’export” afin d’intégrer les 2 clefs dans votre fichier, puis cliquez sur “Enregistrer”.
+Commencez par ouvrir l’application GPG Keychain Access, puis cliquez sur “Exporter” en haut à gauche de la fenêtre. Une boîte de dialogue va s’ouvrir, vous permettant de choisir le nom du fichier. Cochez la case “Ajouter la clé secrète au fichier d’export” afin d’intégrer les 2 clefs dans votre fichier, puis cliquez sur “Enregistrer”.
 
 ![Exporter une paire de clefs](https://static.irz.fr/2015/02/exporter-paire-clef.png)
 
@@ -339,7 +339,7 @@ Maintenant que vous savez comment signer et chiffrer des messages, parlons un pe
 
 **Chiffrer** signifie prendre votre clef privée et la clef publique du destinataire, et brouiller le message. Le message brouillé est à l’abri des regards indiscrets. L’expéditeur doit toujours chiffrer.
 
-**Déchiffrer** signifie prendre un message chiffré combinée avec la clé secrète et la clé publique de l’expéditeur, et il déchiffre. Le destinataire déchiffre toujours.
+**Déchiffrer** signifie prendre un message chiffré combiné avec la clé secrète et la clé publique de l’expéditeur, et il déchiffre. Le destinataire déchiffre toujours.
 
 Ces deux termes peuvent être considérés comme opposés.
 
@@ -347,7 +347,7 @@ Ces deux termes peuvent être considérés comme opposés.
 
 **Vérifier** un message est la manière d’analyser un message signé, et ce afin de déterminer si la signature est valide.
 
-Signer et vérifier peuvent être aussi considérés comme opposés.
+Signer et vérifier peuvent être aussi considérées comme opposés.
 
 
 
@@ -355,7 +355,7 @@ Signer et vérifier peuvent être aussi considérés comme opposés.
 
 
 
-Il n’est pas nécessaire de chiffrer ou signer l’ensemble de vos conversations. Mais alors : quand devons nous signer ? Quand devons-nous chiffrer ? Et quand devons-nous nous abstenir de toute action superflue ?
+Il n’est pas nécessaire de chiffrer ou signer l’ensemble de vos conversations. Mais alors : quand devons-nous signer ? Quand devons-nous chiffrer ? Et quand devons-nous nous abstenir de toute action superflue ?
 
 Il y a trois choix rationnels que vous pouvez effectuer lorsque vous envoyez un message :
 1. **Ne rien faire.** Si le contenu est publique (si il n’y a rien de confidentiel) et si le destinataire ne se préoccupe pas de savoir si c’est un imposteur qui envoi le message, alors ne faites rien. Envoyez le message comme vous avez toujours envoyé vos messages : en texte clair.
@@ -372,7 +372,7 @@ Dans 90% des mail que j’envois, je ne fais rien, car ce n’est pas nécessair
 
 Quelques geeks du PGP préfèrent envoyer les messages PGP en tant que pièce jointe (alias PGP MIME type), au lieu d’utiliser le texte du mail (alias PGP INLINE).
 
-Cependant, certains débutant en PGP veulent savoir pourquoi je déconseille d’utiliser un plugin intégré à leurs client mail (comme le Mail.app PGP plugin).
+Cependant, certains débutants en PGP veulent savoir pourquoi je déconseille d’utiliser un plugin intégré à leurs client mail (comme le Mail.app PGP plugin).
 
 Voilà pourquoi :
 
@@ -383,13 +383,13 @@ Voilà pourquoi :
   * Les pièces jointes m’emmerdent.
 
 
-  * Les gens qui utilisent les extensions de chiffrement n’ont aucune idée du fonctionnement de leurs programme, ce qui leurs procure une fausse sensation de sécurité
+  * Les gens qui utilisent les extensions de chiffrement n’ont aucune idée du fonctionnement de leurs programmes, ce qui leur procure une fausse sensation de sécurité
 
 
   * le texte brut peut être copié n’importe où (terminal, Facebook, iMessage, etc.), ce n’est pas le cas des pièces jointes.
 
 
-  * La majorité des personnes m’ayant écrit un mail test en utilisant une pièce jointe MIME et ayant utilisé l’extension PGP de Mail.app m’ont envoyé des messages indéchiffrable, car ils n’avaient aucune idée de ce qu’ils faisaient et de la manière dont ceci fonctionnait.
+  * La majorité des personnes m’ayant écrit un mail test en utilisant une pièce jointe MIME et ayant utilisé l’extension PGP de Mail.app m’ont envoyé des messages indéchiffrables, car ils n’avaient aucune idée de ce qu’ils faisaient et de la manière dont ceci fonctionnait.
 
 
   * Quand une extension génère une pièce jointe et l’envoi avant mêm que vous ayez pu voir de quoi il s’agissait, vous n’avez aucune idée de ce qui à été envoyé.
@@ -407,4 +407,4 @@ Voilà pourquoi :
 
 Envoyez-moi un mail [via la formulaire de contact](https://irz.fr/contact). Envoyez-moi un message signé et [chiffré avec ma clef,](https://irz.fr/contact/#pgp) je vous répondrais.
 
-Cet document est inspiré de l'article de Jerzy J. Gangi [“The best PGP tutorial for Mac OS X, ever”](http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/).
+Ce document est inspiré de l'article de Jerzy J. Gangi [“The best PGP tutorial for Mac OS X, ever”](http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/).
