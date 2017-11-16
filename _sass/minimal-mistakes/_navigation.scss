@@ -525,7 +525,9 @@
       font-weight: bold;
       line-height: 1.5;
       border-bottom: 1px solid $border-color;
-
+      @media (min-width: $x-large) {
+        font-size: 0.7vw;
+      }
       &:hover {
         color: $text-color;
       }

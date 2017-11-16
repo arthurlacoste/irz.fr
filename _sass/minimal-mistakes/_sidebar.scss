@@ -73,6 +73,9 @@
     width: $right-sidebar-width;
     margin-right: -1 * $right-sidebar-width;
   }
+  @media (min-width: $x-large) {
+    font-size: 0.8vw;
+  }
 }
 
 .splash .sidebar__right {

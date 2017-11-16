@@ -17,7 +17,6 @@
 }
 
 .page {
-
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -76,6 +75,9 @@
 
   p, li, dl {
     font-size: 1em;
+    @media (min-width: $x-large) {
+      font-size: 1.7vw;
+    }
   }
 
   /* paragraph indents */
