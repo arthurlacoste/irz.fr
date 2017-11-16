@@ -62,7 +62,7 @@ Qu'est ce qui aiguise votre curiosité ? Je me demande ce qui fait qu'une person
 
 "Ce n'est pas la force, mais la persévérance, qui fait les grandes œuvres"*. Êtes-vous prêt à persévérer au point d'atteindre votre but ? On dit que toute la force du timbre est dans sa capacité à coller à la lettre jusqu'à ce qu'elle arrive à destination. Soyez comme le timbre, terminez la course que vous avez commencée !
 
-[caption id="attachment_1438493779" align="aligncenter" width="512"][![](https://static.irz.fr/2010/03/albert-einsten-titre-la-langue.jpg)](https://irz.fr/recherche?q=albert-einsten-titre-la-langue) Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951.[/caption]
+ {% include figure image_path="https://static.irz.fr/2010/03/albert-einsten-titre-la-langue.jpg" alt="Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951." caption="Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951." %}
 
 
 

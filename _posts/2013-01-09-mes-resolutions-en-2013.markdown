@@ -28,10 +28,10 @@ Comme tout le monde, le début d'une année est aussi l'occasion de réaliser un
 - C’est une couverture, tout simplement. Et pourquoi toi et moi on sait ce que c’est qu’un duvet à ton avis ? Parce que c’est essentiel à notre survie, dans cette existence précaire que nous menons ? Non. Alors on est quoi ?
 - On est que des... Consommateurs.
 
-> 
+>
 > Fight Club
-> 
-> 
+>
+>
 </blockquote>
 
 
@@ -94,7 +94,8 @@ Non je n'y arriverai jamais. J'ai déjà la flemme. On prévoit ça pour 2014.
 
 
 
-[caption id="attachment_143844" align="aligncenter" width="584"][![IMG_0186](https://static.irz.fr/2013/01/IMG_0186-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0186.jpg) La table basse tête de mort[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/01/IMG_0186.jpg" alt="La table basse tête de mort" caption="La table basse tête de mort" %}
+
 
 
 
@@ -157,5 +158,3 @@ Cela fait un peut plus de 2 ans que j'ai perdu du poids. Avec beaucoup de volont
 Cependant, je me suis un peu remis à manger des conneries. La collocation n'aide pas à se tenir à carreau niveau alimentation. Quoi que, c'est une bonne excuse.
 
 Alors on arrête les conneries !
-
-
