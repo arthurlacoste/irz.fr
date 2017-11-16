@@ -5,13 +5,14 @@ layout: post
 slug: jekyll-liquid
 title: "Introduction à Liquid le moteur de template de Jekyll"
 categories:
-- Liveblog
+- Web
+- Jekyll
 toc: true
 ---
 
 Voici la liste des fonctionnalités les plus utiles de Liquid, le langage de templating utilisé par [Jekyll](http://jekyllrb.com/). Il a été créé à l'origine par Shopify, [en Ruby](https://github.com/Shopify/liquid). Mais étant donné la popularité et l'efficacité de ce moteur de templating, il en existe d'autres implémentations, en [Javascript par example](https://github.com/harttle/liquidjs).
 
-L'un des aspects qui ont popularisé l'utilisation de Liquid, c'est **l'interdiction de Github d'utiliser des  plug-ins Jekyll écrits en Ruby** (sur Github Pages). Et au lieu d'utiliser des gems en Ruby, tout un tas de développeurs s'est mis à concocter des "plugins" en utilisant Liquid.
+L'un des aspects qui ont popularisé l'utilisation de Liquid, c'est **l'interdiction de Github d'utiliser des  plug-ins Jekyll écrits en Ruby** sur Github Pages. Et au lieu d'utiliser des gems en Ruby, tout un tas de développeurs s'est mis à concocter des "plugins" en utilisant Liquid.
 
 Il faut savoir qu'il y a plusieurs versions de Liquid, avec quelques variations, notamment entre la version originale de Shopify et celle utilisée par jekyll.
 
