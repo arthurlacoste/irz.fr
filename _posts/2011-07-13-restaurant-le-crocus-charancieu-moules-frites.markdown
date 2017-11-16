@@ -16,7 +16,7 @@ tags:
 - plat à volonté
 ---
 
-_Cet article à été modifié suite à l'[accusation de diffamation](http://irz.fr/accusation-en-diffamation-crocus-charancie/) du restaurant concerné par cet article._
+_Cet article à été modifié suite à l'[accusation de diffamation](https://irz.fr/accusation-en-diffamation-crocus-charancie) du restaurant concerné par cet article._
 
 Le crocus à Charancieu fait partie de ces restaurants de campagne qui proposent un service plutôt agréable, peu onéreux, et vraiment bon, tant que l'on reste dans la tranchée de la carte. J'ai tenté pour vous l'expérience du **no man's land**, la soirée Moule-frite à volonté.
 
@@ -44,4 +44,4 @@ Nous nous sommes rabattus sur une assiette de profiteroles correctes. Je recom
 
 
 
-Oui, les moules du Crocus sont fraîches. Un [courrier des avocats du Crocus](http://irz.fr/accusation-en-diffamation-crocus-charancie/) me l'a bien validé. De plus, une pizza sera bien plus bourrative que des moules si vous êtes un gros mangeur : je les conseille fortement. Cependant, si vous êtes un fin gourmet à l’appétit maigrichon, je vous conseille une assiette de ces moules.
+Oui, les moules du Crocus sont fraîches. Un [courrier des avocats du Crocus](https://irz.fr/accusation-en-diffamation-crocus-charancie) me l'a bien validé. De plus, une pizza sera bien plus bourrative que des moules si vous êtes un gros mangeur : je les conseille fortement. Cependant, si vous êtes un fin gourmet à l’appétit maigrichon, je vous conseille une assiette de ces moules.

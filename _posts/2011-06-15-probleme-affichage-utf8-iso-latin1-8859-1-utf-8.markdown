@@ -21,11 +21,11 @@ tags:
 
 La différence entre l'UTF-8 et l'ISO-8859-1 est simple. Le premier permet d'utiliser une ribambelle de caractères lorsque l'autre se limite à 256 caractères. L'UTF-8 permet notamment d'écrire un document en plusieurs langues, ce qui n'est pas négligeable.
 
-De manière générale, je vous conseille d'utiliser l'UTF-8. Pour cela, votre logiciel d'édition permet de choisir le type d'encodage de votre document, c'est une première opération à effectuer. Sur le même site, il vaut mieux que l'ensemble de vos documents et bases de données soient encodées avec la même norme, sinon vous allez être dans ces cas la :
+De manière générale, je vous conseille d'utiliser l'UTF-8. Pour cela, votre logiciel d'édition permet de choisir le type d'encodage de votre document, c'est une première opération à effectuer. Sur le même site, il vaut mieux que l'ensemble de vos documents et bases de données soient encodées avec la même norme, sinon vous allez être dans l'un des cas suivant :
 
 
 
-### La page affiche des caractères comme ceci à la place des accents : "Ã©", "Ã®", ...
+# La page affiche des caractères comme ceci à la place des accents : "Ã©", "Ã®", ...
 
 
 
@@ -35,12 +35,10 @@ Les données sont en UTF-8, et le navigateur affiche de l'ISO-8859-1. Il faut do
 
 
 
-### La page affiche des caractères dans ce genre : "�"
+# La page affiche des caractères dans ce genre : "�"
 
 
 
-Les données ont été enregistrées au format ISO-8859-1 (aussi appelé **Latin-1 ou **ISO/CEI 8859-1)****, et le navigateur les affiche en pensant avoir affaire à de l'UTF-8, du coup ça fout carrément le bordel, et c'est normal. Cette balise <meta /> est susceptible de mettre en ordre votre document html :
+Les données ont été enregistrées au format ISO-8859-1 (aussi appelé **Latin-1** ou **ISO/CEI 8859-1**) et le navigateur les affiche en pensant avoir affaire à de l'UTF-8, du coup ça fout carrément le bordel, et c'est normal. Cette balise <meta /> est susceptible de mettre en ordre votre document html :
 
 `<meta http-equiv="content-Type" content="text/html; charset=iso-8859-1" />`
-
-

@@ -34,6 +34,6 @@ Affaire à suivre...
 
 En revanche, je suis paradoxalement très satisfait du produit en tant que tel, car dans son utilisation quotidienne, il se révèle être une alternative redoutable contre tout types d'écouteurs-micro (bluetooth ou non) confondus.
 
-**Edit février 2013 :** Les écouteurs se sont décollés du socle en plastique, il faut que je les recolles ! Ce casque me blase ! Je vous recommande la lecture de mon article qui décrit [ce que j'utilise pour écouter de la musique](http://irz.fr/ecouter-musique/).
+**Edit février 2013 :** Les écouteurs se sont décollés du socle en plastique, il faut que je les recolles ! Ce casque me blase ! Je vous recommande la lecture de mon article qui décrit [ce que j'utilise pour écouter de la musique](https://irz.fr/ecouter-musique).
 
 Pour toutes les questions du style "combien de fois appuyer pour faire tel ou tel trucs" je vous conseille [la lecture de la notice](http://www.bee-wi.com/site/user_guides/BBH200_Multilingual_User_Manual.pdf).

@@ -33,13 +33,13 @@ Aujourd'hui si je vous parle de tout ça, c'est parce que toutes les conditions 
 
 
 
-[embed]http://www.youtube.com/watch?v=xG6p0z_W2Bo[/embed]
+{% include video id="xG6p0z_W2Bo" provider="youtube" %}
 
 
 
 
 
-J'en ai déjà parlé [dans l'épisode 2](http://irz.fr/bresil-mon-premier-voyage-2-dans-mon-sac/), mais il faut se préparer un peu à se faire chier dans l'avion. Normal, je vais passer plus de 40h aller retour dans les airs, parcourir des milliers de kilomètres. Bref. Les divertissements sont de rigueur une fois que vous êtes au dessus des nuages.
+J'en ai déjà parlé [dans l'épisode 2](https://irz.fr/bresil-mon-premier-voyage-2-dans-mon-sac), mais il faut se préparer un peu à se faire chier dans l'avion. Normal, je vais passer plus de 40h aller retour dans les airs, parcourir des milliers de kilomètres. Bref. Les divertissements sont de rigueur une fois que vous êtes au dessus des nuages.
 
 
 
@@ -75,7 +75,7 @@ Ma petite vessie se manifeste avant même que je prenne place dans l'avion. Tant
 
 
 
-[![L'avion qui nous emmena à Madrid](https://static.irz.fr/2013/07/avion-lyon-madrid-640x480.jpg)](http://irz.fr/mon-premier-voyage-en-avion/avion-lyon-madrid/)
+[![L'avion qui nous emmena à Madrid](https://static.irz.fr/2013/07/avion-lyon-madrid-640x480.jpg)](https://irz.fr/recherche?q=avion-lyon-madrid)
 
 
 

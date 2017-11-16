@@ -18,7 +18,7 @@ tags:
 
 Au menu du jour, nous allons voir comment détourner un classement. Tiens, et si commençait par parler un peu de Justin ? Non non, ça ne veut pas dire que j'écoute ! Quoi que, j'ai toujours bien aimé cette parodie - version Starcraft 2 - de baby des Nerd Alert, "Banelings"<!-- more --> :
 
-[embed]http://www.youtube.com/watch?v=fzMhh8zhTiY[/embed]
+{% include video id="fzMhh8zhTiY" provider="youtube" %}
 
 
 
@@ -46,7 +46,7 @@ J'utilise le mot truquer, mais en réalité c'est un phénomène acquis dans not
 
 En réalité, **les classements sont sans cesse détournés**, et comme l'illustre notamment cette histoire d'Appgratis, et c'est bien la publicité qui régit les classements ! En effet, comment pensez-vous que les films deviennent populaires, ou qu'un président est élu ? Oui la publicité fait tout, et les budgets marketing prennent une proportion incroyable pour faire ou défaire la popularité d'une marque, d'un artiste, d'une application. La publicité est l'un des pendants indéniable de notre société capitalise les gars.
 
-Il y a des exceptions. Des films qui cartonnent sans budget comm', des sociétés originales et créatives qui percent sur un marché de niche, ou un artiste qui - de par son simple charisme - devient l'égérie de toute une génération. Ceci s'appelle le bouche à oreille. C'est une arme fatale que l'on ne contrôle pas. Elle créé par [des évangélistes](http://irz.fr/oui-je-suis-un-evangeliste/) qui n'auront de cesse de promouvoir les produits qui leurs plaisent. C'est la "force" de l'homme, alors ne la négligez pas.
+Il y a des exceptions. Des films qui cartonnent sans budget comm', des sociétés originales et créatives qui percent sur un marché de niche, ou un artiste qui - de par son simple charisme - devient l'égérie de toute une génération. Ceci s'appelle le bouche à oreille. C'est une arme fatale que l'on ne contrôle pas. Elle créé par [des évangélistes](https://irz.fr/oui-je-suis-un-evangeliste) qui n'auront de cesse de promouvoir les produits qui leurs plaisent. C'est la "force" de l'homme, alors ne la négligez pas.
 
 Même aujourd'hui, on ne peut pas avoir une emprise sur tout. On en est certes pas loin, mais ceci est une autre histoire.
 

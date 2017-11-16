@@ -160,7 +160,7 @@ Si l'on regarde un peu le cicuit de notre projet, nous pouvons voir que les pin 
 
 Erratum : le cable jaune n'est pas bien positionné, sur la Raspi, il doit se trouver tout en bas à gauche, sur la masse (merci Xhark).
 
-[![schéma_bb](https://static.irz.fr/2015/08/schéma_bb-640x388.png)](http://irz.fr/introduction-au-gpio-du-raspberry-pi-2/schema_bb/)
+[![schéma_bb](https://static.irz.fr/2015/08/schéma_bb-640x388.png)](https://irz.fr/recherche?q=schema_bb)
 
 Ou en réel :
 

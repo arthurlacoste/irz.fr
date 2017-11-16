@@ -18,7 +18,7 @@ Pionen est un ancien centre de la défense civile construite dans les Montagnes 
 
 Pour ceux qui n'ont pas vu TPB AFK, je vous laisse enrichir votre culture générale en téléchargeant (gratuitement) le film (+ les [sous titres en français](http://www.opensubtitles.org/fr/subtitles/4803722/tpb-afk-the-pirate-bay-away-from-keyboard-fr)), ou en regardant directement la vidéo sur votre site de partage de vidéo favori :
 
-[embed]http://www.youtube.com/watch?v=BpeqOseSl0s[/embed]
+{% include video id="BpeqOseSl0s" provider="youtube" %}
 
 Ce qui m'a vraiment épaté, c'est la construction de ce data center qui est très loin de [ce qu'on peut voir habituellement]( http://irz.fr/?attachment_id=1438448792).
 

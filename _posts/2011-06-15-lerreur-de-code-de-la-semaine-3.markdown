@@ -22,4 +22,4 @@ A droite, les lignes continues du marquage au sol délimite la bande cyclable de
 Réponse B et D.
 
 
- Si vous avez aimé, retrouvez toutes les [erreurs de code de la semaine](http://irz.fr/category/erreur-de-code/) ! 
+ Si vous avez aimé, retrouvez toutes les [erreurs de code de la semaine](https://irz.fr/) ! 

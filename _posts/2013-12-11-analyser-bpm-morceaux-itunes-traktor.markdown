@@ -22,8 +22,8 @@ La solution, c'est donc d'analyser vos track **avant** de faire vos mix. Ce qui 
 Après avoir ouvert traktor (c'est mieux quand même !), aller chercher dans votre explorateur le dossier dont vous souhaitez analyser le BPM. effectuez dessus un clique droit, import to collection. Ceci va ajouter le dossier en question dans votre "collection", un lieu privilégié et magique plein des licornes volantes !
 
 [
-](http://irz.fr/analyser-bpm-morceaux-itunes-traktor/traktor-bpm-chargement/) [
-](http://irz.fr/analyser-bpm-morceaux-itunes-traktor/traktor-bpm-consistency-check-report/) [![traktor-bpm-import-to-collection](https://static.irz.fr/2013/12/traktor-bpm-import-to-collection-640x493.png)](http://irz.fr/analyser-bpm-morceaux-itunes-traktor/traktor-bpm-import-to-collection/)
+](https://irz.fr/recherche?q=traktor-bpm-chargement) [
+](https://irz.fr/recherche?q=traktor-bpm-consistency-check-report) [![traktor-bpm-import-to-collection](https://static.irz.fr/2013/12/traktor-bpm-import-to-collection-640x493.png)](https://irz.fr/recherche?q=traktor-bpm-import-to-collection)
 
 Bref, la collection est une liste qui sera vérifié lors de chaque de démarrage de traktor.
 
@@ -31,11 +31,11 @@ Donc, après avoir effectué cette manipulation autant de fois que désiré (vou
 
 Une fenêtre "Consistency Check report" vous indiquera le nombre de morceaux à analyser, avec un bouton "Analyze". Cliquez dessus, puis sur OK sur la fenêtre "Analyze". Cliquez sur Ok sur la fenêtre précédente.
 
-[![traktor-bpm-consistency-check-report](https://static.irz.fr/2013/12/traktor-bpm-consistency-check-report.png)](http://irz.fr/analyser-bpm-morceaux-itunes-traktor/traktor-bpm-consistency-check-report/)
+[![traktor-bpm-consistency-check-report](https://static.irz.fr/2013/12/traktor-bpm-consistency-check-report.png)](https://irz.fr/recherche?q=traktor-bpm-consistency-check-report)
 
 Vous pouvez voir en bas de cette fenêtre, le chargement de l'analyse ainsi que le temps restant. Si vous avez quelques milliers de chansons, vous pouvez aller vous faire un café, un cinéma, et aller visiter le marché de noël, vous avez le temps.
 
-[![traktor-bpm-chargement](https://static.irz.fr/2013/12/traktor-bpm-chargement-640x493.png)](http://irz.fr/analyser-bpm-morceaux-itunes-traktor/traktor-bpm-chargement/)
+[![traktor-bpm-chargement](https://static.irz.fr/2013/12/traktor-bpm-chargement-640x493.png)](https://irz.fr/recherche?q=traktor-bpm-chargement)
 
 Après ceci, vos track seront déjà toutes pré-analysées, le BPM s'affichera instantanément en mettant le fichier dans votre Deck. Cependant, vous ne verrez pas forcément le BPM de votre morceau apparaître dans la colonne BPM de votre dossier (ou liste de lecture), c'est normal. Ceci n'est visible que dans votre collection. Pour remédier à cela, il faut que vos chansons soient issues d'iTunes. Allez sur votre liste de lecture préféré, et pour vos nouveaux morceaux, lancez la lecture du morceau. Ca prend un dixième de seconde et voilà vos BPM chargé sur l'ensemble des morceaux. En redémarrant Traktor, vos BPM seront tous visible dans votre liste de lecture !
 
@@ -43,5 +43,5 @@ Après ceci, vos track seront déjà toutes pré-analysées, le BPM s'affichera 
 
 Ca peut être utile pour préparer vos sets en préparant des playlist dans des tranches de BPM spécifiques. Il suffit de faire clique droit sur la ligne des titre (la ou il y a Nom, Durée, Artiste, Album) et d'ajouter "Batt. par minute". Et voilà.
 
-[![traktor-bpm-itunes](https://static.irz.fr/2013/12/traktor-bpm-itunes-640x372.png)](http://irz.fr/analyser-bpm-morceaux-itunes-traktor/traktor-bpm-itunes/)
+[![traktor-bpm-itunes](https://static.irz.fr/2013/12/traktor-bpm-itunes-640x372.png)](https://irz.fr/recherche?q=traktor-bpm-itunes)
 

@@ -30,7 +30,7 @@ Allons ensemble faire un tour des possibilités qui s'offrent aux plus radins (o
 
 
 
-## [![IMG_0054](https://static.irz.fr/2013/09/IMG_0054-640x426.jpg)](http://irz.fr/deguisement/img_0054/)
+## [![IMG_0054](https://static.irz.fr/2013/09/IMG_0054-640x426.jpg)](https://irz.fr/recherche?q=img_0054)
 
 
 
@@ -43,7 +43,7 @@ En tant qu’organisateur, vous pouvez vous aussi préparer à l'avance quelques
 
 
 ## La tenue de boulot[
-](http://irz.fr/deguisement/img_0018/) [![IMG_0025](https://static.irz.fr/2013/09/IMG_0025-640x426.jpg)](http://irz.fr/deguisement/img_0025/)
+](https://irz.fr/recherche?q=img_0018) [![IMG_0025](https://static.irz.fr/2013/09/IMG_0025-640x426.jpg)](https://irz.fr/recherche?q=img_0025)
 
 
 
@@ -65,7 +65,7 @@ Ce qui est génial avec les vieux vêtements, c'est qu'ils sont susceptibles de 
 
 
 
-## [![IMG_0018](https://static.irz.fr/2013/09/IMG_0018-640x426.jpg)](http://irz.fr/deguisement/img_0018/)
+## [![IMG_0018](https://static.irz.fr/2013/09/IMG_0018-640x426.jpg)](https://irz.fr/recherche?q=img_0018)
 
 
 
@@ -83,7 +83,7 @@ Et petite astuce bonus...
 
 
 
-## [![IMG_0004](https://static.irz.fr/2013/09/IMG_0004-640x426.jpg)](http://irz.fr/deguisement/img_0004/)
+## [![IMG_0004](https://static.irz.fr/2013/09/IMG_0004-640x426.jpg)](https://irz.fr/recherche?q=img_0004)
 
 
 

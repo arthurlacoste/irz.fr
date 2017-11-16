@@ -23,16 +23,16 @@ C'est une chose que je constate souvent, en bas de page, à côté du copyright,
 J'ai pensé à vous en vous concoctant une petite fonction PHP qui fait tout ça à votre place !
 
 
-    
-    function nos_annees($annee) {
-    $annee_en_cours = date('Y');
-        if($annee!=$annee_en_cours) {
-            return $annee . '-' . $annee_en_cours;
-        }
-        return $annee;
+```php    
+function nos_annees($annee) {
+$annee_en_cours = date('Y');
+    if($annee!=$annee_en_cours) {
+        return $annee . '-' . $annee_en_cours;
     }
-    
-    
+    return $annee;
+}
+```    
+
 
 
 
@@ -41,10 +41,10 @@ J'ai pensé à vous en vous concoctant une petite fonction PHP qui fait tout ça
 Pour vous en servir, rien de plus simple, voici le code à insérer en bas de page pour faire appel à cette fonction :
 
 
-    
-    < ?php echo nos_annees(1997); ?>  © Tartempion Prod.
-    
+```  
+< ?php echo nos_annees(1997); ?>  © Tartempion Prod.
+```
 
 
 
-C'est le genre de petites fonctions qui permet d'avoir un forme de pérennité dans ses pages, en évitant de devoir à mettre à jour ce genre de choses à la main chaque année, et en évitant d'avoir des données erronées qui traînent sur votre site.
+C'est le genre de petites fonctions qui permet d'avoir une forme de pérennité dans ses pages, en évitant de devoir à mettre à jour ce genre de choses à la main chaque année, et en évitant d'avoir des données erronées qui traînent sur votre site.

@@ -17,7 +17,8 @@ tags:
 - Voler un mac
 ---
 
-[caption id="attachment_1438447720" align="alignright" width="200"][![](https://static.irz.fr/2011/06/tumblr_llvrhxBLUo1qkzrzto1_500.jpg)](https://static.irz.fr/2011/06/tumblr_llvrhxBLUo1qkzrzto1_500.jpg) Voilà une capture d'écran du voleur prise grâce au logiciel Hidden[/caption]
+ {% include figure image_path="https://static.irz.fr/2011/06/tumblr_llvrhxBLUo1qkzrzto1_500.jpg" alt="Voilà une capture d'écran du voleur prise grâce au logiciel Hidden" caption="Voilà une capture d'écran du voleur prise grâce au logiciel Hidden" %}
+
 
 Je suis tombé par hasard sur le blog d'un type qui s'était [fait volé son mac](http://thisguyhasmymacbook.tumblr.com/), intitulé sobrement "The guy have my Macbook". Un blog sur ce seul sujet ? Vous allez me dire, il se lamente, ça ne doit pas être très intéressant... Et bien absolument pas !
 

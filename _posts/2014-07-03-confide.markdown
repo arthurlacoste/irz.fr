@@ -42,7 +42,7 @@ De même, si vous pensiez pouvoir montrer votre message à quelqu'un, il faut qu
 
 La seule solution que j'ai trouvé et sortie de mon esprit tourmenté, c'est de filmer votre écran au moment ou vous lisez le message. Un peu comme ça :
 
-[embed]https://www.youtube.com/watch?v=y7PpP-oodh4[/embed]
+{% include video id="watch?v=y7PpP-oodh4" provider="youtube" %}
 
 **Parce que vous allez pouvoir vous la péter en soirée.**
 

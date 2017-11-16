@@ -18,7 +18,7 @@ En 2003, un inconnu, amateur de poker à ses heures perdues, [devient riche et c
 
 Comme toute discipline, le poker demande un peu de patience et de bonne volonté. Voici quelques étapes pour vous aider à commencer.
 
-[embed]https://www.youtube.com/watch?v=JusDsM6J5fc[/embed]
+{% include video id="watch?v=JusDsM6J5fc" provider="youtube" %}
 
 **1. Documentez-vous **
 

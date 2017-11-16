@@ -21,7 +21,7 @@ Et tiens, ça faisait longtemps que je n'avais pas fait le point :
 ### [![](https://static.irz.fr/2010/03/CIMG0893-300x225.jpg)](https://static.irz.fr/2010/03/CIMG0893.jpg)Articles en anglais
 
 
-Parfois, quand j'écris un article [utile](http://irz.fr/objectif-neige/) (ou [marrant](http://irz.fr/aujourdhui-jai-signe-un-billet-de-banque/)) que [je n'ai pas moi même traduit](http://irz.fr/lecons-de-vie-albert-einstein/), ça ne me dérangerais pas qu'il soit traduit. Et j'ai la chance d'avoir un nouvel arrivant dans l'équipe (après, Valérie, Lucie, et Blandine à la correction) : David Hewes. En dernière année de licence de lettres en Angleterre, il vient s'ajouter à l'équipe en tant que traducteur. J'en suis encore à étudier les conditions techniques, mais ça ne devrait pas prendre plus d'une à deux semaines.
+Parfois, quand j'écris un article [utile](https://irz.fr/objectif-neige) (ou [marrant](https://irz.fr/aujourdhui-jai-signe-un-billet-de-banque)) que [je n'ai pas moi même traduit](https://irz.fr/lecons-de-vie-albert-einstein), ça ne me dérangerais pas qu'il soit traduit. Et j'ai la chance d'avoir un nouvel arrivant dans l'équipe (après, Valérie, Lucie, et Blandine à la correction) : David Hewes. En dernière année de licence de lettres en Angleterre, il vient s'ajouter à l'équipe en tant que traducteur. J'en suis encore à étudier les conditions techniques, mais ça ne devrait pas prendre plus d'une à deux semaines.
 
 Et si je n'écris pas moi-même mes articles en anglais, c'est que [je n'ai pas le niveau suffisant](http://www.youtube.com/watch?v=9oBHga1RgWU) pour cet exercice.
 
@@ -29,7 +29,7 @@ Et si je n'écris pas moi-même mes articles en anglais, c'est que [je n'ai pas 
 ### Projets vidéos
 
 
-Entre ma série d'[interviews d'entrepreneurs qui commence](http://irz.fr/objectif-neige/), des tutoriaux vidéos en préparation, un projet d'Atelier vidéo pour mon association, [la Review](http://irz.fr/tag/review/) à préparer, et encore d'autres surprises (j'en reparlerais plus tard), je teste ma capacité à être à l'écoute de mon environnement et mes capacités oratoires.
+Entre ma série d'[interviews d'entrepreneurs qui commence](https://irz.fr/objectif-neige), des tutoriaux vidéos en préparation, un projet d'Atelier vidéo pour mon association, [la Review](https://irz.fr/recherche?q=review) à préparer, et encore d'autres surprises (j'en reparlerais plus tard), je teste ma capacité à être à l'écoute de mon environnement et mes capacités oratoires.
 
 
 ### L'actualité, c'est bien, mais....

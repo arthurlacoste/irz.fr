@@ -16,7 +16,7 @@ tags:
 - valise
 ---
 
-Vous savez que je pars à Rio de Janeiro une grosse semaine, [je vous ai en effet déjà parlé de quelque-uns de mes préparatifs](http://irz.fr/bresil-premier-voyage-preparatif/). Cependant, je ne vous ai pas encore parlé de ce qu'il y a dans mon sac ! Et oui, je vais répondre à la fameuse question du "**What's in my bag ?**" ! <!-- more -->
+Vous savez que je pars à Rio de Janeiro une grosse semaine, [je vous ai en effet déjà parlé de quelque-uns de mes préparatifs](https://irz.fr/bresil-premier-voyage-preparatif). Cependant, je ne vous ai pas encore parlé de ce qu'il y a dans mon sac ! Et oui, je vais répondre à la fameuse question du "**What's in my bag ?**" ! <!-- more -->
 
 Il faut savoir que ma valise en soute (pour l'avion) peut faire jusqu'à 23 Kilos. Et il n'y a pas vraiment de poids maximal pour ce qui est du bagage à main. Bien sûr, on va essayer de ne pas trop se charger histoire de ramener quelques souvenirs.
 
@@ -58,7 +58,7 @@ Si vous me suivez un peu, vous savez que je suis en possession de quelques petit
   * Objectif Canon EF-S 18-135mm f3.5/56 STM
 
     
-  * [Objectif fish-eye](http://irz.fr/test-objectif-fish-eyes/) pour le iPhone 5
+  * [Objectif fish-eye](https://irz.fr/test-objectif-fish-eyes) pour le iPhone 5
 
     
   * iPhone 5 comme appareil photo

@@ -22,4 +22,4 @@ Ici, la bande d'arrêt d'urgence indique que je dispose d'une distance de sécur
 
 Réponse A.
 
- Si vous avez aimé, retrouvez toutes les [erreurs de code de la semaine](http://irz.fr/category/erreur-de-code/) ! 
+ Si vous avez aimé, retrouvez toutes les [erreurs de code de la semaine](https://irz.fr/) ! 

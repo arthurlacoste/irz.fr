@@ -1,9 +1,72 @@
 ---
-layout: archive
+header:
+  og_image: https://static.irz.fr/2017/11/background.gif
 ---
+<!doctype html>
+<!--
+_  ___  ____
+| || . \|_  /
+| ||   / / /
+|_||_\_\/___|
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
 
-{% include paginator.html %}
+Toi, tu es curieux !
+
+Alors jouons ensemble.
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% if paginator.page==1 %}
+    <div class="intro">
+
+    </div>
+    {% endif %}
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+      {% include page__hero.html %}
+    {% elsif page.header.video.id and page.header.video.provider %}
+      {% include page__hero_video.html %}
+    {% endif %}
+
+    {% if page.url != "/" and site.breadcrumbs %}
+      {% unless paginator %}
+        {% include breadcrumbs.html %}
+      {% endunless %}
+    {% endif %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        <div class="page__inner-wrap">
+        {% unless page.header.overlay_color or page.header.overlay_image %}
+          {% if page.title %}<h1 class="post__title feature-title" itemprop="headline">{% include helpers/generate-feature-title.html title=page.title %}</h1>{% endif %}
+        {% endunless %}
+        {% for post in paginator.posts %}
+          {% include archive-single.html %}
+        {% endfor %}
+
+        {% include paginator.html %}
+      </div>
+    </article>
+    </div>
+
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

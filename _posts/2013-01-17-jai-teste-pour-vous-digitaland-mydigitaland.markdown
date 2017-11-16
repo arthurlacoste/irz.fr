@@ -23,11 +23,11 @@ tags:
 - Un consommateur averti en vaut deux
 ---
 
-https://youtu.be/OXRy-8wNvSQ
+{% include video id="OXRy-8wNvSQ" provider="youtube" %}
 
 Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
 
-Internet est une jungle ou les sites d'entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c'est peu dire ! La série d'article "[J'ai testé pour vous](http://irz.fr/tag/jai-teste-pour-vous/)" permet d'évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l'entreprise en question en se faisant livrer, ou bien sur le terrain.
+Internet est une jungle ou les sites d'entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c'est peu dire ! La série d'article "[J'ai testé pour vous](https://irz.fr/recherche?q=jai-teste-pour-vous)" permet d'évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l'entreprise en question en se faisant livrer, ou bien sur le terrain.
 
 L'entreprise dont je vais vous parler aujourd'hui est hongkongaise, et propose via son site [Mydigitaland.com](http://www.mydigitaland.com/), des appareil photos, appareil high-tech (HTC, Apple, Google) et autres accessoires photographique à **prix cassé**. La raison : des produits importés directement depuis Hong-Kong, ou importés en bateau depuis l'Angleterre. Et le plus important, sans TVA. Ce qui implique possiblement des frais de douanes, mais nous en parlerons plus longuement dans la suite de cet article.
 
@@ -96,7 +96,3 @@ Une perle high-tech venu de l'autre bout de la planète qui ne fait pas de mal. 
 
 
 <blockquote>Ma note : 8 / 10</blockquote>
-
-
-
-

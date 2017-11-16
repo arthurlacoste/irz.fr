@@ -28,7 +28,7 @@ Mais une image vaut mieux qu'un long discours :
 
 
 
-[![androidlock-xt-tweak-cydia](https://static.irz.fr/2013/02/androidlock-xt-tweak-cydia-640x480.png)](http://irz.fr/tweak-cydia-androidlock-xt/androidlock-xt-tweak-cydia/)
+[![androidlock-xt-tweak-cydia](https://static.irz.fr/2013/02/androidlock-xt-tweak-cydia-640x480.png)](https://irz.fr/recherche?q=androidlock-xt-tweak-cydia)
 
 
 En ce qui concerne le paramétrage, il faut aller dans Réglages > AndroidLock XT, puis vous pouvez :
@@ -105,6 +105,6 @@ Petite astuce pour bypasser (passer outre) AndroidLock XT :
 # Conclusion
 
 
-En conclusion, c'est un tweak vraiment simple à mettre en oeuvre, et avec pas mal de personnalisation possible. Il est actuellement en version 2.7.2 et vous pouvez le trouver dans les sources de bases au prix de 1,49$, ou bien gratuitement dans le repo de XSellize (ajouter la source **http://cydia.xsellize.com**). Inutile de vous dire que v[ous devez disposer d'un iPhone Jailbreaké](http://irz.fr/jailbreak-ios6/).
+En conclusion, c'est un tweak vraiment simple à mettre en oeuvre, et avec pas mal de personnalisation possible. Il est actuellement en version 2.7.2 et vous pouvez le trouver dans les sources de bases au prix de 1,49$, ou bien gratuitement dans le repo de XSellize (ajouter la source **http://cydia.xsellize.com**). Inutile de vous dire que v[ous devez disposer d'un iPhone Jailbreaké](https://irz.fr/jailbreak-ios6).
 
 

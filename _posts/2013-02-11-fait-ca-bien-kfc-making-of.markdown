@@ -14,7 +14,7 @@ tags:
 - réflexions
 ---
 
-Salut à vous, je ne sais pas si vous avez vu cette [vidéo de moi nu](http://irz.fr/ce-que-vous-avez-toujours-reve-de-faire-au-kfc/) (bon ok c'est juste une vidéo de moi qui va au KFC), cette article en est un peu le making of, ainsi que des pistes pour les prochaines vidéos. Je vais essayer de porter un regard très critique sur moi-même et ce afin de m'améliorer en tirant des leçons de mes bêtises. <!-- more -->
+Salut à vous, je ne sais pas si vous avez vu cette [vidéo de moi nu](https://irz.fr/ce-que-vous-avez-toujours-reve-de-faire-au-kfc) (bon ok c'est juste une vidéo de moi qui va au KFC), cette article en est un peu le making of, ainsi que des pistes pour les prochaines vidéos. Je vais essayer de porter un regard très critique sur moi-même et ce afin de m'améliorer en tirant des leçons de mes bêtises. <!-- more -->
 
 
 # Making of

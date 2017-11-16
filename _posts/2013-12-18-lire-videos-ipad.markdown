@@ -46,8 +46,8 @@ Pour ce qui est de regarder des séries, films, DIVX ou autres vidéos télécha
 
 Pour ce qui est du chargement des vidéos, il suffit d'aller dans l'onglet "Apps" puis en bas de la page, dans la partie "Partage de fichiers", sélectionnez VLC, puis dans la partie de droite, cliquez sur le bouton "Ajouter".
 
-[![itunes-partage-de-fichiers](https://static.irz.fr/2013/12/itunes-partage-de-fichiers-640x425.png)](http://irz.fr/lire-videos-ipad/itunes-partage-de-fichiers/)
+[![itunes-partage-de-fichiers](https://static.irz.fr/2013/12/itunes-partage-de-fichiers-640x425.png)](https://irz.fr/recherche?q=itunes-partage-de-fichiers)
 
-[![itunes-partage-de-fichiers-ajouter](https://static.irz.fr/2013/12/itunes-partage-de-fichiers-ajouter-640x424.png)](http://irz.fr/lire-videos-ipad/itunes-partage-de-fichiers-ajouter/)
+[![itunes-partage-de-fichiers-ajouter](https://static.irz.fr/2013/12/itunes-partage-de-fichiers-ajouter-640x424.png)](https://irz.fr/recherche?q=itunes-partage-de-fichiers-ajouter)
 
 iTunes se chargera directement de mettre vos vidéos sur votre iDevice, et ce sans synchronisation : vous pouvez en effet utiliser cette manipulation depuis n'importe quel ordinateur (PC/Mac) équipé d'iTunes, vous n'êtes pas obligés d'être sur votre ordinateur de référence...

@@ -47,7 +47,7 @@ Petite idée pour vous : "Je voudrais que quelqu'un m'attende quelque part" de A
 
 
 
-Autre produit culturel de prédilection, [le DVD à encore de beaux jours devant lui](http://irz.fr/cd-dvd-blueray/). Vous pouvez en effet offrir le dernier blockbuster  à la mode, ou alors (et c'est ce pourquoi j'offre des DVD) vous avez des promotions à Noël du style "6 DVD pour 30€". Quoi, 6 DVD ? Oui ! Avec ça, vous pouvez offrir pour 5€ un cadeau a chacun de vos frères, soeurs et même vos parents si vous n'êtes pas une famille nombreuse.
+Autre produit culturel de prédilection, [le DVD à encore de beaux jours devant lui](https://irz.fr/cd-dvd-blueray). Vous pouvez en effet offrir le dernier blockbuster  à la mode, ou alors (et c'est ce pourquoi j'offre des DVD) vous avez des promotions à Noël du style "6 DVD pour 30€". Quoi, 6 DVD ? Oui ! Avec ça, vous pouvez offrir pour 5€ un cadeau a chacun de vos frères, soeurs et même vos parents si vous n'êtes pas une famille nombreuse.
 
 
 
@@ -135,4 +135,4 @@ Le message sous entendu derrière le fait d'offrir du parfum peut être "tu pues
 
 
 
-Et sinon, si vous voulez offrir un iPhone 5s, sachez que [je vend le mien](http://irz.fr/je-vend-mon-iphone-5s-32go/) !
+Et sinon, si vous voulez offrir un iPhone 5s, sachez que [je vend le mien](https://irz.fr/je-vend-mon-iphone-5s-32go) !

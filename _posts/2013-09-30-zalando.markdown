@@ -14,7 +14,7 @@ post_format:
 - En passant
 ---
 
-https://youtu.be/OXRy-8wNvSQ
+{% include video id="OXRy-8wNvSQ" provider="youtube" %}
 
 Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
 
@@ -28,7 +28,7 @@ Autant vous le dire tout de suite, on est très loin des sites aux allures de sa
 
 Zalando est particulièrement plébiscité pour ces boutiques de marque. En effet, le site c'est - avec le temps - spécialisé dans la vente de vêtements de marque. Par exemple, si je veux aller sur la page de Benetton chez Zalando, je n'ai qu'à taper Benetton dans le moteur de recherche, et le site fait le reste.
 
-[![zalando-benetton](https://static.irz.fr/2013/09/zalando-benetton-640x536.png)](http://irz.fr/ergonomie-ecommerce-le-cas-zalando/zalando-benetton/)
+[![zalando-benetton](https://static.irz.fr/2013/09/zalando-benetton-640x536.png)](https://irz.fr/recherche?q=zalando-benetton)
 
 Comme vous pouvez le voir (et c'est similaire sur les pages de recherche), vous avez au niveau de la sidebar de gauche des sélecteurs très pratique, qui permettent de choisir une catégorie (homme, femme, enfants, mégère, etc..), une fourchette de prix, ainsi qu'une couleur en particulier. Cette petite chose en ajax permet de préciser en temps réel vos envies les plus folles.
 
@@ -36,4 +36,4 @@ Les quatre premiers produits sont représentatif des vêtements préférés des 
 
 **Zalando Privé**
 
-Sur le site Zalando privé, vous pouvez profiter d'offres exceptionnelles, en cherchant bien, on peut trouver des articles soldés jusqu'à -75% !!! Vous pourriez presque en finir par devenir [un évangéliste](http://irz.fr/oui-je-suis-un-evangeliste/) !
+Sur le site Zalando privé, vous pouvez profiter d'offres exceptionnelles, en cherchant bien, on peut trouver des articles soldés jusqu'à -75% !!! Vous pourriez presque en finir par devenir [un évangéliste](https://irz.fr/oui-je-suis-un-evangeliste) !

@@ -27,9 +27,7 @@ Il se passe d'ailleurs quelque chose d'étrange quand vous vous désencombrez : 
 
 Il y a cependant une astuce très intéressante, pour ranger les vêtements : il consiste à trouver un équilibre afin qu'il puisse tenir "sur la tranche". Et oui, ça prend bien moins de place, et vous avez visuellement l'ensemble de vos vêtements visibles. Voyez vous même :
 
-https://www.youtube.com/watch?v=19i7oyiKVG0
-
-
+{% include video id="19i7oyiKVG0" provider="youtube" %}
 
 Il y a une chose qui m'a beaucoup aidé, et que j'avais un peu de mal à concevoir, c'est au sujet des cadeaux. Un cadeau peut se jeter ! Oui !!! Si vous ne l'utilisez pas, jetez-le sans culpabiliser. Un cadeau est fait pour vous faire plaisir au moment ou il vous a été offert, il a rempli son "but" à ce moment là.
 

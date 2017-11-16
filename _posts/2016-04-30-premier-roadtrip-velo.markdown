@@ -13,7 +13,7 @@ categories:
 
 Je profite de mon train du retour pour faire le point sur ces quelques jours de vélo. Je voulais parler d'un road trip : j'avais pensé faire un peu plus de 150 km, en 3/4 jours, pour me préparer à un plus gros départ, peut être à l'étranger.<!-- more -->
 
-https://www.youtube.com/watch?v=fdswihZYaRc&feature=youtu.be
+{% include video id="fdswihZYaRc" provider="youtube" %}
 
 Mais au final, j'ai parcouru en deux jours l'ensemble de la boucle Mâcon > Chalon-sur-Saône, en passant par la voie verte et la voie bleue. Je ne pensais pas avaler autant de bitume en si peu de temps. Donc deux jours, ce n'est plus vraiment un road trip, si ?
 
@@ -34,7 +34,7 @@ Il faut savoir que je suis parti avec l'attirail nécessaire pour dormir à la b
 Comme vous vous en doutez, j'ai effectivement trouvé un petit F1 à Chalon-sur-Saône.
 [gallery type="rectangular" size="medium" ids="1438459945,1438459946,1438459965,1438459963,1438459958,1438459959,1438459950,1438459952,1438459955,1438459956" orderby="rand"]
 
-[Première partie ici](http://irz.fr/premier-roadtrip-velo/)
+[Première partie ici](https://irz.fr/premier-roadtrip-velo)
 
 Le Lendemain, départ à 10h pour redescendre à Mâcon en passant cette fois-ci par Tournus. Cependant, j'ai loupé la première partie de la voie bleue, j'ai donc fait la première partie de la route sur la départementale. Et je peux vous le dire : je préfère largement rouler sur la piste cyclable !!! Une fois arrivé à Tournus, je récupère la piste :
 [gallery type="rectangular" size="medium" ids="1438459951,1438459947,1438459948,1438459949,1438459961,1438459962,1438459960,1438459957,1438459966,1438459954" orderby="rand"]

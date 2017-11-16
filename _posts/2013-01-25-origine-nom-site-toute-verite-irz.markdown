@@ -17,9 +17,9 @@ tags:
 
 En près de 2 ans d'existence de irz.fr, la version 3 du site ouvre ses portes !
 
-C'est donc un moment assez bien bien choisi pour faire une rétrospective a propos du site le plus débile et inutile que vous pouvez trouver sur internet. Je vous l'avait dit, je vais [chouchouter mon bébé cette année](http://irz.fr/mes-resolutions-en-2013/) ! Le nom de domaine à été acheté le 24 décembre 2010, à une date comprise entre mon anniversaire et Noël.
+C'est donc un moment assez bien bien choisi pour faire une rétrospective a propos du site le plus débile et inutile que vous pouvez trouver sur internet. Je vous l'avait dit, je vais [chouchouter mon bébé cette année](https://irz.fr/mes-resolutions-en-2013) ! Le nom de domaine à été acheté le 24 décembre 2010, à une date comprise entre mon anniversaire et Noël.
 
-Bon déjà je me demande bien ce que je foutais la veille du jour de noël sur mon PC pour acheter un nom de domaine. A si... 
+Bon déjà je me demande bien ce que je foutais la veille du jour de noël sur mon PC pour acheter un nom de domaine. A si...
 
 
 
@@ -95,7 +95,7 @@ Au final, je me suis plus ou moins mis à parler de développement. Mes articles
 
 J'ai envie de me mettre un peu de pression. D'écrire du contenu avec une valeur ajoutée. De mes expériences, parler de choses concrètes. Parler de choses que j'aime, car c'est ce que je fais de mieux.
 
-Faire des articles de plus ou moins 1000 mots par exemple, comme ce que j'ai pu faire ce mois-ci avec [une de mes premières fois](http://irz.fr/mon-premier-tatouage/), mon [test du site Digitaland](http://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland/), [mes résolutions](http://irz.fr/mes-resolutions-en-2013/), ainsi que le présent article.
+Faire des articles de plus ou moins 1000 mots par exemple, comme ce que j'ai pu faire ce mois-ci avec [une de mes premières fois](https://irz.fr/mon-premier-tatouage), mon [test du site Digitaland](https://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland), [mes résolutions](https://irz.fr/mes-resolutions-en-2013), ainsi que le présent article.
 
 Je veux me fixer **des objectifs chiffrés**. Ça me rappelle [cet article de Bastien](http://www.siebmanb.com/blog/bonjour-le-mot-pourquoi-nous-avons-echoue/) qui avait prit conscience de l'importance des objectifs précis. En visiteurs uniques par jours ou autre. C'est motivant de se fixer des objectifs.
 
@@ -129,7 +129,7 @@ Voici les différents thème que le site à arboré tout au long de ses deux ann
 
 
 
-[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](http://irz.fr/category/logiciels/), [Mac OS](http://irz.fr/category/apple), & [Tutoriel](http://irz.fr/category/tutoriel/).
+[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](https://irz.fr/), [Mac OS](http://irz.fr/category/apple), & [Tutoriel](https://irz.fr/).
 
 Pourtant je ne me suis pas cantonné à ces seuls catégories, car aujourd'hui je ne saurai pas dire combien il y a exactement de catégories sur le site. Même si j'ai [une belle page](http://irz.fr/archives) qui liste l'ensemble des articles par catégorie. Faudrait que je fasse du tri...
 
@@ -158,8 +158,6 @@ Voilà, vous y êtes. C'est simple, c'est beau. C'est lavé avec mirlaine. Ça 
 
 
 
-Le site IRZ à fait l'objet d'un nombre de plainte et de demandes de retrait de posts assez conséquent concernant pas mal d'articles ou [je critiquait des restaurants](http://irz.fr/restaurant-le-crocus-charancieu-moules-frites/) (avec [courrier d'avocat](http://irz.fr/diffamation-crocus-charancieu/)), [des services web](http://irz.fr/selliance/), ou bien lorsque je reprenais des diapositives ENPC pour réviser [le code de la route](http://irz.fr/category/code-de-la-route/). La rançon de la connerie ?
+Le site IRZ à fait l'objet d'un nombre de plainte et de demandes de retrait de posts assez conséquent concernant pas mal d'articles ou [je critiquait des restaurants](https://irz.fr/restaurant-le-crocus-charancieu-moules-frites) (avec [courrier d'avocat](https://irz.fr/diffamation-crocus-charancieu)), [des services web](https://irz.fr/selliance), ou bien lorsque je reprenais des diapositives ENPC pour réviser [le code de la route](https://irz.fr/). La rançon de la connerie ?
 
 Et vous, **que pensez vous du nouveau design / logo de irz.fr** ?
-
-

@@ -19,7 +19,7 @@ tags:
 - redacteur
 ---
 
-IRZ était au départ un énième blog. Je voulais me lâcher, en parlant de tout, mais surtout de rien. Un bloc notes "personnel" partagé sans grande ambition. Avec le temps, les visiteurs se sont accumulés et aujourd'hui, le site commence à atteindre une certaine maturité. Vous pouvez d'ailleurs lire [cet article](http://irz.fr/origine-nom-site-toute-verite-irz/), qui évoque la genèse de IRZ.
+IRZ était au départ un énième blog. Je voulais me lâcher, en parlant de tout, mais surtout de rien. Un bloc notes "personnel" partagé sans grande ambition. Avec le temps, les visiteurs se sont accumulés et aujourd'hui, le site commence à atteindre une certaine maturité. Vous pouvez d'ailleurs lire [cet article](https://irz.fr/origine-nom-site-toute-verite-irz), qui évoque la genèse de IRZ.
 
 
 
@@ -31,7 +31,7 @@ IRZ était au départ un énième blog. Je voulais me lâcher, en parlant de tou
 
 
 
-IRZ suit depuis le départ une ligne éditoriale chaotique, axée sur ce qui m'intéresse de manière générale : les nouvelles technologies, le e-commerce, le lifestyle, le développement, etc… Le tout étant découpé en deux. D'un côté il y a les articles tout publics, présents en page d'accueil, et d'un autre côté il y a tout les articles un peu plus techniques, un peu plus geeks, comprenant les [tutoriels](http://irz.fr/tutoriels-informatique/) et autres élucubrations prosaïque.
+IRZ suit depuis le départ une ligne éditoriale chaotique, axée sur ce qui m'intéresse de manière générale : les nouvelles technologies, le e-commerce, le lifestyle, le développement, etc… Le tout étant découpé en deux. D'un côté il y a les articles tout publics, présents en page d'accueil, et d'un autre côté il y a tout les articles un peu plus techniques, un peu plus geeks, comprenant les [tutoriels](https://irz.fr/tutoriels-informatique) et autres élucubrations prosaïque.
 
 
 
@@ -73,7 +73,7 @@ Depuis le début, j'essaye d'écrire des billets pérennes. Un choix délibrér�
 
 
 
-Mais il est aussi question de longueur. [Il y a un an](http://irz.fr/mes-resolutions-en-2013/), je me suis mît dans la tête de faire des articles de plus de 1000 mots. Sur le papier, cela signifie approfondir un sujet. En réalité, pour certains sujets, cela implique un manque de réactivité, car je suis quelqu'un qui met pas mal de temps a écrire, et sur mon temps libre. J'ai pu l'expérimenter dernièrement avec l'article concernant Bitstrips, que j'ai terminé alors que l'application se trouve désormais dans le creux de la vague. Tout ceci pour dire que j'envisage d'écrire des articles plus concis, mais aussi plus nombreux.
+Mais il est aussi question de longueur. [Il y a un an](https://irz.fr/mes-resolutions-en-2013), je me suis mît dans la tête de faire des articles de plus de 1000 mots. Sur le papier, cela signifie approfondir un sujet. En réalité, pour certains sujets, cela implique un manque de réactivité, car je suis quelqu'un qui met pas mal de temps a écrire, et sur mon temps libre. J'ai pu l'expérimenter dernièrement avec l'article concernant Bitstrips, que j'ai terminé alors que l'application se trouve désormais dans le creux de la vague. Tout ceci pour dire que j'envisage d'écrire des articles plus concis, mais aussi plus nombreux.
 
 
 

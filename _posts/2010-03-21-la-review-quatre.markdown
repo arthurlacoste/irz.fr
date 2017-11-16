@@ -23,7 +23,7 @@ Recouvrer la vue grâce à une sucette, c'est maintenant possible. On l'avais d�
 Chatroulette, le site qui permet à nos jeunes enfants d'apprendre l'anatomie des êtres humains viens encore une fois de frapper, après les Moleskines en forme de sourire, [les nouveaux sdf d'internet](http://www.youtube.com/watch?v=32vpgNiAH60), c'est au tour des pétasses du film "tout ce qui brille" de passer sur le site de chat. J'espère que vous ne les avez pas croisées car elles poussent la chansonnette, du moins, elles essayent. (NB : Fake, mon téléchargeur automatique de vidéo sur internet à fait des siennes, je ne sais pas ou j'ai trouvé la vidéo de ces énergumènes...)
 
 **Autopromo : Interview d'entrepreneurs**
-Un peu d'auto-promotion, je commence ma série d'interviews d'entrepreneurs, avec la [rencontre du créateur d'objectif neige](http://irz.fr/objectif-neige/), reçu en toute simplicité à son domicile.
+Un peu d'auto-promotion, je commence ma série d'interviews d'entrepreneurs, avec la [rencontre du créateur d'objectif neige](https://irz.fr/objectif-neige), reçu en toute simplicité à son domicile.
 
 **[![](https://static.irz.fr/2010/03/la-review-300x140.png)](https://static.irz.fr/2010/03/la-review.png)Régionales : une large victoire de la gauche**
 On a constaté que Nicolas Sarkozy avait touché le fond en apprenant les résultats de l'UMP aux régionales. Certains parlent d'un effet titanic. Mieux encore, on comprend mieux le taux d'abstention quand on écoute la remarque de cette mémé anarchiste. Et en plus, si vous faites attention, il y a une affiche de Gorillaz au fond.

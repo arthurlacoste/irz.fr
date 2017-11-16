@@ -24,7 +24,7 @@ Ce qui m'a surpris en premier lieu : la fluidité du service. La qualité de l'i
 
 Un autre avantage : le prix. Le mono-écran est à 8€/mois, mais si vous êtes malin, prenez le multi-écran à 12€/mois ou 4 personnes peuvent se connecter simultanément : 3€ chacun, c'est le prix de 2 cafés en province. C'est presque donné. C'est presque gratuit. Bon ok, ce n'est pas gratuit, mais abordable, c'est certain.
 
-[![netflix-tarifs](https://static.irz.fr/2016/01/netflix-tarifs.png)](http://irz.fr/streaming-payant-revolution/netflix-tarifs/)
+[![netflix-tarifs](https://static.irz.fr/2016/01/netflix-tarifs.png)](https://irz.fr/recherche?q=netflix-tarifs)
 
 Niveau ergonomie, on s'y perd parfois un peu, mais quand on sait ce qu'on cherche, le moteur de recherche fait très bien son travail, et le reste de l'interface est minimaliste : on a droit à l'essentiel.
 
@@ -36,4 +36,4 @@ Le seul bâton dans les roues de la VOD française, c’est la chronologie des m
 
 Mais la cadence soutenue des [parutions de contenu](http://www.allflicks.fr/) continue bon train. En effet, des dizaines de films & séries envahissent le service chaque semaine, pour notre plus grand bonheur.
 
-Il y a 2 ans - dans un précédent article - je posais la question de [l'obsolescence des supports physique](http://irz.fr/cd-dvd-blueray/) (DVD, CD, etc..). Le marché ne me semblait pas encore mûr, mais les choses ont bien changé. L'arrivée de Netflix en France à en effet participé à faire décoller la VOD française, à repenser l'éco-système précédemment en place. Il ne manque plus qu'un assouplissement de la chronologie des médias pour fermer la roue.
+Il y a 2 ans - dans un précédent article - je posais la question de [l'obsolescence des supports physique](https://irz.fr/cd-dvd-blueray) (DVD, CD, etc..). Le marché ne me semblait pas encore mûr, mais les choses ont bien changé. L'arrivée de Netflix en France à en effet participé à faire décoller la VOD française, à repenser l'éco-système précédemment en place. Il ne manque plus qu'un assouplissement de la chronologie des médias pour fermer la roue.

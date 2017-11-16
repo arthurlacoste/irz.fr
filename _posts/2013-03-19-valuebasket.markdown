@@ -23,13 +23,13 @@ tags:
 - Un consommateur averti en vaut deux
 ---
 
-https://youtu.be/OXRy-8wNvSQ
+{% include video id="OXRy-8wNvSQ" provider="youtube" %}
 
 Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
 
-Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](http://irz.fr/tag/jai-teste-pour-vous/) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.<!-- more -->
+Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](https://irz.fr/recherche?q=jai-teste-pour-vous) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.<!-- more -->
 
-Le site ValueBasket est, comme [Digitaland](http://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland/), l'un des sites proposant les prix les plus alléchants pour ses produits concernant les accessoires high-tech, téléphones portables, tablettes, et divers équipements audio.
+Le site ValueBasket est, comme [Digitaland](https://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland), l'un des sites proposant les prix les plus alléchants pour ses produits concernant les accessoires high-tech, téléphones portables, tablettes, et divers équipements audio.
 
 
 
@@ -43,7 +43,7 @@ Je ne m'attarderais pas très longtemps sur le site internet, et pour cause, c'e
 
 J'aime bien aussi la petite vidéo localisé en Français, ça montre un peu une volonté de se donner une bonne image dans diverses langues.
 
-[embed]http://www.youtube.com/watch?v=zHLyH4MqV9E[/embed]
+{% include video id="zHLyH4MqV9E" provider="youtube" %}
 
 
 
@@ -99,7 +99,7 @@ Sincères salutations,</blockquote>
 
 
 
-Il n'avait plus qu'à faire le travail d'acheminement qui ne m'a prit que quelques jours. J'ai en effet reçu le mail avec les détails du suivi, avec le transporteur DHL, [dont j'ai déjà parlé dans dans un précédant billet](http://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland/). Je n'ai au final attendu qu'une grosse semaine entre le jour ou j'ai sorti ma carte bleue et celui ou j'ai reçu le colis. je vous conseille de faire comme moi, ne vous prenez pas la tête et annulez votre commande avant même qu'elle soit envoyée pour être sûr d'être bien livré.
+Il n'avait plus qu'à faire le travail d'acheminement qui ne m'a prit que quelques jours. J'ai en effet reçu le mail avec les détails du suivi, avec le transporteur DHL, [dont j'ai déjà parlé dans dans un précédant billet](https://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland). Je n'ai au final attendu qu'une grosse semaine entre le jour ou j'ai sorti ma carte bleue et celui ou j'ai reçu le colis. je vous conseille de faire comme moi, ne vous prenez pas la tête et annulez votre commande avant même qu'elle soit envoyée pour être sûr d'être bien livré.
 
 
 
@@ -114,7 +114,3 @@ En réalité, pour le reste, je n'ai eu aucun problème. En effet, le matériel 
 
 
 <blockquote>Ma note : 4 / 10</blockquote>
-
-
-
-

@@ -20,15 +20,15 @@ Si vous êtes en agglomération Grenobloise, c'est mieux.
 Prix : 550€ (acheté à 800€)
 
 Voici les photos :
-[![iPhone-5s-vente-dos](https://static.irz.fr/2014/09/iPhone-5s-vente-dos-640x480.jpg)](http://irz.fr/je-vend-mon-iphone-5s-32go/iphone-5s-vente-dos/)
+[![iPhone-5s-vente-dos](https://static.irz.fr/2014/09/iPhone-5s-vente-dos-640x480.jpg)](https://irz.fr/recherche?q=iphone-5s-vente-dos)
 
-[![iPhone-5s-vente-face](https://static.irz.fr/2014/09/iPhone-5s-vente-face-640x480.jpg)](http://irz.fr/je-vend-mon-iphone-5s-32go/iphone-5s-vente-face/)
+[![iPhone-5s-vente-face](https://static.irz.fr/2014/09/iPhone-5s-vente-face-640x480.jpg)](https://irz.fr/recherche?q=iphone-5s-vente-face)
 
-[![iPhone-5s-vente-details](https://static.irz.fr/2014/09/iPhone-5s-vente-details-640x480.jpg)](http://irz.fr/je-vend-mon-iphone-5s-32go/iphone-5s-vente-details/)
+[![iPhone-5s-vente-details](https://static.irz.fr/2014/09/iPhone-5s-vente-details-640x480.jpg)](https://irz.fr/recherche?q=iphone-5s-vente-details)
 
 [![IMG_0124.JPG](https://static.irz.fr/2014/09/IMG_0124.jpg)](https://static.irz.fr/2014/09/IMG_0124.jpg)
 
 Pour les accessoires que je vend à côté, je propose un support de trépied que je vous propose à 5€ (Photo à venir).
 
 Et un système de lentilles objectif grand Angle, fish-eye, et macro 4 en 1 (celui-ci) : 15€.
-[![objectif-4-1-iphone5-5s](https://static.irz.fr/2014/09/objectif-4-1-iphone5-5s.jpg)](http://irz.fr/je-vend-mon-iphone-5s-32go/objectif-4-1-iphone5-5s/)
+[![objectif-4-1-iphone5-5s](https://static.irz.fr/2014/09/objectif-4-1-iphone5-5s.jpg)](https://irz.fr/recherche?q=objectif-4-1-iphone5-5s)

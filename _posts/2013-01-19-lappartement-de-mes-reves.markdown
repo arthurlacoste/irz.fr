@@ -16,7 +16,7 @@ tags:
 - rangement
 ---
 
-Je vous avait parlé il y a quelques jours de [mes résolutions](http://irz.fr/mes-resolutions-en-2013/) pour 2013, et l'une d'entre elles était de m'organiser un peu niveau mobilier. Je poursuis mes recherches, je me penche sur un lit 140x200 avec un bon matelas, entre autres choses. Mais ce n'est pas de moi dont nous allons parler aujourd'hui.
+Je vous avait parlé il y a quelques jours de [mes résolutions](https://irz.fr/mes-resolutions-en-2013) pour 2013, et l'une d'entre elles était de m'organiser un peu niveau mobilier. Je poursuis mes recherches, je me penche sur un lit 140x200 avec un bon matelas, entre autres choses. Mais ce n'est pas de moi dont nous allons parler aujourd'hui.
 
 Je vais vous présenter l'appartement de mes rêves. Bon, même si je pense ne jamais disposer d'un appart de 350 mètres carré, Je pense m'inspirer largement de la sobriété de celui présenté dans la vidéo.
 

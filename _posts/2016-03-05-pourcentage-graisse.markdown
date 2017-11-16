@@ -103,7 +103,6 @@ Mais revenons à notre question : comment connaître notre pourcentage de masse 
 La réponse se trouve dans cette petite vidéo :
 
 
-https://www.youtube.com/watch?v=J3jF-npmPXY
+{% include video id="J3jF-npmPXY" provider="youtube" %}
 
 Voici [le lien vers un impédencemetre pas mal](http://amzn.to/2lKyzJE) !
-

@@ -2,7 +2,7 @@
 jQuery plugin settings and other scripts
 ========================================================================== */
 
-const getGif = function (search) {
+var getGif = function (search) {
   request = new XMLHttpRequest;
   request.open('GET', 'https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag='+search, true);
 
@@ -23,19 +23,19 @@ const getGif = function (search) {
   request.send();
 }
 
-const adjustFeatureWidth = function (element) {
+var adjustFeatureWidth = function (element) {
   element = element || '.feature-title:visible';
-  const containerWidth = $(element).parent().width();
+  var containerWidth = $(element).parent().width();
 
   $(element).children('.feature-title__part').each(function () {
-    let visible = $(this).visible(true);
+    var visible = $(this).visible(true);
     if(visible) {
       $(this).attr('style', '').css({
         display: 'inline-block',
         opacity: 0
       });
 
-      const fontSize = Math.floor(containerWidth / $(this).width() * 100);
+      var fontSize = Math.floor(containerWidth / $(this).width() * 100);
 
       $(this).css({
         'font-size': fontSize + '%',
@@ -46,46 +46,49 @@ const adjustFeatureWidth = function (element) {
   });
 }
 
-$(document).ready(() => {
+$(document).ready( function () {
 
-  const pageW = $('.page__content').width();
-  $('.page__content img').each( function() {
-    //70%
-    const random_boolean = Math.random() >= 0.5;
-    const imgW = $(this).width();
-    const imgsize = imgW*100/pageW;
+  $("form").submit( function (e) {
+    e.preventDefault();
+  });
+
+  var pageW = $('.page__content').width();
+  $('.page__content img').each( function () {
+    var random_boolean = Math.random() >= 0.5;
+    var imgW = $(this).width();
+    var imgsize = imgW*100/pageW;
     if(imgsize<70){ // -70%
-      const classImg = random_boolean === true ? 'align-left' : 'align-right';
+      var classImg = random_boolean === true ? 'align-left' : 'align-right';
       $(this).addClass(classImg);
     }
   });
 
-  let hash = window.location.hash.substr(1);
+  var hash = window.location.hash.substr(1);
   if(hash) {
-    $('.remove.'+hash).each( function(){
+    $('.remove.'+hash).each( function (){
       $(this).removeClass('remove');
     })
   }
   adjustFeatureWidth();
 
   // Sticky footer
-  let bumpIt = function () {
+  var bumpIt = function () {
     $('body').css('margin-bottom', $('.page__footer').outerHeight(true));
   },
   didResize = false;
 
   bumpIt();
 
-  $(window).resize(() => {
+  $(window).resize( function () {
     adjustFeatureWidth();
     didResize = true;
   });
 
-  $(window).scroll(() => {
+  $(window).scroll(function () {
     adjustFeatureWidth();
   });
 
-  setInterval(() => {
+  setInterval( function () {
     if (didResize) {
       didResize = false;
       bumpIt();
@@ -96,7 +99,7 @@ $(document).ready(() => {
   $('#main').fitVids();
 
   // Follow menu drop down
-  $('.author__urls-wrapper button').on('click', () => {
+  $('.author__urls-wrapper button').on('click', function () {
     $('.author__urls').toggleClass('is--visible');
     $('.author__urls-wrapper button').toggleClass('open');
   });
@@ -130,7 +133,7 @@ $(document).ready(() => {
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-zoom-in',
     callbacks: {
-      beforeOpen() {
+      beforeOpen: function () {
         // Just a hack that adds mfp-anim class to markup
         this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
       }

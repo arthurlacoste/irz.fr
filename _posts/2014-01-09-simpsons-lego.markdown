@@ -22,28 +22,28 @@ L'annonce est officielle ! Le premier set de la licence Simpons/Lego devrait êt
 
 Je vous laisse regarder cette vidéo ainsi que quelques photos du pack qui vous laisseront saliver d'envie ! En tout cas, moi je salive un peu. Beaucoup.
 
-[embed]http://www.youtube.com/watch?v=zxCIXqYaSPU[/embed]
+{% include video id="zxCIXqYaSPU" provider="youtube" %}
 
-[![lego-bart-chambre](https://static.irz.fr/2014/01/lego-bart-chambre-640x521.jpg)](http://irz.fr/simpsons-lego/lego-bart-chambre/)
+[![lego-bart-chambre](https://static.irz.fr/2014/01/lego-bart-chambre-640x521.jpg)](https://irz.fr/recherche?q=lego-bart-chambre)
 
-[![lego-homer-flanders](https://static.irz.fr/2014/01/lego-homer-flanders-640x521.jpg)](http://irz.fr/simpsons-lego/lego-homer-flanders/)
+[![lego-homer-flanders](https://static.irz.fr/2014/01/lego-homer-flanders-640x521.jpg)](https://irz.fr/recherche?q=lego-homer-flanders)
 
-[![lego-lisa-photo](https://static.irz.fr/2014/01/lego-lisa-photo-640x521.jpg)](http://irz.fr/simpsons-lego/lego-lisa-photo/)
+[![lego-lisa-photo](https://static.irz.fr/2014/01/lego-lisa-photo-640x521.jpg)](https://irz.fr/recherche?q=lego-lisa-photo)
 
-[![lego-lisa-piano-homer](https://static.irz.fr/2014/01/lego-lisa-piano-homer-640x521.jpg)](http://irz.fr/simpsons-lego/lego-lisa-piano-homer/)
+[![lego-lisa-piano-homer](https://static.irz.fr/2014/01/lego-lisa-piano-homer-640x521.jpg)](https://irz.fr/recherche?q=lego-lisa-piano-homer)
 
-[![lego-maggie-cuisine](https://static.irz.fr/2014/01/lego-maggie-cuisine-640x480.jpg)](http://irz.fr/simpsons-lego/lego-maggie-cuisine/)
+[![lego-maggie-cuisine](https://static.irz.fr/2014/01/lego-maggie-cuisine-640x480.jpg)](https://irz.fr/recherche?q=lego-maggie-cuisine)
 
-[![lego-maggie-marge](https://static.irz.fr/2014/01/lego-maggie-marge-640x521.jpg)](http://irz.fr/simpsons-lego/lego-maggie-marge/)
+[![lego-maggie-marge](https://static.irz.fr/2014/01/lego-maggie-marge-640x521.jpg)](https://irz.fr/recherche?q=lego-maggie-marge)
 
-[![lego-maggie-wc](https://static.irz.fr/2014/01/lego-maggie-wc-640x468.jpg)](http://irz.fr/simpsons-lego/lego-maggie-wc/)
+[![lego-maggie-wc](https://static.irz.fr/2014/01/lego-maggie-wc-640x468.jpg)](https://irz.fr/recherche?q=lego-maggie-wc)
 
-[![lego-simpsons-canape](https://static.irz.fr/2014/01/lego-simpsons-canape-640x521.jpg)](http://irz.fr/simpsons-lego/lego-simpsons-canape/)
+[![lego-simpsons-canape](https://static.irz.fr/2014/01/lego-simpsons-canape-640x521.jpg)](https://irz.fr/recherche?q=lego-simpsons-canape)
 
-[![lego-bart-skate](https://static.irz.fr/2014/01/lego-bart-skate-640x521.jpg)](http://irz.fr/simpsons-lego/lego-bart-skate/)
+[![lego-bart-skate](https://static.irz.fr/2014/01/lego-bart-skate-640x521.jpg)](https://irz.fr/recherche?q=lego-bart-skate)
 
-[![lego-simpsons-maison](https://static.irz.fr/2014/01/lego-simpsons-maison-640x521.jpg)](http://irz.fr/simpsons-lego/lego-simpsons-maison/)
+[![lego-simpsons-maison](https://static.irz.fr/2014/01/lego-simpsons-maison-640x521.jpg)](https://irz.fr/recherche?q=lego-simpsons-maison)
 
-[![lego-simpsons-voiture](https://static.irz.fr/2014/01/lego-simpsons-voiture-640x521.jpg)](http://irz.fr/simpsons-lego/lego-simpsons-voiture/)
+[![lego-simpsons-voiture](https://static.irz.fr/2014/01/lego-simpsons-voiture-640x521.jpg)](https://irz.fr/recherche?q=lego-simpsons-voiture)
 
 

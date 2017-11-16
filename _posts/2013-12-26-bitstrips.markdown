@@ -27,7 +27,7 @@ Alors c’est loin d’être parfait, souvent c’est même des privates jokes e
 
 Alors effectivement, on peut se dire que c’est une manière comme une autre d’animer votre vie un peu morne, devant votre écran, pour passer le temps et en attendant de trouver une meilleure application, toute aussi chronophage.
 
-[![bitstrips-breaking-bad](https://static.irz.fr/2013/12/bitstrips-breaking-bad.jpg)](http://irz.fr/bitstrips/bitstrips-breaking-bad/)
+[![bitstrips-breaking-bad](https://static.irz.fr/2013/12/bitstrips-breaking-bad.jpg)](https://irz.fr/recherche?q=bitstrips-breaking-bad)
 
 Il y a tant a faire avec cette application, que certains en viennent à “redessiner” (disons plutôt mettre en forme) des instants cultes de vos séries préférées (ci-dessus, la série Breaking Bad revisité), ou bien mettre en scène des personnalités publique plus ou moins ironiquement. Tiens, un petit lien vers [la page Facebook de la vie de François Hollande](https://www.facebook.com/LesAventuresDeFrancois) en Bitstrips.
 

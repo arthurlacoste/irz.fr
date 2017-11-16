@@ -25,7 +25,7 @@ Je pourrai vous conseiller de prendre un abonnement a une salle de sport, mais e
 
 Tout en lisant mes conseils, je vous laisse avec cette chanson :
 
-[embed]http://www.youtube.com/watch?v=UK-lGSYKaaM[/embed]
+{% include video id="UK-lGSYKaaM" provider="youtube" %}
 
 **Petits exercices matinaux**
 

@@ -18,10 +18,12 @@ tags:
 
 La procrastination, c'est ça :
 
-[youtube cyw-XIaRbfA]
+{% include video id="cyw-XIaRbfA" provider="youtube" %}
+
 
 Il y a aussi dans la même série "j'ai dragué une fille" :
 
-[youtube s4aG6pM7tV0]
+{% include video id="s4aG6pM7tV0" provider="youtube" %}
+
 
 Bien hilarant.

@@ -34,4 +34,4 @@ Les enfants sont formidable.
 Version coloriage :
 [![georges-nenette-dans-le-four-coloriage](https://static.irz.fr/2013/05/georges-nenette-dans-le-four-coloriage-640x566.png)](https://static.irz.fr/2013/05/georges-nenette-dans-le-four-coloriage.png)
 
-Voir [tout les coloriages](http://irz.fr/coloriages/).
+Voir [tout les coloriages](https://irz.fr/coloriages).

@@ -38,6 +38,6 @@ Qui dit produits, dit aussi contrats. Tout ce que vous achetez, on en a parlé, 
 
 Que ce soit votre opérateur téléphonique, un contrat d'assurance, de mutuelles santé, toute augmentation de tarif vous permet de résilier votre contrat sans aucun frais de résiliation. Une simple lettre avec accusé de réception fera l'affaire !
 
-En ce qui concerne les opérateurs téléphonique, seul Orange répercute la hausse de la TVA dans ses prix. Elle prend d'ailleurs un gros risque : tout les clients sous contrats vont pouvoir partir du jour au lendemain, et les offres sont désormais de plus en plus alléchantes chez le voisin. Préparez-vous à un départ en masse de chez Orange dans les mois à venir. Il iront sans doute chez [Joe](http://irz.fr/tag/joe-mobile/), [Free](http://irz.fr/tag/free/) et consorts...
+En ce qui concerne les opérateurs téléphonique, seul Orange répercute la hausse de la TVA dans ses prix. Elle prend d'ailleurs un gros risque : tout les clients sous contrats vont pouvoir partir du jour au lendemain, et les offres sont désormais de plus en plus alléchantes chez le voisin. Préparez-vous à un départ en masse de chez Orange dans les mois à venir. Il iront sans doute chez [Joe](https://irz.fr/recherche?q=joe-mobile), [Free](https://irz.fr/recherche?q=free) et consorts...
 
 

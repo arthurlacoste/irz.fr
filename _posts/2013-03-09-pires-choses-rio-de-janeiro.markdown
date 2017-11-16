@@ -33,7 +33,8 @@ Il y a aussi le Guarana qui est une boisson locale gazeuse assez sympathique (du
 
 
 
-[caption id="attachment_1438448939" align="aligncenter" width="640"][![Vu depuis la plage de d'Ipanema ](https://static.irz.fr/2013/03/IMG_0283-640x426.jpg)](http://irz.fr/pires-choses-rio-de-janeiro/sable-palmier-tag/) Vu depuis la plage d'Ipanema[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/03/IMG_0283-640x426.jpg" alt="Vu depuis la plage d'Ipanema" caption="Vu depuis la plage d'Ipanema" %}
+
 
 Que vous soyez dans la rue ou sur la plage, il est vivement déconseillé de marcher pieds nus. Sur les plages d'Ipanema ou de Copacabana, vous pouvez trouver des bouts de verre cachés à la surface du sable, et ça fait mal. Dans la rue en journée, n'essayez même pas de vous promener sur les pavés de votre trottoir préféré, vos pieds brûleraient.
 
@@ -59,7 +60,8 @@ Si vous souhaitez visiter quelques quartiers défavorisés de la seconde plus gr
 
 
 
-[caption id="attachment_143844" align="aligncenter" width="640"][![perigo correnteza](https://static.irz.fr/2013/03/IMG_0287-640x426.jpg)](http://irz.fr/pires-choses-rio-de-janeiro/perigo-correnteza/) Il est interdit de se baigner à Ipanema & Copacabana[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/03/IMG_0287-640x426.jpg" alt="Il est interdit de se baigner à Ipanema & Copacabana" caption="Il est interdit de se baigner à Ipanema & Copacabana" %}
+
 
 Le saviez-vous ? Les plages paradisiaques de Copacabana et d'Ipanema sont en réalité interdite à la baignade. En effet, les vagues sont gigantesques et violentes, et vos enfants de moins de 10 ans pourraient se retrouver en bien mauvaise position. Sinon si vous êtes majeur, vacciné, et en forme, allez-y c'est vraiment <del>violent</del> marrant !
 
@@ -93,13 +95,14 @@ La dernière, c'est peut être la pire de toutes !
 
 
 
-[caption id="attachment_143844" align="aligncenter" width="640"][![Jérémy, le vendeur de Globo](https://static.irz.fr/2013/03/IMG_0341-640x480.jpg)](http://irz.fr/pires-choses-rio-de-janeiro/globo/) Jérémy, le vendeur de Globo[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/03/IMG_0341-640x480.jpg" alt="Jérémy, le vendeur de Globo" caption="Jérémy, le vendeur de Globo" %}
+
 
 Le globo est aux plages de Copacabana ce que le chouchou est aux plages du sud de la France. Il manque juste quelque chose à ces biscuits apéritifs locaux salés ou sucrés (au choix) : du goût. En effet, ces petits ronds ont de prime abord un air de Krupuk (communément appelé chips aux crevettes chinoises), mais il n'en est rien. Le Globo a un goût de polystyrène sucré, ou salé.
 
 Maintenant que je dis ça, si ça se trouve ce vendeur ambulant m'a vendu du polystyrène et en fait le globo est super bon ! J'en doute quand même un peu.
 
-[caption id="attachment_143844" align="aligncenter" width="640"][![diabo](https://static.irz.fr/2013/03/IMG_0305-640x426.jpg)](http://irz.fr/pires-choses-rio-de-janeiro/praia-do-diabo/) Vue sur la praia do Diabo depuis l'Arpoador[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/03/IMG_0305-640x426.jpg" alt="Vue sur la praia do Diabo depuis l'Arpoador" caption="Vue sur la praia do Diabo depuis l'Arpoador" %}
 
-Vous pouvez voir d'autres articles à propos du brésil en allant [sur cette page](http://irz.fr/?s=br%C3%A9sil). Et si vous aimez ces photos, il y a aussi [un album spécial](http://irz.fr/bresil-petits-culs/) pour un ami qui aime les corps de femme.
 
+Vous pouvez voir d'autres articles à propos du brésil en allant [sur cette page](http://irz.fr/?s=br%C3%A9sil). Et si vous aimez ces photos, il y a aussi [un album spécial](https://irz.fr/bresil-petits-culs) pour un ami qui aime les corps de femme.

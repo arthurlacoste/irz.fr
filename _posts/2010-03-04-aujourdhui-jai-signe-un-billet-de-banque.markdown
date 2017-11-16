@@ -21,7 +21,7 @@ tags:
 - signer
 ---
 
-[English version](http://irz.fr/today-i-signed-a-bank-note/)
+[English version](https://irz.fr/today-i-signed-a-bank-note)
 
 ![billet de 10 euros](https://static.irz.fr/2010/03/CIMG0653-300x225.jpg)Non, ce n'est pas une blague, je l'ai bel et bien fait : à l'heure ou la Livre Sterling prend du plomb dans l'aile, je viens de gribouiller ma signature sur un billet de dix euros. Je n'avais pas de billet de cinq cent sous la main, alors j'ai du me contenter de celui-là.
 

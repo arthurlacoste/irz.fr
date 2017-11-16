@@ -13,7 +13,7 @@ categories:
 
 [![](https://static.irz.fr/2010/05/ipad.png)](https://static.irz.fr/2010/05/ipad.png)
 
-Difficile de passer à côté de la tablette de Cupertino en ce moment. Apple va renouveler l'exploit de l' iPhone en forçant tous ses concurrents à se plier en quatre pour se mettre à son niveau. Car en plus de proposer toutes les applications (ou la plupart) du catalogue de l'App Store et donc de l'iPhone, La pomme a pensé à **l'aspect entreprise** de [son nouveau bijoux](http://irz.fr/sortie-de-ipad-en-france/).
+Difficile de passer à côté de la tablette de Cupertino en ce moment. Apple va renouveler l'exploit de l' iPhone en forçant tous ses concurrents à se plier en quatre pour se mettre à son niveau. Car en plus de proposer toutes les applications (ou la plupart) du catalogue de l'App Store et donc de l'iPhone, La pomme a pensé à **l'aspect entreprise** de [son nouveau bijoux](https://irz.fr/sortie-de-ipad-en-france).
 
 
 

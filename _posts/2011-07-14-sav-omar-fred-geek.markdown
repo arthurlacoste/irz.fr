@@ -16,7 +16,7 @@ tags:
 
 Le SAV des émissions d'Omar et Fred est une série humoristique que tout le monde connait : un duo détonnant, des gags tirés par les cheveux, et surtout, des histoires tirés de l'actualité qui mettent le doigt la ou "ça fait mal".
 
-[embed]http://www.youtube.com/watch?v=hwN96CpsiPs[/embed]
+{% include video id="hwN96CpsiPs" provider="youtube" %}
 
 Et voici la version Geek du SAV d'Omar et Fred. Je ne ferais aucun commentaire. En fait, je vais juste vous citer l'une des personnes qui a commenté la vidéo :
 
@@ -32,6 +32,6 @@ Je précise que j'ai malheureusement compris vos références web.</blockquote>
 
 Je plussoie. Je suis moi même dans la cible, étant à l'écoute des actualités high-tech, et j'ai trouvé ça assez moyen. Au cas ou vous seriez toujours interessé par le plagiat orchestré par l'agence [Nice to meet you](http://www.ntmy.fr/#/-/welcome) et [Studio VDM](http://www.studiovdm.com/), voici le premier épisode :
 
-[embed]http://www.youtube.com/watch?v=Lvwhxtp7l3Y[/embed]
+{% include video id="Lvwhxtp7l3Y" provider="youtube" %}
 
 Bref, vous pouvez passer votre chemin, y'a rien à voir ;)

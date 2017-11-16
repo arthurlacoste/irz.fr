@@ -13,7 +13,7 @@ post_format:
 - En passant
 ---
 
-[![je-me-retouche](https://static.irz.fr/2013/04/je-me-retouche.jpg)](http://irz.fr/yen-a-qui-se-touchent/je-me-retouche/)
+[![je-me-retouche](https://static.irz.fr/2013/04/je-me-retouche.jpg)](https://irz.fr/recherche?q=je-me-retouche)
 
 Confession du jour. Y'en a qui se touchent, moi je me retouche.
 

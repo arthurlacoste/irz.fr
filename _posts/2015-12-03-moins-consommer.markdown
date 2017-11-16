@@ -41,7 +41,7 @@ Du côté de la rue, certaines associations tel que les casseurs de pub luttent 
 
 Oubliez les samedi après midi dans les centres commerciaux bondés ou les soirées shopping en ligne : plus vous passerez de temps à chercher un objet, plus ceci vous obsédera, et vous finirez par l'acheter. De plus, une fois que vous êtes dans le magasin et que vous commencez à toucher l'objet, s'en est fini pour vous ! Comme le dit l'expert en packaging Benoît Heilbrunn, "si vous prenez un produit en main, la probabilité que vous l'achetiez est de l'ordre de 60 à 65%".
 
-https://www.youtube.com/watch?v=De9_SKPsQz0
+{% include video id="De9_SKPsQz0" provider="youtube" %}
 
 **Sortir sans argent**
 
@@ -67,6 +67,6 @@ La démarche la plus extrême est de ne pas avoir de compte en banque, voir auc
 
 Au moins, même si vous êtes tentés, vous ne pourrez rien acheter. Bien entendu, il faut trouver une solution pour satisfaire ses besoins primaires, comme par exemple vivre chez un permaculteur en échange de votre aide dans les champs. Symbole de la simplicité volontaire, Benjamin Lesage vit sans argent. Vous pouvez le retrouver dans le documentaire ci-dessous :
 
-https://www.youtube.com/watch?v=trZ8Iyq4kpc
+{% include video id="trZ8Iyq4kpc" provider="youtube" %}
 
 Bref, il y a tellement de choses gratuites à faire dans la vie, alors profitez-en ! Mais en réalité, il ne faut pas arrêter totalement de consommer, mais consommer intelligent, c'est à dire réfléchir avant d'acheter n'importe quoi : privilégier les produits locaux, en vrac ou dans des contenants recyclables, entretenir et réparer ce que vous avez déjà, etc...

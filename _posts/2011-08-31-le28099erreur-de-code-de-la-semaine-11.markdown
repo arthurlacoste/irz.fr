@@ -37,7 +37,7 @@ NON ......... D
 **
 Ce panneau indique que j'entre sur une route à caractère réglementé.
 
-Une route à accès réglementé est une route généralement de type autoroutier et réservée à certaines catégories d'usagers. Sauf dispositions contraires, peuvent y circuler les voitures de tourisme, les [motocyclettes](http://irz.fr/motocyclette-cyclomoteur/) avec ou sans side-car, les autocars et les poids-lours. La vitesse y est limité à 110 Km/h, sauf indication contraire.
+Une route à accès réglementé est une route généralement de type autoroutier et réservée à certaines catégories d'usagers. Sauf dispositions contraires, peuvent y circuler les voitures de tourisme, les [motocyclettes](https://irz.fr/motocyclette-cyclomoteur) avec ou sans side-car, les autocars et les poids-lours. La vitesse y est limité à 110 Km/h, sauf indication contraire.
 
 Réponse B et C.
 

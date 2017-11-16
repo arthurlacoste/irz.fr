@@ -19,7 +19,7 @@ tags:
 - vente forcée
 ---
 
-https://youtu.be/OXRy-8wNvSQ
+{% include video id="OXRy-8wNvSQ" provider="youtube" %}
 
 Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire arnaquer.  N'hésitez pas à [vous abonner à ma chaîne Youtube](https://www.youtube.com/user/lacostearthur?sub_confirmation=1). Merci !
 
@@ -36,19 +36,19 @@ La vente "forcée" de garanties liées à vos produits n'est pas illégale en so
 
 
 
-    
+
   * **Topachat** (l'option sérénité)
 
-    
+
   * **Rueducommerce** (et sa garantie Or)
 
-    
+
   * **Bruneau** (garantie sécurité intégrale)
 
-    
+
   * **Priceminister** (Contrat "Bris & Vol")
 
-    
+
   * **Bernard** (Garantie Sécurité Totale)
 
 
@@ -56,5 +56,3 @@ La vente "forcée" de garanties liées à vos produits n'est pas illégale en so
 Autre chose "génial", le e-commerçant utilise souvent une autre technique vicieuse pour déstabiliser le consommateur. L'option _ajouté à votre insu_ ne se retire pas de la même manière qu'un autre produit, il faut suivre un autre cheminement que la simple suppression du panier, car le produit n'est tout simplement pas dans le panier en question.
 
 Bref, il faut bien **faire attention et rester vigilent** lors de chacune des étapes de votre payement  quitte à ne pas faire confiance au site internet en faisant vous même vos calculs de produits + frais de port en étant certain de voir vos chiffres et ceux du site concorder.
-
-

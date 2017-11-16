@@ -13,7 +13,7 @@ tags:
 - malbouffe
 ---
 
-[![](https://static.irz.fr/2010/06/repas-mc-do-1024x768.jpg)](http://irz.fr/aujourdhui-cest-la-fete-des-peres/repas-mc-do/)
+[![](https://static.irz.fr/2010/06/repas-mc-do-1024x768.jpg)](https://irz.fr/recherche?q=repas-mc-do)
 
 Aujourd'hui, c'est la fête des père, l'occasion pour toute la famille de créer des emplois chez Mac Donald's en laissant tout notre repas sur la table. Mais encore la c'est gentillet, car pour les desserts on est allés à une autre table, laissant derrière nous une douzaine de gobelets inertes sur la table.
 

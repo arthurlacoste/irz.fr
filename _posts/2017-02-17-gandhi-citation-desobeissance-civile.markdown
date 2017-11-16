@@ -20,7 +20,7 @@ header:
     provider: youtube
 ---
 
-Il y a quelques jours je vous avait parlé de mon expérience en Inde, [vous pouvez d’ailleurs voir ça ici](http://irz.fr/inde/). Et en Inde, il y a un homme qui est une légende.
+Il y a quelques jours je vous avait parlé de mon expérience en Inde, [vous pouvez d’ailleurs voir ça ici](https://irz.fr/inde). Et en Inde, il y a un homme qui est une légende.
 <!-- more -->
 
 Avant d’être un moustachu à lunettes au crâne lisse, Mohandas Karamchand Gandhi est surtout connu pour avoir mené l’inde à l’indépendance. Idolâtré par son peuple, il est un source d’inspiration pour l’Inde, mais aussi pour toute l’humanité. Voici son parcours.

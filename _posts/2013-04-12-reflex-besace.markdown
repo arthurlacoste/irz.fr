@@ -21,7 +21,7 @@ Il y a quelques mois, je me suis offert un super cadeau de noël (enfin, si on p
 
 J'ai toujours pris des photos, j'ai toujours eu des appareils photos numériques, pas forcément de qualité certes, mais j'ai toujours pris plaisir à prendre des photos. Je suis donc passé à un modèle d'entrée de gamme professionel, pour le plus grand damn de mon portefeuille et de mes amis/colocataires/famille (cibles privilégiées de mes photos).
 
-Avant de m'acheter cet appareil, je shootais depuis quelques années déjà au iPhone, si bien que la différence de qualité et de possibilités offertes par le matos en question fû multiplié par - au moins - dix. Et ce n'est pas un [objectif fish-eye](http://irz.fr/test-objectif-fish-eyes/) qui va réellement changer la donne.
+Avant de m'acheter cet appareil, je shootais depuis quelques années déjà au iPhone, si bien que la différence de qualité et de possibilités offertes par le matos en question fû multiplié par - au moins - dix. Et ce n'est pas un [objectif fish-eye](https://irz.fr/test-objectif-fish-eyes) qui va réellement changer la donne.
 
 
 ## Le meilleur appareil vous avez dit ?
@@ -29,9 +29,11 @@ Avant de m'acheter cet appareil, je shootais depuis quelques années déjà au i
 
 Par contre, je ne sais plus ou j'avais lu ceci, mais la réalité est que le le meilleur appareil est celui qu'on a toujours sur soi. Le reflex est lourd, nécessite d'être allumé, paramétré, etc… Vous voyez ce que je veux dire. Un smartphone est là, déjà allumé dans votre poche, **vous n'avez qu'à l'extraire de votre chapeau magique**, comme un magicien sortirait son petit lapin. D'ailleurs cela me fait penser à cette couverture du New York Times paru il y a quelques jours, qui comportait un cliché pris avec un iPhone et retouché via instagram. La photographie c'est essentiellement deux choses : être la au bon moment, et savoir se servir de son matos.
 
-[caption id="attachment_1438448993" align="aligncenter" width="640"]![Une du New York Times du 31 mars 2013](https://static.irz.fr/2013/04/new-york-times-31-mars-2013.jpg) Une du New York Times du 31 mars 2013[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/04/new-york-times-31-mars-2013.jpg" alt="Une du New York Times du 31 mars 2013" caption="Une du New York Times du 31 mars 2013" %}
 
-[caption id="attachment_1438448994" align="aligncenter" width="604"]![Alex Rodriguez pris par le photographe Nick Laham](https://static.irz.fr/2013/04/alex-yankee-iphone.jpg) Alex Rodriguez pris par le photographe Nick Laham[/caption]
+
+ {% include figure image_path="https://static.irz.fr/2013/04/alex-yankee-iphone.jpg" alt="Alex Rodriguez pris par le photographe Nick Laham" caption="Alex Rodriguez pris par le photographe Nick Laham" %}
+
 
 Comme vous pouvez le voir dans la photo ci dessus, le fait d'utiliser un iPhone n'a pas empêché le photographe d'utiliser un moyen d'éclairer correctement le joueur de baseball. Ce cliché à mis un coup de pied dans la fourmilière des photographes professionnels.
 
@@ -49,10 +51,10 @@ Dernier point, le RAW. En théorie, le RAW c'est génial. C'est génial hein, po
 
 
 
-	
+
   1. avoir un ordi un peu puissant (mais pas trop)
 
-	
+
   2. avoir du temps pour le post traitement
 
 

@@ -11,7 +11,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item remove {{ include.tag }}">
-  <a href="{{ post.url | absolute_url }}" rel="permalink">
+  <a href="{{ post.url | absolute_url }}" class="link-post" rel="permalink">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       {% if include.type == "grid" and teaser %}
         <div class="archive__item-teaser">

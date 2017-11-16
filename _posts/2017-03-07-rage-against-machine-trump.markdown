@@ -25,13 +25,13 @@ D'ailleurs le logo de ce nouveau groupe déchire !
 
 Vous voulez le voir ? Le voici :
 
-[![](https://static.irz.fr/2017/03/prophet-of-rage-logo-1.png)](http://irz.fr/rage-against-machine-trump/prophet-of-rage-logo-2/)
+[![](https://static.irz.fr/2017/03/prophet-of-rage-logo-1.png)](https://irz.fr/recherche?q=prophet-of-rage-logo-2)
 
 Et pour ceux qui adorent ce groupe mythique, je ne peux que vous suggérer d'écouter cette chanson généralissime "Killing in the name" :
 
-https://www.youtube.com/watch?v=bWXazVhlyxQ
+{% include video id="bWXazVhlyxQ" provider="youtube" %}
 
 Et bien entendu Wake up, qui figure dans la BO de Matrix (c'est d'ailleurs comme ça que j'ai connu RATM !) :
-https://www.youtube.com/watch?v=wauzrPn0cfg
+{% include video id="wauzrPn0cfg" provider="youtube" %}
 
 Si vous avez déjà été les voir en concert, il paraît qu'ils mettaient le feux ! Au passé oui, car ils se sont séparés depuis.

@@ -98,4 +98,4 @@ Si vous souhaitez utiliser IRZ pour commenter et avoir des lien en dofollow, pas
 
 
 
-Si vous suivez ces conseils, il y 99% de chances que je valide votre commentaire. Irz est un site très vaste qui parle de sujets des plus variés. De plus, si aucun sujet ne se rapporte à votre domaine et que vous êtes vraiment inspiré, vous pouvez [proposer un article via notre page de contact](http://irz.fr/contact/), en essayant de faire minimum 400 mots. Bien entendu, un lien dofollow vous sera attribué !
+Si vous suivez ces conseils, il y 99% de chances que je valide votre commentaire. Irz est un site très vaste qui parle de sujets des plus variés. De plus, si aucun sujet ne se rapporte à votre domaine et que vous êtes vraiment inspiré, vous pouvez [proposer un article via notre page de contact](https://irz.fr/contact), en essayant de faire minimum 400 mots. Bien entendu, un lien dofollow vous sera attribué !

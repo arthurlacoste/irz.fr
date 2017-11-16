@@ -22,13 +22,13 @@ tags:
 
 L'autre jour, j'avais une folle envie de me prendre une nouvelle casquette, la saison aidant à faire pencher la balance pour ce choix cornélien. Ma dernière casquette était une New Era 59 Fifty des Yankees (le logo NY que tout le monde reconnaît), en noir sur fond noir, c'est-à-dire très discrète dans son genre. Elle a malheureusement disparu lors d'une soirée bien arrosée dans un bar, après quelques années de bons et loyaux services. <!-- more -->
 
-[![yankees-new-era](https://static.irz.fr/2013/08/yankees-new-era.jpg)](http://irz.fr/dois-je-garder-lautocollant-de-ma-casquette-new-era/yankees-new-era/)
+[![yankees-new-era](https://static.irz.fr/2013/08/yankees-new-era.jpg)](https://irz.fr/recherche?q=yankees-new-era)
 
-J'ai donc pris une nouvelle casquette le week-end dernier, cette fois-ci un peu plus coloré, arborant toujours le logo de l'équipe des Yankees, mais cette fois-ci - contrairement à la première fois - j'ai hésité à enlever l'autocollant 50Fifty disposé sur le dessus de la casquette. Je n'aime pas trop les (nombreuses) étiquettes collées par exemple sur les ordinateurs portables, comme en témoigne un paragraphe de [cet article](http://irz.fr/on-va-switcher/) (et surtout [cette photo](https://static.irz.fr/2011/08/photo-1024x764.jpg)).
+J'ai donc pris une nouvelle casquette le week-end dernier, cette fois-ci un peu plus coloré, arborant toujours le logo de l'équipe des Yankees, mais cette fois-ci - contrairement à la première fois - j'ai hésité à enlever l'autocollant 50Fifty disposé sur le dessus de la casquette. Je n'aime pas trop les (nombreuses) étiquettes collées par exemple sur les ordinateurs portables, comme en témoigne un paragraphe de [cet article](https://irz.fr/on-va-switcher) (et surtout [cette photo](https://static.irz.fr/2011/08/photo-1024x764.jpg)).
 
 Le sticker en question ressemble à ça (à part que je porte du 7 3/8 pour ceux qui veulent me faire des cadeaux !) :
 
-[![59-50](https://static.irz.fr/2013/08/59-50.png)](http://irz.fr/dois-je-garder-lautocollant-de-ma-casquette-new-era/59-50/)
+[![59-50](https://static.irz.fr/2013/08/59-50.png)](https://irz.fr/recherche?q=59-50)
 
 Le lendemain de mon achat alors que je n'avais toujours pas enlevé le sticker, ma copine m'a demandé pourquoi je laissai cet autocollant sur le dessus de la casquette. Je lui répond d'un air grave (genre annonce de la fin du monde) et sans autres explications qu'il faut que j'attendes avant de l'enlever.
 
@@ -41,7 +41,7 @@ A l'époque, tout le monde enlevait bien gentiment son autocollant, jusqu'à ce 
 Pour conclure, voici une petite vidéo totalement hilarante qui est tout à fait dans le ton de cet article :
 
 
-http://www.youtube.com/watch?v=i5ZM0-f5_CU
+{% include video id="i5ZM0-f5_CU" provider="youtube" %}
 
 
 [Crédit photo : "Moi et mon père", Marie Lacoste]

@@ -19,7 +19,7 @@ tags:
 - voyages
 ---
 
-[![dans-ma-valise](https://static.irz.fr/2013/05/dans-ma-valise-640x656.png)](http://irz.fr/dans-ma-valise/dans-ma-valise/)
+[![dans-ma-valise](https://static.irz.fr/2013/05/dans-ma-valise-640x656.png)](https://irz.fr/recherche?q=dans-ma-valise)
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ tags:
 
 Et parce que je suis un mec sympa, je vous propose même une version coloriage :
 
-[![dans-ma-valise-coloriage](https://static.irz.fr/2013/05/dans-ma-valise-coloriage-640x656.png)](http://irz.fr/coloriages/dans-ma-valise-coloriage/)
+[![dans-ma-valise-coloriage](https://static.irz.fr/2013/05/dans-ma-valise-coloriage-640x656.png)](https://irz.fr/recherche?q=dans-ma-valise-coloriage)
 
 
-Vous pouvez voir tout les coloriages en allant sur [la page des coloriages](http://irz.fr/coloriages/).
+Vous pouvez voir tout les coloriages en allant sur [la page des coloriages](https://irz.fr/coloriages).

@@ -28,7 +28,7 @@ tags:
 La solution evasi0n est la seule permettant un jailbreak untethered (jailbreak complet ne nécessitant pas de redémarrage avec un ordinateur de votre iDevice) de l'ensemble des terminaux sous iOS 6.0, 6.0.1, 6.0.2, 6.1, 6.1.1 et 6.1.2.
 
 
-  Si vous êtes sous iOS 7, veuillez suivre [ce tutoriel](http://irz.fr/jailbreak-ios7/). En effet, vous êtes sur la page pour installer le Jailbreak de iOS 6.
+  Si vous êtes sous iOS 7, veuillez suivre [ce tutoriel](https://irz.fr/jailbreak-ios7). En effet, vous êtes sur la page pour installer le Jailbreak de iOS 6.
 
 
 
@@ -45,7 +45,7 @@ Il vous faut (aussi !) un câble USB pour relier votre appareil à un ordinateur
 
 Un appareil à jailbreaker, c'est à dire les iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5, iPod touch (4e & 5e génération), iPad 2, 3 & Retina et le petit dernier, le iPad mini.
 
-Si vous n'êtes pas sous  iOS 6.0, 6.0.1, 6.0.2, 6.1, 6.1.1 ou bien 6.1.2 mais **dans une version antérieure** (cad les versions 4 ou 5 par exemple), vous pouvez [suivre le tuto pour restaurer iOS](http://irz.fr/ios-restaurer-iphone/). Si vous êtes sous iOS 6.1.3, vous avez le droit de vous suicider, car il n'existe à l'heure actuelle pas de solution pour vous, à moins que disposiez d'un SHSH d'une version antérieure d'iOS sur votre ordinateur...
+Si vous n'êtes pas sous  iOS 6.0, 6.0.1, 6.0.2, 6.1, 6.1.1 ou bien 6.1.2 mais **dans une version antérieure** (cad les versions 4 ou 5 par exemple), vous pouvez [suivre le tuto pour restaurer iOS](https://irz.fr/ios-restaurer-iphone). Si vous êtes sous iOS 6.1.3, vous avez le droit de vous suicider, car il n'existe à l'heure actuelle pas de solution pour vous, à moins que disposiez d'un SHSH d'une version antérieure d'iOS sur votre ordinateur...
 
 
 

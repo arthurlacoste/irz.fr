@@ -1,0 +1,14 @@
+
+.intro {
+  background: url(https://static.irz.fr/2017/11/background.gif)no-repeat center top;
+  background-color: #545454;
+  min-height: 100vh;
+  background-size: cover;
+    
+  @media screen and (orientation:portrait) {
+    background: url(https://static.irz.fr/2017/11/background.gif)no-repeat right center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+}

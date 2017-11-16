@@ -14,7 +14,7 @@ categories:
 - Zéro déchet
 ---
 
-Les périodes de fêtes sont l'occasion de mettre sa créativité à toute épreuve. Vous pouvez trouver un tas d'articles de DIY regorgeant d'inventivité, faits avec de matériaux durables/recyclables, des objets utiles, [ou pas du tout](http://irz.fr/guide-cadeau/).
+Les périodes de fêtes sont l'occasion de mettre sa créativité à toute épreuve. Vous pouvez trouver un tas d'articles de DIY regorgeant d'inventivité, faits avec de matériaux durables/recyclables, des objets utiles, [ou pas du tout](https://irz.fr/guide-cadeau).
 
 Avant de parler du cadeau en question, prenons une minute pour comprendre à quoi sert un cadeau. Un cadeau est offert à quelqu'un pour lui faire plaisir. Il remplit son rôle de cadeau à partir du moment ou il est déballé. Et l'on créait un "concentré" de cadeau, quelle forme aurait-il ? Il pourrait revêtir une forme de reconnaissance, de gratitude envers son congénère.
 
@@ -26,6 +26,6 @@ Oui, ce cadeau est une lettre. Ce n'est pas une simple lettre que vous allez ré
 
 Florence Servan Schreiber est une journaliste, conférencière, Française et initiatrice du concept des "3 kifs par jour". Elle exprimera mieux que moi l'idée qui se cache derrière cette fameuse lettre de gratitude (elle en parle à partir de 8:53, mais le reste est tout aussi passionnant) :
 
-https://www.youtube.com/watch?v=nZUfJpVxUNI
+{% include video id="nZUfJpVxUNI" provider="youtube" %}
 
 La lettre de gratitude ne sera pas seulement appréciée par la personne qui recevra le cadeau, mais aussi par vous même. Des études ont en effet été faites, mettant en valeur un fait : une personne optimiste et joyeuse vit en moyenne 7 ans de plus.

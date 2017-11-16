@@ -21,6 +21,6 @@ tags:
 - Rio de Janeiro
 ---
 
-[embed]http://www.youtube.com/watch?v=zTUNAnh8hOc[/embed]
+{% include video id="zTUNAnh8hOc" provider="youtube" %}
 
 Comment ça, un Harlem Shake ?

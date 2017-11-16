@@ -13,3 +13,6 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 todo.md
+.jekyll
+_draft
+package-lock.json

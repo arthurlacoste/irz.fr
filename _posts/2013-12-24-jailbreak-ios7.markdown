@@ -32,7 +32,7 @@ tags:
 
 La solution evasi0n est la seule permettant un jailbreak untethered (jailbreak complet ne nécessitant pas de redémarrage avec un ordinateur de votre iDevice) de l'ensemble des terminaux sous iOS 7.0, 7.0.1, 7.0.2, 7.0.3 et 7.0.4.
 
-Si vous n'êtes pas convaincus par l'utilité du Jailbreak, je vous invite à lire cet article : [100 raisons de Jailbreaker votre iDevice](http://irz.fr/100-raisons-jailbreaker-iphone-5-ipad-ipod/) !
+Si vous n'êtes pas convaincus par l'utilité du Jailbreak, je vous invite à lire cet article : [100 raisons de Jailbreaker votre iDevice](https://irz.fr/100-raisons-jailbreaker-iphone-5-ipad-ipod) !
 
 
 
@@ -56,10 +56,10 @@ Si vous n'êtes pas sous  iOS 7.0, 7.0.1, 7.0.2, 7.0.3 ou bien 7.0.4 mais **
 
 
     
-  1. [suivre le tuto pour restaurer iOS](http://irz.fr/ios-restaurer-iphone/) et le passer à la dernière version jailbreakable de iOS 7.
+  1. [suivre le tuto pour restaurer iOS](https://irz.fr/ios-restaurer-iphone) et le passer à la dernière version jailbreakable de iOS 7.
 
     
-  2. Si vous êtes sous iOS 6 et que vous ne pouvez ou voulez pas changer, [jailbreakez iOS 6+](http://irz.fr/jailbreak-ios6/)
+  2. Si vous êtes sous iOS 6 et que vous ne pouvez ou voulez pas changer, [jailbreakez iOS 6+](https://irz.fr/jailbreak-ios6)
 
 
 
@@ -143,16 +143,16 @@ Link
 
 
 2
-    Connectez votre iPhone (ou autre iDevice) en USB à votre ordinateur.Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n 7.exe sur Windows, evasi0n 7.app sur Mac). Vous allez avoir un logiciel avec une fenêtre de ce style. Cliquez sur la bouton **Jailbreak**.[![evasi0n-7-ios7-1-retrieving-remote-package](https://static.irz.fr/2013/12/evasi0n-7-ios7-1-retrieving-remote-package.png)](http://irz.fr/jailbreak-ios7/evasi0n-7-ios7-1-retrieving-remote-package/)
+    Connectez votre iPhone (ou autre iDevice) en USB à votre ordinateur.Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n 7.exe sur Windows, evasi0n 7.app sur Mac). Vous allez avoir un logiciel avec une fenêtre de ce style. Cliquez sur la bouton **Jailbreak**.[![evasi0n-7-ios7-1-retrieving-remote-package](https://static.irz.fr/2013/12/evasi0n-7-ios7-1-retrieving-remote-package.png)](https://irz.fr/recherche?q=evasi0n-7-ios7-1-retrieving-remote-package)
 
 
 
 
 3
-    Après quelques minutes le message suivant va apparaître : "To continue, please unlock your device and tap the new 'evasi0n 7' icon."Lorsque un message vous indique de rechercher l'icône "evasi0n 7", déverrouillez votre précieux, puis allez chercher l'application en question sur votre iDevice. Voir l'application sur la quatrième ligne de la capture.[![evasi0n-7-ios7-3-please-unlock](https://static.irz.fr/2013/12/evasi0n-7-ios7-3-please-unlock.png)](http://irz.fr/jailbreak-ios7/evasi0n-7-ios7-3-please-unlock/)
+    Après quelques minutes le message suivant va apparaître : "To continue, please unlock your device and tap the new 'evasi0n 7' icon."Lorsque un message vous indique de rechercher l'icône "evasi0n 7", déverrouillez votre précieux, puis allez chercher l'application en question sur votre iDevice. Voir l'application sur la quatrième ligne de la capture.[![evasi0n-7-ios7-3-please-unlock](https://static.irz.fr/2013/12/evasi0n-7-ios7-3-please-unlock.png)](https://irz.fr/recherche?q=evasi0n-7-ios7-3-please-unlock)
 
 
-[![evasi0n-jailbreak-ios7-install-screenshot](https://static.irz.fr/2013/12/evasi0n-jailbreak-ios7-install-screenshot-576x1024.png)](http://irz.fr/jailbreak-ios7/evasi0n-jailbreak-ios7-install-screenshot/)
+[![evasi0n-jailbreak-ios7-install-screenshot](https://static.irz.fr/2013/12/evasi0n-jailbreak-ios7-install-screenshot-576x1024.png)](https://irz.fr/recherche?q=evasi0n-jailbreak-ios7-install-screenshot)
 
 
 

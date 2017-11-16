@@ -28,10 +28,10 @@ Comme tout le monde, le début d'une année est aussi l'occasion de réaliser un
 - C’est une couverture, tout simplement. Et pourquoi toi et moi on sait ce que c’est qu’un duvet à ton avis ? Parce que c’est essentiel à notre survie, dans cette existence précaire que nous menons ? Non. Alors on est quoi ?
 - On est que des... Consommateurs.
 
-> 
+>
 > Fight Club
-> 
-> 
+>
+>
 </blockquote>
 
 
@@ -72,7 +72,7 @@ Je vais commencer par Rio de Janeiro (la deuxième plus grande ville du Brésil
 
 
 
-J'en ai conscience : je suis un [Apple addict](http://irz.fr/category/apple/). Il suffit de faire le décompte de tout les produits Apple que je possède : un iPhone, un iPad, quelques iPod, un MacBook Air, une Time Capsule, une borne AirPort Express. D'après moi, ce n'est pas irréversible, c'est juste que j'aime prendre ce qui se fait de mieux en high-tech. Le meilleur compromis entre ergonomie, fonctionnalités et design. Rien que niveau téléphone, j'ai passé la moitié de l'année avec un **Samsung** Galaxy SII.
+J'en ai conscience : je suis un [Apple addict](https://irz.fr/). Il suffit de faire le décompte de tout les produits Apple que je possède : un iPhone, un iPad, quelques iPod, un MacBook Air, une Time Capsule, une borne AirPort Express. D'après moi, ce n'est pas irréversible, c'est juste que j'aime prendre ce qui se fait de mieux en high-tech. Le meilleur compromis entre ergonomie, fonctionnalités et design. Rien que niveau téléphone, j'ai passé la moitié de l'année avec un **Samsung** Galaxy SII.
 
 Pour la petite histoire, pas plus tard qu'hier, j'ai envisagé l'achat de la tablette Surface de Windows. Après quelques tests, le principal argument pour moi était réduit en poussière : on ne peut pas installer n'importe quelle application WIndows sur la Surface. En effet, l'OS de la surface est WIndows RT, une version de Windows 7 pour les processeurs ARM. Ce qui fait entre autres que n'importe quelle application ne peut pas être installé. Du coup, ça ne m’intéresse pas.
 
@@ -94,7 +94,8 @@ Non je n'y arriverai jamais. J'ai déjà la flemme. On prévoit ça pour 2014.
 
 
 
-[caption id="attachment_143844" align="aligncenter" width="584"][![IMG_0186](https://static.irz.fr/2013/01/IMG_0186-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0186.jpg) La table basse tête de mort[/caption]
+ {% include figure image_path="https://static.irz.fr/2013/01/IMG_0186.jpg" alt="La table basse tête de mort" caption="La table basse tête de mort" %}
+
 
 
 
@@ -114,9 +115,9 @@ D'ailleurs je suis dégoûté j'ai perdu quelques pièces dont un squelette en
 
 J'ai vraiment délaissé le site ces derniers mois, et bien que ma ligne éditoriale soit toujours aussi pourrie (comprenez inexistante), et même si je vais peut-être poster plus de photos de LOLcats qu'écrire des articles construits, il n'en reste pas moins que ce petit bloc-notes personnel de ma vie est beaucoup plus que ça.
 
-En effet, grâce à lui, j'ai eu l'occasion de discuter avec des personnes de tous horizons. Il m'a apporté de la visibilité [lorsque je travaillais en tant qu'auto-entrepreneur](http://arthurlacoste.com). En 2011/2012, j'ai essuyé les plâtres. Car même si j'ai toujours un peu blogué, il m'en est arrivé [des vertes](http://irz.fr/diffamation-crocus-charancieu/) et [des pas mûres](http://irz.fr/coup-de-gueule-contre-le-micro-casque-bluetooth-h-ear-de-halterrego/). Et encore, ce n'est que la face visible de l'iceberg, j'ai du enlever pas moins de 70 articles parce que je reprenais des photographies de l'ENPC (bon ça c'est normal !) et j'ai récemment vendu mon âme au diable (nous aurons l'occasion d'en reparler).
+En effet, grâce à lui, j'ai eu l'occasion de discuter avec des personnes de tous horizons. Il m'a apporté de la visibilité [lorsque je travaillais en tant qu'auto-entrepreneur](http://arthurlacoste.com). En 2011/2012, j'ai essuyé les plâtres. Car même si j'ai toujours un peu blogué, il m'en est arrivé [des vertes](https://irz.fr/diffamation-crocus-charancieu) et [des pas mûres](https://irz.fr/coup-de-gueule-contre-le-micro-casque-bluetooth-h-ear-de-halterrego). Et encore, ce n'est que la face visible de l'iceberg, j'ai du enlever pas moins de 70 articles parce que je reprenais des photographies de l'ENPC (bon ça c'est normal !) et j'ai récemment vendu mon âme au diable (nous aurons l'occasion d'en reparler).
 
-Donc plus d'articles (toujours pour rien dire), plus de travail sur l'aspect visuel (comme le [photomontage ](https://static.irz.fr/2012/04/pole-emploi-superpower-1000x288.png)de l'article sur [pôle-emploi](http://irz.fr/pole-emploi-superpower-le-moyen-ultime-pour-trouver-du-travail/)), continuer de travailler mon référencement. Et peut-être dépassé les 200 visiteurs unique par jour. C'est pas croyable d'ailleurs, j'ai remis un outil de statistiques il y a une semaine, et dans mon esprit, je faisais du 50 visites/jour. La je suis en moyenne à 150-170. C'est assez motivant quand même de voir qu'on visite le site.
+Donc plus d'articles (toujours pour rien dire), plus de travail sur l'aspect visuel (comme le [photomontage ](https://static.irz.fr/2012/04/pole-emploi-superpower-1000x288.png)de l'article sur [pôle-emploi](https://irz.fr/pole-emploi-superpower-le-moyen-ultime-pour-trouver-du-travail)), continuer de travailler mon référencement. Et peut-être dépassé les 200 visiteurs unique par jour. C'est pas croyable d'ailleurs, j'ai remis un outil de statistiques il y a une semaine, et dans mon esprit, je faisais du 50 visites/jour. La je suis en moyenne à 150-170. C'est assez motivant quand même de voir qu'on visite le site.
 
 
 
@@ -140,7 +141,8 @@ Il y a de quoi rêver jusqu'à la fin de nos vies.
 
 L'année passé, je n'avais pas de grands projets. Avec l'ami Fabien, nous avions monté un petit projet de [commentaires de vidéos de Starcraft 2](http://missclick.irz.fr). Avec le petit site qui va bien. Lui, il commente toujours dans des teams, moi j'ai un peu laissé tomber sc2.
 
-[youtube p_L_hEfokVk]
+{% include video id="p_L_hEfokVk" provider="youtube" %}
+
 
 Mais la je travaille sur une nouvelle version [du site de ma soeur](http://lucie.irz.fr), qui à la plus belle plume du monde (cet avis est tout à fait subjectif !), et une vision bien à elle de notre société.
 
@@ -157,5 +159,3 @@ Cela fait un peut plus de 2 ans que j'ai perdu du poids. Avec beaucoup de volont
 Cependant, je me suis un peu remis à manger des conneries. La collocation n'aide pas à se tenir à carreau niveau alimentation. Quoi que, c'est une bonne excuse.
 
 Alors on arrête les conneries !
-
-

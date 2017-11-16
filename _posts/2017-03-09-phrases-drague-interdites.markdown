@@ -22,20 +22,20 @@ Et il y en a qui n'ont pas froid aux yeux, qui tentent le tout pour le tout.
 
 Je vous ai sélectionné le pire !<!-- more -->
 
-[![](https://static.irz.fr/2017/03/001-google.png)](http://irz.fr/phrases-drague-interdites/001-google/)
+[![](https://static.irz.fr/2017/03/001-google.png)](https://irz.fr/recherche?q=001-google)
 
-[![](https://static.irz.fr/2017/03/002-le-plein.png)](http://irz.fr/phrases-drague-interdites/002-le-plein/)
+[![](https://static.irz.fr/2017/03/002-le-plein.png)](https://irz.fr/recherche?q=002-le-plein)
 
-[![](https://static.irz.fr/2017/03/003-pires-phrases-de-drague-en-boite.png)](http://irz.fr/phrases-drague-interdites/003-pires-phrases-de-drague-en-boite/)
+[![](https://static.irz.fr/2017/03/003-pires-phrases-de-drague-en-boite.png)](https://irz.fr/recherche?q=003-pires-phrases-de-drague-en-boite)
 
-[![](https://static.irz.fr/2017/03/004-pires-phrases-de-drague-burger.png)](http://irz.fr/phrases-drague-interdites/004-pires-phrases-de-drague-burger/)
+[![](https://static.irz.fr/2017/03/004-pires-phrases-de-drague-burger.png)](https://irz.fr/recherche?q=004-pires-phrases-de-drague-burger)
 
-[![](https://static.irz.fr/2017/03/005-pires-phrases-de-drague-premier-regard-beauf.png)](http://irz.fr/phrases-drague-interdites/005-pires-phrases-de-drague-premier-regard-beauf/)
+[![](https://static.irz.fr/2017/03/005-pires-phrases-de-drague-premier-regard-beauf.png)](https://irz.fr/recherche?q=005-pires-phrases-de-drague-premier-regard-beauf)
 
-[![](https://static.irz.fr/2017/03/006-pires-phrases-de-drague-ghb-drole-beauf-1.png)](http://irz.fr/phrases-drague-interdites/006-pires-phrases-de-drague-ghb-drole-beauf-2/)
+[![](https://static.irz.fr/2017/03/006-pires-phrases-de-drague-ghb-drole-beauf-1.png)](https://irz.fr/recherche?q=006-pires-phrases-de-drague-ghb-drole-beauf-2)
 
-[![](https://static.irz.fr/2017/03/007-pires-phrases-de-drague-juif-drole-beauf.png)](http://irz.fr/phrases-drague-interdites/007-pires-phrases-de-drague-juif-drole-beauf/)
+[![](https://static.irz.fr/2017/03/007-pires-phrases-de-drague-juif-drole-beauf.png)](https://irz.fr/recherche?q=007-pires-phrases-de-drague-juif-drole-beauf)
 
-[![](https://static.irz.fr/2017/03/008-pires-phrases-de-drague-william-arcahon-drole-beauf.png)](http://irz.fr/phrases-drague-interdites/008-pires-phrases-de-drague-william-arcahon-drole-beauf/)
+[![](https://static.irz.fr/2017/03/008-pires-phrases-de-drague-william-arcahon-drole-beauf.png)](https://irz.fr/recherche?q=008-pires-phrases-de-drague-william-arcahon-drole-beauf)
 
-[![](https://static.irz.fr/2017/03/009-pires-phrases-de-drague-grignoter-drole-beauf.png)](http://irz.fr/phrases-drague-interdites/009-pires-phrases-de-drague-grignoter-drole-beauf/)[![](https://static.irz.fr/2017/03/010-pires-phrases-de-drague-capote-latex-drole-beauf-1.png)](http://irz.fr/phrases-drague-interdites/010-pires-phrases-de-drague-capote-latex-drole-beauf-2/)
+[![](https://static.irz.fr/2017/03/009-pires-phrases-de-drague-grignoter-drole-beauf.png)](https://irz.fr/recherche?q=009-pires-phrases-de-drague-grignoter-drole-beauf)[![](https://static.irz.fr/2017/03/010-pires-phrases-de-drague-capote-latex-drole-beauf-1.png)](https://irz.fr/recherche?q=010-pires-phrases-de-drague-capote-latex-drole-beauf-2)

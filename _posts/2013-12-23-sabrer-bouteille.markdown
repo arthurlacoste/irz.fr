@@ -21,7 +21,7 @@ Une fois n'est pas coutume, voici la méthode pour sabrer une bouteille, qui vou
 
 Si vous y arrivez, vous allez pouvoir vous la péter pendant le réveillon de Noël ou le jour de l'an !
 
-[embed]http://www.youtube.com/watch?v=Xaap1JpM8PE[/embed]
+{% include video id="Xaap1JpM8PE" provider="youtube" %}
 
 Vous n'avez plus qu'a vous entraîner, en évitant de casser des bouteilles.
 
