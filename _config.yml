@@ -62,7 +62,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               : arthurlacoste
+  username               : &id arthurlacoste
 facebook:
   username               :
   app_id                 :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         : irz.fr
   foursquare       :
-  github           : arthurlacoste
+  github           : *id
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : arthak
+  instagram        : &id2 arthak
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       : arthak
+  soundcloud       : &id2
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : arthurlacoste
-  mastodon         :
+  twitter          : *id
+  mastodon         : https://mastodon.social/@arthak
   vine             :
   weibo            :
   xing             :
@@ -197,6 +197,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

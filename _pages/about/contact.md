@@ -6,13 +6,15 @@ sidebar:
   nav: "about"
 ---
 
-Vous pouvez me contacter via :
+{% include contact-form.html %}
+
+## Social
+
+Vous pouvez aussi me contacter via :
 
 - [Twitter]
 - [Mastodon]
 - [Facebook]
-
-Ou par mail à l'adresse "m" suivi de arobase arthurlacoste.com.
 
 ## PGP
 
