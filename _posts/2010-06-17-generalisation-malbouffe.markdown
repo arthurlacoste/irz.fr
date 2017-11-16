@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-17 11:21:03+00:00
 layout: post
-link: https://irz.fr/generalisation-malbouffe/
+redirect_from: generalisation-malbouffe/
 slug: generalisation-malbouffe
 title: Vers une généralisation de la malbouffe ?
 wordpress_id: 1438447694

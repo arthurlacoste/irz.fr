@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-03-09 05:00:16+00:00
 layout: post
-link: https://irz.fr/phrases-drague-interdites/
+redirect_from: phrases-drague-interdites/
 slug: phrases-drague-interdites
 title: 10 phrases de drague que vous ne devez jamais prononcer !
 wordpress_id: 1438493802

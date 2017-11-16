@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-31 11:00:48+00:00
 layout: post
-link: https://irz.fr/installer-beta-yosemite/
+redirect_from: installer-beta-yosemite/
 slug: installer-beta-yosemite
 title: Comment installer la beta publique de Mac OS X Yosemite ?
 wordpress_id: 1438449449

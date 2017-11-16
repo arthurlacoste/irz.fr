@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-26 09:00:57+00:00
 layout: post
-link: https://irz.fr/bitstrips/
+redirect_from: bitstrips/
 slug: bitstrips
 title: Pourquoi je dis oui à Bitstrips
 wordpress_id: 1438449246

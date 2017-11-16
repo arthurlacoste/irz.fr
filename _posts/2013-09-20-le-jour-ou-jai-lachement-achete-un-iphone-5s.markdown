@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-09-20 01:25:10+00:00
 layout: post
-link: https://irz.fr/le-jour-ou-jai-lachement-achete-un-iphone-5s/
+redirect_from: le-jour-ou-jai-lachement-achete-un-iphone-5s/
 slug: le-jour-ou-jai-lachement-achete-un-iphone-5s
 title: Le jour ou j'ai lâchement acheté un iPhone 5S
 wordpress_id: 1438449172

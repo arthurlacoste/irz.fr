@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-03-20 16:17:00+00:00
 layout: post
-link: https://irz.fr/resoudre-un-rubiks-cube-loccasion-de-faire-le-point/
+redirect_from: resoudre-un-rubiks-cube-loccasion-de-faire-le-point/
 slug: resoudre-un-rubiks-cube-loccasion-de-faire-le-point
 title: Résoudre un rubik’s Cube, l’occasion de faire le point
 wordpress_id: 471

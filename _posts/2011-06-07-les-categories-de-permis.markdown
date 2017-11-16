@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-07 23:02:12+00:00
 layout: post
-link: https://irz.fr/les-categories-de-permis/
+redirect_from: les-categories-de-permis/
 slug: les-categories-de-permis
 title: Les catégories de permis
 wordpress_id: 1438447971

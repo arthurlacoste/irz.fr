@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-02 10:19:17+00:00
 layout: post
-link: https://irz.fr/28-avril-2011/
+redirect_from: 28-avril-2011/
 slug: 28-avril-2011
 title: 28 Avril 2011
 wordpress_id: 106

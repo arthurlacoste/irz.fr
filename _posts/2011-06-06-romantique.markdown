@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-06 03:24:34+00:00
 layout: post
-link: https://irz.fr/romantique/
+redirect_from: romantique/
 slug: romantique
 title: Je voulais juste que ce soit romantique
 wordpress_id: 1438447815

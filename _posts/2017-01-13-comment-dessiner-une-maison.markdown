@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-13 22:37:29+00:00
 layout: post
-link: https://irz.fr/comment-dessiner-une-maison/
+redirect_from: comment-dessiner-une-maison/
 slug: comment-dessiner-une-maison
 title: Comment dessiner une maison ?
 wordpress_id: 1438490936

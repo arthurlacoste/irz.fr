@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-12-24 07:51:58+00:00
 layout: post
-link: https://irz.fr/icompta/
+redirect_from: icompta/
 slug: icompta
 title: iCompta, votre comptabilité dans les nuages
 wordpress_id: 4

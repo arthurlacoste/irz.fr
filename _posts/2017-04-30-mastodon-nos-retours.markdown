@@ -3,7 +3,7 @@ author: hugosieo
 comments: true
 date: 2017-04-30 13:47:21+00:00
 layout: post
-link: https://irz.fr/mastodon-nos-retours/
+redirect_from: mastodon-nos-retours/
 slug: mastodon-nos-retours
 title: On a testé Mastodon... Voici nos retours !
 wordpress_id: 1438493861

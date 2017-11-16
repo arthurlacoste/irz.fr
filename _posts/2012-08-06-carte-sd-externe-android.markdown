@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-08-06 09:30:13+00:00
 layout: post
-link: https://irz.fr/carte-sd-externe-android/
+redirect_from: carte-sd-externe-android/
 slug: carte-sd-externe-android
 title: Trouver le chemin de sa carte SD sous Android
 wordpress_id: 1438448486

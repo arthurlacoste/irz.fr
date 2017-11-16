@@ -10,7 +10,7 @@ excerpt: Il existe plusieurs solutions pour vous synchroniser depuis votre mobil
   que j'ai eu l'occasion de tester avec succès autant sur un Galaxy SII de Samung
   sous Android et avec un iPhone 5 sous iOS.
 layout: post
-link: https://irz.fr/sauvegarde-temps-reel-photos-android-iphone/
+redirect_from: sauvegarde-temps-reel-photos-android-iphone/
 slug: sauvegarde-temps-reel-photos-android-iphone
 title: La sauvegarde en temps réel de vos photos sous Android & iPhone
 wordpress_id: 1438448600

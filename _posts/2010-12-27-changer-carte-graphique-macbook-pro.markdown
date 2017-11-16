@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-12-27 00:03:28+00:00
 layout: post
-link: https://irz.fr/changer-carte-graphique-macbook-pro/
+redirect_from: changer-carte-graphique-macbook-pro/
 slug: changer-carte-graphique-macbook-pro
 title: Changer la carte graphique de votre Macbook Pro
 wordpress_id: 54

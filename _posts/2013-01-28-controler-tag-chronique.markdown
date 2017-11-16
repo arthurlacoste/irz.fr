@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-28 16:48:30+00:00
 layout: post
-link: https://irz.fr/controler-tag-chronique/
+redirect_from: controler-tag-chronique/
 slug: controler-tag-chronique
 title: Chronique de la vie de tout les jours
 wordpress_id: 1438448737

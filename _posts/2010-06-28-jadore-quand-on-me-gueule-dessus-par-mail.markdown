@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-28 11:48:32+00:00
 layout: post
-link: https://irz.fr/jadore-quand-on-me-gueule-dessus-par-mail/
+redirect_from: jadore-quand-on-me-gueule-dessus-par-mail/
 slug: jadore-quand-on-me-gueule-dessus-par-mail
 title: J'adore quand on me gueule dessus par mail
 wordpress_id: 189

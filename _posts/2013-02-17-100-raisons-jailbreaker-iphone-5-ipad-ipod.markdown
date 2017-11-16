@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-17 13:59:23+00:00
 layout: post
-link: https://irz.fr/100-raisons-jailbreaker-iphone-5-ipad-ipod/
+redirect_from: 100-raisons-jailbreaker-iphone-5-ipad-ipod/
 slug: 100-raisons-jailbreaker-iphone-5-ipad-ipod
 title: 100 raisons de Jailbreaker votre iDevice
 wordpress_id: 1438448824

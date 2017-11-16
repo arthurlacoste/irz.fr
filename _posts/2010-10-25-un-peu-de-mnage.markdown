@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-10-25 14:46:00+00:00
 layout: post
-link: https://irz.fr/un-peu-de-mnage/
+redirect_from: un-peu-de-mnage/
 slug: un-peu-de-mnage
 title: Un peu de ménage...
 wordpress_id: 1398557375

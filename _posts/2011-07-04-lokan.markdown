@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-07-04 10:38:11+00:00
 layout: post
-link: https://irz.fr/lokan/
+redirect_from: lokan/
 slug: lokan
 title: Lokan.fr - Le bilan, version courte
 wordpress_id: 1438448322

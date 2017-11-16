@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-14 21:09:53+00:00
 layout: post
-link: https://irz.fr/imprimante-windows-time-capsule/
+redirect_from: imprimante-windows-time-capsule/
 slug: imprimante-windows-time-capsule
 title: Partager une imprimante sur Windows avec le time capsule
 wordpress_id: 1438448109

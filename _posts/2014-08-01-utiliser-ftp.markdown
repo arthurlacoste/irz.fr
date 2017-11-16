@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-08-01 11:23:07+00:00
 layout: post
-link: https://irz.fr/utiliser-ftp/
+redirect_from: utiliser-ftp/
 slug: utiliser-ftp
 title: Utiliser un client FTP
 wordpress_id: 1438449439

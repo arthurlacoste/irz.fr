@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-10-29 09:42:39+00:00
 layout: post
-link: https://irz.fr/lire-des-divx-sur-ios-6-avec-hd-player-iphone-5/
+redirect_from: lire-des-divx-sur-ios-6-avec-hd-player-iphone-5/
 slug: lire-des-divx-sur-ios-6-avec-hd-player-iphone-5
 title: Lire des films sur iOS 6 avec HD Player
 wordpress_id: 1438448533

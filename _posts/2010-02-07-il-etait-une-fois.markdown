@@ -9,7 +9,7 @@ excerpt: 'Il était une fois l''histoire d''un garçon qui était touche-à-tout
 
   C''est parti !'
 layout: post
-link: https://irz.fr/il-etait-une-fois/
+redirect_from: il-etait-une-fois/
 slug: il-etait-une-fois
 title: Il était une fois...
 wordpress_id: 847

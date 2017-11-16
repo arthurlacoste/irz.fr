@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-05-18 09:51:28+00:00
 layout: post
-link: https://irz.fr/dans-ma-valise/
+redirect_from: dans-ma-valise/
 slug: dans-ma-valise
 title: Dans ma valise
 wordpress_id: 1438449063

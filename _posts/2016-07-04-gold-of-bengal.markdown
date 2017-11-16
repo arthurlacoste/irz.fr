@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-07-04 16:09:11+00:00
 layout: post
-link: https://irz.fr/gold-of-bengal/
+redirect_from: gold-of-bengal/
 slug: gold-of-bengal
 title: Le voyage de Gold of Bengal
 wordpress_id: 663

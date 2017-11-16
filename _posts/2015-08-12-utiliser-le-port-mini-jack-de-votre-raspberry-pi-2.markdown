@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-08-12 09:17:54+00:00
 layout: post
-link: https://irz.fr/utiliser-le-port-mini-jack-de-votre-raspberry-pi-2/
+redirect_from: utiliser-le-port-mini-jack-de-votre-raspberry-pi-2/
 slug: utiliser-le-port-mini-jack-de-votre-raspberry-pi-2
 title: Utiliser le port mini jack de votre Raspberry Pi 2
 wordpress_id: 1438449660

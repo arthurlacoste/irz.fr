@@ -7,7 +7,7 @@ excerpt: 'Pour l''édition du 8 Mars 2010, je vous l''ai fait moins personnelle,
 
   '
 layout: post
-link: https://irz.fr/2-review-de-la-semaine-carla-bruni-benjamin-biolay-p2p-series-ghost-writer/
+redirect_from: 2-review-de-la-semaine-carla-bruni-benjamin-biolay-p2p-series-ghost-writer/
 slug: 2-review-de-la-semaine-carla-bruni-benjamin-biolay-p2p-series-ghost-writer
 title: Seconde review de la semaine
 wordpress_id: 269

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-07-14 15:13:33+00:00
 layout: post
-link: https://irz.fr/tuto4pc-eorezo/
+redirect_from: tuto4pc-eorezo/
 slug: tuto4pc-eorezo
 title: 'Tuto4pc: Le nouveau cheval de Troie d''eoRezo'
 wordpress_id: 1438448338

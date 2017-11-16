@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-31 10:55:05+00:00
 layout: post
-link: https://irz.fr/quora-me-vend-du-reve/
+redirect_from: quora-me-vend-du-reve/
 slug: quora-me-vend-du-reve
 title: Quora me vend du rêve !
 wordpress_id: 1438448748

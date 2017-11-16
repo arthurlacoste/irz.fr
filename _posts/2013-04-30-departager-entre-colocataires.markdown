@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-30 06:00:55+00:00
 layout: post
-link: https://irz.fr/departager-entre-colocataires/
+redirect_from: departager-entre-colocataires/
 slug: departager-entre-colocataires
 title: Comment se départager entre colocataires ?
 wordpress_id: 1438449027

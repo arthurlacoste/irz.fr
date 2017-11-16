@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-10 12:03:24+00:00
 layout: post
-link: https://irz.fr/cable-hdmi/
+redirect_from: cable-hdmi/
 slug: cable-hdmi
 title: Dois-je acheter un câble HDMI cher ?
 wordpress_id: 1438449305

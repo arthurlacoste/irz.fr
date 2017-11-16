@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-10 08:14:18+00:00
 layout: post
-link: https://irz.fr/add-more-files-extensions/
+redirect_from: add-more-files-extensions/
 slug: add-more-files-extensions
 title: 'Add more files extensions : le remède contre le manque d''extensions de wordpress'
 wordpress_id: 1438448387

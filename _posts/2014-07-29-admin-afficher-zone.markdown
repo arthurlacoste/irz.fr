@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-29 23:06:47+00:00
 layout: post
-link: https://irz.fr/admin-afficher-zone/
+redirect_from: admin-afficher-zone/
 slug: admin-afficher-zone
 title: N'afficher certaines zones que si vous êtes administrateur
 wordpress_id: 1438449440

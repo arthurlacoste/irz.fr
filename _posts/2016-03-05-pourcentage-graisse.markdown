@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-03-05 21:29:14+00:00
 layout: post
-link: https://irz.fr/pourcentage-graisse/
+redirect_from: pourcentage-graisse/
 slug: pourcentage-graisse
 title: Comment connaître mon pourcentage de graisse ?
 wordpress_id: 1438493781

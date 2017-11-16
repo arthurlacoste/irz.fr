@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-23 08:26:35+00:00
 layout: post
-link: https://irz.fr/la-magie-du-rangement/
+redirect_from: la-magie-du-rangement/
 slug: la-magie-du-rangement
 title: La magie du rangement
 wordpress_id: 1438493754

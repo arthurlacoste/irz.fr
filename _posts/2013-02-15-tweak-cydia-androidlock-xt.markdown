@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-15 13:22:35+00:00
 layout: post
-link: https://irz.fr/tweak-cydia-androidlock-xt/
+redirect_from: tweak-cydia-androidlock-xt/
 slug: tweak-cydia-androidlock-xt
 title: 'Tweak Cydia : Androidlock XT'
 wordpress_id: 1438448818

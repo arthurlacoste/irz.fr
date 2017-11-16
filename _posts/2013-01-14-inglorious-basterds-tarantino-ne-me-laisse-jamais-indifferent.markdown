@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-14 07:24:21+00:00
 layout: post
-link: https://irz.fr/inglorious-basterds-tarantino-ne-me-laisse-jamais-indifferent/
+redirect_from: inglorious-basterds-tarantino-ne-me-laisse-jamais-indifferent/
 slug: inglorious-basterds-tarantino-ne-me-laisse-jamais-indifferent
 title: 'Inglourious Basterds : Tarantino ne me laisse jamais indifférent'
 wordpress_id: 1438448634

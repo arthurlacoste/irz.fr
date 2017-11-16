@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-02 14:26:41+00:00
 layout: post
-link: https://irz.fr/selliance/
+redirect_from: selliance/
 slug: selliance
 title: 'Selliance : le poisson d''avril en retard'
 wordpress_id: 1438448374

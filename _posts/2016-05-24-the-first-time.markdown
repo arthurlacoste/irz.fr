@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-05-24 18:06:17+00:00
 layout: post
-link: https://irz.fr/the-first-time/
+redirect_from: the-first-time/
 slug: the-first-time
 title: The first time
 wordpress_id: 1438464095

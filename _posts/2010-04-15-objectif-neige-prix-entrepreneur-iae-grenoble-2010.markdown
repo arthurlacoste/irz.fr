@@ -5,7 +5,7 @@ date: 2010-04-15 11:08:20+00:00
 excerpt: Après les vidéos de Cokoon, Autentica et Gest' Affaires, c'est au tour du
   premier comparateur de stations de ski de passer devant le jury.
 layout: post
-link: https://irz.fr/objectif-neige-prix-entrepreneur-iae-grenoble-2010/
+redirect_from: objectif-neige-prix-entrepreneur-iae-grenoble-2010/
 slug: objectif-neige-prix-entrepreneur-iae-grenoble-2010
 title: Objectif-neige (Prix entrepreneur IAE Grenoble 2010)
 wordpress_id: 720

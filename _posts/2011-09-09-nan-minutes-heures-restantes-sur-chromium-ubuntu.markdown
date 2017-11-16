@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-09 09:50:18+00:00
 layout: post
-link: https://irz.fr/nan-minutes-heures-restantes-sur-chromium-ubuntu/
+redirect_from: nan-minutes-heures-restantes-sur-chromium-ubuntu/
 slug: nan-minutes-heures-restantes-sur-chromium-ubuntu
 title: Régler le problème des NaN minutes / heures restantes sur Chromium Ubuntu
 wordpress_id: 1438448384

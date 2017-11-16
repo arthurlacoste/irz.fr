@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-22 12:41:56+00:00
 layout: post
-link: https://irz.fr/pagination-page-2-wordpress/
+redirect_from: pagination-page-2-wordpress/
 slug: pagination-page-2-wordpress
 title: Pagination capricieuse sur Wordpress
 wordpress_id: 1438448955

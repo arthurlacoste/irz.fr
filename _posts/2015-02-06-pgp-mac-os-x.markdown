@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-06 14:11:44+00:00
 layout: post
-link: https://irz.fr/pgp-mac-os-x/
+redirect_from: pgp-mac-os-x/
 slug: pgp-mac-os-x
 title: Utiliser PGP sous Mac OS X
 wordpress_id: 1438449622
@@ -23,10 +23,10 @@ Quand j’ai décidé de paramétrer mon Mac et plus particulièrement de mettre
 
 
 
-    
+
   1. Installer PGP sur Mac OS X
 
-    
+
   2. Utiliser PGP dans la vie de tout les jours
 
 
@@ -42,13 +42,13 @@ Dans ce tutoriel, nous désignerons la plupart du temps le texte chiffré par �
 
 
 
-    
+
   1. **Il fonctionne avec toutes les applications.** Contrairement aux autres tutoriels concernant PGP, celui-ci ne se soucis pas des logiciels que vous utilisez. Peut importe les outils que vous utilisez actuellement ou utiliserez dans le futur, PGP continuera de fonctionner. Si vous voulez chiffrer des mails, vous pouvez utiliser le logiciel que vous voulez : Mail.app, Thunderbird, Sparrow, Gmail, Airmail… Si vous voulez chiffrer autre chose que des mail, c’est possible aussi ! Vous pouvez écrire et chiffrer des documents Word, ou une formule Excel. Vous pouvez facilement chiffrer une URL sous Safari, Chrome, Firefox. Vous pouvez chiffrer un texte avec Message. Vous pouvez chiffrer une commande sur le terminal. Ça n’a aucune importance.
 
-    
+
   2. **Il est fait pour les utilisateurs de mac.** Il y a une certaine manière de faire les choses sur Mac. Si vous n’êtes pas familier avec le monde des Mac, vous ne pouvez pas forcément comprendre (c’est normal). Beaucoup de tutoriels que j’ai trouvé pour Mac OS X n’étaient pas fait pour les utilisateurs de Mac. Beaucoup veulent vous faire installer une usine à gaz à la Windows, ou une extension douteuse. ce tuto est fait pour les utilisateurs de mac. Il s’agit de PGP, installé de la manière dont Steve Jobs l’aurait implémenté.
 
-    
+
   3. **Il est Simple.** Avant tout, cette installation de PGP est simple. Une fois que vous avez compris comment ça marche, vous pourrez tout effectuer de A à Z.
 
 
@@ -154,16 +154,16 @@ Nous allons maintenant mettre en place quatre raccourcis :
 
 
 
-    
+
   * Activez “OpenPGP: Déchiffrer” et définissez le raccourci suivant : ⌃⌥⌘- (control option command moins)
 
-    
+
   * Activez “OpenPGP: Chiffrer” et définissez le raccourci suivant : ⌃⌥⌘= (control option command egal)
 
-    
+
   * Activez “OpenPGP: Signez” et définissez le raccourci suivant : ⌃⌥⌘[ (control option command crochet ouvert)
 
-    
+
   * Activez “OpenPGP: Vérifiez” et définissez le raccourci suivant : ⌃⌥⌘] (control option command crochet fermé)
 
 
@@ -379,22 +379,22 @@ Voilà pourquoi :
 
 
 
-    
+
   * Les pièces jointes m’emmerdent.
 
-    
+
   * Les gens qui utilisent les extensions de chiffrement n’ont aucune idée du fonctionnement de leurs programme, ce qui leurs procure une fausse sensation de sécurité
 
-    
+
   * le texte brut peut être copié n’importe où (terminal, Facebook, iMessage, etc.), ce n’est pas le cas des pièces jointes.
 
-    
+
   * La majorité des personnes m’ayant écrit un mail test en utilisant une pièce jointe MIME et ayant utilisé l’extension PGP de Mail.app m’ont envoyé des messages indéchiffrable, car ils n’avaient aucune idée de ce qu’ils faisaient et de la manière dont ceci fonctionnait.
 
-    
+
   * Quand une extension génère une pièce jointe et l’envoi avant mêm que vous ayez pu voir de quoi il s’agissait, vous n’avez aucune idée de ce qui à été envoyé.
 
-    
+
   * Beaucoup d’applications n’intègrent pas PGP nativement, vous avez donc besoin d’utiliser le texte brut !
 
 
@@ -405,6 +405,6 @@ Voilà pourquoi :
 
 
 
-Envoyez-moi un mail [via la formulaire de contact.](https://irz.fr/contact) Envoyez-moi un message signé et [chiffré avec ma clef,](https://irz.fr/pgp) je vous répondrais.
+Envoyez-moi un mail [via la formulaire de contact](https://irz.fr/contact). Envoyez-moi un message signé et [chiffré avec ma clef,](https://irz.fr/contact/#pgp) je vous répondrais.
 
 Cet document est inspiré de l'article de Jerzy J. Gangi [“The best PGP tutorial for Mac OS X, ever”](http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/).

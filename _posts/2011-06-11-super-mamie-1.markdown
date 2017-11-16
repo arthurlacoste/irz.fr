@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-11 06:00:24+00:00
 layout: post
-link: https://irz.fr/super-mamie-1/
+redirect_from: super-mamie-1/
 slug: super-mamie-1
 title: 'Super-Mamie #1'
 wordpress_id: 1438447792

@@ -7,7 +7,7 @@ excerpt: Bing, l'application dédié à la recherche de Microsoft devrait être 
   des trucs carrément dégueulasse ! Si apple veux suivre ses règles absurdes, bing
   pour iPhone doit disparaître.
 layout: post
-link: https://irz.fr/apple-il-est-temps-de-supprimer-bing-de-lapp-store/
+redirect_from: apple-il-est-temps-de-supprimer-bing-de-lapp-store/
 slug: apple-il-est-temps-de-supprimer-bing-de-lapp-store
 title: Apple, il est temps de supprimer Bing de l'App Store
 wordpress_id: 846

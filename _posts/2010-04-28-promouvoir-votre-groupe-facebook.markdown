@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-04-28 16:12:33+00:00
 layout: post
-link: https://irz.fr/promouvoir-votre-groupe-facebook/
+redirect_from: promouvoir-votre-groupe-facebook/
 slug: promouvoir-votre-groupe-facebook
 title: Promouvoir votre groupe ou votre page fan Facebook
 wordpress_id: 1438447803

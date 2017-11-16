@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-03-23 08:00:10+00:00
 layout: post
-link: https://irz.fr/hear-halterrego-bbh200-beewi/
+redirect_from: hear-halterrego-bbh200-beewi/
 slug: hear-halterrego-bbh200-beewi
 title: Coup de gueule contre le micro casque bluetooth H.ear de Halterrego
 wordpress_id: 1438448452

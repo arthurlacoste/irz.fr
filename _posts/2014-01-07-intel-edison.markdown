@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-07 11:14:05+00:00
 layout: post
-link: https://irz.fr/intel-edison/
+redirect_from: intel-edison/
 slug: intel-edison
 title: Intel annonce une carte SD-ordinateur !
 wordpress_id: 1438449288

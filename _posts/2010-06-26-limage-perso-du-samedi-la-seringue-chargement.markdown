@@ -10,7 +10,7 @@ excerpt: 'On à tous, dans notre jeunesse (pour moi elle n''est pas si loin que 
   Je vais essayer, tout les samedis, de sortir de mes archives une image perso sympa
   que j''ai fait il y a quelques années.'
 layout: post
-link: https://irz.fr/limage-perso-du-samedi-la-seringue-chargement/
+redirect_from: limage-perso-du-samedi-la-seringue-chargement/
 slug: limage-perso-du-samedi-la-seringue-chargement
 title: 'L''image perso du samedi : La seringue-chargement'
 wordpress_id: 176

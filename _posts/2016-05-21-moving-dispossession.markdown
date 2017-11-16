@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-05-21 10:30:52+00:00
 layout: post
-link: https://irz.fr/moving-dispossession/
+redirect_from: moving-dispossession/
 slug: moving-dispossession
 title: Moving and dispossession
 wordpress_id: 1438463351

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-07-04 21:24:44+00:00
 layout: post
-link: https://irz.fr/le-mouton-blanc/
+redirect_from: le-mouton-blanc/
 slug: le-mouton-blanc
 title: Le mouton blanc
 wordpress_id: 194

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-08-01 09:02:44+00:00
 layout: post
-link: https://irz.fr/ipad-capture-premiere-defaite/
+redirect_from: ipad-capture-premiere-defaite/
 slug: ipad-capture-premiere-defaite
 title: 'iPad Capture : première défaite'
 wordpress_id: 1438448489

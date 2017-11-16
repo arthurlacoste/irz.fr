@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-28 07:45:06+00:00
 layout: post
-link: https://irz.fr/ce-que-vous-avez-toujours-reve-de-faire-au-kfc/
+redirect_from: ce-que-vous-avez-toujours-reve-de-faire-au-kfc/
 slug: ce-que-vous-avez-toujours-reve-de-faire-au-kfc
 title: Ce que vous avez toujours rêvé de faire au KFC...
 wordpress_id: 1438448725

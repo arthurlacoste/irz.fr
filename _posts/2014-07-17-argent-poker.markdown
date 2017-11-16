@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-17 09:58:33+00:00
 layout: post
-link: https://irz.fr/argent-poker/
+redirect_from: argent-poker/
 slug: argent-poker
 title: Se faire de l’argent avec le poker en ligne
 wordpress_id: 1438449389

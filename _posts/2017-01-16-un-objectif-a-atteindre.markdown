@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-16 16:04:45+00:00
 layout: post
-link: https://irz.fr/un-objectif-a-atteindre/
+redirect_from: un-objectif-a-atteindre/
 slug: un-objectif-a-atteindre
 title: Un objectif à atteindre
 wordpress_id: 1438491108

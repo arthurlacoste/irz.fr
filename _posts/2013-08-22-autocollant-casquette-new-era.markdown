@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-08-22 07:00:59+00:00
 layout: post
-link: https://irz.fr/autocollant-casquette-new-era/
+redirect_from: autocollant-casquette-new-era/
 slug: autocollant-casquette-new-era
 title: Dois-je garder l'autocollant de ma casquette New Era ?
 wordpress_id: 1438449125

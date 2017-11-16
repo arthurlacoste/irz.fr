@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-26 17:30:41+00:00
 layout: post
-link: https://irz.fr/la-minute-musique-1/
+redirect_from: la-minute-musique-1/
 slug: la-minute-musique-1
 title: 'La minute musique #1'
 wordpress_id: 1438448722

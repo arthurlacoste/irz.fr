@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-10 06:00:52+00:00
 layout: post
-link: https://irz.fr/minimaliste/
+redirect_from: minimaliste/
 slug: minimaliste
 title: C'est mon petit côté minimaliste
 wordpress_id: 1438448031

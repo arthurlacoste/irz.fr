@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-07-05 09:31:49+00:00
 layout: post
-link: https://irz.fr/pret-jeter-obsolescence-programmee/
+redirect_from: pret-jeter-obsolescence-programmee/
 slug: pret-jeter-obsolescence-programmee
 title: Prêt à jeter - l'obsolescence programmée
 wordpress_id: 670

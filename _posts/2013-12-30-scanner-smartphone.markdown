@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-30 06:00:55+00:00
 layout: post
-link: https://irz.fr/scanner-smartphone/
+redirect_from: scanner-smartphone/
 slug: scanner-smartphone
 title: 'Scanner avec votre téléphone en prenant une photo : la solution ?'
 wordpress_id: 1438449236

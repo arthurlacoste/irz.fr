@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-08-24 22:57:59+00:00
 layout: post
-link: https://irz.fr/steve-jobs-demissionne/
+redirect_from: steve-jobs-demissionne/
 slug: steve-jobs-demissionne
 title: Steve Jobs démissionne de son poste de dirigeant d'Apple
 wordpress_id: 1438448358

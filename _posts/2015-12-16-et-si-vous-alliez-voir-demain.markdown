@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-12-16 15:14:58+00:00
 layout: post
-link: https://irz.fr/et-si-vous-alliez-voir-demain/
+redirect_from: et-si-vous-alliez-voir-demain/
 slug: et-si-vous-alliez-voir-demain
 title: Et si vous alliez voir "Demain" ?
 wordpress_id: 597

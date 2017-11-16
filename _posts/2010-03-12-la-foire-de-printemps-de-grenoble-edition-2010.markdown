@@ -8,7 +8,7 @@ excerpt: La foire du printemps, c'est l'occasion pour des professionnels venus d
   d'otaries ou à la rencontre des 300 spécimens de la faune reptilienne, les parents
   pourront saisir l'opportunité de repenser leurs aménagement d'intérieur ou d'extérieur.
 layout: post
-link: https://irz.fr/la-foire-de-printemps-de-grenoble-edition-2010/
+redirect_from: la-foire-de-printemps-de-grenoble-edition-2010/
 slug: la-foire-de-printemps-de-grenoble-edition-2010
 title: La foire de printemps de Grenoble, édition 2010
 wordpress_id: 264

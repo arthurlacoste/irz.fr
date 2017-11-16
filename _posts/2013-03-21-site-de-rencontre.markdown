@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-21 13:23:53+00:00
 layout: post
-link: https://irz.fr/site-de-rencontre/
+redirect_from: site-de-rencontre/
 slug: site-de-rencontre
 title: Ma première rencontre sur internet
 wordpress_id: 1438448951

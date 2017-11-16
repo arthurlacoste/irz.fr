@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-12 05:00:01+00:00
 layout: post
-link: https://irz.fr/reflex-besace/
+redirect_from: reflex-besace/
 slug: reflex-besace
 title: Un reflex dans ma besace
 wordpress_id: 1438448992

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-01-19 18:20:19+00:00
 layout: post
-link: https://irz.fr/mac-os-windows-et-ubuntu-utilises-simultanement/
+redirect_from: mac-os-windows-et-ubuntu-utilises-simultanement/
 slug: mac-os-windows-et-ubuntu-utilises-simultanement
 title: Mac OS, Windows et Ubuntu utilisés simultanément
 wordpress_id: 97

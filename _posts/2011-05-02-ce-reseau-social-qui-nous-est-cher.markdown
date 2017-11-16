@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-02 10:30:01+00:00
 layout: post
-link: https://irz.fr/ce-reseau-social-qui-nous-est-cher/
+redirect_from: ce-reseau-social-qui-nous-est-cher/
 slug: ce-reseau-social-qui-nous-est-cher
 title: Ce réseau social qui nous est cher
 wordpress_id: 111

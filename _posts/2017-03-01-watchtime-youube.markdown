@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-03-01 14:36:32+00:00
 layout: post
-link: https://irz.fr/watchtime-youube/
+redirect_from: watchtime-youube/
 slug: watchtime-youube
 title: Youtube est notre nouvelle télévision ! Je vous explique le Watch time Youtube
 wordpress_id: 1438493760

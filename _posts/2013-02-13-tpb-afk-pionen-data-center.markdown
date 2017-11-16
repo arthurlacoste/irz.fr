@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-13 10:30:29+00:00
 layout: post
-link: https://irz.fr/tpb-afk-pionen-data-center/
+redirect_from: tpb-afk-pionen-data-center/
 slug: tpb-afk-pionen-data-center
 title: '[TPB AFK] : Zoom sur les data center de Pionen'
 wordpress_id: 1438448781

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-06-06 06:00:17+00:00
 layout: post
-link: https://irz.fr/colis-nayaandco-1001coques-fr/
+redirect_from: colis-nayaandco-1001coques-fr/
 slug: colis-nayaandco-1001coques-fr
 title: 'Dans mon colis : nayaandco (priceminister)'
 wordpress_id: 1438449362

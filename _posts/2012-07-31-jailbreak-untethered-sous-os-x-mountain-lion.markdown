@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-07-31 08:02:28+00:00
 layout: post
-link: https://irz.fr/jailbreak-untethered-sous-os-x-mountain-lion/
+redirect_from: jailbreak-untethered-sous-os-x-mountain-lion/
 slug: jailbreak-untethered-sous-os-x-mountain-lion
 title: Jailbreak untethered sous OS X Mountain Lion
 wordpress_id: 1438448487

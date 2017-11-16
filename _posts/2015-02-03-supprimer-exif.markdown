@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-03 00:10:57+00:00
 layout: post
-link: https://irz.fr/supprimer-exif/
+redirect_from: supprimer-exif/
 slug: supprimer-exif
 title: Comment supprimer les EXIF sous Mac OSX ou Windows ?
 wordpress_id: 1438449590

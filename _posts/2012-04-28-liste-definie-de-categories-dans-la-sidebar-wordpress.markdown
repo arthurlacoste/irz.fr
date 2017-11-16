@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-04-28 20:07:43+00:00
 layout: post
-link: https://irz.fr/liste-definie-de-categories-dans-la-sidebar-wordpress/
+redirect_from: liste-definie-de-categories-dans-la-sidebar-wordpress/
 slug: liste-definie-de-categories-dans-la-sidebar-wordpress
 title: Afficher une liste définie de catégories dans la sidebar de votre blog WordPress
 wordpress_id: 1438448473

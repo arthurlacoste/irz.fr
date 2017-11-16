@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-29 09:27:33+00:00
 layout: post
-link: https://irz.fr/activer-localisation-iphone/
+redirect_from: activer-localisation-iphone/
 slug: activer-localisation-iphone
 title: Activer la localisation de votre iPhone
 wordpress_id: 1438449428

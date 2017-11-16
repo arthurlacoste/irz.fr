@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-19 10:23:43+00:00
 layout: post
-link: https://irz.fr/valuebasket/
+redirect_from: valuebasket/
 slug: valuebasket
 title: 'J''ai testé pour vous : ValueBasket'
 wordpress_id: 1438448765

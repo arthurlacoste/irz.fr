@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-24 12:37:30+00:00
 layout: post
-link: https://irz.fr/jailbreak-ios7/
+redirect_from: jailbreak-ios7/
 slug: jailbreak-ios7
 title: Jailbreak d'iOS 7
 wordpress_id: 1438449239

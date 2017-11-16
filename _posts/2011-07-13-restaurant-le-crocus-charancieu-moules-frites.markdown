@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-07-13 20:36:25+00:00
 layout: post
-link: https://irz.fr/restaurant-le-crocus-charancieu-moules-frites/
+redirect_from: restaurant-le-crocus-charancieu-moules-frites/
 slug: restaurant-le-crocus-charancieu-moules-frites
 title: 'Le crocus : méfiez-vous des moules à volonté'
 wordpress_id: 1438448329

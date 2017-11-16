@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-27 09:22:17+00:00
 layout: post
-link: https://irz.fr/pourquoi-donner-ses-vetements/
+redirect_from: pourquoi-donner-ses-vetements/
 slug: pourquoi-donner-ses-vetements
 title: Pourquoi donner ses vêtements ?
 wordpress_id: 102

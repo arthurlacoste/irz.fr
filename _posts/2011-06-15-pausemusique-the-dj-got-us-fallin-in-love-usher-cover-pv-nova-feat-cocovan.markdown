@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-15 11:46:30+00:00
 layout: post
-link: https://irz.fr/pausemusique-the-dj-got-us-fallin-in-love-usher-cover-pv-nova-feat-cocovan/
+redirect_from: pausemusique-the-dj-got-us-fallin-in-love-usher-cover-pv-nova-feat-cocovan/
 slug: pausemusique-the-dj-got-us-fallin-in-love-usher-cover-pv-nova-feat-cocovan
 title: 'La minute musique #0 : The DJ got us fallin in love [Usher cover] PV Nova
   feat. Cocovan'

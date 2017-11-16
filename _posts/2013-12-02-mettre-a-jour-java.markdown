@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-02 09:26:09+00:00
 layout: post
-link: https://irz.fr/mettre-a-jour-java/
+redirect_from: mettre-a-jour-java/
 slug: mettre-a-jour-java
 title: Mettre à jour JAVA
 wordpress_id: 1438449215

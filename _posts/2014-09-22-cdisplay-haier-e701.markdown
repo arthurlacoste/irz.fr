@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-09-22 13:57:58+00:00
 layout: post
-link: https://irz.fr/cdisplay-haier-e701/
+redirect_from: cdisplay-haier-e701/
 slug: cdisplay-haier-e701
 title: Prise en main de la CDisplay
 wordpress_id: 1438449491

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-19 06:00:47+00:00
 layout: post
-link: https://irz.fr/intelligence-artificielle/
+redirect_from: intelligence-artificielle/
 slug: intelligence-artificielle
 title: Pensée sur un programme d'intelligence artificielle (#1)
 wordpress_id: 1438447744

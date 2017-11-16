@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-22 12:19:28+00:00
 layout: post
-link: https://irz.fr/le-iphone-4-en-commande-sur-le-site-internet-dorange/
+redirect_from: le-iphone-4-en-commande-sur-le-site-internet-dorange/
 slug: le-iphone-4-en-commande-sur-le-site-internet-dorange
 title: Le iPhone 4 en commande sur le site internet d'Orange
 wordpress_id: 1438447704

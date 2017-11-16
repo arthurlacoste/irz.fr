@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-13 12:15:30+00:00
 layout: post
-link: https://irz.fr/oui-cest-le-premier-article/
+redirect_from: oui-cest-le-premier-article/
 slug: oui-cest-le-premier-article
 title: Oui, c'est le premier article !
 wordpress_id: 1438447687

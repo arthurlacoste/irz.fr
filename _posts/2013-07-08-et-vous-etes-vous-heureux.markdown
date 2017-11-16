@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-07-08 09:24:16+00:00
 layout: post
-link: https://irz.fr/et-vous-etes-vous-heureux/
+redirect_from: et-vous-etes-vous-heureux/
 slug: et-vous-etes-vous-heureux
 title: Et vous, êtes-vous heureux ?
 wordpress_id: 1438449099

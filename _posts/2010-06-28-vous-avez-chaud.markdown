@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-28 11:34:32+00:00
 layout: post
-link: https://irz.fr/vous-avez-chaud/
+redirect_from: vous-avez-chaud/
 slug: vous-avez-chaud
 title: Vous avez chaud ?
 wordpress_id: 1438447707

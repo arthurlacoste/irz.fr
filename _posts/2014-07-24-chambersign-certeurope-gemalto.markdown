@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-24 14:17:46+00:00
 layout: post
-link: https://irz.fr/chambersign-certeurope-gemalto/
+redirect_from: chambersign-certeurope-gemalto/
 slug: chambersign-certeurope-gemalto
 title: Mon certificat n'apparaît pas alors qu'il est installé
 wordpress_id: 1438449398

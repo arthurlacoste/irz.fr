@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-05-10 13:28:41+00:00
 layout: post
-link: https://irz.fr/manger-en-colocation/
+redirect_from: manger-en-colocation/
 slug: manger-en-colocation
 title: Comment manger en colocation ?
 wordpress_id: 1438449040

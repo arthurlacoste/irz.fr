@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-05-22 13:46:19+00:00
 layout: post
-link: https://irz.fr/la-danse/
+redirect_from: la-danse/
 slug: la-danse
 title: L'histoire de ma vie
 wordpress_id: 1438449068

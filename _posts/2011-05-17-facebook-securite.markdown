@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-17 11:12:14+00:00
 layout: post
-link: https://irz.fr/facebook-securite/
+redirect_from: facebook-securite/
 slug: facebook-securite
 title: 'Facebook ajoute des mesures de sécurité '
 wordpress_id: 136

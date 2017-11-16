@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-03-11 16:37:12+00:00
 layout: post
-link: https://irz.fr/le-roi-des-rats/
+redirect_from: le-roi-des-rats/
 slug: le-roi-des-rats
 title: Il s'auto-proclame le roi des radins !
 wordpress_id: 1438493832

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-10 11:11:18+00:00
 layout: post
-link: https://irz.fr/vous-aussi-vous-allez-avoir-envie-de-cuisiner/
+redirect_from: vous-aussi-vous-allez-avoir-envie-de-cuisiner/
 slug: vous-aussi-vous-allez-avoir-envie-de-cuisiner
 title: Vous aussi vous allez avoir envie de cuisiner
 wordpress_id: 1438448044

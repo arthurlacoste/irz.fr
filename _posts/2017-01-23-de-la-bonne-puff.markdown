@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-23 19:47:36+00:00
 layout: post
-link: https://irz.fr/de-la-bonne-puff/
+redirect_from: de-la-bonne-puff/
 slug: de-la-bonne-puff
 title: De la bonne puff
 wordpress_id: 1438491843

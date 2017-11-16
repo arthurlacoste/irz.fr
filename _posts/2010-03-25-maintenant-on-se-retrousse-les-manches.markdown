@@ -5,7 +5,7 @@ date: 2010-03-25 11:45:28+00:00
 excerpt: C'était bien marrant de se préparer psychologiquement à la création d'une
   aventure d'entrepreneur. Maintenant, passons aux choses sérieuses.
 layout: post
-link: https://irz.fr/maintenant-on-se-retrousse-les-manches/
+redirect_from: maintenant-on-se-retrousse-les-manches/
 slug: maintenant-on-se-retrousse-les-manches
 title: Maintenant, on se retrousse les manches
 wordpress_id: 556

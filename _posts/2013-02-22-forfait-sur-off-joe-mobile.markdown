@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-22 16:00:02+00:00
 layout: post
-link: https://irz.fr/forfait-sur-off-joe-mobile/
+redirect_from: forfait-sur-off-joe-mobile/
 slug: forfait-sur-off-joe-mobile
 title: 'Mettre son forfait sur off : c''est possible en fait !'
 wordpress_id: 1438448828

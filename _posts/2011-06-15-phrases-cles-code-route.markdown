@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-15 09:29:25+00:00
 layout: post
-link: https://irz.fr/phrases-cles-code-route/
+redirect_from: phrases-cles-code-route/
 slug: phrases-cles-code-route
 title: Phrases clés du code de la route
 wordpress_id: 1438448116

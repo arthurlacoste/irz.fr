@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-30 13:14:47+00:00
 layout: post
-link: https://irz.fr/verifier-existence-stream-chaine-justintv/
+redirect_from: verifier-existence-stream-chaine-justintv/
 slug: verifier-existence-stream-chaine-justintv
 title: Vérifier l'existence d'un stream en cours sur une chaîne justin.tv
 wordpress_id: 1438448411

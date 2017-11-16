@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-05-16 08:47:16+00:00
 layout: post
-link: https://irz.fr/telephone-anniversaire/
+redirect_from: telephone-anniversaire/
 slug: telephone-anniversaire
 title: Quels téléphones offrir pour un anniversaire ?
 wordpress_id: 1438449045

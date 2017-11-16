@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-03 00:15:46+00:00
 layout: post
-link: https://irz.fr/100/
+redirect_from: 100/
 slug: '100'
 title: 100ème article sur le blog
 wordpress_id: 1438447610

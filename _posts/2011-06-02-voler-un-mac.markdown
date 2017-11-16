@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-02 11:23:10+00:00
 layout: post
-link: https://irz.fr/voler-un-mac/
+redirect_from: voler-un-mac/
 slug: voler-un-mac
 title: Voila pourquoi il ne faut pas voler un mac
 wordpress_id: 1438447716

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-08-01 12:05:48+00:00
 layout: post
-link: https://irz.fr/supprimer-le-plugin-orbit-downlaoder-de-google-chrome-sous-windows-7/
+redirect_from: supprimer-le-plugin-orbit-downlaoder-de-google-chrome-sous-windows-7/
 slug: supprimer-le-plugin-orbit-downlaoder-de-google-chrome-sous-windows-7
 title: Supprimer le plugin Orbit Downlaoder de Google chrome sous Windows 7
 wordpress_id: 1438448492

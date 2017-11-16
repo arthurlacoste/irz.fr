@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-05-29 15:20:59+00:00
 layout: post
-link: https://irz.fr/les-enfants-sont-formidable/
+redirect_from: les-enfants-sont-formidable/
 slug: les-enfants-sont-formidable
 title: Les enfants sont formidable
 wordpress_id: 1438449077

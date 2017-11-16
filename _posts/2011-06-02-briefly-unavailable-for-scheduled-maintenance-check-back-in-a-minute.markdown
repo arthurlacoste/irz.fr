@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-02 06:00:30+00:00
 layout: post
-link: https://irz.fr/briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute/
+redirect_from: briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute/
 slug: briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute
 title: Briefly unavailable for scheduled maintenance. Check back in a minute.
 wordpress_id: 1438447664

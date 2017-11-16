@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-08 15:02:10+00:00
 layout: post
-link: https://irz.fr/exclure-une-categorie-de-la-page-daccueil-de-votre-blog/
+redirect_from: exclure-une-categorie-de-la-page-daccueil-de-votre-blog/
 slug: exclure-une-categorie-de-la-page-daccueil-de-votre-blog
 title: Exclure une catégorie de la page d'accueil de votre blog
 wordpress_id: 1438448767

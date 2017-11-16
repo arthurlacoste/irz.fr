@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-03-06 03:00:04+00:00
 layout: post
-link: https://irz.fr/concept-emission-invite-chez-vous/
+redirect_from: concept-emission-invite-chez-vous/
 slug: concept-emission-invite-chez-vous
 title: 'Concept d''émission : "On s''invite chez vous"'
 wordpress_id: 227

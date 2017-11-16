@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-08 22:19:11+00:00
 layout: post
-link: https://irz.fr/une-soiree-comme-une-autre/
+redirect_from: une-soiree-comme-une-autre/
 slug: une-soiree-comme-une-autre
 title: Une soirée comme une autre
 wordpress_id: 1438448601

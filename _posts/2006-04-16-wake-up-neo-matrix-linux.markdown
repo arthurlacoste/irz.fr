@@ -8,7 +8,7 @@ excerpt: Quand j’étais gamin, j’ai pendant longtemps cherché à comprendre
   par l'installation de chevaux de troie sur les ordinateur des amis, il y avais de
   quoi faire. D'ailleurs c'est comme ça que j'ai appris les rudiments de l'informatique.
 layout: post
-link: https://irz.fr/wake-up-neo-matrix-linux/
+redirect_from: wake-up-neo-matrix-linux/
 slug: wake-up-neo-matrix-linux
 title: Faire le "Wake up, Neo" de Matrix sur Linux
 wordpress_id: 845

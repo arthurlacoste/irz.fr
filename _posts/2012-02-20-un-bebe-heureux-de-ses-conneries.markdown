@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-02-20 12:19:03+00:00
 layout: post
-link: https://irz.fr/un-bebe-heureux-de-ses-conneries/
+redirect_from: un-bebe-heureux-de-ses-conneries/
 slug: un-bebe-heureux-de-ses-conneries
 title: Un bébé heureux de ses conneries
 wordpress_id: 1438448437

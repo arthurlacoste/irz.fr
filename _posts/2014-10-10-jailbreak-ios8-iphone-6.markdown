@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-10-10 10:51:58+00:00
 layout: post
-link: https://irz.fr/jailbreak-ios8-iphone-6/
+redirect_from: jailbreak-ios8-iphone-6/
 slug: jailbreak-ios8-iphone-6
 title: Jailbreak iOS8 !
 wordpress_id: 1438449516

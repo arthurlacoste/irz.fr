@@ -6,7 +6,7 @@ excerpt: 'Non, ce n''est pas une blague, je l''ai bel et bien fait : gribouiller
   signature sur un billet de dix euros. Je n''avais pas de billet de cinq cent sous
   la main, alors j''ai du me contenter de celui-là. '
 layout: post
-link: https://irz.fr/aujourdhui-jai-signe-un-billet-de-banque/
+redirect_from: aujourdhui-jai-signe-un-billet-de-banque/
 slug: aujourdhui-jai-signe-un-billet-de-banque
 title: Aujourd'hui j'ai signé un billet de banque
 wordpress_id: 858

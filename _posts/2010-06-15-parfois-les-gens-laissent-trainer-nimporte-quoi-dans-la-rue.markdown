@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-15 16:13:45+00:00
 layout: post
-link: https://irz.fr/parfois-les-gens-laissent-trainer-nimporte-quoi-dans-la-rue/
+redirect_from: parfois-les-gens-laissent-trainer-nimporte-quoi-dans-la-rue/
 slug: parfois-les-gens-laissent-trainer-nimporte-quoi-dans-la-rue
 title: Parfois les gens laissent traîner n'importe quoi dans la rue !
 wordpress_id: 1438447691

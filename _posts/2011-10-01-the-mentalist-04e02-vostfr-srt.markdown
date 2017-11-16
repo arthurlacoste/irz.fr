@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-10-01 12:18:16+00:00
 layout: post
-link: https://irz.fr/the-mentalist-04e02-vostfr-srt/
+redirect_from: the-mentalist-04e02-vostfr-srt/
 slug: the-mentalist-04e02-vostfr-srt
 title: The mentalist S04E02 vostfr srt
 wordpress_id: 1438448414

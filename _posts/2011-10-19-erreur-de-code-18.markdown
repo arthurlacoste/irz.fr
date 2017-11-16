@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-10-19 06:00:29+00:00
 layout: post
-link: https://irz.fr/?p=1438448019
+redirect_from: ?p=1438448019
 published: false
 slug: erreur-de-code-18
 title: L’erreur de code de la semaine

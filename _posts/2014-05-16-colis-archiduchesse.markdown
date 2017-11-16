@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-05-16 08:48:50+00:00
 layout: post
-link: https://irz.fr/colis-archiduchesse/
+redirect_from: colis-archiduchesse/
 slug: colis-archiduchesse
 title: 'Dans mon colis : Archiduchesse'
 wordpress_id: 1438449340

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-18 20:53:12+00:00
 layout: post
-link: https://irz.fr/petite-aquarelle-du-soir/
+redirect_from: petite-aquarelle-du-soir/
 slug: petite-aquarelle-du-soir
 title: Petite aquarelle du soir
 wordpress_id: 134

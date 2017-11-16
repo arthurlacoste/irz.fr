@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-10-23 07:00:53+00:00
 layout: post
-link: https://irz.fr/colis-miniinthebox/
+redirect_from: colis-miniinthebox/
 slug: colis-miniinthebox
 title: 'Dans mon colis : Mini In the Box'
 wordpress_id: 1438449364

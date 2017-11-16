@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-08 23:35:02+00:00
 layout: post
-link: https://irz.fr/manuel-du-canon-eos-650d-rebel-t4i-kiss-x6i/
+redirect_from: manuel-du-canon-eos-650d-rebel-t4i-kiss-x6i/
 slug: manuel-du-canon-eos-650d-rebel-t4i-kiss-x6i
 title: Manuel du Canon EOS 650D / Rebel T4i / Kiss X6i
 wordpress_id: 1438448613

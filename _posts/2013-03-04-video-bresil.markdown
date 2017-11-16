@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-04 23:45:49+00:00
 layout: post
-link: https://irz.fr/video-bresil/
+redirect_from: video-bresil/
 slug: video-bresil
 title: 'Petite vidéo depuis le Brésil '
 wordpress_id: 1438448916

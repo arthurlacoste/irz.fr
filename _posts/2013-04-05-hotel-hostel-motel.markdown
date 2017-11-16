@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-05 16:50:25+00:00
 layout: post
-link: https://irz.fr/hotel-hostel-motel/
+redirect_from: hotel-hostel-motel/
 slug: hotel-hostel-motel
 title: Hôtel, Hostel, ou Motel ?
 wordpress_id: 1438448980

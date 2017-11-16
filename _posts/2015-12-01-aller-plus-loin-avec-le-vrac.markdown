@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-12-01 13:18:12+00:00
 layout: post
-link: https://irz.fr/aller-plus-loin-avec-le-vrac/
+redirect_from: aller-plus-loin-avec-le-vrac/
 slug: aller-plus-loin-avec-le-vrac
 title: Aller plus loin avec le vrac
 wordpress_id: 179

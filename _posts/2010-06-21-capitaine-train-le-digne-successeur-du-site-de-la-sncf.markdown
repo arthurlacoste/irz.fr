@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-21 12:14:59+00:00
 layout: post
-link: https://irz.fr/capitaine-train-le-digne-successeur-du-site-de-la-sncf/
+redirect_from: capitaine-train-le-digne-successeur-du-site-de-la-sncf/
 slug: capitaine-train-le-digne-successeur-du-site-de-la-sncf
 title: Capitaine Train, le digne successeur du site de la SNCF
 wordpress_id: 1438447702

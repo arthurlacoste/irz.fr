@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-10-22 07:00:56+00:00
 layout: post
-link: https://irz.fr/reprendre-etudes/
+redirect_from: reprendre-etudes/
 slug: reprendre-etudes
 title: Reprendre ses études après être entré dans la vie active
 wordpress_id: 1438449335

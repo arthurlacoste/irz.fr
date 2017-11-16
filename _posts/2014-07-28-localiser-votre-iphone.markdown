@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-28 10:58:43+00:00
 layout: post
-link: https://irz.fr/localiser-votre-iphone/
+redirect_from: localiser-votre-iphone/
 slug: localiser-votre-iphone
 title: Localiser votre iPhone
 wordpress_id: 1438449419

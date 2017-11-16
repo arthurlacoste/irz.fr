@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-11 07:00:35+00:00
 layout: post
-link: https://irz.fr/mise-a-jour-automatique-ios7/
+redirect_from: mise-a-jour-automatique-ios7/
 slug: mise-a-jour-automatique-ios7
 title: Mettre en place les mises à jour automatiques sur iOS 7
 wordpress_id: 1438449285

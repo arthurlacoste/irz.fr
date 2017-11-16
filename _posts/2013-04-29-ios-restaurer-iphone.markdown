@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-29 11:14:25+00:00
 layout: post
-link: https://irz.fr/ios-restaurer-iphone/
+redirect_from: ios-restaurer-iphone/
 slug: ios-restaurer-iphone
 title: Installer un version propre et customisé de iOS sur votre iPhone (ou autre
   iDevice)

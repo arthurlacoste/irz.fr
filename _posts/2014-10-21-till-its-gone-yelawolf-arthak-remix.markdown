@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-10-21 09:08:58+00:00
 layout: post
-link: https://irz.fr/till-its-gone-yelawolf-arthak-remix/
+redirect_from: till-its-gone-yelawolf-arthak-remix/
 slug: till-its-gone-yelawolf-arthak-remix
 title: '"Till it''s gone" Yelawolf (arthak remix)'
 wordpress_id: 1438449523

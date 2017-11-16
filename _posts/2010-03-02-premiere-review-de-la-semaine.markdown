@@ -7,7 +7,7 @@ excerpt: Rien de tel que de finir ces vacances d'hiver par un petit état des li
   je voudrais me mettre à la barre d'un navire, mais je n'ai qu'un radeau à ma disposition.
   On fait avec ses moyens.
 layout: post
-link: https://irz.fr/premiere-review-de-la-semaine/
+redirect_from: premiere-review-de-la-semaine/
 slug: premiere-review-de-la-semaine
 title: Première review de la semaine
 wordpress_id: 168

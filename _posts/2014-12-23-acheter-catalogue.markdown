@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-12-23 12:39:16+00:00
 layout: post
-link: https://irz.fr/acheter-catalogue/
+redirect_from: acheter-catalogue/
 slug: acheter-catalogue
 title: On aurait presque envie d'acheter ce catalogue...
 wordpress_id: 1438449544

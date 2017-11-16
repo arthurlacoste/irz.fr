@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-17 09:08:43+00:00
 layout: post
-link: https://irz.fr/bouclette-freecell/
+redirect_from: bouclette-freecell/
 slug: bouclette-freecell
 title: Lorsque Bouclette s'ennuie
 wordpress_id: 110

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-26 21:29:45+00:00
 layout: post
-link: https://irz.fr/la-rotoscopie/
+redirect_from: la-rotoscopie/
 slug: la-rotoscopie
 title: La rotoscopie
 wordpress_id: 1438492014

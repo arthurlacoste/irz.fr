@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-08-24 07:00:58+00:00
 layout: post
-link: https://irz.fr/oui-je-suis-un-evangeliste/
+redirect_from: oui-je-suis-un-evangeliste/
 slug: oui-je-suis-un-evangeliste
 title: Oui, je suis un évangeliste
 wordpress_id: 1438449130

@@ -6,7 +6,7 @@ excerpt: Chef de projet informatique, Martin Magdinier a fait murir son projet p
   ses années d'étude. Créatif, il a eu de multiples idées. Mais aujourd'hui, il se
   concentre exclusivement sur Objectif-Neige.com.
 layout: post
-link: https://irz.fr/objectif-neige/
+redirect_from: objectif-neige/
 slug: objectif-neige
 title: Rencontre de Martin Magdinier d’Objectif-Neige.com
 wordpress_id: 420

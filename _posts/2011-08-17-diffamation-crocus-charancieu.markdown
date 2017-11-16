@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-08-17 12:07:21+00:00
 layout: post
-link: https://irz.fr/diffamation-crocus-charancieu/
+redirect_from: diffamation-crocus-charancieu/
 slug: diffamation-crocus-charancieu
 title: 'Accusation en diffamation : Quelle jurisprudence pour les moules ?'
 wordpress_id: 1438448351

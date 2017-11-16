@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-05-30 06:00:32+00:00
 layout: post
-link: https://irz.fr/colis-cocoon-mall-micro-hdmi/
+redirect_from: colis-cocoon-mall-micro-hdmi/
 slug: colis-cocoon-mall-micro-hdmi
 title: 'Dans mon colis : Cocoon Mall'
 wordpress_id: 1438449348

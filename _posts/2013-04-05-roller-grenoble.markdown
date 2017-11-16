@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-05 12:44:28+00:00
 layout: post
-link: https://irz.fr/roller-grenoble/
+redirect_from: roller-grenoble/
 slug: roller-grenoble
 title: Faire du roller à Grenoble
 wordpress_id: 1438448979

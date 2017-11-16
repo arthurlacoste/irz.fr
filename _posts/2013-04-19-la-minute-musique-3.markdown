@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-19 14:30:19+00:00
 layout: post
-link: https://irz.fr/la-minute-musique-3/
+redirect_from: la-minute-musique-3/
 slug: la-minute-musique-3
 title: 'La minute musique #3'
 wordpress_id: 1438449015

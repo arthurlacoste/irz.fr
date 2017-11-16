@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-08-08 13:13:34+00:00
 layout: post
-link: https://irz.fr/introduction-au-gpio-du-raspberry-pi-2/
+redirect_from: introduction-au-gpio-du-raspberry-pi-2/
 slug: introduction-au-gpio-du-raspberry-pi-2
 title: Introduction au GPIO du Raspberry Pi 2
 wordpress_id: 1438449661

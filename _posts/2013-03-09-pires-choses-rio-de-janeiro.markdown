@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-09 13:38:07+00:00
 layout: post
-link: https://irz.fr/pires-choses-rio-de-janeiro/
+redirect_from: pires-choses-rio-de-janeiro/
 slug: pires-choses-rio-de-janeiro
 title: 8 choses que vous ne devez jamais faire à Rio de Janeiro
 wordpress_id: 1438448936

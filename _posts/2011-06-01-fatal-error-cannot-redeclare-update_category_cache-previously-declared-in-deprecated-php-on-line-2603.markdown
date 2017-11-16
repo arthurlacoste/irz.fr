@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-01 01:08:34+00:00
 layout: post
-link: https://irz.fr/fatal-error-cannot-redeclare-update_category_cache-previously-declared-in-deprecated-php-on-line-2603/
+redirect_from: fatal-error-cannot-redeclare-update_category_cache-previously-declared-in-deprecated-php-on-line-2603/
 slug: fatal-error-cannot-redeclare-update_category_cache-previously-declared-in-deprecated-php-on-line-2603
 title: 'Résoudre le Fatal error: Cannot redeclare update_category_cache() (previously
   declared in /deprecated.php on line 2603'

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-08 09:18:10+00:00
 layout: post
-link: https://irz.fr/le-pere-noel-est-une-ordure-canape/
+redirect_from: le-pere-noel-est-une-ordure-canape/
 slug: le-pere-noel-est-une-ordure-canape
 title: 'Le père noël est une ordure : le canapé'
 wordpress_id: 1438448564

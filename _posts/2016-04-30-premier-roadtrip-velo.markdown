@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-04-30 07:30:03+00:00
 layout: post
-link: https://irz.fr/premier-roadtrip-velo/
+redirect_from: premier-roadtrip-velo/
 slug: premier-roadtrip-velo
 title: Mon premier road trip en vélo
 wordpress_id: 1438459884

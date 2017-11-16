@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-25 12:58:24+00:00
 layout: post
-link: https://irz.fr/configurer-page-attachment/
+redirect_from: configurer-page-attachment/
 slug: configurer-page-attachment
 title: 'Configurer une page d''image attachée à votre thème '
 wordpress_id: 1438448855

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-06-11 14:01:33+00:00
 layout: post
-link: https://irz.fr/slugme-permalien-javascript-slug/
+redirect_from: slugme-permalien-javascript-slug/
 slug: slugme-permalien-javascript-slug
 title: Générer un slug à la volée en javascript
 wordpress_id: 1438448476

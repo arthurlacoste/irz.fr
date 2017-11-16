@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-21 18:00:02+00:00
 layout: post
-link: https://irz.fr/gorillaz-on-melancholy-hill/
+redirect_from: gorillaz-on-melancholy-hill/
 slug: gorillaz-on-melancholy-hill
 title: Gorillaz - On Melancholy Hill
 wordpress_id: 1438447700

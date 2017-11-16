@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-20 14:24:49+00:00
 layout: post
-link: https://irz.fr/lucie-entre-dans-le-arthak-network/
+redirect_from: lucie-entre-dans-le-arthak-network/
 slug: lucie-entre-dans-le-arthak-network
 title: Lucie entre dans le Arthak Network
 wordpress_id: 1438447699

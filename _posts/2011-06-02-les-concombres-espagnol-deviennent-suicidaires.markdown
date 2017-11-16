@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-02 16:01:14+00:00
 layout: post
-link: https://irz.fr/les-concombres-espagnol-deviennent-suicidaires/
+redirect_from: les-concombres-espagnol-deviennent-suicidaires/
 slug: les-concombres-espagnol-deviennent-suicidaires
 title: Les concombres deviennent suicidaires
 wordpress_id: 1438447730

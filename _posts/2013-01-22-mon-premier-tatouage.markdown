@@ -7,7 +7,7 @@ excerpt: Cet article fait partie de la série “Mes premières fois” qui cont
   2013 sera l’année des premières fois, avec au moins une première fois par mois,
   si tout se goupille bien.
 layout: post
-link: https://irz.fr/mon-premier-tatouage/
+redirect_from: mon-premier-tatouage/
 slug: mon-premier-tatouage
 title: Mon premier tatouage
 wordpress_id: 1438448673

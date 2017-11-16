@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-26 09:15:48+00:00
 layout: post
-link: https://irz.fr/tenir-resolutions-debut-annee/
+redirect_from: tenir-resolutions-debut-annee/
 slug: tenir-resolutions-debut-annee
 title: Comment tenir ses bonnes résolutions de début d'année
 wordpress_id: 1438492010

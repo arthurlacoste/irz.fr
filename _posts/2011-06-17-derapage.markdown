@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-17 14:15:54+00:00
 layout: post
-link: https://irz.fr/derapage/
+redirect_from: derapage/
 slug: derapage
 title: Dérapage
 wordpress_id: 1438448237

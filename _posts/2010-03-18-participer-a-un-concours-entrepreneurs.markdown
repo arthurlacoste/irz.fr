@@ -6,7 +6,7 @@ excerpt: Contrairement au titre, je n'annonce pas l'ouverture d'un énième conc
   d'entrepreneurs, mais plutôt la sélection finale de ce concours, c'est-à-dire l'intervention
   des entrepreneurs afin de gagner ce prix.
 layout: post
-link: https://irz.fr/participer-a-un-concours-entrepreneurs/
+redirect_from: participer-a-un-concours-entrepreneurs/
 slug: participer-a-un-concours-entrepreneurs
 title: Prix de l’entrepreneur à l’IAE de Grenoble 2010
 wordpress_id: 395

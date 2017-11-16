@@ -6,7 +6,7 @@ excerpt: Voici l'intervention orale de Michel Verrier au prix de l'entrepreneur 
   l'IAE de Grenoble pour <strong>Cokoon</strong>, projet d'un nouveaux moyen de locomotion
   hybride entre vélo et scooter.
 layout: post
-link: https://irz.fr/cokoon-prix-entrepreneur-iae/
+redirect_from: cokoon-prix-entrepreneur-iae/
 slug: cokoon-prix-entrepreneur-iae
 title: Cokoon (Prix de l’entrepreneur de L’IAE)
 wordpress_id: 571

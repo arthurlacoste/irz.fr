@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-05-03 18:59:58+00:00
 layout: post
-link: https://irz.fr/copyright-php/
+redirect_from: copyright-php/
 slug: copyright-php
 title: N'ayez plus jamais à mettre à jour votre copyright de bas de page
 wordpress_id: 1438448475

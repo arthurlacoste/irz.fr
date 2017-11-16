@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-25 00:43:19+00:00
 layout: post
-link: https://irz.fr/decoupez-une-micro-sim-carte-sim/
+redirect_from: decoupez-une-micro-sim-carte-sim/
 slug: decoupez-une-micro-sim-carte-sim
 title: Impatients ? Découpez une micro sim dans une carte sim
 wordpress_id: 1438447706

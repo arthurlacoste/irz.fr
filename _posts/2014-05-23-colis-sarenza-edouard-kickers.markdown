@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-05-23 06:00:24+00:00
 layout: post
-link: https://irz.fr/colis-sarenza-edouard-kickers/
+redirect_from: colis-sarenza-edouard-kickers/
 slug: colis-sarenza-edouard-kickers
 title: 'Dans mon colis : Sarenza'
 wordpress_id: 1438449346

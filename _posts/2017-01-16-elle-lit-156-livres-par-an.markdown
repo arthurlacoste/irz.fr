@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-16 16:05:46+00:00
 layout: post
-link: https://irz.fr/elle-lit-156-livres-par-an/
+redirect_from: elle-lit-156-livres-par-an/
 slug: elle-lit-156-livres-par-an
 title: Elle lit 156 livres par an !
 wordpress_id: 1438491329

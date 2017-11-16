@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-08 07:00:58+00:00
 layout: post
-link: https://irz.fr/my-vital-kit/
+redirect_from: my-vital-kit/
 slug: my-vital-kit
 title: My Vital Kit
 wordpress_id: 1438449290

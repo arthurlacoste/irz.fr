@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-29 10:21:20+00:00
 layout: post
-link: https://irz.fr/youtube-tache-de-fond/
+redirect_from: youtube-tache-de-fond/
 slug: youtube-tache-de-fond
 title: Comment utiliser YouTube en tâche de fond ?
 wordpress_id: 1438449431

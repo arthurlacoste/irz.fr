@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-25 08:00:04+00:00
 layout: post
-link: https://irz.fr/nicotine/
+redirect_from: nicotine/
 slug: nicotine
 title: Nicotine
 wordpress_id: 1438448655

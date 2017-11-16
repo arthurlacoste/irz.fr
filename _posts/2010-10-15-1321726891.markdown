@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-10-15 19:01:37+00:00
 layout: post
-link: https://irz.fr/1321726891/
+redirect_from: 1321726891/
 slug: '1321726891'
 title: No Content Found
 wordpress_id: 1321726891

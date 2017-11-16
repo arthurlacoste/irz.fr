@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-29 12:54:20+00:00
 layout: post
-link: https://irz.fr/adourcir-sa-barbe-avec-une-recette-maison/
+redirect_from: adourcir-sa-barbe-avec-une-recette-maison/
 slug: adourcir-sa-barbe-avec-une-recette-maison
 title: Adourcir sa barbe avec une recette maison
 wordpress_id: 187

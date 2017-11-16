@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-06 04:56:38+00:00
 layout: post
-link: https://irz.fr/konbini-daft-punk/
+redirect_from: konbini-daft-punk/
 slug: konbini-daft-punk
 title: Le dernier Daft Punk déjà piraté ?
 wordpress_id: 1438448982

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-07-29 14:05:05+00:00
 layout: post
-link: https://irz.fr/narmol/
+redirect_from: narmol/
 slug: narmol
 title: 'J''ai testé pour vous : Narmol'
 wordpress_id: 1438449070

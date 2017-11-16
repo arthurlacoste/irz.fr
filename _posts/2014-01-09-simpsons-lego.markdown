@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-09 11:05:05+00:00
 layout: post
-link: https://irz.fr/simpsons-lego/
+redirect_from: simpsons-lego/
 slug: simpsons-lego
 title: La maison des simpsons en lego !
 wordpress_id: 1438449292

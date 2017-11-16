@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-20 10:23:56+00:00
 layout: post
-link: https://irz.fr/mes-preoccupations/
+redirect_from: mes-preoccupations/
 slug: mes-preoccupations
 title: Mes préoccupations
 wordpress_id: 12

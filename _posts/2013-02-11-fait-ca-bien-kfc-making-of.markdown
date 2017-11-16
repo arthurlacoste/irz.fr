@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-11 13:20:00+00:00
 layout: post
-link: https://irz.fr/fait-ca-bien-kfc-making-of/
+redirect_from: fait-ca-bien-kfc-making-of/
 slug: fait-ca-bien-kfc-making-of
 title: 'Ce que vous avez toujours rêvé de faire au KFC... ...Making of '
 wordpress_id: 1438448728

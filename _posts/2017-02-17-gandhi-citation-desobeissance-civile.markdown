@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-02-17 23:06:44+00:00
 layout: post
-link: https://irz.fr/gandhi-citation-desobeissance-civile/
+redirect_from: gandhi-citation-desobeissance-civile/
 slug: gandhi-citation-desobeissance-civile
 title: Gandhi et la désobéissance civile
 wordpress_id: 1438493700

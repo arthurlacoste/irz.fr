@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-08-04 08:28:32+00:00
 layout: post
-link: https://irz.fr/commentaires-beau/
+redirect_from: commentaires-beau/
 slug: commentaires-beau
 title: Les commentaires, c'est beau mais...
 wordpress_id: 1438449654

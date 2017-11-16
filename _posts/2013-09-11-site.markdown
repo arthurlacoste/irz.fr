@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-09-11 13:43:23+00:00
 layout: post
-link: https://irz.fr/site/
+redirect_from: site/
 slug: site
 title: A quoi ça sert, un site ?
 wordpress_id: 1438449146

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-12-01 14:28:10+00:00
 layout: post
-link: https://irz.fr/vendre-sur-amazon/
+redirect_from: vendre-sur-amazon/
 slug: vendre-sur-amazon
 title: Vendre sur Amazon
 wordpress_id: 1438449682

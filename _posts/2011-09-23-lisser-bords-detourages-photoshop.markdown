@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-23 08:39:48+00:00
 layout: post
-link: https://irz.fr/lisser-bords-detourages-photoshop/
+redirect_from: lisser-bords-detourages-photoshop/
 slug: lisser-bords-detourages-photoshop
 title: Lisser les bords de ses détourages sous Photoshop
 wordpress_id: 1438448408

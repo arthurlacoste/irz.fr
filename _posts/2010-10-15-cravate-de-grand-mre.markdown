@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-10-15 19:08:16+00:00
 layout: post
-link: https://irz.fr/cravate-de-grand-mre/
+redirect_from: cravate-de-grand-mre/
 slug: cravate-de-grand-mre
 title: Cravate de grand mère
 wordpress_id: 1321760977

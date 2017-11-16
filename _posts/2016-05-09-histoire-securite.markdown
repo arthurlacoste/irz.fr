@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-05-09 21:34:17+00:00
 layout: post
-link: https://irz.fr/histoire-securite/
+redirect_from: histoire-securite/
 slug: histoire-securite
 title: Une histoire de sécurité
 wordpress_id: 1438461512

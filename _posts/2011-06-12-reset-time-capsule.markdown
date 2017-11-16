@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-12 10:04:01+00:00
 layout: post
-link: https://irz.fr/reset-time-capsule/
+redirect_from: reset-time-capsule/
 slug: reset-time-capsule
 title: Reset de votre Time Capsule
 wordpress_id: 1438448139

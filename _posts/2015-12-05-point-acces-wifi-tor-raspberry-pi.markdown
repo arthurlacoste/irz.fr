@@ -3,7 +3,7 @@ author: tom
 comments: true
 date: 2015-12-05 18:11:13+00:00
 layout: post
-link: https://irz.fr/point-acces-wifi-tor-raspberry-pi/
+redirect_from: point-acces-wifi-tor-raspberry-pi/
 slug: point-acces-wifi-tor-raspberry-pi
 title: Créer un point d'accès wifi avec Tor sur votre Raspberry Pi
 wordpress_id: 1438449694

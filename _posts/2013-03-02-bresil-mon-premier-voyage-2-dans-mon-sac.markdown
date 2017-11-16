@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-02 01:19:21+00:00
 layout: post
-link: https://irz.fr/bresil-mon-premier-voyage-2-dans-mon-sac/
+redirect_from: bresil-mon-premier-voyage-2-dans-mon-sac/
 slug: bresil-mon-premier-voyage-2-dans-mon-sac
 title: '[Brésil] Mon premier voyage #2 : Dans mon sac'
 wordpress_id: 1438448910

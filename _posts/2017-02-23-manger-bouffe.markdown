@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-02-23 12:03:07+00:00
 layout: post
-link: https://irz.fr/manger-bouffe/
+redirect_from: manger-bouffe/
 slug: manger-bouffe
 title: J'aime la bouffe, et toi ?
 wordpress_id: 1438493716

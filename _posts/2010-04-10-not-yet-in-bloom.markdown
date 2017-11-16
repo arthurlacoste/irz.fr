@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-04-10 20:47:30+00:00
 layout: post
-link: https://irz.fr/not-yet-in-bloom/
+redirect_from: not-yet-in-bloom/
 slug: not-yet-in-bloom
 title: Not yet in bloom
 wordpress_id: 1438447538

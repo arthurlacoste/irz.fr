@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-23 07:51:36+00:00
 layout: post
-link: https://irz.fr/ocr-google-docs/
+redirect_from: ocr-google-docs/
 slug: ocr-google-docs
 title: L'OCR dans Google Docs
 wordpress_id: 1438447705

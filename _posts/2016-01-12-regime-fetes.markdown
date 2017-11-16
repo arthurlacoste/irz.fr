@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-01-12 22:29:08+00:00
 layout: post
-link: https://irz.fr/regime-fetes/
+redirect_from: regime-fetes/
 slug: regime-fetes
 title: Faire un régime juste avant une fête, c'est possible
 wordpress_id: 1438449726

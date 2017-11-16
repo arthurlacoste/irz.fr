@@ -7,7 +7,7 @@ excerpt: 'Gagnant du concours création avec son concept de Franchise de taqueri
 
   '
 layout: post
-link: https://irz.fr/autentica-prix-entrepreneur-iae/
+redirect_from: autentica-prix-entrepreneur-iae/
 slug: autentica-prix-entrepreneur-iae
 title: L’Autentica (Prix de l’entrepreneur de L’IAE)
 wordpress_id: 606

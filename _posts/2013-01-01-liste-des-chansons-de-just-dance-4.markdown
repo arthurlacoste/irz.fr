@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-01 14:01:57+00:00
 layout: post
-link: https://irz.fr/liste-des-chansons-de-just-dance-4/
+redirect_from: liste-des-chansons-de-just-dance-4/
 slug: liste-des-chansons-de-just-dance-4
 title: Liste des chansons de Just Dance 4
 wordpress_id: 1438448563

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-08-07 10:56:16+00:00
 layout: post
-link: https://irz.fr/telephone-carte-sim/
+redirect_from: telephone-carte-sim/
 slug: telephone-carte-sim
 title: Liste des téléphones par type de carte Sim
 wordpress_id: 1438449466

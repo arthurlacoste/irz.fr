@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-08-26 07:00:13+00:00
 layout: post
-link: https://irz.fr/afficher-les-champs-personnalises-de-wordpress/
+redirect_from: afficher-les-champs-personnalises-de-wordpress/
 slug: afficher-les-champs-personnalises-de-wordpress
 title: Afficher les Champs personnalisés de Wordpress
 wordpress_id: 1438448348

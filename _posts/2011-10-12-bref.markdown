@@ -14,7 +14,7 @@ excerpt: '
 
   '
 layout: post
-link: https://irz.fr/bref/
+redirect_from: bref/
 slug: bref
 title: Bref, J'ai eu 47 minutes de retard
 wordpress_id: 1438448420

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-18 17:44:00+00:00
 layout: post
-link: https://irz.fr/pastis-frig/
+redirect_from: pastis-frig/
 slug: pastis-frig
 title: C'est du pastis
 wordpress_id: 1438448830

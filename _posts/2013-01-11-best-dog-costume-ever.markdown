@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-11 15:17:39+00:00
 layout: post
-link: https://irz.fr/best-dog-costume-ever/
+redirect_from: best-dog-costume-ever/
 slug: best-dog-costume-ever
 title: Best dog costume ever
 wordpress_id: 1438448626

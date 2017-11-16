@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-05-28 09:53:30+00:00
 layout: post
-link: https://irz.fr/connaitre-colocataires/
+redirect_from: connaitre-colocataires/
 slug: connaitre-colocataires
 title: Apprenez à connaître vos colocataires
 wordpress_id: 1438449073

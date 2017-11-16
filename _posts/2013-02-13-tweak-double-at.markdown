@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-13 15:31:43+00:00
 layout: post
-link: https://irz.fr/tweak-double-at/
+redirect_from: tweak-double-at/
 slug: tweak-double-at
 title: Tweak Double At
 wordpress_id: 1438448807

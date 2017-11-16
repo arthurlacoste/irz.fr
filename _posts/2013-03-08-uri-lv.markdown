@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-08 12:12:43+00:00
 layout: post
-link: https://irz.fr/uri-lv/
+redirect_from: uri-lv/
 slug: uri-lv
 title: Passer à URI.LV
 wordpress_id: 1438448848

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-06 07:00:28+00:00
 layout: post
-link: https://irz.fr/supprimer-menu-header-twenty-twelve-wordpress/
+redirect_from: supprimer-menu-header-twenty-twelve-wordpress/
 slug: supprimer-menu-header-twenty-twelve-wordpress
 title: Comment supprimer le menu au dessus de l'image de header du thème Twenty Twelve
   de WordPress

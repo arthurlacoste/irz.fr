@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-01 16:48:11+00:00
 layout: post
-link: https://irz.fr/premier-avril/
+redirect_from: premier-avril/
 slug: premier-avril
 title: Premier avril
 wordpress_id: 1438448966

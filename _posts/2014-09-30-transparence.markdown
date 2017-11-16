@@ -3,7 +3,7 @@ author: art
 comments: false
 date: 2014-09-30 14:48:43+00:00
 layout: post
-link: https://irz.fr/transparence/
+redirect_from: transparence/
 slug: transparence
 title: Transparence
 wordpress_id: 1438449136

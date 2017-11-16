@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-03-06 14:43:53+00:00
 layout: post
-link: https://irz.fr/burger-king-decouverte-whooper/
+redirect_from: burger-king-decouverte-whooper/
 slug: burger-king-decouverte-whooper
 title: 'Burger King : elle ouvre son sandwich et ce qu''elle découvre va vous révolter
   !'

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-02 16:03:44+00:00
 layout: post
-link: https://irz.fr/desole-type-fichier-pas-autorise-pour-raisons-securite/
+redirect_from: desole-type-fichier-pas-autorise-pour-raisons-securite/
 slug: desole-type-fichier-pas-autorise-pour-raisons-securite
 title: Désolé, ce type de fichier n’est pas autorisé pour des raisons de sécurité
 wordpress_id: 1438448378

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-09-13 12:17:28+00:00
 layout: post
-link: https://irz.fr/time-capsule-ubuntu/
+redirect_from: time-capsule-ubuntu/
 slug: time-capsule-ubuntu
 title: Connecter votre Time Capsule à Ubuntu
 wordpress_id: 1438448397

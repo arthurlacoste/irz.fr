@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-04-28 05:40:42+00:00
 layout: post
-link: https://irz.fr/200-commentaires/
+redirect_from: 200-commentaires/
 slug: 200-commentaires
 title: 200 commentaires sur irz.fr ! Faisons le point
 wordpress_id: 1438448465

@@ -6,7 +6,7 @@ excerpt: 'Non, pas de review de la semaine dernière, et pour cause, j''avais qu
   autres projets en tête. De plus, je constate que pour continuer cette review, il
   me faut du temps. '
 layout: post
-link: https://irz.fr/la-review-cinq-ca-va-un-peu-changer/
+redirect_from: la-review-cinq-ca-va-un-peu-changer/
 slug: la-review-cinq-ca-va-un-peu-changer
 title: La review, ça va un peu changer…
 wordpress_id: 655

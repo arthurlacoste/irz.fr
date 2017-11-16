@@ -4,7 +4,7 @@ comments: true
 date: 2010-03-21 19:37:12+00:00
 excerpt: Bonne review !
 layout: post
-link: https://irz.fr/la-review-quatre/
+redirect_from: la-review-quatre/
 slug: la-review-quatre
 title: La (quatrième) Review
 wordpress_id: 433

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-11 19:07:16+00:00
 layout: post
-link: https://irz.fr/quel-est-mon-poids-ideal/
+redirect_from: quel-est-mon-poids-ideal/
 slug: quel-est-mon-poids-ideal
 title: QUEL EST MON POIDS IDÉAL ?
 wordpress_id: 1438490934

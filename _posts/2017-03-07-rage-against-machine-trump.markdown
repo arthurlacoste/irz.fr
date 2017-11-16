@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-03-07 10:29:17+00:00
 layout: post
-link: https://irz.fr/rage-against-machine-trump/
+redirect_from: rage-against-machine-trump/
 slug: rage-against-machine-trump
 title: Il y a 20 ans Rage Against The Machine savait déjà pour Trump
 wordpress_id: 1438493794

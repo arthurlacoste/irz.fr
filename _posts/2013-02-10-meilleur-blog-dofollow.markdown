@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-10 12:05:31+00:00
 layout: post
-link: https://irz.fr/meilleur-blog-dofollow/
+redirect_from: meilleur-blog-dofollow/
 slug: meilleur-blog-dofollow
 title: Je suis le meilleur blog dofollow
 wordpress_id: 1438448770

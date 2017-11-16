@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-01-24 04:06:03+00:00
 layout: post
-link: https://irz.fr/demenagement-et-depossession/
+redirect_from: demenagement-et-depossession/
 slug: demenagement-et-depossession
 title: Déménagement et dépossession
 wordpress_id: 1438450198

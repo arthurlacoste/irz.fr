@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-28 15:25:46+00:00
 layout: post
-link: https://irz.fr/dropbox-restaurer-un-document/
+redirect_from: dropbox-restaurer-un-document/
 slug: dropbox-restaurer-un-document
 title: 'Dropbox : restaurer un document'
 wordpress_id: 1438448903

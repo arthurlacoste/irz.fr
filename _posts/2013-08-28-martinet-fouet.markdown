@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-08-28 14:48:31+00:00
 layout: post
-link: https://irz.fr/martinet-fouet/
+redirect_from: martinet-fouet/
 slug: martinet-fouet
 title: Puis-je utiliser un martinet dans la vie de tous les jours ?
 wordpress_id: 1438449139

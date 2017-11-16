@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-25 23:32:55+00:00
 layout: post
-link: https://irz.fr/lws-fatal-error/
+redirect_from: lws-fatal-error/
 slug: lws-fatal-error
 title: 'LWS : Fatal error ?'
 wordpress_id: 1438448861

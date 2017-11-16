@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-01-22 15:15:19+00:00
 layout: post
-link: https://irz.fr/sextape/
+redirect_from: sextape/
 slug: sextape
 title: Et toi, tu as fait ta sextape ?
 wordpress_id: 1438450191

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-24 12:59:30+00:00
 layout: post
-link: https://irz.fr/500/
+redirect_from: 500/
 slug: '500'
 title: Et là, il y a plus de 500 commentaires
 wordpress_id: 1438449021

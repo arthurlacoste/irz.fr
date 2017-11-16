@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-07-06 08:17:41+00:00
 layout: post
-link: https://irz.fr/gagnez-gopro-hero-habitudes-conducteurs/
+redirect_from: gagnez-gopro-hero-habitudes-conducteurs/
 slug: gagnez-gopro-hero-habitudes-conducteurs
 title: Découvrez "Bon ou mauvais conducteur" et gagnez une GoPro Hero
 wordpress_id: 1438467741

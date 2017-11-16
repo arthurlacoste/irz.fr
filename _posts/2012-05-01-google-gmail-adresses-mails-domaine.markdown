@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-05-01 08:00:15+00:00
 layout: post
-link: https://irz.fr/google-gmail-adresses-mails-domaine/
+redirect_from: google-gmail-adresses-mails-domaine/
 slug: google-gmail-adresses-mails-domaine
 title: Laissez Google gérer les adresses mails de votre domaine
 wordpress_id: 63

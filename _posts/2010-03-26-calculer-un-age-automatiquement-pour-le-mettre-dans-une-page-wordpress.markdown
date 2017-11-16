@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-03-26 20:42:41+00:00
 layout: post
-link: https://irz.fr/calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress/
+redirect_from: calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress/
 slug: calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress
 title: 'Calculer un âge automatiquement pour le mettre dans une page wordpress '
 wordpress_id: 1438447530

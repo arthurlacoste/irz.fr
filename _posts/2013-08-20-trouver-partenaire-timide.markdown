@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-08-20 12:51:21+00:00
 layout: post
-link: https://irz.fr/trouver-partenaire-timide/
+redirect_from: trouver-partenaire-timide/
 slug: trouver-partenaire-timide
 title: Comment trouver un partenaire quand on est un peu timide ?
 wordpress_id: 1438449120

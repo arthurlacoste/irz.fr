@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-16 06:00:57+00:00
 layout: post
-link: https://irz.fr/et-toi-tu-es-pret-a-embrasser-ta-soeur-pour-2-millions-deuros/
+redirect_from: et-toi-tu-es-pret-a-embrasser-ta-soeur-pour-2-millions-deuros/
 slug: et-toi-tu-es-pret-a-embrasser-ta-soeur-pour-2-millions-deuros
 title: Et toi, tu es prêt à embrasser ta soeur pour 2 millions d'euros ?
 wordpress_id: 1438447809

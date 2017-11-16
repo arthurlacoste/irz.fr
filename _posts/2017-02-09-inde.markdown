@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-02-09 13:39:20+00:00
 layout: post
-link: https://irz.fr/inde/
+redirect_from: inde/
 slug: inde
 title: L'inde
 wordpress_id: 1438493050

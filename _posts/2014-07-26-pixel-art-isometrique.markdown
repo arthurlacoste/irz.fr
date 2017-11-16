@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-26 15:32:35+00:00
 layout: post
-link: https://irz.fr/pixel-art-isometrique/
+redirect_from: pixel-art-isometrique/
 slug: pixel-art-isometrique
 title: Créer votre premier pixel-art isométrique
 wordpress_id: 1438448520

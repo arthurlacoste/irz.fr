@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-05-24 18:06:23+00:00
 layout: post
-link: https://irz.fr/premiere-fois/
+redirect_from: premiere-fois/
 slug: premiere-fois
 title: Première fois
 wordpress_id: 1438453092

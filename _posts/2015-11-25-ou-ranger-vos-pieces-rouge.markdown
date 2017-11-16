@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-25 09:46:06+00:00
 layout: post
-link: https://irz.fr/ou-ranger-vos-pieces-rouge/
+redirect_from: ou-ranger-vos-pieces-rouge/
 slug: ou-ranger-vos-pieces-rouge
 title: Ou ranger vos pièces rouge ?
 wordpress_id: 28

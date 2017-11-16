@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-31 16:20:15+00:00
 layout: post
-link: https://irz.fr/arev-manoukian-skrillex-devils-den/
+redirect_from: arev-manoukian-skrillex-devils-den/
 slug: arev-manoukian-skrillex-devils-den
 title: 'La minute musique #2 : Skrillex revisité par Arev Manoukian'
 wordpress_id: 1438448963

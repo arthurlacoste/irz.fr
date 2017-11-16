@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-10 21:54:24+00:00
 layout: post
-link: https://irz.fr/filtrer-certains-messages-sous-gmail/
+redirect_from: filtrer-certains-messages-sous-gmail/
 slug: filtrer-certains-messages-sous-gmail
 title: Filtrer certains messages sous Gmail
 wordpress_id: 1438448043

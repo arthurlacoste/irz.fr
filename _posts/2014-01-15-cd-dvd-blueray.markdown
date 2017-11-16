@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-15 07:00:03+00:00
 layout: post
-link: https://irz.fr/cd-dvd-blueray/
+redirect_from: cd-dvd-blueray/
 slug: cd-dvd-blueray
 title: Les supports CD/DVD/Blueray sont-t-ils obsolètes ?
 wordpress_id: 1438449308

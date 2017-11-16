@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-16 21:36:40+00:00
 layout: post
-link: https://irz.fr/aude/
+redirect_from: aude/
 slug: aude
 title: Aude
 wordpress_id: 1438448659

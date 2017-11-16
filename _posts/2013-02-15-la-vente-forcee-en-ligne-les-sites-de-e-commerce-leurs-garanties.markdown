@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-15 08:00:21+00:00
 layout: post
-link: https://irz.fr/la-vente-forcee-en-ligne-les-sites-de-e-commerce-leurs-garanties/
+redirect_from: la-vente-forcee-en-ligne-les-sites-de-e-commerce-leurs-garanties/
 slug: la-vente-forcee-en-ligne-les-sites-de-e-commerce-leurs-garanties
 title: La vente forcée en ligne, les sites de e-commerce & leurs "garanties"
 wordpress_id: 1438448739

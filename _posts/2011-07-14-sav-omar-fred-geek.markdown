@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-07-14 15:54:45+00:00
 layout: post
-link: https://irz.fr/sav-omar-fred-geek/
+redirect_from: sav-omar-fred-geek/
 slug: sav-omar-fred-geek
 title: 'Le SAV d''Omar et Fred version geek : plagiat délibéré ou hommage raté ?'
 wordpress_id: 1438448320

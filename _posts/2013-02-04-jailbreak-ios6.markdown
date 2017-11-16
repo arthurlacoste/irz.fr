@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-04 17:42:30+00:00
 layout: post
-link: https://irz.fr/jailbreak-ios6/
+redirect_from: jailbreak-ios6/
 slug: jailbreak-ios6
 title: Comment jailbreaker votre iPhone 5 et tout autre terminal sous iOS 6 ? (MAJ
   evasi0n 1.5.3)

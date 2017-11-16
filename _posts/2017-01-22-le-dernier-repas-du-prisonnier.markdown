@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-22 20:49:44+00:00
 layout: post
-link: https://irz.fr/le-dernier-repas-du-prisonnier/
+redirect_from: le-dernier-repas-du-prisonnier/
 slug: le-dernier-repas-du-prisonnier
 title: Le dernier repas du prisonnier
 wordpress_id: 1438491482

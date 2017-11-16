@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-06-09 06:00:00+00:00
 layout: post
-link: https://irz.fr/kraken-bitcoin/
+redirect_from: kraken-bitcoin/
 slug: kraken-bitcoin
 title: 'J’ai testé pour vous : Kraken (plateforme bitcoin et ethereum)'
 wordpress_id: 1438449367

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-18 14:34:32+00:00
 layout: post
-link: https://irz.fr/tu-veux-te-remettre-avec-moi/
+redirect_from: tu-veux-te-remettre-avec-moi/
 slug: tu-veux-te-remettre-avec-moi
 title: Tu veux te remettre avec moi ?
 wordpress_id: 1438447696

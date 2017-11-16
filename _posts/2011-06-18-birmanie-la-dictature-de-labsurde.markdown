@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-18 16:37:42+00:00
 layout: post
-link: https://irz.fr/birmanie-la-dictature-de-labsurde/
+redirect_from: birmanie-la-dictature-de-labsurde/
 slug: birmanie-la-dictature-de-labsurde
 title: 'Birmanie : la dictature de l''absurde'
 wordpress_id: 1438448297

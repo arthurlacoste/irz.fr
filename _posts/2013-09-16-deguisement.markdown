@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-09-16 13:05:35+00:00
 layout: post
-link: https://irz.fr/deguisement/
+redirect_from: deguisement/
 slug: deguisement
 title: 5 manières de se déguiser quand on a pas une thune (Le Guide du Radin)
 wordpress_id: 1438449151

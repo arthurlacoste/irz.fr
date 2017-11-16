@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-11 22:08:29+00:00
 layout: post
-link: https://irz.fr/saint-valentin/
+redirect_from: saint-valentin/
 slug: saint-valentin
 title: Tout seul pour la Saint-Valentin ?
 wordpress_id: 1438449628

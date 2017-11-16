@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-10-02 12:36:18+00:00
 layout: post
-link: https://irz.fr/guide-cadeau/
+redirect_from: guide-cadeau/
 slug: guide-cadeau
 title: Le guide du petit cadeau débile
 wordpress_id: 1438449511

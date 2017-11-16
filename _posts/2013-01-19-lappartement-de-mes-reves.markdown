@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-19 09:00:18+00:00
 layout: post
-link: https://irz.fr/lappartement-de-mes-reves/
+redirect_from: lappartement-de-mes-reves/
 slug: lappartement-de-mes-reves
 title: L'appartement de mes rêves
 wordpress_id: 1438448665

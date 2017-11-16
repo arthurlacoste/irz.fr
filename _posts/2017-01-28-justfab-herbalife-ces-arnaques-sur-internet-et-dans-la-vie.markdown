@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-28 09:51:37+00:00
 layout: post
-link: https://irz.fr/justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie/
+redirect_from: justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie/
 slug: justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie
 title: Justfab, Herbalife, ces arnaques sur internet et dans la vie
 wordpress_id: 1438491778

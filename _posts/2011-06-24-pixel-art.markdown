@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-24 06:00:12+00:00
 layout: post
-link: https://irz.fr/pixel-art/
+redirect_from: pixel-art/
 slug: pixel-art
 title: Le pixel-art, qu'est ce que c'est ?
 wordpress_id: 1438448266

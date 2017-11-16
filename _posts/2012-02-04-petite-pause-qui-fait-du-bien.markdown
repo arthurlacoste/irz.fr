@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-02-04 12:06:50+00:00
 layout: post
-link: https://irz.fr/petite-pause-qui-fait-du-bien/
+redirect_from: petite-pause-qui-fait-du-bien/
 slug: petite-pause-qui-fait-du-bien
 title: Petite pause qui fait du bien
 wordpress_id: 1438448430

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-08-22 20:58:15+00:00
 layout: post
-link: https://irz.fr/sticker-new-era-cap/
+redirect_from: sticker-new-era-cap/
 slug: sticker-new-era-cap
 title: Should I keep the sticker of my New Era cap?
 wordpress_id: 1438464097

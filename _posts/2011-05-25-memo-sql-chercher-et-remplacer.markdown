@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-25 16:17:13+00:00
 layout: post
-link: https://irz.fr/memo-sql-chercher-et-remplacer/
+redirect_from: memo-sql-chercher-et-remplacer/
 slug: memo-sql-chercher-et-remplacer
 title: 'Mémo SQL : chercher et remplacer'
 wordpress_id: 161

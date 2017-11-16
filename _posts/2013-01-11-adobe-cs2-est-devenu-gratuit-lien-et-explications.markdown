@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-11 10:32:22+00:00
 layout: post
-link: https://irz.fr/adobe-cs2-est-devenu-gratuit-lien-et-explications/
+redirect_from: adobe-cs2-est-devenu-gratuit-lien-et-explications/
 slug: adobe-cs2-est-devenu-gratuit-lien-et-explications
 title: 'Adobe CS2 est devenu gratuit : lien et explications'
 wordpress_id: 1438448598

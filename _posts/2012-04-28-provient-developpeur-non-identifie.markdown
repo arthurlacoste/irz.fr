@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-04-28 11:01:32+00:00
 layout: post
-link: https://irz.fr/provient-developpeur-non-identifie/
+redirect_from: provient-developpeur-non-identifie/
 slug: provient-developpeur-non-identifie
 title: Résoudre "Votre application" provient d'un développeur non identifié
 wordpress_id: 1438448469

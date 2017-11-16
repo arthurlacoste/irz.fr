@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-15 21:33:00+00:00
 layout: post
-link: https://irz.fr/probleme-affichage-utf8-iso-latin1-8859-1-utf-8/
+redirect_from: probleme-affichage-utf8-iso-latin1-8859-1-utf-8/
 slug: probleme-affichage-utf8-iso-latin1-8859-1-utf-8
 title: Comprendre son problème d'affichage UTF-8 / ISO-8859-1
 wordpress_id: 1438448212

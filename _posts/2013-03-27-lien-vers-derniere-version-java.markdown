@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-27 15:56:31+00:00
 layout: post
-link: https://irz.fr/lien-vers-derniere-version-java/
+redirect_from: lien-vers-derniere-version-java/
 slug: lien-vers-derniere-version-java
 title: Faire un lien vers la dernière version de Java depuis son site
 wordpress_id: 1438448958

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-31 14:32:25+00:00
 layout: post
-link: https://irz.fr/augmentation-tva/
+redirect_from: augmentation-tva/
 slug: augmentation-tva
 title: Parlons de l'augmentation de la TVA
 wordpress_id: 1438449265

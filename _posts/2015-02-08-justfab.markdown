@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-08 08:34:09+00:00
 layout: post
-link: https://irz.fr/justfab/
+redirect_from: justfab/
 slug: justfab
 title: Toute la vérité sur Justfab
 wordpress_id: 1438449522

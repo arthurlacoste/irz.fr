@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-09-30 06:42:14+00:00
 layout: post
-link: https://irz.fr/zalando/
+redirect_from: zalando/
 slug: zalando
 title: 'Ergonomie et Ecommerce : évoquons le cas Zalando'
 wordpress_id: 1438449178

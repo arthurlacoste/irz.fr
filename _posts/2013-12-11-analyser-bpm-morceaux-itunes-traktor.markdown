@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-11 12:20:58+00:00
 layout: post
-link: https://irz.fr/analyser-bpm-morceaux-itunes-traktor/
+redirect_from: analyser-bpm-morceaux-itunes-traktor/
 slug: analyser-bpm-morceaux-itunes-traktor
 title: Analyser le BPM de toutes vos chansons iTunes avec Traktor
 wordpress_id: 1438449209

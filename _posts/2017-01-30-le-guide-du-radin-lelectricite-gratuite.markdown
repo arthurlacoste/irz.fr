@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-01-30 12:08:00+00:00
 layout: post
-link: https://irz.fr/le-guide-du-radin-lelectricite-gratuite/
+redirect_from: le-guide-du-radin-lelectricite-gratuite/
 slug: le-guide-du-radin-lelectricite-gratuite
 title: 'Le guide du radin : l''électricité gratuite'
 wordpress_id: 1438492117

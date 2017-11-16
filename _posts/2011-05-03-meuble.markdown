@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-03 21:32:44+00:00
 layout: post
-link: https://irz.fr/meuble/
+redirect_from: meuble/
 slug: meuble
 title: Un meuble ou la vie
 wordpress_id: 121

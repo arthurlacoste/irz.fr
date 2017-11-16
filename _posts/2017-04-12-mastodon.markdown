@@ -3,7 +3,7 @@ author: hugosieo
 comments: true
 date: 2017-04-12 17:59:14+00:00
 layout: post
-link: https://irz.fr/mastodon/
+redirect_from: mastodon/
 slug: mastodon
 title: Mastodon ? Plus qu'un gros mammouth, un nouveau réseau
 wordpress_id: 1438493851

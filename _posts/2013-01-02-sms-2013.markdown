@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-02 10:38:54+00:00
 layout: post
-link: https://irz.fr/sms-2013/
+redirect_from: sms-2013/
 slug: sms-2013
 title: Bonne année ! Les conversations qui vendent du rêve
 wordpress_id: 1438448566

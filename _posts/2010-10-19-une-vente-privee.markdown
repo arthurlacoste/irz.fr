@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-10-19 12:43:55+00:00
 layout: post
-link: https://irz.fr/une-vente-privee/
+redirect_from: une-vente-privee/
 slug: une-vente-privee
 title: J'ai participé à une vente privée
 wordpress_id: 1351083534

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-02 07:00:38+00:00
 layout: post
-link: https://irz.fr/spark-camera/
+redirect_from: spark-camera/
 slug: spark-camera
 title: 'Prise en main : Spark Camera'
 wordpress_id: 1438449264

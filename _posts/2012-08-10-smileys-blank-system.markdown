@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-08-10 12:09:40+00:00
 layout: post
-link: https://irz.fr/smileys-blank-system/
+redirect_from: smileys-blank-system/
 slug: smileys-blank-system
 title: Smileys Blank System
 wordpress_id: 1438448495

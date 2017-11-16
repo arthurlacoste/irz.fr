@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-07-03 13:22:47+00:00
 layout: post
-link: https://irz.fr/confide/
+redirect_from: confide/
 slug: confide
 title: Prise en main de Confide
 wordpress_id: 1438449377

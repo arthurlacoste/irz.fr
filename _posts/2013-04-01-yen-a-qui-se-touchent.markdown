@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-01 18:34:01+00:00
 layout: post
-link: https://irz.fr/yen-a-qui-se-touchent/
+redirect_from: yen-a-qui-se-touchent/
 slug: yen-a-qui-se-touchent
 title: Y'en a qui se touchent...
 wordpress_id: 1438448967

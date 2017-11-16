@@ -8,7 +8,7 @@ excerpt: Internet est une jungle ou les sites d'entreprise et de e-commerce se m
   ainsi que le service de l'entreprise en question en se faisant livrer, ou bien sur
   le terrain.
 layout: post
-link: https://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland/
+redirect_from: jai-teste-pour-vous-digitaland-mydigitaland/
 slug: jai-teste-pour-vous-digitaland-mydigitaland
 title: 'J''ai testé pour vous : Digitaland'
 wordpress_id: 1438448649

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-08 09:55:39+00:00
 layout: post
-link: https://irz.fr/premier-visage/
+redirect_from: premier-visage/
 slug: premier-visage
 title: Premier visage
 wordpress_id: 1438448595

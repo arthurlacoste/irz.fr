@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-20 21:00:33+00:00
 layout: post
-link: https://irz.fr/aujourdhui-cest-la-fete-des-peres/
+redirect_from: aujourdhui-cest-la-fete-des-peres/
 slug: aujourdhui-cest-la-fete-des-peres
 title: 'Aujourd''hui c''est la fête des pères ! '
 wordpress_id: 1438447701

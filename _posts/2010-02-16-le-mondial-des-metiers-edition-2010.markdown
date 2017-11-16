@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-02-16 10:27:37+00:00
 layout: post
-link: https://irz.fr/le-mondial-des-metiers-edition-2010/
+redirect_from: le-mondial-des-metiers-edition-2010/
 slug: le-mondial-des-metiers-edition-2010
 title: Le Mondial des Métiers, édition 2010
 wordpress_id: 855

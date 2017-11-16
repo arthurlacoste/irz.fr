@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-03-25 15:32:45+00:00
 layout: post
-link: https://irz.fr/journee-procrastination/
+redirect_from: journee-procrastination/
 slug: journee-procrastination
 title: 10 tweets pour fêter la journée de la procrastination
 wordpress_id: 1438493839

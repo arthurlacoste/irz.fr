@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-08 06:00:12+00:00
 layout: post
-link: https://irz.fr/?p=1438447620
+redirect_from: ?p=1438447620
 published: false
 slug: lerreur-de-code-de-la-semaine-2
 title: L’erreur de code de la semaine

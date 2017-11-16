@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-07-06 11:20:10+00:00
 layout: post
-link: https://irz.fr/dans-la-famille-formulaire-pourri-je-voudrais-le-fils/
+redirect_from: dans-la-famille-formulaire-pourri-je-voudrais-le-fils/
 slug: dans-la-famille-formulaire-pourri-je-voudrais-le-fils
 title: Dans la famille formulaire pourri je voudrais le fils...
 wordpress_id: 225

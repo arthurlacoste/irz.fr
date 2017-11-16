@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-02-11 10:22:07+00:00
 layout: post
-link: https://irz.fr/tag-saint-valentin/
+redirect_from: tag-saint-valentin/
 slug: tag-saint-valentin
 title: Mon cadeau pour la Saint Valentin
 wordpress_id: 1438493682

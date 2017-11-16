@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-07-10 22:14:29+00:00
 layout: post
-link: https://irz.fr/studenthat/
+redirect_from: studenthat/
 slug: studenthat
 title: Studenthat
 wordpress_id: 1438448482

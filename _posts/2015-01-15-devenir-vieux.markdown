@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-01-15 12:56:31+00:00
 layout: post
-link: https://irz.fr/devenir-vieux/
+redirect_from: devenir-vieux/
 slug: devenir-vieux
 title: Devenir Vieux
 wordpress_id: 1438449576

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-26 08:16:32+00:00
 layout: post
-link: https://irz.fr/pourquoi-utiliser-un-bocal/
+redirect_from: pourquoi-utiliser-un-bocal/
 slug: pourquoi-utiliser-un-bocal
 title: Pourquoi utiliser un bocal ?
 wordpress_id: 65

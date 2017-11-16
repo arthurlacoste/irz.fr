@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-07-06 06:00:47+00:00
 layout: post
-link: https://irz.fr/un-nouveau-design-pour-presse-citron/
+redirect_from: un-nouveau-design-pour-presse-citron/
 slug: un-nouveau-design-pour-presse-citron
 title: Un nouveau design pour Presse-Citron
 wordpress_id: 201

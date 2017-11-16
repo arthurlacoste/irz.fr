@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2016-01-15 09:00:58+00:00
 layout: post
-link: https://irz.fr/streaming-payant-revolution/
+redirect_from: streaming-payant-revolution/
 slug: streaming-payant-revolution
 title: La révolution du streaming payant est en marche
 wordpress_id: 1438449730

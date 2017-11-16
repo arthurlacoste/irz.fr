@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-06-21 23:24:48+00:00
 layout: post
-link: https://irz.fr/a-cause-de-la-coupe-du-monde-je-peux-plus-regarder-la-tele/
+redirect_from: a-cause-de-la-coupe-du-monde-je-peux-plus-regarder-la-tele/
 slug: a-cause-de-la-coupe-du-monde-je-peux-plus-regarder-la-tele
 title: A cause de la coupe du monde, je peux plus regarder la télé
 wordpress_id: 1438447703

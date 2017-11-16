@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-09-24 14:27:47+00:00
 layout: post
-link: https://irz.fr/je-vend-mon-iphone-5s-32go/
+redirect_from: je-vend-mon-iphone-5s-32go/
 slug: je-vend-mon-iphone-5s-32go
 title: Je vend mon iPhone 5s 32Go et ses accessoires
 wordpress_id: 1438449500

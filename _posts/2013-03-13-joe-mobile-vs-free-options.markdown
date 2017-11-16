@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-03-13 08:01:17+00:00
 layout: post
-link: https://irz.fr/joe-mobile-vs-free-options/
+redirect_from: joe-mobile-vs-free-options/
 slug: joe-mobile-vs-free-options
 title: 'Joe vs Free : les options'
 wordpress_id: 1438448942

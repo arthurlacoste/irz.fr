@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-03 00:09:04+00:00
 layout: post
-link: https://irz.fr/info-exif/
+redirect_from: info-exif/
 slug: info-exif
 title: Comment lire les information d'EXIF sous mac OSX ?
 wordpress_id: 1438449589

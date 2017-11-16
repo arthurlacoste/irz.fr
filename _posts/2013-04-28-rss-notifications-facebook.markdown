@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-28 20:13:46+00:00
 layout: post
-link: https://irz.fr/rss-notifications-facebook/
+redirect_from: rss-notifications-facebook/
 slug: rss-notifications-facebook
 title: Suivre le flux RSS de ses notifications Facebook
 wordpress_id: 1438449028

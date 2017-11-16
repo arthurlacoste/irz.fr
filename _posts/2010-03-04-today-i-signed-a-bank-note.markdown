@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-03-04 16:02:19+00:00
 layout: post
-link: https://irz.fr/today-i-signed-a-bank-note/
+redirect_from: today-i-signed-a-bank-note/
 slug: today-i-signed-a-bank-note
 title: Today I signed a bank note
 wordpress_id: 863

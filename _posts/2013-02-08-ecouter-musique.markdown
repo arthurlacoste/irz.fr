@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-08 15:44:57+00:00
 layout: post
-link: https://irz.fr/ecouter-musique/
+redirect_from: ecouter-musique/
 slug: ecouter-musique
 title: Qu'est ce que j'utilise pour écouter de la musique ?
 wordpress_id: 1438447698

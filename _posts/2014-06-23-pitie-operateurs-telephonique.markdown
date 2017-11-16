@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-06-23 11:22:13+00:00
 layout: post
-link: https://irz.fr/pitie-operateurs-telephonique/
+redirect_from: pitie-operateurs-telephonique/
 slug: pitie-operateurs-telephonique
 title: Plus de pitié pour les opérateurs téléphonique
 wordpress_id: 1438449375

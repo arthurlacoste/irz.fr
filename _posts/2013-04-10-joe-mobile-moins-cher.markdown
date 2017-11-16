@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-10 11:06:24+00:00
 layout: post
-link: https://irz.fr/joe-mobile-moins-cher/
+redirect_from: joe-mobile-moins-cher/
 slug: joe-mobile-moins-cher
 title: Joe Mobile moins cher
 wordpress_id: 1438448985

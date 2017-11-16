@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-29 06:00:29+00:00
 layout: post
-link: https://irz.fr/pieces-a-presenter-aux-forces-de-ordre-polic/
+redirect_from: pieces-a-presenter-aux-forces-de-ordre-polic/
 slug: pieces-a-presenter-aux-forces-de-ordre-polic
 title: Pièces à présenter aux forces de l'ordre
 wordpress_id: 1438447710

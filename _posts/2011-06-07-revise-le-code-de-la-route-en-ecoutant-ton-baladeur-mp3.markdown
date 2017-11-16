@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-07 23:31:26+00:00
 layout: post
-link: https://irz.fr/revise-le-code-de-la-route-en-ecoutant-ton-baladeur-mp3/
+redirect_from: revise-le-code-de-la-route-en-ecoutant-ton-baladeur-mp3/
 slug: revise-le-code-de-la-route-en-ecoutant-ton-baladeur-mp3
 title: Révise le code en écoutant ton baladeur mp3
 wordpress_id: 1438447987

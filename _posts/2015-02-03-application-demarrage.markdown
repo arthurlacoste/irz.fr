@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-03 18:22:41+00:00
 layout: post
-link: https://irz.fr/application-demarrage/
+redirect_from: application-demarrage/
 slug: application-demarrage
 title: Interdire une application de se lancer au démarrage de Mac OS X
 wordpress_id: 1438449592

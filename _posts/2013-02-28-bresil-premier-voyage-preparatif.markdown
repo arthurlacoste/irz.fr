@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-28 10:51:36+00:00
 layout: post
-link: https://irz.fr/bresil-premier-voyage-preparatif/
+redirect_from: bresil-premier-voyage-preparatif/
 slug: bresil-premier-voyage-preparatif
 title: '[Brésil] Mon premier voyage : #1 préparatif'
 wordpress_id: 1438448856

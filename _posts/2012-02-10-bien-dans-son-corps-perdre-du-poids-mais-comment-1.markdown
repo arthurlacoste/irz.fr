@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-02-10 20:20:00+00:00
 layout: post
-link: https://irz.fr/bien-dans-son-corps-perdre-du-poids-mais-comment-1/
+redirect_from: bien-dans-son-corps-perdre-du-poids-mais-comment-1/
 slug: bien-dans-son-corps-perdre-du-poids-mais-comment-1
 title: 'Bien dans son corps : Perdre du poids, mais comment ? #1'
 wordpress_id: 1438448433

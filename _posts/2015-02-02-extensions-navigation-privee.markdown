@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-02-02 11:39:32+00:00
 layout: post
-link: https://irz.fr/extensions-navigation-privee/
+redirect_from: extensions-navigation-privee/
 slug: extensions-navigation-privee
 title: Activer les extensions en mode mode navigation privée
 wordpress_id: 1438449582

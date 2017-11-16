@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2014-01-06 06:00:44+00:00
 layout: post
-link: https://irz.fr/garder-ligne/
+redirect_from: garder-ligne/
 slug: garder-ligne
 title: 'Le guide du radin : garder la ligne sans dépenser un centime'
 wordpress_id: 1438449262

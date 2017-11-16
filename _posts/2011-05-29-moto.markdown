@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-29 15:00:32+00:00
 layout: post
-link: https://irz.fr/moto/
+redirect_from: moto/
 slug: moto
 title: Motocyclette ou cyclomoteur ? Quelle différence et comment reconnaître les
   différentes motos

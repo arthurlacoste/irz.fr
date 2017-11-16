@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-05-24 15:34:13+00:00
 layout: post
-link: https://irz.fr/memo-mamp-resoudre-error-could-not-connect-to-mysql-server/
+redirect_from: memo-mamp-resoudre-error-could-not-connect-to-mysql-server/
 slug: memo-mamp-resoudre-error-could-not-connect-to-mysql-server
 title: 'Mémo MAMP : Résoudre "Error: Could not connect to MySQL server!"'
 wordpress_id: 149

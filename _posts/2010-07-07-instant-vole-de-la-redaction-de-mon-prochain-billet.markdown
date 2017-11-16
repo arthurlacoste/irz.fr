@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2010-07-07 13:18:29+00:00
 layout: post
-link: https://irz.fr/instant-vole-de-la-redaction-de-mon-prochain-billet/
+redirect_from: instant-vole-de-la-redaction-de-mon-prochain-billet/
 slug: instant-vole-de-la-redaction-de-mon-prochain-billet
 title: 'Instant volé de la redaction de mon prochain billet '
 wordpress_id: 250

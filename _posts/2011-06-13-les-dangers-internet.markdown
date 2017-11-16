@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-13 06:00:41+00:00
 layout: post
-link: https://irz.fr/les-dangers-internet/
+redirect_from: les-dangers-internet/
 slug: les-dangers-internet
 title: Les dangers d'internet
 wordpress_id: 1438448195

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-25 19:37:15+00:00
 layout: post
-link: https://irz.fr/origine-nom-site-toute-verite-irz/
+redirect_from: origine-nom-site-toute-verite-irz/
 slug: origine-nom-site-toute-verite-irz
 title: Toute la vérité sur irz.fr !
 wordpress_id: 1438448670

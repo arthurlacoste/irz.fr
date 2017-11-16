@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2017-02-04 13:04:24+00:00
 layout: post
-link: https://irz.fr/le-telephone/
+redirect_from: le-telephone/
 slug: le-telephone
 title: Le téléphone
 wordpress_id: 1438492730

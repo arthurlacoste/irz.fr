@@ -6,7 +6,7 @@ excerpt: 'Depuis quelques mois, et avec quelques autres entrepreneurs francophon
   nous avons préparé un plan machiavélique : multiplier les villes dans lesquelles
   l''apéro aura lieu. '
 layout: post
-link: https://irz.fr/entrepreneurs-venez-prendre-un-apero/
+redirect_from: entrepreneurs-venez-prendre-un-apero/
 slug: entrepreneurs-venez-prendre-un-apero
 title: Entrepreneurs, venez prendre un apéro !
 wordpress_id: 789

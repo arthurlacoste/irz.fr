@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2011-06-09 06:00:42+00:00
 layout: post
-link: https://irz.fr/sanction-des-infractions/
+redirect_from: sanction-des-infractions/
 slug: sanction-des-infractions
 title: Sanction des infractions
 wordpress_id: 1438448000

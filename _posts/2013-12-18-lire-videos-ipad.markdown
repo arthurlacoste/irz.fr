@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-12-18 21:46:29+00:00
 layout: post
-link: https://irz.fr/lire-videos-ipad/
+redirect_from: lire-videos-ipad/
 slug: lire-videos-ipad
 title: Comment lire des vidéos sur votre iPad ?
 wordpress_id: 1438449229

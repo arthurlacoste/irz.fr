@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-01 09:00:39+00:00
 layout: post
-link: https://irz.fr/free-cam/
+redirect_from: free-cam/
 slug: free-cam
 title: Free Cam, Grenoble en 2008 !
 wordpress_id: 1438448577

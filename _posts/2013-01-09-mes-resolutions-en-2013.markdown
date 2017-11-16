@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-09 07:37:18+00:00
 layout: post
-link: https://irz.fr/mes-resolutions-en-2013/
+redirect_from: mes-resolutions-en-2013/
 slug: mes-resolutions-en-2013
 title: Mes résolutions en 2013
 wordpress_id: 1438448616

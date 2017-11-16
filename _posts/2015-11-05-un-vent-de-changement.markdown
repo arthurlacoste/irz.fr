@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-11-05 09:15:21+00:00
 layout: post
-link: https://irz.fr/un-vent-de-changement/
+redirect_from: un-vent-de-changement/
 slug: un-vent-de-changement
 title: Un vent de changement
 wordpress_id: 3

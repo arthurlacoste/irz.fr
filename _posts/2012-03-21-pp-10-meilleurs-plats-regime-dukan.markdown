@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2012-03-21 12:03:15+00:00
 layout: post
-link: https://irz.fr/pp-10-meilleurs-plats-regime-dukan/
+redirect_from: pp-10-meilleurs-plats-regime-dukan/
 slug: pp-10-meilleurs-plats-regime-dukan
 title: Le top 3 des plats hyper-proteinés
 wordpress_id: 1438448441

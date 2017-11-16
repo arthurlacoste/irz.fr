@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-02-24 09:05:47+00:00
 layout: post
-link: https://irz.fr/test-objectif-fish-eyes/
+redirect_from: test-objectif-fish-eyes/
 slug: test-objectif-fish-eyes
 title: 'Test : objectif fish-eyes'
 wordpress_id: 1438448825

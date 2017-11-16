@@ -3,7 +3,7 @@ author: art
 
 date: 2017-06-02 08:29:46+00:00
 layout: post
-link: https://irz.fr/cadeau-mains/
+redirect_from: cadeau-mains/
 slug: cadeau-mains
 title: 3 cadeaux à mettre entre toutes les mains
 wordpress_id: 1438493870

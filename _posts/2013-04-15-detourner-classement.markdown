@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-04-15 05:00:34+00:00
 layout: post
-link: https://irz.fr/detourner-classement/
+redirect_from: detourner-classement/
 slug: detourner-classement
 title: Détourner un classement
 wordpress_id: 1438449000

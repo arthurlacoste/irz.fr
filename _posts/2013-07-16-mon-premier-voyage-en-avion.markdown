@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-07-16 11:37:03+00:00
 layout: post
-link: https://irz.fr/mon-premier-voyage-en-avion/
+redirect_from: mon-premier-voyage-en-avion/
 slug: mon-premier-voyage-en-avion
 title: Mon premier voyage en avion
 wordpress_id: 1438449104

@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2013-01-14 10:55:32+00:00
 layout: post
-link: https://irz.fr/verre-picasso/
+redirect_from: verre-picasso/
 slug: verre-picasso
 title: Verre de Picasso
 wordpress_id: 1438448641

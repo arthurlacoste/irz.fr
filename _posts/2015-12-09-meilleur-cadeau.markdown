@@ -3,7 +3,7 @@ author: art
 comments: true
 date: 2015-12-09 09:18:47+00:00
 layout: post
-link: https://irz.fr/meilleur-cadeau/
+redirect_from: meilleur-cadeau/
 slug: meilleur-cadeau
 title: Quel est le meilleur cadeau à offrir ?
 wordpress_id: 454
