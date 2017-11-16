@@ -56,6 +56,9 @@
                 <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
               </div>
 
+              <input type="hidden" name="options[origin]" value="https://irz.fr/{{ page.slug }}">
+              <input type="hidden" name="options[parent]" value="{{ page.slug }}">
+
               <div class="form-group">
                 <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
                 <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
@@ -87,6 +90,9 @@
               <!-- End comment form alert messaging -->
               <div class="form-group">
                 <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+              </div>
+              <div class="form-group">
+               <input type="checkbox" name="options[subscribe]" value="email" checked> Reçevoir les prochains commentaires de cet article.
               </div>
               <div class="form-group">
                 <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
