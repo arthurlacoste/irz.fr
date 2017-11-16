@@ -1,0 +1,8 @@
+_id: aef3e460-caff-11e7-98b5-29ba5f1acafd
+_parent: pgp-mac-os-x
+message: "Bonjour Nico,\r\n\r\nDéjà, il préférable de parler de chiffrer, pas de \"crypter\" (qui n'existe pas).\r\n\r\nTu ne peux pas déchiffrer le texte si tu as utilisé la clé publique de quelqu'un d'autre. Cependant, par défaut, l'application pré-sélectionne ta clé lors du chiffrement, ce qui fait que le texte et chiffré a la fois pour toi, mais aussi pour ton correspondant."
+name: art
+email: 8f45a7b5561fc9096c9c2b2c4bbbed77
+url: 'https://arthurlacoste.com'
+hidden: ''
+date: '2017-11-16T18:55:16.998Z'
