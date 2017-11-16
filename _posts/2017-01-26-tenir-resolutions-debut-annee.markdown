@@ -21,7 +21,9 @@ On ne se connait pas forcément, et pourtant je sais déjà que seulement 8% d'e
 
 
 
-[caption width="1600" align="alignnone"]![](http://unlockingthebible.org/wp-content/uploads/2014/12/resolutions-scrabble-3297.jpg) Source : Unlocking The Bible[/caption]Si vous êtes comme moi, vous vous dites souvent: «Je vais enfin me mettre au sport. » Mais qu'est-ce que ça sous-entend réellement? Avez-vous l'intention d'atteindre un certain poids ? Ou un certain pourcentage de graisse corporelle ? Voulez-vous courir trois kilomètres sans cracher vos poumons ? Ou être capable de faire 10 pompes d'un coup ? Pour ce genre de questionnement, le Dr. Marciano prône le « système classique d'objectifs » qui nous force à rendre nos objectifs plus spécifiques, mesurables, réalisables, pertinents et limités dans le temps.
+![Source : Unlocking The Bible](http://unlockingthebible.org/wp-content/uploads/2014/12/resolutions-scrabble-3297.jpg)
+
+Si vous êtes comme moi, vous vous dites souvent: «Je vais enfin me mettre au sport. » Mais qu'est-ce que ça sous-entend réellement? Avez-vous l'intention d'atteindre un certain poids ? Ou un certain pourcentage de graisse corporelle ? Voulez-vous courir trois kilomètres sans cracher vos poumons ? Ou être capable de faire 10 pompes d'un coup ? Pour ce genre de questionnement, le Dr. Marciano prône le « système classique d'objectifs » qui nous force à rendre nos objectifs plus spécifiques, mesurables, réalisables, pertinents et limités dans le temps.
 
 
 
@@ -53,6 +55,8 @@ Le soutien social et moral est essentiel. Oui, il faut un certain courage person
 
 
 
-[caption width="2000" align="alignnone"]![](http://gretchenrubin.com/wp-content/uploads/2014/12/NEW-YEARS-RESOLUTIONS-calendar.jpg) Source : Gretchen Rubin[/caption]Je me dis souvent que je n'ai pas le temps de voir des gens, de me cultiver plus, d'apprendre une langue... Mais la vérité c'est que je ne « prends » pas le temps. Nous choisissons chaque jour de passer notre temps à faire ou ne pas faire certaines choses. Faites de vos nouveaux objectifs une priorité et programmez-les dans votre calendrier. Pour votre vie culturelle par exemple, un [calendrier d'objectifs](http://www.asap.be/fr/artikel/atteignez-vos-objectifs-avec-le-calendrier-des-objectifs-asap) permet de se créer des plages de disponibilité pour des soirées cinéma ou lecture. Vous avez un max de bordel à ranger chez vous? Prévoyez du temps pour nettoyer votre placard, votre garage ou autre avec un réveil sur votre mobile. Ne remettez pas au lendemain ce que vous pouvez faire aujourd'hui. Le must reste de planifier vos rendez-vous médicaux qui traînent depuis des mois voire des années.
+![Source : Gretchen Rubin](http://gretchenrubin.com/wp-content/uploads/2014/12/NEW-YEARS-RESOLUTIONS-calendar.jpg)
+
+Je me dis souvent que je n'ai pas le temps de voir des gens, de me cultiver plus, d'apprendre une langue... Mais la vérité c'est que je ne « prends » pas le temps. Nous choisissons chaque jour de passer notre temps à faire ou ne pas faire certaines choses. Faites de vos nouveaux objectifs une priorité et programmez-les dans votre calendrier. Pour votre vie culturelle par exemple, un [calendrier d'objectifs](http://www.asap.be/fr/artikel/atteignez-vos-objectifs-avec-le-calendrier-des-objectifs-asap) permet de se créer des plages de disponibilité pour des soirées cinéma ou lecture. Vous avez un max de bordel à ranger chez vous? Prévoyez du temps pour nettoyer votre placard, votre garage ou autre avec un réveil sur votre mobile. Ne remettez pas au lendemain ce que vous pouvez faire aujourd'hui. Le must reste de planifier vos rendez-vous médicaux qui traînent depuis des mois voire des années.
 
 **Pour conclure, je reviens sur l'idée que la réalisation de vos objectifs n'est pas seulement une histoire de volonté. Il faut surtout apprendre à développer vos compétences, à mettre en place des stratégies, et avoir de la patience. Ce sont tous ces éléments ensemble qui amèneront inévitablement au succès. Est-ce que 2017 sera l'année où vous rejoindrez avec moi l'élite des 8%?**

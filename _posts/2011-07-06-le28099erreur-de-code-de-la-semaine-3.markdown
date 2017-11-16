@@ -29,8 +29,7 @@ tags:
 
 La pression de gonflage est indiquée sur le livret d'entretien ou sur une étiquette apposée dans l'habitacle de la voiture.
 
-[caption id="attachment_143844" align="aligncenter" width="288" caption="étiquette apposée indiquant la pression de gonflage"][![](https://static.irz.fr/2011/07/cerberus-2011-06-07-à-01.05.05.png)](https://static.irz.fr/2011/07/cerberus-2011-06-07-à-01.05.05.png)[/caption]
-
+{% include figure image_path="https://static.irz.fr/2011/07/cerberus-2011-06-07-à-01.05.05.png" alt="étiquette apposée indiquant la pression de gonflage" caption="Etiquette apposée indiquant la pression de gonflage" %}
 
 
 Les informations présentes sur les flancs des pneus sont relatives à la dimension et à la structure du pneu.
