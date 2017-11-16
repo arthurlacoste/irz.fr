@@ -20,34 +20,9 @@ tags:
 
 Un slug (ou Permalien pour les francophones) est la partie d'une url qui permet d'identifier clairement à quoi correspond celle-ci, en passant à travers le traditionnel identifiant numérique propre à la majorité des bases de données.
 
-
-
-# Exemple
-
-
-
-La page
-
-
-
-
-    
-  * mapage.com/produits/canon
-
-
-
-est plus parlante que
-
-
-    
-  * mapage.com/produits.php?cat=5
-
-
-
-
-
 # A quoi ça sert en fait ?
 
+La page `mapage.com/produits/canon` est plus parlante (et plus sexy !) que `mapage.com/produits.php?cat=5`.
 
 
 Lorsque vous saisissez un article, vous avez parfois besoin de générer un slug correspondant à votre titre ou conforme aux règles que vous souhaitez vous imposer. Quoi qu'il en soit, ceci est une petite fonction javascript qui vous permettra de pré-remplir à la volée votre slug pour vérifier qu'il soit en conformité avec vos besoins.
@@ -56,68 +31,50 @@ Lorsque vous saisissez un article, vous avez parfois besoin de générer un slug
 
 # Démo
 
-
-
-Valeur en mode slug : "teste-moi"
-
-
-
-[Voir la page de démo](https://static.irz.fr/2012/06/demo-slugme.html)
-
-
-
-(vous pouvez faire un clique droit pour voir la source)
-
+[Voir la page de démo](http://arthurlacoste.github.io/js-slug-me/test/browser.htm)
 
 
 # Code source
 
+Il est disponible sur [Github en téléchargement](https://github.com/arthurlacoste/js-slug-me). Pour les utilisateurs de lignes de commande, vous pouvez utiliser NPM :
 
+```
+npm i slugme -S
+```
 
-Voici une version du code source commenté (pour un peu mieux comprendre les actions).
+La fonction peut être utilisé ainsi dans le navigateur :
 
+```html
+<input value="Être en été est à mi-chemin de noël" id="slug-this" onkeyup="slugLive('slug-this','slugme');" />
+Slug : «&nbsp;<span id="slugme"></span>&nbsp;»
 
-    
-    function slugMe (value) {
-     var rExps=[
-     {re:/[\xC0-\xC6]/g, ch:'A'},
-     {re:/[\xE0-\xE6]/g, ch:'a'},
-     {re:/[\xC8-\xCB]/g, ch:'E'},
-     {re:/[\xE8-\xEB]/g, ch:'e'},
-     {re:/[\xCC-\xCF]/g, ch:'I'},
-     {re:/[\xEC-\xEF]/g, ch:'i'},
-     {re:/[\xD2-\xD6]/g, ch:'O'},
-     {re:/[\xF2-\xF6]/g, ch:'o'},
-     {re:/[\xD9-\xDC]/g, ch:'U'},
-     {re:/[\xF9-\xFC]/g, ch:'u'},
-     {re:/[\xC7-\xE7]/g, ch:'c'},
-     {re:/[\xD1]/g, ch:'N'},
-     {re:/[\xF1]/g, ch:'n'} ];
-    
-     // converti les caractères accentués en leurs équivalent alpha
-     for(var i=0, len=rExps.length; i<len; i++)
-      value=value.replace(rExps[i].re, rExps[i].ch);
-    
-      // 1) met en bas de casse
-      // 2) remplace les espace par des tirets
-      // 3) enleve tout les caratères non alphanumeriques
-      // 4) enlève les doubles tirets
-      return value.toLowerCase()
-          .replace(/\s+/g, '-')
-          .replace(/[^a-z0-9-]/g, '')
-          .replace(/\-{2,}/g,'-');
-    };
+<script src="../index.js"></script>
 
+<script type="text/javascript">
 
+const slugLive = function (input,output) {
+  const valueIn = document.getElementById(input).value;
+  var idOut = document.getElementById(output);
+  idOut.innerHTML = slugme(valueIn);
+}
 
-Mise en place dans un champ input texte (comme dans la démo) :
+slugLive('slug-this','slugme');
 
+</script>
 
-    
-    <script type="text/javascript">// <![CDATA[
-    function slugLive(ine,out){     document.getElementById(out).innerHTML =    slugMe(document.getElementById(ine).value); }
-    // ]]></script><input onkeyup="slugLive('slug-this','le-slug');" type="text" id="slug-this"></input> Valeur en mode slug : "<span id="le-slug"></span>"
+```
 
+Ou directement en tant que package npm :
+
+```js
+const slugme = require('slugme');
+const result = slugme('Être en été est à mi-chemin de noël');
+
+console.log(result);
+
+//=> etre-en-ete-est-a-mi-chemin-de-noel
+
+```
 
 
 Inspiration : [Ben Truyman](https://gist.github.com/1211400) & [jquery-slug-plugin](http://code.google.com/p/jquery-slug-plugin/)
