@@ -48,13 +48,12 @@ var adjustFeatureWidth = function (element) {
 
 $(document).ready( function () {
 
-  $("form").submit(function(e){
+  $("form").submit( function (e) {
     e.preventDefault();
   });
 
   var pageW = $('.page__content').width();
-  $('.page__content img').each( function() {
-    //70%
+  $('.page__content img').each( function () {
     var random_boolean = Math.random() >= 0.5;
     var imgW = $(this).width();
     var imgsize = imgW*100/pageW;
@@ -66,7 +65,7 @@ $(document).ready( function () {
 
   var hash = window.location.hash.substr(1);
   if(hash) {
-    $('.remove.'+hash).each( function(){
+    $('.remove.'+hash).each( function (){
       $(this).removeClass('remove');
     })
   }
