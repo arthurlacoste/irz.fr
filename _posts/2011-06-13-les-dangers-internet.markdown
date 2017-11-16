@@ -18,7 +18,8 @@ tags:
 
 Encore une petite vidéo sympa en anglais, mais c'est pour la bonne cause.
 
-[youtube mEvWKL_yk5M]
+{% include video id="mEvWKL_yk5M" provider="youtube" %}
+
 
 Les rencontres sur internet... Ahhhh...
 

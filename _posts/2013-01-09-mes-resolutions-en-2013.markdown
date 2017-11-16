@@ -141,7 +141,8 @@ Il y a de quoi rêver jusqu'à la fin de nos vies.
 
 L'année passé, je n'avais pas de grands projets. Avec l'ami Fabien, nous avions monté un petit projet de [commentaires de vidéos de Starcraft 2](http://missclick.irz.fr). Avec le petit site qui va bien. Lui, il commente toujours dans des teams, moi j'ai un peu laissé tomber sc2.
 
-[youtube p_L_hEfokVk]
+{% include video id="p_L_hEfokVk" provider="youtube" %}
+
 
 Mais la je travaille sur une nouvelle version [du site de ma soeur](http://lucie.irz.fr), qui à la plus belle plume du monde (cet avis est tout à fait subjectif !), et une vision bien à elle de notre société.
 
