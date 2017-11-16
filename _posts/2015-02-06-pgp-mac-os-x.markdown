@@ -1,7 +1,7 @@
 ---
 author: art
 comments: true
-date: 2015-02-06 14:11:44+00:00
+date: 2017-11-16 14:11:44+00:00
 layout: post
 redirect_from: pgp-mac-os-x/
 slug: pgp-mac-os-x
@@ -43,7 +43,7 @@ Dans ce tutoriel, nous désignerons la plupart du temps le texte chiffré par �
 
 
 
-  1. **Il fonctionne avec toutes les applications.** Contrairement aux autres tutoriels concernant PGP, celui-ci ne se soucis pas des logiciels que vous utilisez. Peut importe les outils que vous utilisez actuellement ou utiliserez dans le futur, PGP continuera de fonctionner. Si vous voulez chiffrer des mails, vous pouvez utiliser le logiciel que vous voulez : Mail.app, Thunderbird, Sparrow, Gmail, Airmail… Si vous voulez chiffrer autre chose que des mail, c’est possible aussi ! Vous pouvez écrire et chiffrer des documents Word, ou une formule Excel. Vous pouvez facilement chiffrer une URL sous Safari, Chrome, Firefox. Vous pouvez chiffrer un texte avec l’’application Message. Vous pouvez chiffrer une commande sur le terminal. Ça n’a aucune importance.
+  1. **Il fonctionne avec toutes les applications.** Contrairement aux autres tutoriels concernant PGP, celui-ci ne se soucis pas des logiciels que vous utilisez. Peu importe les outils que vous utilisez actuellement ou utiliserez dans le futur, PGP continuera de fonctionner. Si vous voulez chiffrer des mails, vous pouvez utiliser le logiciel que vous voulez : Mail.app, Thunderbird, Sparrow, Gmail, Airmail… Si vous voulez chiffrer autre chose que des mail, c’est possible aussi ! Vous pouvez écrire et chiffrer des documents Word, ou une formule Excel. Vous pouvez facilement chiffrer une URL sous Safari, Chrome, Firefox. Vous pouvez chiffrer un texte avec l’’application Message. Vous pouvez chiffrer une commande sur le terminal. Ça n’a aucune importance.
 
 
   2. **Il est fait pour les utilisateurs de mac.** Il y a une certaine manière de faire les choses sur Mac. Si vous n’êtes pas familier avec le monde des Mac, vous ne pouvez pas forcément comprendre (c’est normal). Beaucoup de tutoriels que j’ai trouvés pour Mac OS X n’étaient pas fait pour les utilisateurs de Mac. Beaucoup veulent vous faire installer une usine à gaz à la Windows, ou une extension douteuse. Ce tutoriel est fait pour les utilisateurs de Mac. Il s’agit de PGP, installé de la manière dont Steve Jobs l’aurait implémenté.
@@ -278,7 +278,7 @@ Sélectionnez tout le corps de votre message, puis tapez sur ⌃⌥⌘= pour le 
 
 Votre message est maintenant entièrement chiffré, vous pouvez l’envoyer en toute sécurité !
 
-Comme vous l’avez compris, vous n’avez qu’a récupérer la clef publique de votre contact, et ce une seule fois. Dès que vous l’aurez fait, le contact sera toujours accessible depuis le menu de sélection de destinataire.
+Comme vous l’avez compris, vous n’avez qu’à récupérer la clef publique de votre contact, et ce une seule fois. Dès que vous l’aurez fait, le contact sera toujours accessible depuis le menu de sélection de destinataires.
 
 
 
@@ -360,9 +360,9 @@ Il n’est pas nécessaire de chiffrer ou signer l’ensemble de vos conversatio
 Il y a trois choix rationnels que vous pouvez effectuer lorsque vous envoyez un message :
 1. **Ne rien faire.** Si le contenu est publique (si il n’y a rien de confidentiel) et si le destinataire ne se préoccupe pas de savoir si c’est un imposteur qui envoi le message, alors ne faites rien. Envoyez le message comme vous avez toujours envoyé vos messages : en texte clair.
 2. **Signer mais ne pas chiffrer.** Si le contenu du message est publique mais que le destinataire a besoin d’une preuve de votre identité et que vous n’êtes pas un imposteur, vous pouvez signer sans chiffrer. Vous pouvez suivre la suite du tutoriel, en passant la partie permettant de chiffrer.
-3. **Signer et chiffrer.** Si le contenu du mail est totalement confidentiel, signer et chiffrer. Peut importe que votre destinataire ai besoin d’une preuve de votre identité : signez toujours avant de chiffrer.
+3. **Signer et chiffrer.** Si le contenu du mail est totalement confidentiel, signer et chiffrer. Peu importe que votre destinataire ait besoin d’une preuve de votre identité : signez toujours avant de chiffrer.
 
-Dans 90% des mail que j’envois, je ne fais rien, car ce n’est pas nécessaire. Dans 10% des cas, je signe et chiffre. Chaque fois qu’il y a des informations confidentielles - Business plan, numéro de carte de crédit, RIB, numéro de sécurité sociale, stratégies marketing - je signe et je chiffre. Je définis les informations confidentielles au sens large, car je préfère signer et chiffrer “pour rien” plutôt que de craindre une fuite d’information sensible. J’utilise très rarement la troisième option, signer sans chiffrer, mais l’usage de PGP peut être très différente d’une profession/situation à une autre.
+Dans 90% des mail que j’envoie, je ne fais rien, car ce n’est pas nécessaire. Dans 10% des cas, je signe et chiffre. Chaque fois qu’il y a des informations confidentielles - Business plan, numéro de carte de crédit, RIB, numéro de sécurité sociale, stratégies marketing - je signe et je chiffre. Je définis les informations confidentielles au sens large, car je préfère signer et chiffrer “pour rien” plutôt que de craindre une fuite d’information sensible. J’utilise très rarement la troisième option, signer sans chiffrer, mais l’usage de PGP peut être très différent d’une profession/situation à une autre.
 
 
 
@@ -386,13 +386,13 @@ Voilà pourquoi :
   * Les gens qui utilisent les extensions de chiffrement n’ont aucune idée du fonctionnement de leurs programmes, ce qui leur procure une fausse sensation de sécurité
 
 
-  * le texte brut peut être copié n’importe où (terminal, Facebook, iMessage, etc.), ce n’est pas le cas des pièces jointes.
+  * Le texte brut peut être copié n’importe où (terminal, Facebook, iMessage, etc.), ce n’est pas le cas des pièces jointes.
 
 
   * La majorité des personnes m’ayant écrit un mail test en utilisant une pièce jointe MIME et ayant utilisé l’extension PGP de Mail.app m’ont envoyé des messages indéchiffrables, car ils n’avaient aucune idée de ce qu’ils faisaient et de la manière dont ceci fonctionnait.
 
 
-  * Quand une extension génère une pièce jointe et l’envoi avant mêm que vous ayez pu voir de quoi il s’agissait, vous n’avez aucune idée de ce qui à été envoyé.
+  * Quand une extension génère une pièce jointe et l’envoi avant même que vous ayez pu voir de quoi il s’agissait, vous n’avez aucune idée de ce qui a été envoyé.
 
 
   * Beaucoup d’applications n’intègrent pas PGP nativement, vous avez donc besoin d’utiliser le texte brut !
