@@ -67,7 +67,23 @@ Créer une `<figure>` avec un sous-titre.
 {% include figure image_path="/unsplash-image-10.jpg" alt="" caption="" class="" %}
 ```
 
-#### Header
+### Annotations `(beta)`
+
+#### Annotation markdown :
+
+```md
+Texte[^1]
+```
+
+Suivi de `[^1]: Test` après, tout sera stacké en bas de page.
+
+#### Annotations en marge `(beta)`
+
+```html
+<span class="ar" /><span class="mar">Un langage interprété n'est pas compilé avant d'être executé</span>
+```
+
+### Header
 
 Pour ajouter une image en header ([comme ici]) :
 
