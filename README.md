@@ -13,6 +13,8 @@ En environnement de test, voici les commandes à lancer :
 
 ## Aide à l'écriture
 
+- [Mise en page du texte](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+
 ### Videos
 
 Pour ajouter des vidéos en header :
@@ -33,15 +35,23 @@ Il est aussi possible d'inclure une video dans le coeur de l'article. Pour cela 
 ### Images
 
 - [Pour afficher une galerie d'image](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
+- [Alignement](https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/)
 
-En markdown simple
+En markdown simple :
 
 ```md
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
 ```
 
-L'habituel tag en Markdown fonctionne, mais il est aussi possible d'utiliser des
-balises figures.
+Pour forcer une image a être centré :
+
+```md
+![wordpress export tool](https://static.irz.fr/2017/11/wordpress-export-tool.gif){: .align-center}
+```
+
+Si la propriété `{: .align-center}` n'est pas utilisée, les images utilisant moins de 50% de la largeur du bloc s'aligneront soit à gauche, soit à doite (c'est en random).
+
+Il est aussi possible d'utiliser des balises figures.
 
 
 Créer une `<figure>` avec un sous-titre.
@@ -51,7 +61,7 @@ Créer une `<figure>` avec un sous-titre.
 | **image_path**    | **Required** | Chemin de l'image:  `/assets/images/filename.jpg`.|
 | **alt**           | **Required** | Text alternatif. |
 | **caption**       | Optional     | Sous-titre. Markdown autorisé. |
-
+| **class**       | Optional     | Ajoute une class a l'élément  figure . |
 
 ```liquid
 {% include figure image_path="/unsplash-image-10.jpg" alt="" caption="" class="" %}

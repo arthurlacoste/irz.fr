@@ -34,7 +34,7 @@
     "add-banner": "node banner.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify && npm run add-banner",
-    "start": "grunt jekyll"
+    "start": "bundle exec jekyll serve --limit_posts 15 --verbose true --watch"
   },
   "dependencies": {
     "grunt": "^1.0.1",

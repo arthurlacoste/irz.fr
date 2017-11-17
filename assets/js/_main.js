@@ -53,13 +53,15 @@ $(document).ready( function () {
   });
 
   var pageW = $('.page__content').width();
-  $('.page__content img').each( function () {
+  $('.page__content img:not(.align-center)').each( function () {
     var random_boolean = Math.random() >= 0.5;
     var imgW = $(this).width();
     var imgsize = imgW*100/pageW;
-    if(imgsize<70){ // -70%
+    if(imgsize<50){ // -70%
       var classImg = random_boolean === true ? 'align-left' : 'align-right';
       $(this).addClass(classImg);
+    } else {
+      $(this).addClass('align-center');
     }
   });
 

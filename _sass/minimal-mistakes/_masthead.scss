@@ -46,7 +46,10 @@
 
 /* addbyme */
 .site-title img {
-   max-height: 40px;
+   max-height: 80px;
+   @media (min-width: $x-large) {
+    max-height: 100px;
+   }
 }
 
 .masthead__menu {
