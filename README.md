@@ -5,7 +5,7 @@ La version 5 change de moteur ! Après près de 7 ans sous WordPress, IRZ fait p
 ## Déploiement
 
 ```
-git clone 
+git clone
 ```
 En environnement de test, voici les commandes à lancer :
 
@@ -32,8 +32,46 @@ Il est aussi possible d'inclure une video dans le coeur de l'article. Pour cela 
 
 ### Images
 
+- [Pour afficher une galerie d'image](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
+
+En markdown simple
+
+```md
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+```
+
 L'habituel tag en Markdown fonctionne, mais il est aussi possible d'utiliser des
 balises figures.
+
+
+Créer une `<figure>` avec un sous-titre.
+
+| Include Parameter | Required     | Description |
+| ----              | --------     | ----------- |
+| **image_path**    | **Required** | Chemin de l'image:  `/assets/images/filename.jpg`.|
+| **alt**           | **Required** | Text alternatif. |
+| **caption**       | Optional     | Sous-titre. Markdown autorisé. |
+
+
+```liquid
+{% include figure image_path="/unsplash-image-10.jpg" alt="" caption="" class="" %}
+```
+
+#### Header
+
+Pour ajouter une image en header ([comme ici]) :
+
+```yaml
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
+```
+
+[En savoir plus sur les overlays](https://mmistakes.github.io/minimal-mistakes/layout/uncategorized/layout-header-overlay-image/).
 
 ### Navigation et TDM
 
@@ -79,3 +117,5 @@ toc: true
 
 [Licence Creative
 Commons BY-NC-SA](https://irz.fr/a-propos)
+
+[comme ici]: https://mmistakes.github.io/minimal-mistakes/layout/uncategorized/layout-header-overlay-image/
