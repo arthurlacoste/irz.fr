@@ -9,13 +9,14 @@ title: Nicotine
 wordpress_id: 1438448655
 categories:
 - Divers
+- Dessins
 post_format:
 - Galerie
 tags:
 - pince à linge
 ---
 
-[![pinces-a-linges-nicotine](https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png)]
+![pinces-a-linges-nicotine](https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png)
 
 
 
