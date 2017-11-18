@@ -1,4 +1,7 @@
-# irz.fr
+<p align="center">
+  <img src="assets/img/logo.svg" height="130">
+  <p align="center">Hacking, astuces, inspiration & mirabelles<p>
+</p>
 
 La version 5 change de moteur ! Après près de 7 ans sous WordPress, IRZ fait peau neuve en se convertissant à Jekyll, hebergé par Github Pages.
 
@@ -9,7 +12,15 @@ git clone
 ```
 En environnement de test, voici les commandes à lancer :
 
+```shell
+npm start
+```
 
+En cas de modification du JS, il est de bonne augure de recompiler le fichier `main.js`:
+
+```shell
+npm run uglify
+```
 
 ## Aide à l'écriture
 
