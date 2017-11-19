@@ -13,6 +13,7 @@ sidebar:
   {% for post in site.posts %}
     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% if year != written_year %}
+    </ul>
       <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
       <ul>
       {% capture written_year %}{{ year }}{% endcapture %}
@@ -20,4 +21,4 @@ sidebar:
 
     {% include archive-single-list.html %}
   {% endfor %}
-</ul>
+  </ul>
