@@ -24,6 +24,6 @@ Gagnante du concours développement avec son activité d'aide à la création d'
 
 Créé à la base pour son stage de fin d'étude, Gest'Affaires conseille, accompagne et aide au financements les projets d'entrepreneurs.
 
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/xcq37a" allowfullscreen=""></iframe>
+{% include video id="xcq37a" provider="dailymotion" %}
 
 Retrouvez la sur son site internet, [www.gestaffaires.fr](http://www.gestaffaires.fr/).
