@@ -23,6 +23,8 @@ about:
         url: "/a-propos/#licence"
       - title: "Techniquement"
         url: "/a-propos/#techniquement"
+      - title: "Transparence"
+        url: "/transparence"
   - title: "Qui suis-je"
     url: /qui-suis-je/
     children:
