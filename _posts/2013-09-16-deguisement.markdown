@@ -5,7 +5,7 @@ date: 2013-09-16 13:05:35+00:00
 layout: post
 redirect_from: deguisement/
 slug: deguisement
-title: Le Guide du Radin : 5 manières de se déguiser quand on a pas une thune
+title: "Le Guide du Radin : 5 manières de se déguiser quand on a pas une thune"
 wordpress_id: 1438449151
 categories:
 - Consommacteur
