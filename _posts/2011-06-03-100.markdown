@@ -25,25 +25,12 @@ Faisons ensemble un petit tour du tour du propriétaire, histoire de voir ce que
 
 Il y a :
 
-
-
-	
-  * Des traductions d'articles high-tech à propos de [bing et du apple store](https://irz.fr/apple-il-est-temps-de-supprimer-bing-de-lapp-store)
-
-	
-  * Un essai de [podcast avort](https://irz.fr/la-review-quatre)é par manque de plaisir
-
-	
-  * Un [tutoriel PHP/Wordpress](https://irz.fr/calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress) parmis tant d'autres
-
-	
-  * Un article sur [Einstein](https://irz.fr/lecons-de-vie-albert-einstein) (traduction de développement personnel)
-
-	
-  * Une [interview](https://irz.fr/objectif-neige)
-
-	
-  * Des [idées saugrenues](https://irz.fr/decoupez-une-micro-sim-carte-sim) !
+* Des traductions d'articles high-tech à propos de [bing et du apple store](https://irz.fr/apple-il-est-temps-de-supprimer-bing-de-lapp-store)
+* Un essai de [podcast avorté](https://irz.fr/la-review-quatre) par manque de plaisir
+* Un [tutoriel PHP/Wordpress](https://irz.fr/calculer-un-age-automatiquement-pour-le-mettre-dans-une-page-wordpress) parmis tant d'autres
+* Un article de développement personnel sur [Einstein](https://irz.fr/lecons-de-vie-albert-einstein)
+* Une [interview](https://irz.fr/objectif-neige)
+* Des [idées saugrenues](https://irz.fr/decoupez-une-micro-sim-carte-sim) !
 
 
 J'ai un peu triché.
