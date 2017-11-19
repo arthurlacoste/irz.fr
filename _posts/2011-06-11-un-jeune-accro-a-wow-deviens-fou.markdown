@@ -17,4 +17,4 @@ tags:
 
 Devenir vraiment fou après la consommation de MMORPG ça donne ça :
 
-[embed]http://youtube.com/v/7_k_pydUq6Y[/embed]
+{% include video id="7_k_pydUq6Y" provider="youtube" %}

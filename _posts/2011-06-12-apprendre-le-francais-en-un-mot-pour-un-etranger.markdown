@@ -17,7 +17,7 @@ tags:
 
 C'est en anglais mais c'est vraiment compréhensible :
 
-[embed]http://youtube.com/v/GSeaDQ6sPs0[/embed]
+{% include video id="GSeaDQ6sPs0" provider="youtube" %}
 
 Quand on y pense... Et ben putain elle à raison cette nana !
 

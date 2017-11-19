@@ -13,4 +13,4 @@ tags:
 - Vidéo
 ---
 
-[embed]http://youtube.com/v/OF48oqnqZdw[/embed]
+{% include video id="OF48oqnqZdw" provider="youtube" %}
