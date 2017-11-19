@@ -9,10 +9,12 @@ title: Dérapage
 wordpress_id: 1438448237
 categories:
 - Video
+header:
+  video:
+    id: _CzzfwMN5CY
+    provider: youtube
 ---
 
 Des court-métrages de qualité, comme ça, j'aimerais en voir plus souvent !
-
-[dailymotion xj0wff_derapage_creation]
 
 Réalisation : Mathias Barday, Olivier Landais, Luc Ewen Martin Fenouillet, Guillaume Petit, Arnaud Saibron, Bertrand Saint Martin.

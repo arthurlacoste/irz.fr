@@ -28,7 +28,10 @@ layout: default
         <header>
           {% if page.title %}<h1 class="post__title feature-title" itemprop="headline">{% include helpers/generate-feature-title.html title=page.title %}</h1>{% endif %}
           {% if page.read_time %}
-            <p class="page__meta__title"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+            <p class="page__meta__title">
+              <span class="page__meta__element"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+              <span class="page__meta__element"><i class="fa fa-user" aria-hidden="true"></i> {{ page.author }}</span>
+            </p>
           {% endif %}
         </header>
       {% endunless %}

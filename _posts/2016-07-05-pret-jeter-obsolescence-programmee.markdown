@@ -9,9 +9,8 @@ title: Prêt à jeter - l'obsolescence programmée
 wordpress_id: 670
 categories:
 - Documentaire
-- Le site
-- Liveblog
 - Zéro déchet
+- Video
 tags:
 - Cosima Dannoritzer
 header:
