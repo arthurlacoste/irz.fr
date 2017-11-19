@@ -14,12 +14,12 @@ post_format:
 tags:
 - Art
 - Le verre
-- Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano
-  de la Santísima Trinidad Ruiz y Picasso
+- Francisco de Paula
+- María de los Remedios
 - Pablo Picasso
 ---
 
-[![le-verre_Picasso](https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg)](https://static.irz.fr/2013/01/le-verre_Picasso.jpg)
+[![le-verre_Picasso](https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg)](https://static.irz.fr/2013/01/le-verre_Picasso.jpg){: .align-center}
 
 
 Verre, 1914
