@@ -9,6 +9,16 @@ main:
   - title: "A propos"
     url: /a-propos/
 
+archives:
+  - title: Archives
+    url: /archives/
+    children:
+      - title: "Par tags"
+        url: "/tags/"
+      - title: "Par catégories"
+        url: "/categories/"
+      - title: "Sitemap"
+        url: /sitemap/
 about:
   - title: A propos
     url: /a-propos

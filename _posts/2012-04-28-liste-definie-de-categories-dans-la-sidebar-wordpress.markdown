@@ -17,7 +17,6 @@ tags:
 - catégories
 - Exec-PHP
 - php
-- sidebar
 - widget
 - wordpress
 - wp_list_categories

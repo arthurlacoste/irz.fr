@@ -4,22 +4,27 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: false
 exclude_from_search: true
+sidebar:
+  nav: "archives"
 ---
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+Une liste de tous les billets & pages du site. Une [version XML]({{ base_path }}/sitemap.xml) est disponible pour les robots.
 
 <h2>Pages</h2>
+<ul>
 {% for post in site.pages %}
-  {% include archive-single.html %}
+  {% include archive-single-list.html %}
 {% endfor %}
+</ul>
 
-<h2>Posts</h2>
+<h2>Articles</h2>
+<ul>
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  {% include archive-single-list.html %}
 {% endfor %}
-
+</ul>
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -27,12 +32,15 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% capture label %}{{ collection.label }}{% endcapture %}
   {% if label != written_label %}
   <h2>{{ label }}</h2>
+  <ul>
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
+  </ul>
 {% endunless %}
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+  {% include archive-single-list.html %}
   {% endunless %}
 {% endfor %}
+
 {% endfor %}

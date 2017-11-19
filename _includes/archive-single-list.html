@@ -1,0 +1,17 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<li>
+  <a href="{{ post.url | absolute_url }}" class="link-post" rel="permalink">
+        {% if title %}{{ title }}{% endif %}
+  </a>
+</li>
