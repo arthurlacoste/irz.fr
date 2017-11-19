@@ -1,7 +1,8 @@
 ---
 author: art
 comments: true
-date: 2017-11-16 14:11:44+00:00
+date: 2015-02-16 14:11:44+00:00
+last_modified_at: 2017-11-19 14:11:44+00:00
 layout: post
 redirect_from: pgp-mac-os-x/
 slug: pgp-mac-os-x
@@ -87,14 +88,17 @@ Lorsque l’installation est terminée, vous pouvez trouver une application appe
 
 
 
-### Pourquoi parler d'une paire de clefs ?
 
+
+<div class="notice--info" markdown="1">
+#### Pourquoi parler d'une paire de clefs ?
 
 Lors de la création de clefs, on parle toujours d’une paire de clefs : en effet, peu importe l’outil que vous utilisez, le principe de PGP est de vous fournir 2 clefs.
 
 **La clef publique**, que vous partagerez à vos contacts afin qu'ils puissent chiffrer leurs messages à votre intention.
 
-**La clef privée**, que vous gardez pour vous, et qui vous permet de déchiffrer les messages de vos correspondants.
+**La clef privée**, que vous gardez pour vous, et qui vous permet de déchiffrer les messages de vos correspondants. Il ne faut pas la perdre, sinon vous ne pourrez plus déchiffrer les messages de vos correspondants !
+</div>
 
 
 
@@ -246,6 +250,7 @@ Vous devriez maintenant voir la clef de votre ami dans la liste :
 Il arrive que parfois, votre contact n’ai pas installé sa clef sur un serveur de clef. Il peut donc vous fournir la clef publique en texte brut. Il suffit d’enregistrer cette clef dans un fichier texte (j’utilise personnellement TextWrangler, mais n’importe quel bloc-notes fera l’affaire), de préférence sous l’extension “.asc”.
 
 **Petite astuce :** il est aussi possible d’exporter une clef privée préalablement sauvegardé, lire plus loin le chapitre “Exporter vos clefs”.
+{: .notice--info}
 
 ![clef publique textwrangler](https://static.irz.fr/2015/02/clef-publique-textwrangler.png)
 Une clef publique commence toujours par “—–BEGIN PGP PUBLIC KEY BLOCK—– et fini par “—–END PGP PUBLIC KEY BLOCK—–”. L’apparence d’une clef privée est très similaire, elle commence par “—–BEGIN PGP PRIVATE KEY BLOCK—–” et se termine par “—–END PGP PRIVATE KEY BLOCK—–”.
@@ -262,7 +267,7 @@ Vous devriez maintenant voir la clef de votre ami dans la liste :
 ![Liste des clefs importées](https://static.irz.fr/2015/02/liste-clef-importe.png)
 
 **Petite astuce :** pour faciliter les sauvegardes et utilisations de PGP sur plusieurs ordinateurs, je dispose de l'ensemble des clefs publiques de mes contacts dans un dossier sur Dropbox. Si j'ai le moindre problème, un simple glisser-déposer vous permettra de ré-importer l'ensemble de vos contacts.
-
+{: .notice--info}
 
 
 ##### Chiffrer
