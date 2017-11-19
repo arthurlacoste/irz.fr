@@ -10,8 +10,8 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.title %}
 <li>
-  <a href="{{ post.url | absolute_url }}" class="link-post" rel="permalink">
-        {% if title %}{{ title }}{% endif %}
-  </a>
+  <a href="{{ post.url | absolute_url }}" class="link-post" rel="permalink">{{ title }}</a>
 </li>
+{% endif %}
