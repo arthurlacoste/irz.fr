@@ -27,7 +27,7 @@ Alors oui les gars, vous avez raison, on attend le dernier album studio des Daft
 
 Non et puis surtout Konbini, tant qu'à faire, si vous aviez vraiment la galette sous la main, vous auriez pu faire une réelle critique de l'album, un article construit et tout ! Comment ça, vous savez pas faire ? Moi aussi je peux écrire Daft Punk sur un CD vierge et faire une jolie photo !
 
-[embed]http://www.dailymotion.com/video/xyelco_daft-punk-new-album-leak-fail[/embed]
+{% include video id="xcq37a" provider="dailymotion" %}
 
 Bon je laisse une chance à la team de Konbini, il peuvent me contacter via [mon formulaire de contact](http://irz.fr/contact) pour me prouver la véracité de leurs propos. Comment ça, vous avez dit profiteur ? Mais non, c'est un réel travail d'investigation !
 

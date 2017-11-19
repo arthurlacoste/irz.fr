@@ -19,7 +19,7 @@ Pour le commun des mortels, j'avoue que c'est d'une utilité plus que moyenne. A
 
 Voici une petite illustration de ce que je dis sous la forme d'un screencast.
 
-[embed]http://www.dailymotion.com/video/xghwau_utiliser-windows-mac-os-et-ubuntu-simultanement_tech[/embed]
+{% include video id="xcq37a" provider="dailymotion" %}
 
 Je reprendrais pour compléter la vidéo sans la paraphraser les solutions employées pour reproduire un contexte propice à l'utilisation des ces systèmes d'exploitations simultanés.
 

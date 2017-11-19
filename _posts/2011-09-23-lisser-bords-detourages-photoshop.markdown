@@ -26,7 +26,7 @@ Je vous livre donc mon premier tutoriel Photoshop, permettant de **lisser les bo
 
 
 
-[embed]http://www.dailymotion.com/video/xgly3z_lisser-les-bords-de-vos-detourages_tech[/embed]
+{% include video id="xcq37a" provider="dailymotion" %}
 
 
 
