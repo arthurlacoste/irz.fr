@@ -15,23 +15,10 @@ tags:
 
 ### Le permis de conduire catégorie B :
 
-
-
-
-
-	
   1. S’obtient à 18 ans révolus;
-
-	
   2. Permet de conduire les véhicules automobiles légers ;
-
-	
   3. Le véhicule peut être affecté au transport de marchandises, ou bien au transport de personnes ;
-
-	
   4. Le permis B permet de conduire les véhicules des sous-catégories B1 et A1 ;
-
-	
   5. Le permis B permet de conduire un véhicule de catégorie B attelé à une remorque dont le PTAC est inférieur ou égal à 750 kg.
 
 
@@ -60,14 +47,7 @@ Comme pour n'importe quel conducteur, le Permis B(E) nécessite d'être passé e
 
 ### Permis B1 : tricycles et quadricycles à moteur
 
-
-
-
-
-	
   * Tricycles dont le poids à vide est inférieur ou égal à 550 kg et la puissance limitée à 15 kW.
-
-	
   * Quadricycles lourds à moteur.
 
 
@@ -89,10 +69,10 @@ Oui, il faut passer le permis A, afin de conduire des motocyclettes de plus de 1
 
 
 
-	
+
   * Le permis A « accès progressif » s’obtient à 18 ans révolus. Il permet de piloter les motocyclettes dont la puissance est inférieure ou égale à 25 kW (34 CV), ainsi que les véhicules des catégories A1 et B1. Au bout de deux ans, le permis A « accès progressif » donne le permis A.
 
-	
+
   * Le permis A, qui s’obtient à 21 ans révolus, concerne toutes les [motocyclettes](https://irz.fr/motocyclette-cyclomoteur) dont la puissance est inférieure ou égale à 73,6 kW, soit 100 CV.
 
 
@@ -118,13 +98,13 @@ La catégorie D concerne les véhicules isolés affectés au transport de person
 
 
 
-	
+
   * Permis E(B) : véhicules de la catégorie B attelés à une remorque dont le PTAC est supérieur à 750 kg ou dépasse le poids à vide du véhicule tracteur, ou si la somme des PTAC du véhicule et de la remorque dépasse 3 500 kg.
 
-	
+
   * Permis E(C) : véhicules de la catégorie C tractant une remorque dont le PTAC est supérieur à 750 kg.
 
-	
+
   * Permis E(D) : véhicules de la catégorie D attelés à une remorque dont le PTAC est supérieur à 750 kg.
 
 

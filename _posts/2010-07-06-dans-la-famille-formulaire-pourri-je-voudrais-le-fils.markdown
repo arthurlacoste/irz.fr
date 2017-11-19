@@ -18,4 +18,6 @@ tags:
 
 Parfois quand on voit le prix que coûte un developpeur, on se demande pourquoi il y a encore des abberations de ce type sur internet.
 
+Sans doute parce qu'un développeur n'est pas un graphiste, ni un UX designer !
+
 Vu sur lesite.tv.

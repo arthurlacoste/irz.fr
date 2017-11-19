@@ -16,4 +16,6 @@ categories:
 
 "Facebook veut mieux protéger ses utilisateurs contre le " spam et les scams " ( arnaques ). C'est du moins en ces termes que le réseau social a annoncé le déploiement de nouvelles fonctionnalités de sécurité dont certaines avaient déjà été évoquées il y a quelques semaines sans pour autant être devenues opérationnelles pour tous."
 
+Comme il l’est évoqué dans le film “The social network”, Facebook est une drogue. Le soeuvrage en est d’autant plus compliqué si l’on a commencé a s’en accommoder et que son réseau y est aussi connecté.
+
 Source : [generation-nt](http://www.generation-nt.com/)

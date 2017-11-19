@@ -27,11 +27,8 @@ Maintenant je veux tout prêter, du moins ce que je n'utilise pas. Ici sur IRZ, 
 
 Tout ça pour dire que j'aimerai bien avoir ma vie dans mon sac à dos. A chaque fois que je fais mon sac à dos pour partir quelques jours de chez moi, je me rend compte que je peux me passer de la plupart des choses que j'ai. Une paire de chaussures, quelques strings, un bon pull, un ordinateur et c'est parti ! N'est-ce pas ça la solution au final ? Arrêter de vivre quelque part ? Devenir un citoyen du monde et plus un simple grenoblois ?
 
-
-
 <blockquote>"Les choses qu’on possède finissent par nous posséder."
 Chuck Palahniuk, Fight Club</blockquote>
-
 
 
 Quand on possède un objet, il fini par nous posséder. Si je possède une maison ou un appartement, finira-t-elle par me posséder ?
