@@ -52,6 +52,7 @@ $(document).ready( function () {
     e.preventDefault();
   });
 
+  // Randomizing alignment of little images non-setup
   var pageW = $('.page__content').width();
   $('.page__content img:not(.align-center)').each( function () {
     var random_boolean = Math.random() >= 0.5;
@@ -65,12 +66,28 @@ $(document).ready( function () {
     }
   });
 
+  // Display all categories & posts if hash is here
   var hash = window.location.hash.substr(1);
   if(hash) {
     $('.remove.'+hash).each( function (){
       $(this).removeClass('remove');
     })
   }
+
+  $(document).on('click', '.page__taxonomy-archives', function() {
+
+    // Hide remove
+    $('.archive__subtitle:not(.remove), .list__item:not(.remove)').each( function (){
+      $(this).addClass('remove');
+    })
+
+
+    $('.remove.'+$(this).attr('id').replace('get-', '')).each( function (){
+      $(this).removeClass('remove');
+    })
+    adjustFeatureWidth();
+  })
+
   adjustFeatureWidth();
 
   // Sticky footer

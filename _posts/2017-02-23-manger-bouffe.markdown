@@ -12,14 +12,7 @@ categories:
 post_format:
 - Vidéo
 tags:
-- à manger
-- à manger avec
-- à manger avec bébé
-- à manger bébé
-- à manger en pâte à modeler
 - a manger et a boire
-- a manger pour tous
-- à manger qui parle
 - blanc manger coco jeu
 - comment manger équilibré
 - j'ai bien manger

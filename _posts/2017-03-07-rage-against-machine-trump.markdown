@@ -10,8 +10,7 @@ wordpress_id: 1438493794
 categories:
 - Musique
 tags:
-- Keywords Search Volume CPC AdWords Competition rage against the machine killing
-  in the name
+- killing in the name
 - Rage Against The Machine
 ---
 
