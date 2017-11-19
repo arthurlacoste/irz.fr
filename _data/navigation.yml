@@ -11,14 +11,16 @@ main:
 
 archives:
   - title: Archives
-    url: /archives/
     children:
+      - title: "Par années"
+        url: "/archives/"
       - title: "Par tags"
-        url: "/tags/"
+        url: "/tags/#le-guide-du-radin"
       - title: "Par catégories"
-        url: "/categories/"
+        url: "/categories/#consommacteur"
       - title: "Sitemap"
         url: /sitemap/
+
 about:
   - title: A propos
     url: /a-propos
