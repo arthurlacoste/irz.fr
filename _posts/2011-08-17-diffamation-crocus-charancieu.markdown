@@ -33,6 +33,6 @@ Voici par exemple une critique qui n'a pas pu être considérée comme diffamato
 Concrètement, le paragraphe mettant en doute la qualité des moules (que j'ai supprimé) ne me rend pas responsable de diffamation.
 
 Je vous laisse avec une petite touche d'humour, la critique gastronomique d'un Mac Do :
-{% include video id="xcq37a" provider="dailymotion" %}
+[embed]http://www.dailymotion.com/video/x9ftvu_un-critique-gastronomique-note-le-m_fun[/embed]
 
 Source : Cour de cassation - 2ème chambre civile - 23 janvier 2003 - Pourvoi n°01-12.848 - in Critique gastronomique et diffamation, Les Annonces de la Seine, lundi 31 mars 2003, n°22 p.13

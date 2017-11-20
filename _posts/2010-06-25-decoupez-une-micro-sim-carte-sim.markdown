@@ -19,4 +19,4 @@ Je l'ai fait et ça marche. Le mieux, c'est quand même d'avoir un modèle de Mi
 
 Et si vous voyez le massacre que j'ai fait (photo ci-dessus) vous pouvez faire mieux et plus rapidement avec un peu de bon matos.
 
-{% include video id="xcq37a" provider="dailymotion" %}
+[embed]http://www.dailymotion.com/video/xdt77c_faire-une-microsim-a-partir-d-une-s_tech[/embed]
