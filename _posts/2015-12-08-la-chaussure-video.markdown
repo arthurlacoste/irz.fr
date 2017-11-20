@@ -2,6 +2,7 @@
 author: art
 comments: true
 date: 2015-12-08 07:05:04+00:00
+last_modified_at:
 layout: post
 redirect_from: la-chaussure-video/
 slug: la-chaussure-video
@@ -9,8 +10,7 @@ title: La chaussure
 wordpress_id: 448
 categories:
 - Consommacteur
-- Consommer
-- Liveblog
+- Video
 post_format:
 - Vidéo
 ---

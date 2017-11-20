@@ -129,7 +129,7 @@ Voici les différents thème que le site à arboré tout au long de ses deux ann
 
 
 
-[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](https://irz.fr/), [Mac OS](http://irz.fr/category/apple), & [Tutoriel](https://irz.fr/).
+[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](https://irz.fr/), [Mac OS](http://irz.fr/categories/#apple), & [Tutoriel](https://irz.fr/).
 
 Pourtant je ne me suis pas cantonné à ces seuls catégories, car aujourd'hui je ne saurai pas dire combien il y a exactement de catégories sur le site. Même si j'ai [une belle page](http://irz.fr/archives) qui liste l'ensemble des articles par catégorie. Faudrait que je fasse du tri...
 

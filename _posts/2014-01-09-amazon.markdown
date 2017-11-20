@@ -16,7 +16,7 @@ tags:
 - Un consommateur averti en vaut deux
 ---
 
-Vous savez, internet permet de mettre sur un même pied d'égalité une multinationale et une petite entreprise familiale. D'aspect, la vitrine d'un site de e-commerce peut vous donner l'impression qu'une entreprise au bord de la faillite est en réalité prospère. 
+Vous savez, internet permet de mettre sur un même pied d'égalité une multinationale et une petite entreprise familiale. D'aspect, la vitrine d'un site de e-commerce peut vous donner l'impression qu'une entreprise au bord de la faillite est en réalité prospère.
 
 Certaines entreprises, tel [Archiduchesse](http://archiduchesse.com/), jouent la carte de la transparence à travers un blog, un compte-rendu de chiffre d'affaire du mois et même des photos, illustrant la vie quotidienne de e-commerçant.
 
@@ -32,12 +32,10 @@ Ce qui est intéressant dans ce témoignage, c'est que l'on trouve un parallèle
 
 Ce reportage infiltré de France 5 nous montre bien le malaise des managers qui évitent de parler des objectifs quotidiens des employés face à la caméra :
 
-{% include video id="OBWF5dRoU5w" provider="youtube" %}
+{% include video id="irz-amazon-a-sevrey" provider="archive.org" %}
 
 **L'intérêt des clients**
 
 Ce qui intéresse les clients lorsqu'ils achète sur un site de e-commerce, c'est un service de qualité : une livraison rapide (et gratuite si possible), un produit irréprochable, et un payement sécurisé. Alors parfois on a du mal à se rendre compte, mais toutes ses exigences ont des conséquence en terme de stratégie logistique. Amazon utilise la technique de management des 5S pour organiser le travail de ses ouvriers, et se sert des nouvelles technologies pour connaître en temps réel la position GPS de ses employés.
 
 Cet article ne va pas m'empêcher de dormir, mais nous éclaire sur les méthodologies employées par les plus grands acteurs du domaine du e-commerce.
-
-

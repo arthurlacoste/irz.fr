@@ -19,11 +19,11 @@ tags:
 - trends
 ---
 
-Je vous voit déjà, vous, détracteurs de ces petites bandes dessinées un peu débiles qui envahissent depuis quelques semaines nos pages facebook, vous insurger à propos du titre de mon article. Je rigole déjà. 
+Je vous voit déjà, vous, détracteurs de ces petites bandes dessinées un peu débiles qui envahissent depuis quelques semaines nos pages facebook, vous insurger à propos du titre de mon article. Je rigole déjà.
 
 Bon, si vous vivez dans une grotte et que vous n’avez pas d’amis, ni de Facebook, je vais tout d’abord vous expliquer. En soi, bitstrips n’est pas un jeu. C’est un **assistant de création** de « bandes dessinées » en ligne (entre guillemets parce que je ne sait pas si on peu vraiment appeler ça de la BD), qui existe à la base depuis 2008 sous la forme d’un site internet. Il à récemment trouvé son succès en étant déployé sur les plateformes mobiles iOS et Android, lui conférant des propriétés addictives.
 
-Alors c’est loin d’être parfait, souvent c’est même des privates jokes entre potes, mais franchement, est-ce si gênant que ça d’être un peu **mainstream** de temps en temps ? Je met sur un piédestal l’art, et moi-même dessine quelques [conneries](http://irz.fr/category/dessins), mais ce n’est pas quelques dessins générés automatiquement qui vont faire de la concurrence à [Boulet](http://www.bouletcorp.com/) et ses amis !
+Alors c’est loin d’être parfait, souvent c’est même des privates jokes entre potes, mais franchement, est-ce si gênant que ça d’être un peu **mainstream** de temps en temps ? Je met sur un piédestal l’art, et moi-même dessine quelques [conneries](http://irz.fr/categories/#dessins), mais ce n’est pas quelques dessins générés automatiquement qui vont faire de la concurrence à [Boulet](http://www.bouletcorp.com/) et ses amis !
 
 Alors effectivement, on peut se dire que c’est une manière comme une autre d’animer votre vie un peu morne, devant votre écran, pour passer le temps et en attendant de trouver une meilleure application, toute aussi chronophage.
 
@@ -50,6 +50,3 @@ Le principe qui à vraiment servi à l'application - et au renouveau - du concep
 
 
 Ce que l'on peut constater, c'est que c'est un effet de mode comme un autre, une tendance qui va (je pense) progressivement s'estomper.
-
-
-

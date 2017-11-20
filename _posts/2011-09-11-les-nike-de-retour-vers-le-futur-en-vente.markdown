@@ -29,11 +29,9 @@ Les bénéfices seront reversés à la fondation Michael J. Fox, qui participe �
 
 Nike nous a concocté un mini métrage mettant en scène Dr. Emmet "Doc" Brown (alias Christopher Lloyd) dans un Nike Shop :
 
-{% include video id="3yiSdjwi_bg" provider="youtube" %}
+{% include video id="irz-nike-mag-commercial" provider="archive.org" %}
 
 La présentation de Nike :
-
-{% include video id="mrncemuUbC8" provider="youtube" %}
 
 {% include video id="PZ6SkdkXjAQ" provider="youtube" %}
 

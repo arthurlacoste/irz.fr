@@ -31,7 +31,7 @@ IRZ était au départ un énième blog. Je voulais me lâcher, en parlant de tou
 
 
 
-IRZ suit depuis le départ une ligne éditoriale chaotique, axée sur ce qui m'intéresse de manière générale : les nouvelles technologies, le e-commerce, le lifestyle, le développement, etc… Le tout étant découpé en deux. D'un côté il y a les articles tout publics, présents en page d'accueil, et d'un autre côté il y a tout les articles un peu plus techniques, un peu plus geeks, comprenant les [tutoriels](https://irz.fr/tutoriels-informatique) et autres élucubrations prosaïque.
+IRZ suit depuis le départ une ligne éditoriale chaotique, axée sur ce qui m'intéresse de manière générale : les nouvelles technologies, le e-commerce, le lifestyle, le développement, etc… Le tout étant découpé en deux. D'un côté il y a les articles tout publics, présents en page d'accueil, et d'un autre côté il y a tout les articles un peu plus techniques, un peu plus geeks, comprenant les [tutoriels](https://irz.fr/categories/#tutoriel) et autres élucubrations prosaïque.
 
 
 
@@ -104,7 +104,3 @@ Toujours en dofollow, les commentateurs continuent d'affluer sur le site, venant
 
 
 En conclusion, 2014 est une année qui réserve pleins de surprises, avec l'espoir de tenir le cap initié en 2013.
-
-
-
-

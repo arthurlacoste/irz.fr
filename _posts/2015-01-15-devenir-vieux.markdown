@@ -23,7 +23,7 @@ Mais je pense qu’on est déjà allé un peu trop loin. Avant ça, qu’est ce 
 
 Assis au fond d'un canapé, la télécommande à portée de main, un pack de bière dans une glacière à côté, ça n'a pas l'air si méchant. Mais devoir tout acheter en king size parce que je n'arrive plus rien à lire, ça, ça me fait peur. Ces téléphones fixes aux touches gigantesques m'ont toujours effrayé à vrai dire. Mais d'ailleurs, le téléphone fixe, ça n'existe plus ! Si ?
 
-J’aimerai être un vieux qui a la pleine capacité de son corps, plein de vitalité et de projets. Du genre un peu fougueux, qui aime découvrir de nouveaux territoires. Mais on vieillit tous d’une manière différente. Ce qui est sûr, c’est que je n’ai pas envie de devoir finir mes jours cloîtré chez moi, à devoir utiliser un monte-escalier car je n’ai plus la force de gravir moi-même les marches de ma maison… D’ailleurs, si vous voulez, il y a un livre blanc à ce propos sur le site d’[encasa-experts.com](http://www.encasa-experts.com/fr/).
+J’aimerai être un vieux qui a la pleine capacité de son corps, plein de vitalité et de projets. Du genre un peu fougueux, qui aime découvrir de nouveaux territoires. Mais on vieillit tous d’une manière différente. Ce qui est sûr, c’est que je n’ai pas envie de devoir finir mes jours cloîtré chez moi, à devoir utiliser un monte-escalier car je n’ai plus la force de gravir moi-même les marches de ma maison… 
 
 Autre chose que je redoute en vieillissant : ne plus pouvoir dresser le chapiteau ! En effet, continuer à avoir une libido tout en n’étant plus capable de dresser son matériel a de quoi faire peur ! Heureusement que le viagra existe.
 

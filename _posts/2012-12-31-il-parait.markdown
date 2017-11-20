@@ -11,16 +11,16 @@ categories:
 - Dessins
 post_format:
 - Galerie
+header:
+  image: https://static.irz.fr/2012/12/georges-obsédés-white-blur-1024x444.png
 ---
 
-[![georges-obsédés-white-blur](https://static.irz.fr/2012/12/georges-obsédés-white-blur-1024x444.png)](https://static.irz.fr/2012/12/georges-obsédés-white-blur.png)
-
-**Il parait que les hommes sont des obsédés. ** 
+**Il parait que les hommes sont des obsédés.**
 
 Quand on prend un encrage de 2006, qu'on met un petit coup d'aquarelle dessus, et qu'on passe tout ça sur Photoshop, ça donne ça.
 
 Pour la petite histoire, scanner une aquarelle est toujours délicat, je ne suis pas un pro, et mes aquarelles gondolent. Il faut pas mal d'astuce pour virer ça sur mon logiciel de retouche photo préféré sans trop saturer l'aquarelle... Voilà ce que ça donne sans retouche (sur une case) :
 
-![georges-obsédés-scan-original](https://static.irz.fr/2012/12/georges-obsédés-scan-original.png)
+![georges-obsédés-scan-original](https://static.irz.fr/2012/12/georges-obsédés-scan-original.png){: .align-center}
 
 J'ai toujours adoré dessiner dans ce style, qui paraît simpliste certes, mais au final, il n'est pas si facile de faire exprimer des émotions lorsque les personnages comportent des yeux sans pupille. C'est une contrainte qui ne m'a toutefois pas parue insurmontable.

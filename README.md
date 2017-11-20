@@ -108,6 +108,14 @@ header:
   cta_url: "https://unsplash.com"
 ```
 
+Il est aussi possible d'ajouter une image sans qu'il n'y ai le titre et résumé integré :
+
+```md
+header:
+  image: /assets/images/unsplash-image-6.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+```
+
 [En savoir plus sur les overlays](https://mmistakes.github.io/minimal-mistakes/layout/uncategorized/layout-header-overlay-image/).
 
 ### Navigation et TDM

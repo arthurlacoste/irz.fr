@@ -20,6 +20,8 @@ tags:
 - Kraken
 - Paymium
 - trading
+header:
+  image: https://ecrire.irz.fr/wp-content/uploads/2014/06/kraken-bitcoin.png
 ---
 
 Internet est une jungle ou les sites d’entreprise et de e-commerce se multiplient aussi vite que des petits lapins sur un bateau. Et c’est peu dire ! La série d’article « [J’ai testé pour vous](https://irz.fr/recherche?q=jai-teste-pour-vous) » permet d’évaluer le site en lui même, le design, l’ergonomie, ainsi que le service de l’entreprise en question en se faisant livrer, ou bien en allant directement sur le terrain.

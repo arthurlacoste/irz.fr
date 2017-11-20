@@ -9,6 +9,7 @@
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "dailymotion" %}
   <iframe src="https://www.dailymotion.com/embed/video/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+{% elsif video_provider == "archive.org" %}
+  <iframe src="https://archive.org/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% endif %}
-
 </div>

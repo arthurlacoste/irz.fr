@@ -21,7 +21,7 @@ Voici un petit court métrage que j'ai fait pour la Saint Valentin.
 
 "Tant qu'on a du temps peut importe nos plans, c'est toi que j'attends."
 
-C'est pas grave mon vieux (ou ma vieille). J'ai la solution. Comme chaque année, le pire jour de l'année pour les âmes célibataires se rapproche alors que Février avance. Cette année, comble de malchance, [la fête des amoureux](https://irz.fr/vanne-de-saint-valentin) tombe un samedi.<!-- more --> Autrement dit, tous les cœurs solitaires vont être abandonnés par leurs amis en couple et laissés seuls sur le bas côté du chemin, comme un chien devenu gâteux qu'on attache à un poteau sur la route des vacances pour ne jamais revenir.
+C'est pas grave mon vieux (ou ma vieille). J'ai la solution. Comme chaque année, le pire jour de l'année pour les âmes célibataires se rapproche alors que Février avance. Cette année, comble de malchance, [la fête des amoureux](https://irz.fr/tag-saint-valentin) tombe un samedi.<!-- more --> Autrement dit, tous les cœurs solitaires vont être abandonnés par leurs amis en couple et laissés seuls sur le bas côté du chemin, comme un chien devenu gâteux qu'on attache à un poteau sur la route des vacances pour ne jamais revenir.
 
 Bon, ok, j'exagère peut-être un peu, n'empêche que c'est à chaque fois pareil, les célibataires se retrouvent isolés. Alors quand c'est un mercredi soir, on peut encore s'en sortir en se réfugiant devant la télévision, mais alors un samedi soir, alors là je dis non ! Voici quelques idées d'occupations pour vous si vous vous retrouvez comme une vieille chaussette coincée derrière un radiateur depuis des années, loin de votre autre moitié. Allez, j'arrête les métaphores maintenant.
 

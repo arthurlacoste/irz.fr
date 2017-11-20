@@ -63,8 +63,6 @@ Bien entendu, vous pouvez créer un truc plus chiadé, avec une vitrine + un sit
 
 C'est bête à dire, mais quelqu'un qui écrit aime être lu. Comme quelqu'un qui chante aime être entendu (et qu'on lui dise qu'il a une belle voix), comme celui qui dessine aime être admiré. En réalité, n'importe qui peut acheter son bouquin "Le php/mysql pour les nuls" et refaire le monde. [Créer un site gratuit](http://siteweb.1and1.fr/creer-un-site-gratuit), c'est chronophage, mais créer une page html, c'est tellement simple : ça commence par <html>, et ça fini par </html> !
 
-Et si jamais vous avez un budget, sachez que [je monte des sites pour passer mon temps](http://arthurlacoste.com/mon-offre/)..
+Et si jamais vous avez un budget, sachez que [je monte des sites pour passer mon temps](https://arthurlacoste.com/).
 
 _Bonus :_ Le fait d'avoir un site, ça veut pas dire que je m'y connait en ordinateurs, et que je vais vous aider réinstaller Windows. Ceci est dit !
-
-
