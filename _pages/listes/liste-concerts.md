@@ -4,6 +4,8 @@ permalink: /liste-concerts/
 layout: single
 ---
 
+(Pas très à jour de ces dernières années)
+
 -   26/04/2014 (Lyon) : Stromae
 -   18/03/2014 (Grenoble) : Patrice
 -   12/09/2013 (Grenoble) : Mû, Naaman

@@ -44,3 +44,15 @@ about:
         url: /qui-suis-je/
       - title: "Me contacter"
         url: /contact/
+
+listes:
+  - title: Dev
+    children:
+      - title: "Libraires"
+        url: "/liste-lib/"
+  - title: "Divers"
+    children:
+      - title: "Appareils Apple"
+        url: /liste-apple/
+      - title: "Me contacter"
+        url: /liste-concerts/

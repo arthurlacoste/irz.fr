@@ -74,18 +74,24 @@ $(document).ready( function () {
     })
   }
 
+  // On click on tag / cat on archives pages, display the good pages
   $(document).on('click', '.page__taxonomy-archives', function() {
+
+    var hash = $(this).attr('id').replace('get-', '');
 
     // Hide remove
     $('.archive__subtitle:not(.remove), .list__item:not(.remove)').each( function (){
       $(this).addClass('remove');
     })
 
-
-    $('.remove.'+$(this).attr('id').replace('get-', '')).each( function (){
+    // Display posts
+    $('.remove.'+hash).each( function (){
       $(this).removeClass('remove');
     })
+
+    location.hash = "#" + hash;
     adjustFeatureWidth();
+
   })
 
   adjustFeatureWidth();

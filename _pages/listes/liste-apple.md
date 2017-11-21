@@ -4,13 +4,13 @@ permalink: /liste-apple/
 layout: single
 ---
 
-Juste pour que je prenne conscience d'à quel point je suis un Apple
-Addict. Le produits en gras sont ceux qui sont encore en cours d'usage.
+Juste pour que je prenne conscience d'à quel point [je suis un Apple
+Addict](https://irz.fr/le-jour-ou-jai-lachement-achete-un-iphone-5s). Les produits en gras sont ceux qui sont encore en cours d'usage.
 
 -   **Airport Express 1G**
 
 
--   **Time Capsule**
+-    Time Capsule (mais ou es-tu toi ?)
 
 
 -   **Apple TV 3G**
