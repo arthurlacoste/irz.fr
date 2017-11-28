@@ -216,7 +216,7 @@ bundle exec jekyll serve --limit_posts 15 --verbose true --watch
 
 # Déploiement
 
-Pour le déploiement Il suffit de disposer d'un compte Github, puis de créer dépôt. Après avoir mis l'ensemble de vos fichiers sur GitHub (avec GitHub Destktop, même si votre connaissance de Git est faible, c'est très intuitif), allez dans "Settings" sur votre dépôt GitHub en ligne, et allez dans la section `GitHub Pages`. Sélectionnez la branche master, ainsi votre site sera en ligne sous quelques secondes.
+Pour le déploiement Il suffit de disposer d'un compte Github, puis de créer un dépôt. Après avoir mis l'ensemble de vos fichiers sur GitHub (avec GitHub Destktop, même si votre connaissance de Git est faible, c'est très intuitif), allez dans "Settings" sur votre dépôt GitHub en ligne, et allez dans la section `GitHub Pages`. Sélectionnez la branche master, ainsi votre site sera en ligne sous quelques secondes.
 
 Dans la même section, vous pouvez aussi utiliser votre propre domaine personnalisé, et utiliser les adresses suivantes en `type A` dans votre gestionnaire DNS :
 - 192.30.252.153
