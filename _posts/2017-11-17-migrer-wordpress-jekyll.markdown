@@ -1,6 +1,6 @@
 ---
 author: art
-date: 2017-11-17 08:29:46+00:00
+date: 2017-11-28 08:29:46+00:00
 layout: post
 slug: wordpress-jekyll
 title: Comment et pourquoi migrer de WordPress à Jekyll
