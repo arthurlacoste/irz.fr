@@ -48,8 +48,8 @@ about:
 listes:
   - title: Dev
     children:
-      - title: "Libraires"
-        url: "/liste-lib/"
+      - title: "Outils"
+        url: "/outils/"
   - title: "Divers"
     children:
       - title: "Appareils Apple"

@@ -18,3 +18,4 @@ sidebar:
 # Outils
 
 - [Pipsum](http://pipsum.com/), un générateur d'images aléatoire
+- [Carbon](https://carbon.now.sh/), pour transformer du code en image
