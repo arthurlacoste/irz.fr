@@ -69,9 +69,6 @@ https://github.com/richleland/pygments-css/blob/master/native.css
 .highlight .hll { background-color: #404040 }
 .highlight  { background: #202020; color: #d0d0d0;
 
-  @media (min-width: $x-large) {
-    font-size: 83%;
-  }
 }
 .highlight .c { color: #999999; font-style: italic } /* Comment */
 .highlight .err { color: #c55151; } /* Error */

@@ -1,6 +1,6 @@
 /* ==========================================================================
-   SINGLE PAGE/POST
-   ========================================================================== */
+SINGLE PAGE/POST
+========================================================================== */
 
 #main {
   @include clearfix;
@@ -10,11 +10,17 @@
   padding-left: 1em;
   padding-right: 1em;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   max-width: 100%;
   -webkit-animation-delay: 0.35s;
-          animation-delay: 0.35s;
+  animation-delay: 0.35s;
+
+  @include breakpoint($x-large) {
+    max-width: 1350px;
+  }
 }
+
+
 
 .page {
   @include breakpoint($large) {
@@ -76,7 +82,7 @@
   p, li, dl {
     font-size: 1em;
     @media (min-width: $x-large) {
-      font-size: 1.7vw;
+      //font-size: 1.7vw;
     }
   }
 
@@ -132,9 +138,9 @@
   margin-bottom: 2em;
   @include clearfix;
   -webkit-animation: $intro-transition;
-          animation: $intro-transition;
+  animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
+  animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
@@ -145,9 +151,9 @@
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: $intro-transition;
-            animation: $intro-transition;
+    animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
-            animation-delay: 0.25s;
+    animation-delay: 0.25s;
 
     a {
       color: #fff;
@@ -216,8 +222,8 @@
 }
 
 /*
-   Social sharing
-   ========================================================================== */
+Social sharing
+========================================================================== */
 
 .page__share {
   margin-top: 2em;
@@ -246,8 +252,8 @@
 
 
 /*
-   Page meta
-   ========================================================================== */
+Page meta
+========================================================================== */
 
 .page__meta {
   margin-top: 0px;
@@ -272,8 +278,8 @@
 
 
 /*
-   Page taxonomy
-   ========================================================================== */
+Page taxonomy
+========================================================================== */
 
 .page__taxonomy {
   .sep {
@@ -320,8 +326,8 @@
 }
 
 /*
-   Comments
-   ========================================================================== */
+Comments
+========================================================================== */
 
 .page__comments {
   float: left;
@@ -421,8 +427,8 @@
 
 
 /*
-   Related
-   ========================================================================== */
+Related
+========================================================================== */
 
 .page__related {
   @include clearfix();
