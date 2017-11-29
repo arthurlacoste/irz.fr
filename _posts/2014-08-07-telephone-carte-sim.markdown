@@ -30,10 +30,8 @@ Si le téléphone n'est dans aucune des 2 listes, il y a deux possibilité :
 
 
 
-  * le téléphone utilise une carte mini-sim (et la liste n'est pas détaillé dans cet article car il y a des centaines, voir des milliers de téléphones possédant la "vieille" norme mini-sim)
-
-
-  * le téléphone en question à été oublié (ou est tout nouveau sur la marché)
+* le téléphone utilise une carte mini-sim (et la liste n'est pas détaillé dans cet article car il y a des centaines, voir des milliers de téléphones possédant la "vieille" norme mini-sim)
+* le téléphone en question à été oublié (ou est tout nouveau sur la marché)
 
 
 
@@ -57,79 +55,31 @@ La nano sim est la plus récente et la plus petite des cartes sim, c'est donc po
 
 
 
-  * Apple iPad Air
-
-
-  * Apple iPad mini
-
-
-  * Apple iPad mini avec écran Retina
-
-
-  * Apple iPhone 5
-
-
-  * Apple iPhone 5C
-
-
-  * Apple iPhone 5S
-
-
-  * Apple iPhone 6
-
-
-  * Apple iPhone 6 Plus
-
-
-  * Apple iPhone 6S
-
-
-  * Apple iPhone 6S Plus
-
-
-  * Apple iPhone 7
-
-
-  * Asus Padfone Infinity
-
-
-  * Huawei Mate 9
-
-
-  * HTC Desire 610
-
-
-  * HTC One M8
-
-
-  * Lenovo Vibe P1
-
-
-  * Lenovo Moto Z Play
-
-
-  * Motorola Moto X
-
-
-  * Motorola Moto X Play
-
-
-  * Nokia Lumia 735
-
-
-  * Nokia Lumia 830
-
-
-  * Nokia Lumia 930
-
-
-  * Nokia Lumia 1520
-
-
-  * Samsung Galaxy S6
-
-
-  * Samsung Galaxy S7
+* Apple iPad Air
+* Apple iPad mini
+* Apple iPad mini avec écran Retina
+* Apple iPhone 5
+* Apple iPhone 5C
+* Apple iPhone 5S
+* Apple iPhone 6
+* Apple iPhone 6 Plus
+* Apple iPhone 6S
+* Apple iPhone 6S Plus
+* Apple iPhone 7
+* Asus Padfone Infinity
+* Huawei Mate 9
+* HTC Desire 610
+* HTC One M8
+* Lenovo Vibe P1
+* Lenovo Moto Z Play
+* Motorola Moto X
+* Motorola Moto X Play
+* Nokia Lumia 735
+* Nokia Lumia 830
+* Nokia Lumia 930
+* Nokia Lumia 1520
+* Samsung Galaxy S6
+* Samsung Galaxy S7
 
 
 
@@ -143,84 +93,32 @@ La nano sim est la plus récente et la plus petite des cartes sim, c'est donc po
 
 
 
-
-
-  * Apple iPad
-
-
-  * Apple iPad 2
-
-
-  * Apple iPad 3e G
-
-
-  * Apple iPad 4e G
-
-
-  * Apple iPhone 4
-
-
-  * Apple iPhone 4S
-
-
-  * HTC One S
-
-
-  * HTC One X
-
-
-  * HTC Windows Phone 8S
-
-
-  * LG G3 F400K
-
-
-  * Motorola RAZR
-
-
-  * Motorola Motoluxe
-
-
-  * Motorola RAZR Maxx
-
-
-  * Nokia Lumia 610
-
-
-  * Nokia Lumia 800
-
-
-  * Nokia Lumia 900
-
-
-  * Samsung Galaxy S3
-
-
-  * Samsung Galaxy S4
-
-
-  * Samsung Galaxy S5
-
-
-  * Samsung Galaxy Note 2
-
-
-  * Samsung Galaxy Note 3
-
-
-  * Samsung Galaxy Note 4
-
-
-  * Sony Xperia Ion
-
-
-  * Sony Xperia S
-
-
-  * Sony Xperia Z
-
-
-  * Xiaomi Mi4
+* Apple iPad
+* Apple iPad 2
+* Apple iPad 3e G
+* Apple iPad 4e G
+* Apple iPhone 4
+* Apple iPhone 4S
+* HTC One S
+* HTC One X
+* HTC Windows Phone 8S
+* LG G3 F400K
+* Motorola RAZR
+* Motorola Motoluxe
+* Motorola RAZR Maxx
+* Nokia Lumia 610
+* Nokia Lumia 800
+* Nokia Lumia 900
+* Samsung Galaxy S3
+* Samsung Galaxy S4
+* Samsung Galaxy S5
+* Samsung Galaxy Note 2
+* Samsung Galaxy Note 3
+* Samsung Galaxy Note 4
+* Sony Xperia Ion
+* Sony Xperia S
+* Sony Xperia Z
+* Xiaomi Mi4
 
 
 
