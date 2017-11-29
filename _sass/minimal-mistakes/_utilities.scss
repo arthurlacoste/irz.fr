@@ -133,20 +133,29 @@ body:hover .visually-hidden button {
 
   @include breakpoint($small) {
     float: left;
-    margin-right: 1em;
+    display: inline-block;
+    max-width: 450px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  @include breakpoint($x-large) {
+    margin-left: 25vw;
   }
 }
 
 /* image align right */
 
 .align-right {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 
   @include breakpoint($small) {
     float: right;
-    margin-left: 1em;
+    display: inline-block;
+    max-width: 450px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  @include breakpoint($x-large) {
+    margin-right: 25vw;
   }
 }
 
@@ -356,7 +365,7 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .sticky {
-  @include breakpoint($large) {
+  @include breakpoint(1080px) {
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;

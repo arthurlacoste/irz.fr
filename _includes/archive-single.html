@@ -27,7 +27,9 @@
 
       <h2 class="archive__item-title" itemprop="headline">
         <!-- addbyme ⚠️ add source support -->
+        <header>
         {% if title %}<h1 class="post__title feature-title" itemprop="headline">{% include helpers/generate-feature-title.html title=title %}</h1>{% endif %}
+        </header>
       </h2>
       {% if post.read_time %}
         <p class="page__meta__title"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>

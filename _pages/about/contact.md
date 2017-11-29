@@ -6,7 +6,9 @@ sidebar:
   nav: "about"
 ---
 
+<div class="page__comments">
 {% include contact-form.html %}
+</div>
 
 ## Social
 

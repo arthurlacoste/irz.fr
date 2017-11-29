@@ -3,15 +3,15 @@ layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+{% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
+{% include page__hero_video.html %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
+{% unless paginator %}
+{% include breadcrumbs.html %}
+{% endunless %}
 {% endif %}
 
 <div id="main" role="main">
@@ -19,29 +19,31 @@ layout: default
   {% include base_path %}
   {% include group-by-array collection=site.posts field="tags" %}
 
-<div class="sidebar sticky">
-  {% if page.sidebar.nav %}
+  <div class="sidebar sticky">
+    {% if page.sidebar.nav %}
     {% include nav_list nav=page.sidebar.nav %}
-  {% endif %}
-  <div class="page__meta">
-    <p class="page__taxonomy">
-      <span itemprop="keywords">
-  {% for tag in group_names %}
-    {% assign tag_slug = tag | slugify %}
-    {% assign posts = group_items[forloop.index0] %}
-    <a id="get-{{ tag_slug }}" href="#{{ tag_slug }}" class="page__taxonomy-archives {{ tag_slug }}">{{ tag }}</a>
-  {% endfor %}
-      </span>
-    </p>
+    {% endif %}
+    <div class="page__meta">
+      <p class="page__taxonomy">
+        <span itemprop="keywords">
+          {% for tag in group_names %}
+          {% assign tag_slug = tag | slugify %}
+          {% assign posts = group_items[forloop.index0] %}
+          <a id="get-{{ tag_slug }}" href="#{{ tag_slug }}" class="page__taxonomy-archives {{ tag_slug }}">{{ tag }}</a>
+          {% endfor %}
+        </span>
+      </p>
+    </div>
   </div>
-</div>
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="page__inner-wrap">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      {% if page.title %}<h1 class="post__title feature-title" itemprop="headline">{% include helpers/generate-feature-title.html title=page.title %}</h1>{% endif %}
-    {% endunless %}
-    {{ content }}
-  </div>
-</article>
+      <header>
+        {% unless page.header.overlay_color or page.header.overlay_image %}
+        {% if page.title %}<h1 class="post__title feature-title" itemprop="headline">{% include helpers/generate-feature-title.html title=page.title %}</h1>{% endif %}
+        {% endunless %}
+        {{ content }}
+      </header>
+    </div>
+  </article>
 </div>

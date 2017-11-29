@@ -7,22 +7,28 @@ SINGLE PAGE/POST
   margin-left: auto;
   margin-top: 2em;
   margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
   -webkit-animation-delay: 0.35s;
   animation-delay: 0.35s;
-
+/*
   @include breakpoint($x-large) {
     max-width: 1350px;
   }
+  */
 }
 
 
-
 .page {
+  //position: absolute;
+  .page__inner-wrap header {
+
+  }
+}
+  /*
+.page {
+
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
@@ -52,7 +58,7 @@ SINGLE PAGE/POST
       clear: both;
     }
   }
-}
+}*/
 
 .page__title {
   margin-top: 0;
@@ -79,16 +85,28 @@ SINGLE PAGE/POST
     border-bottom: 1px solid $border-color;
   }
 
+  p, li, dl, h1, h2, h3, h4, h5, h6 {
+    max-width: 740px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   p, li, dl {
-    font-size: 1em;
-    @media (min-width: $x-large) {
-      //font-size: 1.7vw;
-    }
+    font-size: 20px;
+    line-height: 1.6;
+  }
+
+  ul, ol {
+    padding-left: 0px;
+    margin-bottom: 25px;
+    list-style-position: inside;
   }
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    //margin: 0 0 $indent-var;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -277,6 +295,15 @@ Page meta
 }
 
 
+.page__meta, .pagination, .page__comments, .page__inner-wrap li,
+.page__inner-wrap p, .page__inner-wrap header {
+  max-width: 740px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*
 Page taxonomy
 ========================================================================== */
@@ -330,11 +357,7 @@ Comments
 ========================================================================== */
 
 .page__comments {
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
   width: 100%;
-  clear: both;
 }
 
 .page__comments-title {

@@ -1,4 +1,4 @@
-@media (max-width: $large){
+@media (max-width: $x-large){
   .mar::before {
     content: " (";
   }
@@ -7,7 +7,7 @@
   }
 }
 
-@media screen and (min-width: $large) {
+@media screen and (min-width: $x-large) {
   .ar::before {
     content: "*";
   }
@@ -24,30 +24,20 @@
 }
 
 .mar {
-  @media (min-width: $large) {
+  @media (min-width: $x-large) {
     font-size: 0.82353em;
     font-style: italic;
     position: absolute;
-    left: 77%;
-    right: 1em;
-    margin-left: 170px;
-    max-width: 200px;
+    /* left: 77%;
+    right: 1em;*/
+
     text-align: left;
     color: #d4d4d4;
     width: 25%;
-  }
-  @media (min-width: 1050px) {
-    left: 76%;
-    margin-left: 190px;
-  }
-  @media (min-width: 1200px) {
-    left: 75%;
-    margin-left: 210px;
-  }
-  @media (min-width: $x-large) {
+
     left: 63%;
     width: 30%;
-    margin-left: 18em;
-    max-width: 270px;
+    margin-left: 80px;
+    max-width: 200px;
   }
 }

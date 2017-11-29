@@ -30,6 +30,12 @@
     }
 
     &.sticky {
+      @include breakpoint('1079px') {
+        padding-left: 10px;
+      }
+      @include breakpoint($x-large) {
+        padding-left: 50px;
+      }
       overflow-y: auto;
       overflow-x: hidden;
       /* calculate height of nav list */
