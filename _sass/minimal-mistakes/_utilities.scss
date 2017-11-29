@@ -159,6 +159,22 @@ body:hover .visually-hidden button {
   }
 }
 
+p {
+  .align-right {
+    margin-left: 50px;
+    margin-right: 0px;
+    @include breakpoint($x-large) {
+      margin-right: 100px;
+    }
+  }
+  .align-left {
+    margin-left: 0px;
+    margin-right: 50px;
+    @include breakpoint($x-large) {
+      margin-left: 100px;
+    }
+  }
+}
 /* image align center */
 
 .align-center {

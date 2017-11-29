@@ -24,7 +24,9 @@ tags:
 - twitter
 ---
 
-[![](https://static.irz.fr/2010/03/magdinier-300x264.png)](https://static.irz.fr/2010/03/magdinier.png)Chef de projet informatique, Martin Magdinier a fait murir son projet pendant ses années d'études. Créatif, il a eu de multiples idées. Mais aujourd'hui, il se concentre exclusivement sur [Objectif-Neige.com](http://www.objectif-neige.com).
+[![](https://static.irz.fr/2010/03/magdinier-300x264.png)](https://static.irz.fr/2010/03/magdinier.png)
+
+Chef de projet informatique, Martin Magdinier a fait murir son projet pendant ses années d'études. Créatif, il a eu de multiples idées. Mais aujourd'hui, il se concentre exclusivement sur [Objectif-Neige.com](http://www.objectif-neige.com).
 
 Objectif-Neige, c'est le premier comparateur de station de ski en ligne. Mais il ne s'arrête pas là. Poussant le concept à son paroxysme, il a enrichi ses pages des webcams et des tarifs des stations, de la météo, des possibilités de co-voiturage, bref  "tout ce qu'il faut pour pouvoir faire une bonne session de ride les week-end" comme il le dit si bien.
 
@@ -39,8 +41,9 @@ Aujourd'hui faire du web ne coûte pas très cher, lancer un site non plus. C'es
 Mais cela ne veut pas dire qu'il ne travaille pas, il a en effet une charge de travail de 8 heures par semaine en moyenne. Concilier un poste de salarié avec ses activités entrepreneuriales, ça veut aussi souvent dire passer des week-ends à s'en occuper.
 
 
-### [![](https://static.irz.fr/2010/03/objectif-neige-300x294.png)](https://static.irz.fr/2010/03/objectif-neige.png)Un flocon de neige qui s'envole
+### Un flocon de neige qui s'envole
 
+[![](https://static.irz.fr/2010/03/objectif-neige-300x294.png)](https://static.irz.fr/2010/03/objectif-neige.png)
 
 L'auto-entreprise, il connait bien. Quelques clics, et un numéro siret arrive dans votre boite aux lettres quelques semaines plus tard.
 
@@ -61,5 +64,3 @@ Le buzz du moment qu'il conseille, c'est [celui-là](http://www.youtube.com/watc
 
 
 Rencontré chez lui, Martin Magdinier m'a reçu en toute simplicité à son domicile. Voici son interview intégrale, à partir de laquelle l'article à été rédigé.
-
-
