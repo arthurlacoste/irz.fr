@@ -12,7 +12,7 @@ lang: fr
 header:
   overlay_image: https://static.irz.fr/2017/11/adventure-times.gif
   overlay_filter: 0.5
-  caption: "Photo credit: **Adventure Time**"
+  caption: "Crédit photo : **Adventure Time**"
 ---
 
 
