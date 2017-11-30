@@ -28,6 +28,6 @@ D'ailleurs il y a quelques semaines, je me suis mis à la recherche d'une maniè
 
 Pour en revenir à nos moutons, il y a un paramètre à prendre en compte. La conservation. Certains aliments doivent être conservés hermétiquement entre la conception et la consommation. Comment, dans cette optique, fournir un conditionnement "en gros" sans altérer le produit ? Faut-il repenser l'existant ? Des contenant en verre me semblent peu envisageable, mais de grand contenant en inox : je pense à  un bac gastronorme avec un couvercle hermétique (pour ceux qui ne voit pas de quoi il s'agit, il s'agit de boite utilisé par les cuisinier professionnels pour conserver les denrées alimentaires, voir l'image ci-dessous).
 
-![ts-bacs](https://static.irz.fr/2015/11/ts-bacs.jpg)
+{% include figure image_path="https://static.irz.fr/2015/11/ts-bacs.jpg" alt="ts-bacs" class="align-center" %}
 
 Quoi qu'il en soit, je crois que l'on peut encore réfléchir à de nouvelles manière de réduire les déchets et ce en partant du début de la chaîne, du fournisseur de matière première au client, en passant par le distributeur. Le conditionnement en vrac "version 2" n'en est qu'à ses début.
