@@ -28,23 +28,10 @@ Questions du jury :
 
 
 
-	
+
   * Y'a-t-il un équivalent ailleurs ?
-
-	
   * Allez vous vous positionner sur les salons ?
-
-	
   * Quels seront les réseaux de distribution spécialisé ?
-
-	
   * Quels sont vos investisseurs potentiels ?
-
-	
   * Quels sont vos clients potentiels ?
-
-	
   * Et ce que le Cokoon se gare aussi facilement qu'un vélo ?
-
-
-

@@ -32,10 +32,8 @@ Vous vous doutez bien qu'Amazon ne propose pas ça gratuitement. Oui, ceci à un
 
 
 
-    
-  * vendeur particulier : une somme est prélevé pour chaque article vendu
 
-    
+  * vendeur particulier : une somme est prélevé pour chaque article vendu
   * vendeur pro : 39€/mois mais pas de % des ventes
 
 

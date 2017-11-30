@@ -26,7 +26,7 @@ Le projet de démonstration que nous allons faire repose sur l'utilisation de 2 
 
 
 
-    
+
   * GPIO > Résistance > Led > Terre
 
 
@@ -34,16 +34,10 @@ Le projet de démonstration que nous allons faire repose sur l'utilisation de 2 
 Détaillons tout cela :
 
 
-    
-  * GPIO : le terme désigne une broche qui va transmettre du courant. On peut choisir si elle est en mode in ou out (entrée ou sortie) et si elle transmet ou non du courant (1 ou 0). Si elle est en out & à 1, le courant est envoyé.
 
-    
-  * Résistance : dans notre démonstration, nous allons utiliser une résistance de 75Ω. Elle va permettre de stabiliser la quantité de courant circulant sur le circuit, afin d'éviter la surchauffe de celui-ci.
-
-    
-  * Led : c'est elle qui va clignoter ;)
-
-    
+  * GPIO : le terme désigne une broche qui va transmettre du courant. On peut choisir si elle est en mode in ou out (entrée ou sortie) et si elle transmet ou non du courant (1 ou 0). Si elle est en out & à 1, le courant est envoyé.  
+  * Résistance : dans notre démonstration, nous allons utiliser une résistance de 75Ω. Elle va permettre de stabiliser la quantité de courant circulant sur le circuit, afin d'éviter la surchauffe de celui-ci.  
+  * Led : c'est elle qui va clignoter ;)  
   * Terre : notre circuit va se terminer par une broche terre, nommé "ground" sur les schéma de broches.
 
 
@@ -67,7 +61,7 @@ Nous allons avoir besoin d'utiliser la librairie wiringPi, qui permet de changer
 Pour cela, nous allons mettre à jour apt-get :
 
 
-    
+
     sudo apt-get update
     sudo apt-get upgrade
 
@@ -76,7 +70,7 @@ Pour cela, nous allons mettre à jour apt-get :
 Récupérer le projet Git en question :
 
 
-    
+
     git clone git://git.drogon.net/wiringPi
 
 
@@ -84,7 +78,7 @@ Récupérer le projet Git en question :
 Une fois téléchargé, il vous reste à compiler le tout :
 
 
-    
+
     cd wiringPi
     ./build
 
@@ -93,7 +87,7 @@ Une fois téléchargé, il vous reste à compiler le tout :
 Une fois ceci effectué, vous pouvez lancer cette commande, qui vous donnera un état de chacune de vos pins.
 
 
-    
+
     gpio readall
 
 
@@ -101,7 +95,7 @@ Une fois ceci effectué, vous pouvez lancer cette commande, qui vous donnera un 
 Voici mon tableau :
 
 
-    
+
      +-----+-----+---------+------+---+---Pi 2---+---+------+---------+-----+-----+
      | BCM | wPi |   Name  | Mode | V | Physical | V | Mode | Name    | wPi | BCM |
      +-----+-----+---------+------+---+----++----+---+------+---------+-----+-----+
@@ -136,22 +130,12 @@ Voyons ensemble les différents éléments du tableau :
 
 
 
-    
-  * Physical : numérotation des pin de 1 à 40 comme nous avons vu dans précédemment.
 
-    
-  * V : quand une pin est sur 1, un signal de 3.3v est envoyé
-
-    
-  * Mode : Si le courant sort ou entre (out ou in)
-
-    
-  * Name : le nom de la pin (0v étant les pin terre/ground)
-
-    
-  * wPi : numérotation utilisé dans les commandes gpio
-
-    
+  * Physical : numérotation des pin de 1 à 40 comme nous avons vu dans précédemment.    
+  * V : quand une pin est sur 1, un signal de 3.3v est envoyé  
+  * Mode : Si le courant sort ou entre (out ou in)  
+  * Name : le nom de la pin (0v étant les pin terre/ground)  
+  * wPi : numérotation utilisé dans les commandes gpio  
   * BCM : une autre numérotation, qui date de la première version de Raspberry Pi
 
 
@@ -169,7 +153,7 @@ Ou en réel :
 Donc pour faire fonctionner notre script, nous allons ouvrir les pin GPIO 23 & 23 :
 
 
-    
+
     gpio mode 22 out
     gpio mode 23 out
 
@@ -178,7 +162,7 @@ Donc pour faire fonctionner notre script, nous allons ouvrir les pin GPIO 23 & 2
 Si votre circuit est déjà fait, c'est très bien, sinon allez-y ! Pour allumer les deux led tapez les lignes suivante :
 
 
-    
+
     gpio write 23 1
     gpio write 22 1
 
@@ -187,7 +171,7 @@ Si votre circuit est déjà fait, c'est très bien, sinon allez-y ! Pour allumer
 Ensuite nous allons créer un fichier led.sh pour écrire notre script bash :
 
 
-    
+
     sudo nano led.sh
 
 
@@ -195,9 +179,9 @@ Ensuite nous allons créer un fichier led.sh pour écrire notre script bash :
 Voici le script :
 
 
-    
+
     #!/bin/bash
-    
+
     while true
     do
             gpio write 23 1
@@ -215,7 +199,7 @@ Il est lancé dans une boucle infinie, et positionne tour à tour une des deux l
 Il se lance via la commande suivante :
 
 
-    
+
     sh led.sh
 
 
@@ -223,20 +207,20 @@ Il se lance via la commande suivante :
 Le même script en python s'écrit ainsi :
 
 
-    
+
     import os
     from time import sleep
-    
+
     import RPi.GPIO as GPIO
-    
+
     GPIO.setwarnings(False)
-    
+
     GPIO.setmode(GPIO.BOARD)
     GPIO.setup(33, GPIO.OUT)
     GPIO.output(33,True)
     GPIO.setup(31, GPIO.OUT)
     GPIO.output(31,True)
-    
+
     while True:
             GPIO.output(33,True)
             GPIO.output(31,False)
@@ -252,10 +236,8 @@ Il y a quelques différence avec le script bash :
 
 
 
-    
-  * La définition en "out" des pin est défini directement dans le script.
 
-    
+  * La définition en "out" des pin est défini directement dans le script.
   * La numérotation utilisé n'est pas la même, il s'agit de la Physical. En utilisant la fonction GPIO.setmode(GPIO.BOARD), j'ai demandé au script d'utiliser la numérotation originale de la broche. Il n'est pas possible d'utiliser la numérotation GPIO, mais vous pouvez utiliser la numérotation BCM ce qui donne la 6 et la 13.
 
 
@@ -263,13 +245,9 @@ Il y a quelques différence avec le script bash :
 Ceci est donc une base, maintenant que vous savez utiliser les led, vous pouvez reliez l'allumage d'une led à un événement :
 
 
-    
-  * led qui clignote si vous avez des visiteurs sur votre site,
 
-    
-  * vous alerter de la réception d'un mail
-
-    
+  * led qui clignote si vous avez des visiteurs sur votre site,  
+  * vous alerter de la réception d'un mail  
   * etc...
 
 

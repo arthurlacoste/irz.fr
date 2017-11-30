@@ -29,19 +29,11 @@ Voici donc les produits utilisés, ainsi que les quantités :
 
 
 
-    
+
   * Beurre de Karité, 20g
-
-    
   * Huile d'avocat, 9g (ou 10ml)
-
-    
   * Huile essentielle de Ylang Ylang, 2 gouttes
-
-    
   * Huile essentielle de ce qui te plait pour donner une bonne odeur à ta crème, 3 gouttes.
-
-    
   * un contentant (boite vide qui se ferme)
 
 

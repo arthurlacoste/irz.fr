@@ -21,29 +21,19 @@ Points positifs :
 
 
 
+ Le principe des instances, chaque instance à ses règles, sa communauté (par exemple l'instance _[witches.town](http://witches.town)_ assez connue du monde féministe) qui permet d'avoir sa communauté mais aussi d'être relié aux autres instances.
 
-    
-  * Le principe des instances, chaque instance à ses règles, sa communauté (par exemple l'instance _[witches.town](http://witches.town)_ assez connue du monde féministe) qui permet d'avoir sa communauté mais aussi d'être relié aux autres instances.
-
-    
-  * La visibilité publique instantanée, on peut toucher des personnes totalement étrangère à notre réseau sans avoir a se construire son réseau au préalable.
-
-    
-  * Une communauté investie, qui réponds rapidement, l'avantage du réseau jeune est qu'il est moins propices aux "trolls" d'internet.
-
-    
-  * La lecture des flux thématiques (avec l'utilisation de Hashtags), bien connu du monde de Twitter, permet de recenser les messages d'une même thématique dans un flux, cela ne marche que pour les mots préfixés du "#".
+* La visibilité publique instantanée, on peut toucher des personnes totalement étrangère à notre réseau sans avoir a se construire son réseau au préalable.
+* Une communauté investie, qui réponds rapidement, l'avantage du réseau jeune est qu'il est moins propices aux "trolls" d'internet.
+* La lecture des flux thématiques (avec l'utilisation de Hashtags), bien connu du monde de Twitter, permet de recenser les messages d'une même thématique dans un flux, cela ne marche que pour les mots préfixés du "#".
 
 
 
 Points négatifs :
 
 
-    
-  * Les messages privés sont des messages avec mention que l'on met en privé, il s'agit d'une alternative, mais nous avons trouvé cela décevant. Il n'est pas rare de voir des gens écrire une mention et oublier de passer le message en privé, le rendant donc visible de tous, super message "privé" donc.
-
-    
-  * La confusion entre les différents flux (celui de son instance et le global) est souvent présent, on aura souvent tendance à aller sur le global. En effet, notre instance est présente dedans et on cherche a toucher le maximum de personne et ne rien louper.
+* Les messages privés sont des messages avec mention que l'on met en privé, il s'agit d'une alternative, mais nous avons trouvé cela décevant. Il n'est pas rare de voir des gens écrire une mention et oublier de passer le message en privé, le rendant donc visible de tous, super message "privé" donc.
+* La confusion entre les différents flux (celui de son instance et le global) est souvent présent, on aura souvent tendance à aller sur le global. En effet, notre instance est présente dedans et on cherche a toucher le maximum de personne et ne rien louper.
 
 
 
