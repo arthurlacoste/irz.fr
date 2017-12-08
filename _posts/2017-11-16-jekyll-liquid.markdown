@@ -19,7 +19,7 @@ Il faut savoir qu'il y a plusieurs versions de Liquid, avec quelques variations,
 
 ## Qu'est-ce qu'un langage de templating ?
 
-Les graphistes et développeurs sont parfois amenés à utiliser un langage de templating poru construire des pages contenant du contenu statique, qui est la même sur de multiples pages, ou du contenu dynamique, qui change - lui - d'une page à l'autre.
+Les graphistes et développeurs sont parfois amenés à utiliser un langage de templating pour construire des pages contenant du contenu statique, qui est la même sur de multiples pages, ou du contenu dynamique, qui change - lui - d'une page à l'autre.
 
 Un langage de template permet d'utiliser à de multiples endroits des éléments statiques qui définiront l'architecture d'une page web, en reprenant les données de votre site. Les éléments statiques sont écris en HTML, et la partie dynamique en Liquid.
 
