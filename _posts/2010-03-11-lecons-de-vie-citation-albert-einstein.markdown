@@ -2,6 +2,7 @@
 author: art
 comments: true
 date: 2010-03-11 10:10:56+00:00
+last_modified_at: 2017-12-12
 excerpt: Albert Einstein est considéré depuis longtemps comme un génie par les gens.
   Il travaillait dans la physique théorique, était philosophe, auteur, il est sans
   doute le scientifique le plus influent qui ai jamais existé.
@@ -60,9 +61,9 @@ Qu'est ce qui aiguise votre curiosité ? Je me demande ce qui fait qu'une person
 
 
 
-"Ce n'est pas la force, mais la persévérance, qui fait les grandes œuvres"*. Êtes-vous prêt à persévérer au point d'atteindre votre but ? On dit que toute la force du timbre est dans sa capacité à coller à la lettre jusqu'à ce qu'elle arrive à destination. Soyez comme le timbre, terminez la course que vous avez commencée !
+"Ce n'est pas la force, mais la persévérance, qui fait les grandes œuvres"[^1]. Êtes-vous prêt à persévérer au point d'atteindre votre but ? On dit que toute la force du timbre est dans sa capacité à coller à la lettre jusqu'à ce qu'elle arrive à destination. Soyez comme le timbre, terminez la course que vous avez commencée !
 
- {% include figure image_path="https://static.irz.fr/2010/03/albert-einsten-titre-la-langue.jpg" alt="Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951." caption="Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951." %}
+ {% include figure image_path="https://static.irz.fr/2010/03/albert-einsten-titre-la-langue.jpg" alt="Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951." caption="Albert Einstein qui tire la langue ! Il avait 72 ans lorsque cette photo a été prise, en 1951." class="align-left" %}
 
 
 
@@ -184,6 +185,6 @@ La connaissance vient de l'expérience. Vous pouvez discuter d'un sujet, cette d
 
 En d'autres termes, il y a deux choses que vous devez faire. La première est d'apprendre les règles des jeux auxquels vous jouez. Ça ne parait pas excitant mais c'est vital. Deuxièmement, vous devez vous engager à jouer le jeux mieux que n'importe qui, et y concentrer vos efforts. Si vous faites ces deux choses, le succès pourra vous sourire.
 
-*Samuel Johnson
+[^1]: Samuel Johnson
 
 Inspirée de l'article anglais "10 Amazing Life Lessons You Can Learn From Albert Einstein" de [Mr. SelfDevelopment](http://www.mrselfdevelopment.com/).
