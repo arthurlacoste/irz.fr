@@ -18,5 +18,17 @@ sidebar:
 
 # Outils
 
+## Génération
+
 - [Pipsum](http://pipsum.com/), un générateur d'images aléatoire
 - [Carbon](https://carbon.now.sh/), pour transformer du code en image
+
+## SEO
+
+- [Varvy](https://varvy.com/)
+- [Gtmetrix](https://gtmetrix.com/)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
+
+## Typographie
+
+- [Fontfabric](http://www.fontfabric.com/)
