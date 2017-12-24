@@ -11,13 +11,15 @@ categories:
 - Parcours
 ---
 
-![Source : Wix Static](http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg) Source : Wix Static[/caption] Comme moi, vous êtes nombreux à vous demander comment devenir un membre du cercle très fermé des gens qui arrivent à tenir leurs bonnes résolutions de début d'année. Je n'ai pour ainsi dire jamais vraiment réussi à venir à bout d'une résolution, et j'aimerais vraiment que ça change. C'est pourquoi je vous propose des astuces pour essayer de parvenir à vos fins en ce début d'année 2017.
+![Source : Wix Static](http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg)
 
-On ne se connait pas forcément, et pourtant je sais déjà que seulement 8% d'entre vous ont déjà réussi à aller jusqu'au bout d'une bonne résolution. C'est pourquoi nous allons ensemble suivre les conseils avisés du psychologue Paul Marciano, expert leader en changement du comportement. Avec son ouvrage « [_Carrots and Sticks Don’t Work_](http://livre.fnac.com/mp7301801/Carrots-and-Sticks-Don-t-Work?ectrans=1&gclid=Cj0KEQiAtqHEBRCNrdC6rYq9_oYBEiQAejvRl8WeaxxHwY4fvAPkjx3cW9PYlU1CaLKHbosCU7gHUVQaAvpB8P8HAQ&mckv=z1avyWAQ_dc&oref=c4bded0d-699b-542c-602e-73e3300676ad&Origin=CMP_GOOGLE_MP_LIV&pcrid=77058271103)_ », Marciano s'est spécialisé _dans le domaine de la modification du comportement et de l'engagement. Je vous présente 5 des clés qu'il propose pour atteindre ses objectifs.
+Comme moi, vous êtes nombreux à vous demander comment devenir un membre du cercle très fermé des gens qui arrivent à tenir leurs bonnes résolutions de début d'année. Je n'ai pour ainsi dire jamais vraiment réussi à venir à bout d'une résolution, et j'aimerais vraiment que ça change. C'est pourquoi je vous propose des astuces pour essayer de parvenir à vos fins en ce début d'année 2017.
+
+On ne se connaît pas forcément, et pourtant je sais déjà que seulement 8% d'entre vous ont déjà réussi à aller jusqu'au bout d'une bonne résolution. C'est pourquoi nous allons ensemble suivre les conseils avisés du psychologue Paul Marciano, expert leader en changement du comportement. Avec son ouvrage « [_Carrots and Sticks Don’t Work_](http://livre.fnac.com/mp7301801/Carrots-and-Sticks-Don-t-Work?ectrans=1&gclid=Cj0KEQiAtqHEBRCNrdC6rYq9_oYBEiQAejvRl8WeaxxHwY4fvAPkjx3cW9PYlU1CaLKHbosCU7gHUVQaAvpB8P8HAQ&mckv=z1avyWAQ_dc&oref=c4bded0d-699b-542c-602e-73e3300676ad&Origin=CMP_GOOGLE_MP_LIV&pcrid=77058271103)_ », Marciano s'est spécialisé _dans le domaine de la modification du comportement et de l'engagement. Je vous présente 5 des clés qu'il propose pour atteindre ses objectifs.
 
 
 
-## **1 - Ayez des objectifs spécifiques**
+## 1 - Ayez des objectifs spécifiques
 
 
 
@@ -27,15 +29,15 @@ Si vous êtes comme moi, vous vous dites souvent: «Je vais enfin me mettre au s
 
 
 
-## **2 - Mesurez les progrès**
+## 2 - Mesurez les progrès
 
 
 
-"Si vous pouvez mesurer, vous pouvez changer" est un principe fondamental de la psychologie. Ce système d'introspection sur soi peut être une source de motivation qui vous permet de réfléchir d'où vous venez et où vous souhaitez aller. C'est également une bonne façon de rebondir lorsqu'on se retrouve face au mur et qu'il faut choisir entre se ré-orienter ou ajuster ses efforts. Pour vous donner un exemple concret : si je veux devenir un joueur professionnel de poker en ligne, il me faudra être méthodique, [apprendre les règles](https://www.pokerstars.fr/poker/games/rules/) par cœur, savoir les appliquer, mais surtout être capable de mesurer les dangers d'une situation et me retirer si le risque est trop grand. Pour ne pas déprimer, il sera bon de me rappeler de mes débuts et me féliciter de mon avancée dans la pratique.
+"Si vous pouvez mesurer, vous pouvez changer" est un principe fondamental de la psychologie. Ce système d'introspection sur soi peut être une source de motivation qui vous permet de réfléchir d'où vous venez et où vous souhaitez aller. C'est également une bonne façon de rebondir lorsqu'on se retrouve face au mur et qu'il faut choisir entre se ré-orienter ou ajuster ses efforts. Pour vous donner un exemple concret : si je veux devenir un joueur professionnel de poker en ligne, il me faudra être méthodique [apprendre les règles](https://www.pokerstars.fr/poker/games/rules/) par cœur, savoir les appliquer, mais surtout être capable de mesurer les dangers d'une situation et me retirer si le risque est trop grand. Pour ne pas déprimer, il sera bon de me rappeler de mes débuts et me féliciter de mon avancée dans la pratique.
 
 
 
-## **3 - Soyez patient **
+## 3 - Soyez patient
 
 
 
@@ -43,7 +45,7 @@ Le progrès est rarement linéaire. Certaines personnes constateront des avancé
 
 
 
-## **4 - Partagez vos objectifs avec vos amis et votre famille**
+## 4 - Partagez vos objectifs avec vos amis et votre famille
 
 
 
@@ -51,7 +53,7 @@ Le soutien social et moral est essentiel. Oui, il faut un certain courage person
 
 
 
-## **5 - Programmez vos résolutions**
+## 5 - Programmez vos résolutions
 
 
 
