@@ -171,20 +171,6 @@ Et je l'utilise comme ceci :
 ```shell
 curl -F "pwd=monmotdepasse" -F "f=@/my/file.png" https://static.irz.fr
 ```
-En réalité, j'utilise [Winegold](https://winegold.irz.fr/), qui me permet de disposer d'une interface de drag and drop pour envoyer mes fichiers. J'utilise le script suivant :
-
-```yaml
-
-name: Upload
-trigger:
-  fileExtension: /
-cmd:
-  exec: >
-    curl -F "pwd=UgJ/X:dHC6]%y@B"
-    -F "f=@{{path}}" https://static.irz.fr -o
-    /Users/art/tmp 2>&1 && cat /Users/art/tmp
-
-```
 
 # Tests
 
