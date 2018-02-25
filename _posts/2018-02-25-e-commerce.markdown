@@ -7,7 +7,8 @@ slug: e-commerce
 title: Le e-commerce
 categories: e-commerce
 header:
-  image: https://static.irz.fr/2018/02/heidi-sandstrom-173946-unsplash.jpg
+  image: https://static.irz.fr/2018/02/e-commerce-irz-shopify-dropshipping.jpg
+  caption: "Photo credit: Heidi Sandstrom"
 ---
 
 - Greg, il viennent tous de débarquer en même temps !
