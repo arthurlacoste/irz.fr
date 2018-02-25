@@ -16,7 +16,7 @@ header:
 - Oui, je viens de faire partir la newsletter, et elle a fait un tabac !
 - Mais c'est un raz de marée, comment allons-nous tenir la charge avec telle ruée de visiteurs ?
 - Ne t'inquiète pas, notre serveur dédié à les reins solides.
-- Mais notre base MySQL va-t-elle supporter autant de commandes à la minute ?
+- Mais notre base MySQL va-t-elle supporter autant de commandes à la minute&nbsp;?
 - J'ai mis en place un CDN, et de la mise en cache. Gère tes posts Instagram et Facebook, je m'occupe du reste.
 
 Oui, j'avoue, je suis parti loin.
@@ -33,6 +33,6 @@ Le <a href="https://fr.shopify.com/dropshipping">dropshipping</a> par exemple es
 
 Concernant la logistique, il est important d'avoir une mécanique bien huilée : empaqueter des colis prend du temps et doit être bien fait, sinon gare au retour des clients.
 
-En parlant du retour des clients, votre réputation doit être cajolé autant que votre copine lorsque vous essayez de l'amener à l'orgasme : sans aucun compromis, vous devez vous donner corps et âme et déclencher le fameux sésame : 5 étoiles !
+En parlant du retour des clients, votre réputation doit être cajolé autant que votre copine lorsque vous essayez de l'amener à l'orgasme : sans aucun compromis, vous devez vous donner corps et âme et déclencher le fameux sésame : 5 étoiles&nbsp;!
 
 Un autre point sur lequel je souhaite m'attarder : le mobile first. Il me semble primordial désormais de s'attarder sur la version mobile de son application. Rappelons que depuis 2017, plus de 50% du trafic quotidien se fait depuis un appareil mobile.
