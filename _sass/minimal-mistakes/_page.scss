@@ -440,7 +440,8 @@ Comments
 .comment__date {
   @extend .page__meta;
   text-align: left;
-
+  padding-left: 0px !important;
+  
   margin: 0;
 
   a {
