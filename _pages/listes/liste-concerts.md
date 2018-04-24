@@ -4,10 +4,16 @@ permalink: /liste-concerts/
 layout: single
 ---
 
-
-
-- xx/03/2018 (Grenoble) : Shaka Ponk
-- xx/03/2018 (Grenoble) : Orelsan
+- 14/08/2018 (Sziget) : Arctic Monkeys, Nothing But Thieves, Gogol Bordello, Borns (Børns), The War On Drugs, Fever Ray, Lewis Capaldi, Zara Larsson, Delta Heavy, Blossoms, Gorgon City
+- 13/08/2018 (Sziget) : Kygo, Shawn Mendes, La Femme, Milky Chance, Yellow Days, Mo Aka Karen Marie Orsted (Mø), Nick Murphy (Chet Faker), Don Diablo, Little Dragon, Damian Lazarus, My Baby, Goo Goo Dolls
+- 12/08/2018 (Sziget) : Petit Biscuit, Wolf Alice, Dua Lipa, Liam Gallagher, Kaleo, King Gizzard And The Lizard Wizard, Slaves, Kshmr, Jan Blomqvist, Tujamo, Desiigner
+- 11/08/2018 (Sziget) : Mumford & Sons, Bastille, Aurora, Fink, Lianne La Havas, Sofi Tukker, Zhu, Borgore, Above & Beyond, Everything Everything, The Living End
+- 10/08/2018 (Sziget) : Asaf Avidan, Parov Stelar, Lana Del Rey, Shame, Perturbator, Scarlxrd, The Kooks, Jp Cooper, Ummet Ozcan, Jay Hardway, The Him, Sam Feldt, Joe Goddard, Bilderbuch
+- 09/08/2018 (Sziget) : Cigarettes After Sex, Gorillaz, Seasick Steve, Francobollo, Lemaitre, Unknown Mortal Orchestra, Alle Farben, Whomadewho, La Sra Tomasa, Sg Lewis, Anima Sound System
+- 08/08/2018 (Sziget) : Kendrick Lamar, Clean Bandit, Lykke Li, Stormzy
+- 16/03/2018 (Grenoble) : Sir Jean, Soom T
+- 16/03/2018 (Grenoble) : The No Face, Shaka Ponk
+- 02/03/2018 (Grenoble) : Phazz, Orelsan
 - 21/07/2016 (Saint-Pierre-de-Chartreuse) \[Rencontres Brel\] : LEJ
 - 15/07/2016 (Grenoble) [Cabaret Frappé] : Kadebostany
 - 12/07/2016 (Grenoble) : Rodrigo y Gabriela
