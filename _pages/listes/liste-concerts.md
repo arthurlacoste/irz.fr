@@ -14,7 +14,7 @@ layout: single
 - 16/03/2018 (Grenoble) : Sir Jean, Soom T
 - 16/03/2018 (Grenoble) : The No Face, Shaka Ponk
 - 02/03/2018 (Grenoble) : Phazz, Orelsan
-- 21/07/2016 (Saint-Pierre-de-Chartreuse) \[Rencontres Brel\] : LEJ
+- 21/07/2016 (Saint-Pierre-de-Chartreuse) \[Rencontres Brel\] : Boulevard des Airs, LEJ
 - 15/07/2016 (Grenoble) [Cabaret Frappé] : Kadebostany
 - 12/07/2016 (Grenoble) : Rodrigo y Gabriela
 - 11/07/2016 (Grenoble) [Cabaret Frappé] : Mickey3D
