@@ -16,7 +16,7 @@ layout: single
 - 02/03/2018 (Grenoble) : Phazz, Orelsan
 - 21/07/2016 (Saint-Pierre-de-Chartreuse) \[Rencontres Brel\] : Boulevard des Airs, LEJ
 - 15/07/2016 (Grenoble) [Cabaret Frappé] : Kadebostany
-- 12/07/2016 (Grenoble) : Rodrigo y Gabriela
+- 12/07/2016 (Grenoble) : Pomme, Rodrigo y Gabriela
 - 11/07/2016 (Grenoble) [Cabaret Frappé] : Mickey3D
 - 10/07/2016 (Aix-les-Bains) \[MUSILAC\] : Louise Attaque, Birdy Nam Nam, Boys Noize, Editors, St Germain, Foals, Lou Doillon, Courtney Barnett, Barns Courtney, VKNG
 - 09/07/2016 (Aix-les-Bains) \[MUSILAC\] : Elton John, Nekfeu, Lilly Wood And The Prick, Mass Hysteria, The Avener, Jain, Feu! Chatterton, Amy Macdonald, Grand Blanc

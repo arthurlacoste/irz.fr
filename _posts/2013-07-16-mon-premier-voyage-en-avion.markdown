@@ -105,7 +105,7 @@ Entre 9h et 16h, inutile de vous dire que nous avons largement eu le temps de no
 
 
 
-Petite remarque étrange, à l'aéroport Barajas, **tout les WC sont parfumés à la Barbapapa**. Vous aimez la barbapapa ? Ça fait mille ans que j'en ai pas mangé !
+Petite remarque étrange, à l'aéroport Barajas, **tout les WC sont parfumés à la Barbapapa**. Je préfère personnellement Arsenic Osman de [Laurent Mazzone](), mais vous savez les goûts et les couleurs... Vous aimez la barbapapa ? Ça fait mille ans que j'en ai pas mangé !
 
 
 
@@ -123,7 +123,7 @@ Quelques heures plus tard, l'avion décolle (avec nous dedans, c'est mieux !) en
 
 
 
-Je ne m'étendrai pas sur mon expérience de New York, nous avons passés 3h (littéralement) à attendre au contrôle d'identité, pour quasiment rater notre avion pour Rio. Mémorable avant goût de la grande pomme. 
+Je ne m'étendrai pas sur mon expérience de New York, nous avons passés 3h (littéralement) à attendre au contrôle d'identité, pour quasiment rater notre avion pour Rio. Mémorable avant goût de la grande pomme.
 
 
 
@@ -142,7 +142,3 @@ La température locale nous oppresse, et ce dès notre atterrissage à Rio de Ja
 
 
 Ce n'est que le début de l'aventure.
-
-
-
-

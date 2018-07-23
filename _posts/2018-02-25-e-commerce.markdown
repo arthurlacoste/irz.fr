@@ -9,6 +9,8 @@ categories: e-commerce
 header:
   image: https://static.irz.fr/2018/02/e-commerce-irz-shopify-dropshipping.jpg
   caption: "Photo credit: Heidi Sandstrom"
+tags:
+- e-commerce
 ---
 
 - Greg, il viennent tous de débarquer en même temps !
