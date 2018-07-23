@@ -20,7 +20,7 @@ header:
 
 Les périodes de fêtes sont l'occasion de mettre sa créativité à toute épreuve. Vous pouvez trouver un tas d'articles de DIY regorgeant d'inventivité, faits avec de matériaux durables/recyclables, des objets utiles, [ou pas du tout](https://irz.fr/guide-cadeau).
 
-Avant de parler du cadeau en question, prenons une minute pour comprendre à quoi sert un cadeau. Un cadeau est offert à quelqu'un pour lui faire plaisir. Il remplit son rôle de cadeau à partir du moment ou il est déballé. Et l'on créait un "concentré" de cadeau, quelle forme aurait-il ? Il pourrait revêtir une forme de reconnaissance, de gratitude envers son congénère.
+Avant de parler du cadeau en question, prenons une minute pour comprendre à quoi sert un cadeau. Un cadeau est offert à quelqu'un pour lui faire plaisir. Il remplit son rôle de cadeau à partir du moment ou il est déballé. Et si l'on créait un "concentré" de cadeau, quelle forme aurait-il ? Il pourrait revêtir une forme de reconnaissance, de gratitude envers son congénère.
 
 Comme je l'ai déjà dit dans un précédent article : [ne vous encombrez pas d'un cadeau devenu inutile](https://irz.frla-magie-du-rangement/). S’il vous a fait plaisir un jour, il a rempli son rôle. Ne culpabilisez pas de le jeter, personne ne vous en voudra.
 
@@ -45,3 +45,5 @@ PS: d'avance avis à tout les "bon anniversaire" juste parceque facebook à dit 
 
 Cordialement ;)
 </div>
+
+Pas bête Nina ! :)
