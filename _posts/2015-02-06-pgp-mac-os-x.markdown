@@ -149,19 +149,9 @@ Décochez l’ensemble des cases, et supprimez les raccourcis clavier.
 
 Nous allons maintenant mettre en place quatre raccourcis :
 
-
-
-
-
   * Activez “OpenPGP: Déchiffrer” et définissez le raccourci suivant : ⌃⌥⌘- (control option command moins)
-
-
   * Activez “OpenPGP: Chiffrer” et définissez le raccourci suivant : ⌃⌥⌘= (control option command egal)
-
-
   * Activez “OpenPGP: Signez” et définissez le raccourci suivant : ⌃⌥⌘[ (control option command crochet ouvert)
-
-
   * Activez “OpenPGP: Vérifiez” et définissez le raccourci suivant : ⌃⌥⌘] (control option command crochet fermé)
 
 
