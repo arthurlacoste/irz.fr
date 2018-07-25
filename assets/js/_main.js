@@ -52,24 +52,6 @@ $(document).ready( function () {
     e.preventDefault();
   });
 
-  // Randomizing alignment of little images non-setup
-  var pageW = $('.page__content').width();
-  $('.page__content img:not(.align-center)').each( function () {
-    if($(this).parent().is('.align-left, .align-right')) {
-      console.log('class r/l detected!')
-    } else {
-      var random_boolean = Math.random() >= 0.5;
-      var imgW = $(this).width();
-      var imgsize = imgW*100/740;
-      if(imgsize<50){ // -70%
-        var classImg = random_boolean === true ? 'align-left' : 'align-right';
-        $(this).addClass(classImg);
-      } else {
-        $(this).addClass('align-center');
-      }
-    }
-  });
-
   // Display all categories & posts if hash is here
   var hash = window.location.hash.substr(1);
   if(hash) {

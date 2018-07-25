@@ -38,4 +38,6 @@ Je vous ai sélectionné le pire !<!-- more -->
 
 [![](https://static.irz.fr/2017/03/008-pires-phrases-de-drague-william-arcahon-drole-beauf.png)](https://irz.fr/recherche?q=008-pires-phrases-de-drague-william-arcahon-drole-beauf)
 
-[![](https://static.irz.fr/2017/03/009-pires-phrases-de-drague-grignoter-drole-beauf.png)](https://irz.fr/recherche?q=009-pires-phrases-de-drague-grignoter-drole-beauf)[![](https://static.irz.fr/2017/03/010-pires-phrases-de-drague-capote-latex-drole-beauf-1.png)](https://irz.fr/recherche?q=010-pires-phrases-de-drague-capote-latex-drole-beauf-2)
+[![](https://static.irz.fr/2017/03/009-pires-phrases-de-drague-grignoter-drole-beauf.png)](https://irz.fr/recherche?q=009-pires-phrases-de-drague-grignoter-drole-beauf)
+
+[![](https://static.irz.fr/2017/03/010-pires-phrases-de-drague-capote-latex-drole-beauf-1.png)](https://irz.fr/recherche?q=010-pires-phrases-de-drague-capote-latex-drole-beauf-2)
