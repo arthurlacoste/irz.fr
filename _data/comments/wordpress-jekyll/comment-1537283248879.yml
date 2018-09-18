@@ -1,0 +1,16 @@
+_id: 8ed87ec0-bb54-11e8-89fb-bde33cd2d3fe
+_parent: wordpress-jekyll
+message: >-
+  Merci pour cette guide.  Même si Git est libre, le *logiciel* GitHub par
+  lequel le site d'hébergement GitHub est propulsé est *propriétaire*.  En
+  effet, plusieurs utilisateurs préfèrent GitLab au lieu de GitHub en raison de
+  sa licence open source, de sa livraison continue bien intégrée au contrôle de
+  version, etc.  Etant donné la sortie de [Staticman
+  v3](https://dev.staticman.net) qui [supporte
+  GitLab](https://github.com/eduardoboucas/staticman/pull/219), il sera possible
+  d'établir un site plus libre et plus statique.
+name: Vincent Tam
+email: 4980f828b9588a712cc2013ac10fd13a
+url: 'https://vincenttam.gitlab.io/test-hugo-staticman/'
+hidden: ''
+date: '2018-09-18T15:07:28.878Z'
