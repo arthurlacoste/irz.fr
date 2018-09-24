@@ -7,7 +7,7 @@ slug: cheveux-abimes
 title: Comment réparer ses cheveux abimés
 categories: Lifestyle
 header:
-  overlay_image: https://static.irz.fr/2018/09/beautiful-black-and-white-eye-1027092.jpg
+  overlay_image: https://static.irz.fr/2018/09/beautiful-black-and-white-eye-1027092-3.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [Alexander Krivitskiy](https://www.pexels.com/@krivitskiy)"
 tags:
@@ -15,7 +15,9 @@ tags:
 ---
 
 
-Vous êtes paniqués par l’état de vos cheveux secs, fourchus ou cassant ? C’est tout à fait normal car des cheveux abimés ne vous mettent pas tout à fait en valeur. Vous ressemblez plus à un épouvantail qu’à un être humain des temps modernes et vous vous demandez comment faire pour remplacer cette crinière indisciplinée par une chevelure souple, docile et soyeuse. Recevez donc dans cet article quelques conseils et astuces pour réparer vos cheveux abimés. Si vos mettez en application ces conseils vous pourrez dire dieu à vos cheveux secs et cassants et à vous cette belle chevelure pendant vos rêvez tant.
+Vous êtes paniqués par l’état de vos cheveux secs, fourchus ou cassant ?
+
+C’est tout à fait normal car des cheveux abimés ne vous mettent pas tout à fait en valeur. Vous ressemblez plus à un épouvantail qu’à un être humain des temps modernes et vous vous demandez comment faire pour remplacer cette crinière indisciplinée par une chevelure souple, docile et soyeuse. Recevez donc dans cet article quelques conseils et astuces pour réparer vos cheveux abimés. Si vos mettez en application ces conseils vous pourrez dire dieu à vos cheveux secs et cassants et à vous cette belle chevelure pendant vos rêvez tant.
 
 ## Préparer vos cheveux avant le shampooing réparateur
 
