@@ -1,0 +1,13 @@
+_id: d7335290-3de9-11e9-9b2a-91601e299ccf
+_parent: point-acces-wifi-tor-raspberry-pi
+message: >-
+  bonsoir, j'ai un probleme, j'ai installé un point d'acces wifi avec une
+  passerelle tor qui fonctionne tres bien, mais comment faire pour avoir un
+  acces locale sur le raspberry ( navigateur web)? je galére depuis une semaine,
+  si vous aviez une idée ? j'essayé en modifiant les regles  iptables mais sans
+  resultats ....un petit coup de main serait le bien venu. Merci.
+name: gaston
+email: 1efcf9592acd2c8d02c18af6c0dbc9be
+url: ''
+hidden: ''
+date: '2019-03-03T19:23:36.619Z'
