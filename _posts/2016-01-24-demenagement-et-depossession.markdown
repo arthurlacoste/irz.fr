@@ -19,7 +19,9 @@ Peu de récup' car je voulais mettre en exergue le volume des pièces sans les d
 
 Et pourtant, c'était oublier qui je suis et surtout ce que je fais : depuis maintenant 10 ans, je déménage en moyenne tout les ans. Je ne suis pas saisonnier, loin de là. Mais j'aime changer voilà tout. Je m'adapte. Quelques fois à 2, 3 ou même 4 ou 5 en colocation, j'ai souvent changé d'atmosphère. Souvent à Grenoble, ville que j'affectionne tout particulièrement, parfois de retour à la campagne.
 
-[![fragile-penis-cartons](https://static.irz.fr/2016/01/fragile-penis-cartons-640x480.jpg)](https://irz.fr/recherche?q=fragile-penis-cartons)Quand je vois toutes ces boîtes, je ne peux m'empêcher de penser à Alex, un cuisinier saisonnier, qui trimballe sa vie dans 2 énormes valises. Il doit avoir un secret, je suis sûr ! Je la met ou ma guitare et mon cerf-volant dans ta valise ? Qu'est ce que je fais de mon micro onde et de ma télé ? Je souris bêtement, me rendant compte de mes réflexions d'occidental possessif.
+[![fragile-penis-cartons](https://static.irz.fr/2016/01/fragile-penis-cartons-640x480.jpg)](https://irz.fr/recherche?q=fragile-penis-cartons)
+
+Quand je vois toutes ces boîtes, je ne peux m'empêcher de penser à Alex, un cuisinier saisonnier, qui trimballe sa vie dans 2 énormes valises. Il doit avoir un secret, je suis sûr ! Je la met ou ma guitare et mon cerf-volant dans ta valise ? Qu'est ce que je fais de mon micro onde et de ma télé ? Je souris bêtement, me rendant compte de mes réflexions d'occidental possessif.
 
 Mais il est temps de lâcher prise. Ces derniers mois, j'ai expérimenté quelques modes de vie alternatifs au fil de mes lectures, entre le zéro déchet de Béa Johnson et la vie "par le vide" de Marie Kondo, on peut dire que je me suis débarrassé de pas mal de choses, appris à prêter, moi qui ai toujours eu du mal avec ça.
 

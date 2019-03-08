@@ -4,6 +4,7 @@ permalink: /liste-concerts/
 layout: single
 ---
 
+- : Monkey Theorem
 - 14/08/2018 (Hongrie) [Sziget] : Arctic Monkeys, Nothing But Thieves, Gogol Bordello, Borns (Børns), The War On Drugs, Fever Ray, Lewis Capaldi, Zara Larsson, Delta Heavy, Blossoms, Gorgon City
 - 13/08/2018 (Hongrie) [Sziget] : Kygo, Shawn Mendes, La Femme, Milky Chance, Yellow Days, Mo Aka Karen Marie Orsted (Mø), Nick Murphy (Chet Faker), Don Diablo, Little Dragon, Damian Lazarus, My Baby, Goo Goo Dolls
 - 12/08/2018 (Hongrie) [Sziget] : Petit Biscuit, Wolf Alice, Dua Lipa, Liam Gallagher, Kaleo, King Gizzard And The Lizard Wizard, Slaves, Kshmr, Jan Blomqvist, Tujamo, Desiigner
