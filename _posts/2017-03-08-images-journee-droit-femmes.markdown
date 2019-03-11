@@ -78,44 +78,44 @@ femmes ne vous disent rien ? Il serait peut être temps de réviser votre
 histoire !
 
 
-![celebrons](https://static.irz.fr/2017/03/journee-droit-femmes-celebrons.jpg)
+<img alt="celebrons" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-celebrons.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-celebrons.jpg" />
 
 Celle-ci se passe de commentaires...
 
 
-![direction](https://static.irz.fr/2017/03/journee-droit-femmes-direction.jpg)
+<img alt="direction" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-direction.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-direction.jpg" />
 
 Si ceci vous intéresse, voici [le lien vers l'association En Avant
 Tout(e)s](https://enavanttoutes.fr/le-tchat/).
 
 
-![asso](https://static.irz.fr/2017/03/journee-droit-femmes-asso.jpg)
+<img alt="asso" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-asso.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-asso.jpg" />
 
 On a parlé de caricature ?
 
-![rose-offerte](https://static.irz.fr/2017/03/journee-droit-femmes-rose-offerte.jpg)
+<img alt="rose-offerte" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-rose-offerte.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-rose-offerte.jpg" />
 
 Sacré Mélenchon !
 
-![femmes-melenchon](https://static.irz.fr/2017/03/journee-droit-femmes-melenchon.jpg)
+<img alt="femmes-melenchon" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-melenchon.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-melenchon.jpg" />
 
 Quelques chiffres pour rendre le propos un peu moins flou :
 
-![femmes-huffington](https://static.irz.fr/2017/03/journee-droit-femmes-huffington.jpg)
+<img alt="femmes-huffington" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-huffington.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-huffington.jpg" />
 
 On ne voit bien que la face visible de l'Iceberg, sauf dans Titanic.
 
-![iceberg-violence-sexiste](https://static.irz.fr/2017/03/journee-droit-femmes-iceberg-violence-sexiste.jpg)
+<img alt="iceberg-violence-sexiste" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-iceberg-violence-sexiste.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-iceberg-violence-sexiste.jpg" />
 
 Marsault nous pond une petite planche provocatrice à
 souhait.
 
-![femmes-marsault](https://static.irz.fr/2017/03/journee-droit-femmes-marsault.jpg)
+<img alt="femmes-marsault" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-marsault.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-marsault.jpg" />
 
 Et Nike qui en profite pour sortir son voile islamique, en ce jour
 particulier.
 
-![iceberg-nike-voile](https://static.irz.fr/2017/03/journee-droit-femmes-iceberg-nike-voile.jpg)
+<img alt="iceberg-nike-voile" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-iceberg-nike-voile.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-iceberg-nike-voile.jpg" />
 
 Et pour finir "en beauté"...
 

@@ -25,7 +25,7 @@ Le tout dans un design sobre et élégant. Le passage à 2 colonnes s'est fait s
 
 Dorénavant, vous aurez la possibilité de publier des **communiqués de presse** via Presse-Citron. Éric avait déjà un site dédié, je ne comprend pas bien quelle sera la valeur ajouté de cette page. Peut être une futur monétisation des communiqués de presse [1](http://www.presse-citron.net/soupe-de-liens#comment-266957) [(cache)](https://static.irz.fr/2010/07/Capture-d’écran-2010-07-06-à-20.14.40.png) est-elle en cours de route.
 
-![fuzz sitebuzz](https://static.irz.fr/2010/07/Capture-d%E2%80%99%C3%A9cran-2010-07-06-%C3%A0-20.14.40.png)
+<img alt="fuzz sitebuzz" data-src="https://static.irz.fr/2010/07/Capture-d%E2%80%99%C3%A9cran-2010-07-06-%C3%A0-20.14.40.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/07/Capture-d%E2%80%99%C3%A9cran-2010-07-06-%C3%A0-20.14.40.png" />
 
 La nouvelle catégorie "Petites annonces" , pour le moment n'ont pas l'air d'être bien peaufinées, entre un manque de catégorie et des CGU inexistantes, j’attends quelques jours avant de déduire que cette rubrique est inutile.
 

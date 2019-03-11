@@ -81,7 +81,7 @@ Commandé le 1er janvier (un jour ferié), traité le samedi 5 janvier, le colis
 
 Le colis à été livré avec le transporteur [DHL](http://www.dhl.fr/fr.html) (que j'ai donc découvert en commandant chez [Digitaland](http://www.mydigitaland.com)), et j'ai particulièrement apprécié les détails tout au long de la livraison, ainsi que la fonctionnalité "preuve de livraison" qui permet de voir qui à reçu le colis. Et si vous observez la capture ci-dessous, vous pouvez même constater que l'on peut voir la signature électronique. Je trouve ça génial. Il ne me semble pas qu'UPS propose une fonctionnalité semblable.
 
-![signature-colis-dhl](https://static.irz.fr/2013/01/signature-colis-dhl.png)
+<img alt="signature-colis-dhl" data-src="https://static.irz.fr/2013/01/signature-colis-dhl.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/signature-colis-dhl.png" />
 
 Concernant le paquet, il était intégralement et littéralement enroulé dans du papier à bulles. En même temps heureusement, vu le colis (un reflex Canon EOS 650D et un objectif 50mm f/1.8) ! L'objectif à été placé dans la même boite que l'appareil photo pour - je présume - optimiser la place, les deux objets ayant étés acheté séparément alors que le constructeur doit prévoir une place pour les objectifs en kit. **Le carton de l'appareil photo à donc été ouvert pour y placer l'objectif** : cela ne me dérange pas en soi, mais je préfère le notifier, car j'imagine que certains d'entre vous ne seront pas du même avis. C'est comme la notice, elle à été fournie en Anglais, mais ça reste toujours plus avantageux d'acheter un "Le 650D pour les nuls" à 20€ plutôt qu'un appareil 200 euros plus cher.
 

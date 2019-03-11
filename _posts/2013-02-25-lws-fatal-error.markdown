@@ -15,6 +15,6 @@ post_format:
 
 Avoir une erreur PHP fatal error comme ça chez un hébergeur (LWS pour ne pas le citer) ça fait pas très pro...
 
-![lws-fatal-error](https://static.irz.fr/2013/02/lws-fatal-error.png)
+<img alt="lws-fatal-error" data-src="https://static.irz.fr/2013/02/lws-fatal-error.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/lws-fatal-error.png" />
 
 **Fatal error**: Maximum execution time of 600 seconds exceeded in **D:\www\client.lwserv1.com\htdocs\logs_domaine.php** on line **83**

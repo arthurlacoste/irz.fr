@@ -29,7 +29,7 @@ En bon consommateur averti, je me suis mis à vérifier scrupuleusement le d�
 
 Quelle ne fût pas ma surprise en constatant qu'une option sérénité s'était glissé dans ma commande Top Achat, et ce juste avant de payer ! 1,90€ !
 
-![option-serenite-garanti-vente-forcee-topachat](https://static.irz.fr/2013/01/option-serenite-garanti-vente-forcee-topachat.png)
+<img alt="option-serenite-garanti-vente-forcee-topachat" data-src="https://static.irz.fr/2013/01/option-serenite-garanti-vente-forcee-topachat.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/option-serenite-garanti-vente-forcee-topachat.png" />
 
 La vente "forcée" de garanties liées à vos produits n'est pas illégale en soit. Ce n'est pas réellement de la vente forcé. Il y a un **vide juridique** concernant cette petite "astuce" des e-commerçants peu scrupuleux grattant quelques euros sur chacune de vos commandes. En effet, il suffit de respecter la procédure double clic comme le prévoit [l'article 1369-5 du code civil](http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=8D0E0CB32836E5EEBEAC9E0832E669FF.tpdjo16v_3?idArticle=LEGIARTI000006438595&cidTexte=LEGITEXT000006070721), qui dicte au e-commerçant de permettre aux consommateurs de vérifier sa liste jusqu'au moment du payement. Voici une petite liste de sites (que je vous invite à étayer par le biais des commentaires de cet article) qui pratiquent cette activité :
 

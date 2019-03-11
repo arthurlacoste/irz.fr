@@ -21,7 +21,7 @@ tags:
 Il y a quelques jours à Burger King, alors qu'elle souhaitait retirer la tomate de son whooper, une Grenobloise à fait une incroyable découverte dans son burger.
 <!-- more -->
 
-[![image burger king](https://static.irz.fr/2017/03/burger-king-decouverte-incroyable.jpg)]
+[<img alt="image burger king" data-src="https://static.irz.fr/2017/03/burger-king-decouverte-incroyable.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/burger-king-decouverte-incroyable.jpg" />]
 
 Alors que certains clients se plaignent du Burger King au centre ville de Grenoble qui est "très sale" et "vraiment pas bon du tout", C'est au restaurant de Meylan que cette étiquette indiquant la date de péremption d'un oeuf à été découvert dans un burger, sous le regard stupéfait de la cliente.
 

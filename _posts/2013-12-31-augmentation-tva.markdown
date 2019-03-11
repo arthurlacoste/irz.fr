@@ -30,7 +30,7 @@ Certains font le choix de l'absorber une année, puis de faire une augmentation 
 
 Ce qui vous donne pour un café à 1,50€ passé à 1,60€ une hausse de 6,25% !!! Admettez que c'est assez important quand même. Ceci n'est qu'un exemple que vous pouvez mettre comme vu plus haut, simplement en place avec un produit en croix.
 
-![augmentation-prix](https://static.irz.fr/2013/12/augmentation-prix-640x308.jpg)
+<img alt="augmentation-prix" data-src="https://static.irz.fr/2013/12/augmentation-prix-640x308.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/augmentation-prix-640x308.jpg" />
 
 **Parlons de contrats**
 

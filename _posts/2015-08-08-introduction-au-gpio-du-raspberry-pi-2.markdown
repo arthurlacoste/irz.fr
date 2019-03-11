@@ -44,11 +44,11 @@ Détaillons tout cela :
 
 En plus de cela, nous allons avoir besoin d'une breadboard (littéralement planche à pain) : il s'agit en réalité d'un prototype de circuit électronique. Si vous utilisez le même que moi, elle est connecté ainsi :
 
-![breadboard](https://static.irz.fr/2015/08/breadboard-640x359.jpg)
+<img alt="breadboard" data-src="https://static.irz.fr/2015/08/breadboard-640x359.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/08/breadboard-640x359.jpg" />
 
 Voici un schéma de la broche :
 
-![gpio-raspberry-pi-2](https://static.irz.fr/2015/08/gpio-raspberry-pi-2.png)
+<img alt="gpio-raspberry-pi-2" data-src="https://static.irz.fr/2015/08/gpio-raspberry-pi-2.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/08/gpio-raspberry-pi-2.png" />
 
 Tout d'abord, ce visuel est à imaginer en mettant votre Raspberry Pi 2 le port Ethernet en bas à gauche.
 
@@ -148,7 +148,7 @@ Erratum : le cable jaune n'est pas bien positionné, sur la Raspi, il doit se tr
 
 Ou en réel :
 
-![cicuit-led](https://static.irz.fr/2015/08/cicuit-led-640x480.jpeg)
+<img alt="cicuit-led" data-src="https://static.irz.fr/2015/08/cicuit-led-640x480.jpeg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/08/cicuit-led-640x480.jpeg" />
 
 Donc pour faire fonctionner notre script, nous allons ouvrir les pin GPIO 23 & 23 :
 

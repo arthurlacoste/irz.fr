@@ -17,7 +17,7 @@ tags:
 
 Il y a quelques jours (c'était le vendredi 27 novembre 2015 cette année), nous avons assisté au Black Friday, c'est un jour presque comme les autres, ou toutes les enseignes du monde proposent des prix cassés, divisés par 2, 3, voir plus. Au temple de la consommation, ce jour est marqué d'une pierre noire. Les gens font la queue pour être les premiers lors de l'ouverture des magasins, se bousculent, parfois même certains se font piétiner.
 
-![sears-black-friday-bloomberg](https://static.irz.fr/2015/12/sears-black-friday-bloomberg.jpg)
+<img alt="sears-black-friday-bloomberg" data-src="https://static.irz.fr/2015/12/sears-black-friday-bloomberg.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/12/sears-black-friday-bloomberg.jpg" />
 
 Je ne sais pas si le nom de Michelle McGagh vous dit quelque chose ? Moi non plus, son nom ne me disait rien jusqu'à hier. Cette journaliste a fait le pari fou de ne rien dépenser pendant 1 an. Alors je dis ne rien dépenser, mais en réalité, elle va se consacrer un budget "alimentaire", et payer ses factures et son crédit quand même.
 
@@ -35,7 +35,7 @@ C'est surement l'une des choses les plus difficiles à l'heure actuelle. La publ
 
 Du côté de la rue, certaines associations tel que les casseurs de pub luttent au quotidien pour nous débarrasser de panneaux publicitaires. Cas isolé mais pourtant très intéressant (surtout lorsqu'il s'agit de ma ville), je tiens à féliciter la ville de Grenoble qui a fait retirer ses 326 panneaux publicitaire, en les remplaçant par des arbres !
 
-![Dossier-de-presse-Grenoble-libere-l-espace-public-1-3](https://static.irz.fr/2015/12/Dossier-de-presse-Grenoble-libere-l-espace-public-1-3.jpg)
+<img alt="Dossier-de-presse-Grenoble-libere-l-espace-public-1-3" data-src="https://static.irz.fr/2015/12/Dossier-de-presse-Grenoble-libere-l-espace-public-1-3.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/12/Dossier-de-presse-Grenoble-libere-l-espace-public-1-3.jpg" />
 
 **Arrêter de faire du lèche vitrine**
 

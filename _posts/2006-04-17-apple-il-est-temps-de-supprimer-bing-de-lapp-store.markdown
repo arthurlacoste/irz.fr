@@ -18,7 +18,7 @@ tags:
 - Bing
 ---
 
-![bing no forbidden](https://static.irz.fr/2010/01/no-bing.jpg)Bing, l'application dédié à la recherche de Microsoft devrait être supprimé. Pourquoi ? Car l'on peut naviguer, et trouver des images pornographiques, et même des trucs carrément dégueulasse ! Si apple veux suivre [ses règles absurdes](http://gizmodo.com/5446287/apple-its-time-to-delete-safari-from-the-iphone), bing pour iPhone doit disparaître.
+<img alt="bing no forbidden" data-src="https://static.irz.fr/2010/01/no-bing.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/01/no-bing.jpg" />Bing, l'application dédié à la recherche de Microsoft devrait être supprimé. Pourquoi ? Car l'on peut naviguer, et trouver des images pornographiques, et même des trucs carrément dégueulasse ! Si apple veux suivre [ses règles absurdes](http://gizmodo.com/5446287/apple-its-time-to-delete-safari-from-the-iphone), bing pour iPhone doit disparaître.
 
 Sérieusement, pourquoi bing est encore dans l'App Store ? Son moteur de recherche d'image est _parfait_ pour s'adonner à des fouilles archéologique du web sexy. Il suffit d'aller dans les préférences, désactiver le filtre de contenu pour adulte (un clique) et c'est parti, instantanément votre moteur de recherche n'a plus de limite. Et pour tout dire, il est plutôt bien fait.
 

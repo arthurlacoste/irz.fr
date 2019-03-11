@@ -47,7 +47,7 @@ Voici la liste :
 
 
 
-![nano-sim](https://static.irz.fr/2014/08/nano-sim.png)
+<img alt="nano-sim" data-src="https://static.irz.fr/2014/08/nano-sim.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/08/nano-sim.png" />
 
 La nano sim est la plus récente et la plus petite des cartes sim, c'est donc pour cela que si peu de téléphones l'utilisent encore.
 
@@ -89,7 +89,7 @@ La nano sim est la plus récente et la plus petite des cartes sim, c'est donc po
 
 
 
-![micro-sim](https://static.irz.fr/2014/08/micro-sim.png)
+<img alt="micro-sim" data-src="https://static.irz.fr/2014/08/micro-sim.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/08/micro-sim.png" />
 
 
 
@@ -128,6 +128,6 @@ La nano sim est la plus récente et la plus petite des cartes sim, c'est donc po
 
 
 
-![mini-sim](https://static.irz.fr/2014/08/mini-sim.png)
+<img alt="mini-sim" data-src="https://static.irz.fr/2014/08/mini-sim.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/08/mini-sim.png" />
 
 Tout les autres téléphones utilisent le premier système, les lister serait trop long, il y a des centaines de téléphones qui utilisent cette carte sim. En effet, la majorité des téléphones utilisent encore ce type de puce.

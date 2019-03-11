@@ -28,7 +28,7 @@ Alors pour les curieux je vais vous parler de tout ce qui se cache dans mes baga
 
 
 
-![image](https://static.irz.fr/2013/03/IMG_0249.jpg)
+<img alt="image" data-src="https://static.irz.fr/2013/03/IMG_0249.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/03/IMG_0249.jpg" />
 
 Alors oui, j'ai pris des vêtements. Cependant la température amenée par le soleil brésilien est particulièrement chaude. Donc shorts, marcels et autres joyeusetées sont de rigueur.
 
@@ -114,7 +114,7 @@ Comme vous le comprenez, la plage pour moi, ça va être compliqué ! Je ramener
 
 
 
-![image](https://static.irz.fr/2013/03/IMG_0237.jpg)
+<img alt="image" data-src="https://static.irz.fr/2013/03/IMG_0237.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/03/IMG_0237.jpg" />
 
 Pour patienter durant les près de 40h de vol, j'ai prévu de quoi me détendre :
 

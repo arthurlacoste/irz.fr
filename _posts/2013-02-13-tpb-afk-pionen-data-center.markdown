@@ -28,7 +28,7 @@ Ce qui m'a vraiment épaté, c'est la construction de ce data center qui est tr�
 
 
 
-![data-center-bahnhof-pionen](https://static.irz.fr/2013/02/data-center-bahnhof-pionen.jpg)
+<img alt="data-center-bahnhof-pionen" data-src="https://static.irz.fr/2013/02/data-center-bahnhof-pionen.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/data-center-bahnhof-pionen.jpg" />
 
 
 
@@ -67,10 +67,10 @@ Ce qui m'a vraiment épaté, c'est la construction de ce data center qui est tr�
 
 Voici une série de photos des data center de Pionen :
 
-![pionen-data-center-exterieur](https://static.irz.fr/2013/02/pionen-data-center-exterieur.jpg)
+<img alt="pionen-data-center-exterieur" data-src="https://static.irz.fr/2013/02/pionen-data-center-exterieur.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/pionen-data-center-exterieur.jpg" />
 
-![pionen-data-center-salle-de-reunion](https://static.irz.fr/2013/02/pionen-data-center-salle-de-reunion.jpg)
+<img alt="pionen-data-center-salle-de-reunion" data-src="https://static.irz.fr/2013/02/pionen-data-center-salle-de-reunion.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/pionen-data-center-salle-de-reunion.jpg" />
 
-![pionen-data-center-verdure-et-bureaux](https://static.irz.fr/2013/02/pionen-data-center-verdure-et-bureaux.jpg)
+<img alt="pionen-data-center-verdure-et-bureaux" data-src="https://static.irz.fr/2013/02/pionen-data-center-verdure-et-bureaux.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/pionen-data-center-verdure-et-bureaux.jpg" />
 
-![pionen-data-moteurs](https://static.irz.fr/2013/02/pionen-data-moteurs.jpg)
+<img alt="pionen-data-moteurs" data-src="https://static.irz.fr/2013/02/pionen-data-moteurs.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/pionen-data-moteurs.jpg" />

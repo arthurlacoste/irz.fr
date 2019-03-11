@@ -31,7 +31,7 @@ Le nom de Maxime Valette ne vous dit rien ? Pourtant ses sites sont un carton mo
 
 L'alternative, c'est Uri.lv. Et avec son logo en forme de coeur pixelisé, comment ne pas en tomber amoureux ? A la base uri.lv est un raccourcisseur d'url mais depuis quelques mois il permet aussi de scanner votre flux RSS.
 
-![feedburner-urilv-newsletter](https://static.irz.fr/2013/02/feedburner-urilv-newsletter.png)
+<img alt="feedburner-urilv-newsletter" data-src="https://static.irz.fr/2013/02/feedburner-urilv-newsletter.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/feedburner-urilv-newsletter.png" />
 
 Le service ne se met pas en avant et est transparent et **j'aime ça**. Regardez donc par exemple la page d’inscription à la newsletter ci dessus (à gauche feedburner, à droite Uri.lv) qui ne met pas en exergue le logo du service mais fait plutôt ça à la manière d’une marque blanche en allant à l'essentiel, de manière très propre. D’ailleurs c’était l’un des credo de Maxime lorsqu’il s’est lancé dans cette aventure. Vous pouvez même vous passer de l’URL de Uri.lv en suivant [le tutoriel dédié](http://maxime.sh/migrer-rss-feedburner-uri-lv/), pour ceux qui ont assez de poils à la barbe pour comprendre.
 

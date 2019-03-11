@@ -18,7 +18,7 @@ tags:
 - santa claus
 ---
 
-![le-pere-noel-est-une-ordure](https://static.irz.fr/2013/01/le-pere-noel-est-une-ordure.jpeg)
+<img alt="le-pere-noel-est-une-ordure" data-src="https://static.irz.fr/2013/01/le-pere-noel-est-une-ordure.jpeg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/le-pere-noel-est-une-ordure.jpeg" />
 
 Avoir un costume et une cravate de la même couleur que son canapé, c'est très fort !
 

@@ -65,7 +65,7 @@ Voilà un petit tuto **sous chrome** pour vous expliquer comment savoir si un bl
 
 Bon déjà allez sur le site sur lequel vous voulez commenter (ou pas). Sur un commentaire avec un lien (généralement le pseudo ou le prénom de la personne qui commente) effectuez un clique droit, puis aller sur "inspecter l'élément". Vous devriez avoir un fenêtre qui apparaît comme sur l'écran ci-dessous :
 
-![nofollow-reconnaitre-blog-dofollow-rel](https://static.irz.fr/2013/02/nofollow-reconnaitre-blog-dofollow-rel.png)
+<img alt="nofollow-reconnaitre-blog-dofollow-rel" data-src="https://static.irz.fr/2013/02/nofollow-reconnaitre-blog-dofollow-rel.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/nofollow-reconnaitre-blog-dofollow-rel.png" />
 
 Sur la ligne surlignée, si vous disposez le l'attribut **`rel="nofollow"`** comme sur l'exemple, alors ces liens ne sont pas référencés, et par déduction le blog n'est pas en dofollow.
 

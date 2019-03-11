@@ -37,7 +37,7 @@ Le site ValueBasket est, comme [Digitaland](https://irz.fr/jai-teste-pour-vous-d
 
 
 
-![valuebasket-landing-page](https://static.irz.fr/2013/02/valuebasket-landing-page.png)
+<img alt="valuebasket-landing-page" data-src="https://static.irz.fr/2013/02/valuebasket-landing-page.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/valuebasket-landing-page.png" />
 
 Je ne m'attarderais pas très longtemps sur le site internet, et pour cause, c'est quasiment un sans faute. Le site est entièrement traduit, ergonomique au possible, bref, ça donne envie de le visiter ! Les fiches descriptives sont en général assez complètes, et incluent le "what in the box".
 

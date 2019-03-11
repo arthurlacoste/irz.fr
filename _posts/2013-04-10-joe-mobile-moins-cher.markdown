@@ -37,6 +37,6 @@ Je pense que nous sommes tous d'accord là dessus : la démocratisation des forf
 
 Si vous êtes intéressés en passant par ce lien vous aurez 5 euros de réduction lors de la création de votre compte, plus la carte sim gratuite. Ça peut toujours être utile si vous voulez switcher vers ce nouvel opérateur. Pas mal, hein ?
 
-![2-euros](https://static.irz.fr/2013/04/2-euros-150x150.gif)
+<img alt="2-euros" data-src="https://static.irz.fr/2013/04/2-euros-150x150.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/04/2-euros-150x150.gif" />
 
 

@@ -62,7 +62,7 @@ Donc en ce qui nous concerne, si vous souhaitez prendre toute la largeur de votr
 
 Aller donc sur votre article sous chrome, et faites un clique droit > [inspecter l'élément](http://irz.fr/?s=inspecter+l%27élément). Ensuite placez-vous sur l'image en question et faites de nouveau clique droit > [inspecter l'élément](http://irz.fr/?s=inspecter+l%27élément), vous devriez avoir une petite fenêtre vous indiquant la taille que prend réellement l'image sur le site (cadre jaune).
 
-![attachment-largeur](https://static.irz.fr/2013/02/attachment-largeur.png)
+<img alt="attachment-largeur" data-src="https://static.irz.fr/2013/02/attachment-largeur.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/attachment-largeur.png" />
 
 Vous n'avez plus qu'à aller dans Réglages > Médias, puis dans Grande taille, mettez le premier chiffre dans "Largeur maximale", et 2000 dans le second, histoire de couvrir la tailles des images en mode portrait.
 

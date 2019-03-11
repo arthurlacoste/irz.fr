@@ -160,7 +160,7 @@ Link
 
 Connectez votre iPhone (ou autre iDevice) en USB à votre ordinateur.
 
-Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n.exe sur Windows, evasi0n.app sur Mac). Vous allez avoir un logiciel avec une fenêtre de ce style. Cliquez sur la bouton **Jailbreak**. ![evasion-etape-1](https://static.irz.fr/2013/02/evasion-etape-1.png)
+Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n.exe sur Windows, evasi0n.app sur Mac). Vous allez avoir un logiciel avec une fenêtre de ce style. Cliquez sur la bouton **Jailbreak**. <img alt="evasion-etape-1" data-src="https://static.irz.fr/2013/02/evasion-etape-1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/evasion-etape-1.png" />
 
 
 
@@ -170,11 +170,11 @@ Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n.exe sur Windows, eva
 
 Après quelques minutes le message suivant va apparaître : "To continue, please unlock your device and tap the new 'jailbreak' icon. Only tap it once! The screen will go black and then return to the home screen."
 
-Lorsque un message vous indique de rechercher l'icône "jailbreak", allez chercher l'application en question sur votre iDevice. Voir l'application sur la quatrième ligne de la capture. ![evasion-clique-sur-jailbreak](https://static.irz.fr/2013/02/evasion-clique-sur-jailbreak.png)
+Lorsque un message vous indique de rechercher l'icône "jailbreak", allez chercher l'application en question sur votre iDevice. Voir l'application sur la quatrième ligne de la capture. <img alt="evasion-clique-sur-jailbreak" data-src="https://static.irz.fr/2013/02/evasion-clique-sur-jailbreak.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/evasion-clique-sur-jailbreak.png" />
 
 <
 
-p style="text-align: center;">![iphone-jailbreak](https://static.irz.fr/2013/02/iphone-jailbreak.png)
+p style="text-align: center;"><img alt="iphone-jailbreak" data-src="https://static.irz.fr/2013/02/iphone-jailbreak.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/iphone-jailbreak.png" />
 
 
 
@@ -182,6 +182,6 @@ p style="text-align: center;">![iphone-jailbreak](https://static.irz.fr/2013/02/
 
 
 
-Non, en fait y'a que 3 étapes. Voilà, c'est jailbreaké. Vous allez pouvoir disposer de toute l'étendue de possibilités que propose **Cydia** ! ![evasi0n-done](https://static.irz.fr/2013/02/evasi0n-done.png)
+Non, en fait y'a que 3 étapes. Voilà, c'est jailbreaké. Vous allez pouvoir disposer de toute l'étendue de possibilités que propose **Cydia** ! <img alt="evasi0n-done" data-src="https://static.irz.fr/2013/02/evasi0n-done.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/evasi0n-done.png" />
 
 PS : Si votre iPhone / iPad ne se rallume pas lors de votre redémarrage, prenez une grande inspiration, appuyez sur la touche home et power en même temps pendant quelques secondes (le temps que ça reboot), et priez.

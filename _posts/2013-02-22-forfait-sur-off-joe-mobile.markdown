@@ -20,7 +20,7 @@ Tu sais, quand Free à sorti ses offres à 20€/mois, je me suis dit que ça po
 
 Surtout qu'à l'époque je n'utilisais mon téléphone que **lorsque j'étais loin de ma copine**, genre 4 jours / mois.
 
-![on-off-joemobile](https://static.irz.fr/2013/02/on-off-joemobile.png)
+<img alt="on-off-joemobile" data-src="https://static.irz.fr/2013/02/on-off-joemobile.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/on-off-joemobile.png" />
 
 Je viens de prendre connaissance du forfait de JOE, qui permet ceci avec un simple bouton on/off sur l'espace de leurs site. Sachant que le forfait chez Joe coûte 20€ / 30 jours, (et qu'il faut l'activer au moins 1 jour tout les six mois, si on veut pas perdre sa ligne), **imaginez la rentabilité du forfait** utilisé 4 jours / mois : 30 jours/ 4 = 7,5 mois : c'est le temps qu'il faudrait pour payer les 20 euros de forfait !
 

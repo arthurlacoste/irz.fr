@@ -20,7 +20,7 @@ tags:
 
 Après avoir désinstallé Orbit downloader, vous vous retrouvez dans une situation encore pire qu'avant : rien ne se télécharge et vous avez un message tout pourri du style "Download transferred to Orbit Downloader. Click 'Previous' to go back and keep browsing."
 
-![Download transferred to Orbit Downloader. Click 'Previous' to go back and keep browsing.](https://static.irz.fr/2012/08/download-transferred-to-orbit-downloader.png)
+<img alt="Download transferred to Orbit Downloader. Click 'Previous' to go back and keep browsing." data-src="https://static.irz.fr/2012/08/download-transferred-to-orbit-downloader.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/08/download-transferred-to-orbit-downloader.png" />
 
 Donc, fermez Chrome, allez dans C:\Program Files (x86)\Google\Chrome\Application\Plugins, et supprimez le fichier nporbit.dll.
 

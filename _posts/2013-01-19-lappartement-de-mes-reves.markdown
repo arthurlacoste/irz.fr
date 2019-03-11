@@ -28,6 +28,6 @@ Voici donc l'appartement de Graham Hill, entrepreneur et fondateur du site [tr
 
 Le moment le plus "AMAZING !", c'est lorsque Graham transforme son grand salon en salle à manger, photo que vous pouvez voir un peu plus bas, et retrouver durant dans le reportage.
 
-![table dépliante](https://static.irz.fr/2013/01/table-dépliante.jpg)
+<img alt="table dépliante" data-src="https://static.irz.fr/2013/01/table-dépliante.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/table-dépliante.jpg" />
 
 Images : Gizmodo.com

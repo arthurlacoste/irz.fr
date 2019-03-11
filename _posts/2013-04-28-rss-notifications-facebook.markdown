@@ -21,13 +21,13 @@ Petite astuce du jour : comment suivre votre flux de notifications Facebook (vot
 ## Petite introduction aux flux RSS
 
 
-Pour ceux qui ne savent pas ce qu’est un lecteur de flux RSS, c’est un outil permettant de lire les flux (des fichiers xml structurant les dernières actualité d'un site internet) provenant de sites ayant ce genre d'icône orange tout chelou : ![feed-icon-12x12](https://static.irz.fr/2013/04/feed-icon-12x12.jpg)
+Pour ceux qui ne savent pas ce qu’est un lecteur de flux RSS, c’est un outil permettant de lire les flux (des fichiers xml structurant les dernières actualité d'un site internet) provenant de sites ayant ce genre d'icône orange tout chelou : <img alt="feed-icon-12x12" data-src="https://static.irz.fr/2013/04/feed-icon-12x12.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/04/feed-icon-12x12.jpg" />
 
 Il vous permet de ne pas à aller sur l’ensemble de vos sites d’actualités préférés et concentre les actualités de chacun sur une seule et même page, pour vous faciliter le travail de lecture.
 
 Voici comment se présente la page de notifcations de Facebook :
 
-![notifications-facebook](https://static.irz.fr/2013/04/notifications-facebook-640x285.png)
+<img alt="notifications-facebook" data-src="https://static.irz.fr/2013/04/notifications-facebook-640x285.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/04/notifications-facebook-640x285.png" />
 
 
 ## L’astuce

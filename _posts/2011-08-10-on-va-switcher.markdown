@@ -43,7 +43,7 @@ Les choses ont bien changé depuis Windows XP.
 
 Quelque chose d'horrible pour moi, la dizaine d'étiquettes collées en dessous du clavier. Sont-ils obligés de faire ça ? Vous voyez la photo un peu plus haut ? Rien à voir.
 
-![La réalité est bien plus triste](https://static.irz.fr/2011/08/photo-1024x764.jpg)
+<img alt="La réalité est bien plus triste" data-src="https://static.irz.fr/2011/08/photo-1024x764.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/photo-1024x764.jpg" />
 
 La réalité est bien plus triste.
 

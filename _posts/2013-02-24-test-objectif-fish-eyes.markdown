@@ -41,8 +41,8 @@ Mais c'est comme ça, chaque médaille a son revers.
 
 
 Donc voici la différence exacte entre une photo prise sans l'objectif, et avec :
-![IMG_0165](https://static.irz.fr/2013/02/IMG_0165.jpg)
-![IMG_0164](https://static.irz.fr/2013/02/IMG_0164.jpg)
+<img alt="IMG_0165" data-src="https://static.irz.fr/2013/02/IMG_0165.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/IMG_0165.jpg" />
+<img alt="IMG_0164" data-src="https://static.irz.fr/2013/02/IMG_0164.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/IMG_0164.jpg" />
 
 On voit vraiment une différence sidérante entre les deux prises de vue alors que n'ai absolument pas bougé. Dans la première, on voit à peine le bureau alors que dans le second, on voit le bureau ainsi que tout son environnement. Vous paraissez choqués mes aieux. Oui, ce petit accessoire qui ne coûte que la modique bagatelle de 20 euros est en capacité de reculer votre champ de perception à une vision extraordinaire !
 
@@ -50,13 +50,13 @@ Oui, c'est un grand mot. Cependant, comme tout objectif fish eyes, tout aura un 
 
 D'ailleurs si l'on considère les [statistiques de Flickr](http://www.flickr.com/cameras), Apple est la troisième marque d'appareil photo la plus utilisé sur le site en question :
 
-![appareil-photo-utilise](https://static.irz.fr/2013/02/appareil-photo-utilise.png)
+<img alt="appareil-photo-utilise" data-src="https://static.irz.fr/2013/02/appareil-photo-utilise.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/appareil-photo-utilise.png" />
 
 Et oui, Apple est troisième derrière Canon et Nikon, mais il est devant **Sony** et Panasonic !
 
 Et le flash ?
 
-![IMG_0167](https://static.irz.fr/2013/02/IMG_0167.jpg)
+<img alt="IMG_0167" data-src="https://static.irz.fr/2013/02/IMG_0167.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/IMG_0167.jpg" />
 
 Ce n'est pas le plus visible sur cette photo, mais **ne comptez pas sur le flash**, du moins sur le iphone 5 avec lequel j'ai testé l'objectif. En effet, il marque la photo d'une "lune" vraiment moche. Encore sur cette photo ça ne se voit pas beaucoup, mais en soirée la différence est vraiment flagrande.
 

@@ -37,7 +37,7 @@ Chacun comporte ses avantages et ses inconvénients.
 
 **Manger séparément**, ce n'est certes pas très glamour, mais cela permet de manger ce que tu veux, quand tu veux. Dans le colocation que je squatte actuellement, c'est ce moyen que l'on emploie, et ça marche plutôt bien...
 
-![pas-de-vaisselle-sale](https://static.irz.fr/2013/05/pas-de-vaisselle-sale-640x480.jpg)
+<img alt="pas-de-vaisselle-sale" data-src="https://static.irz.fr/2013/05/pas-de-vaisselle-sale-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/05/pas-de-vaisselle-sale-640x480.jpg" />
 
 
 [We interrupt your regularly scheduled program](http://www.flickr.com/photos/outofideas/280343710/in/photostream/) par **out of ideas**

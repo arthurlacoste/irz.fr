@@ -16,7 +16,7 @@ tags:
 - mp3
 ---
 
-![femme casque multicolore](https://static.irz.fr/2011/06/cerberus-2011-06-08-à-01.26.57.png) Oyez oyez braves gens ! Aujourd'hui, je vous propose de télécharger, pour les plus motivés, un pack d'une centaines de mp3 dont la durée de chacun oscille entre 7 et 24 secondes.
+<img alt="femme casque multicolore" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-08-à-01.26.57.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-08-à-01.26.57.png" /> Oyez oyez braves gens ! Aujourd'hui, je vous propose de télécharger, pour les plus motivés, un pack d'une centaines de mp3 dont la durée de chacun oscille entre 7 et 24 secondes.
 
 Vivement conseillé aux **gros écouteurs de musiques** et aux mémoires auditives, vous pourrez intercalez quelques conseils avec les précieuses chansons que contient votre baladeur mp3.
 

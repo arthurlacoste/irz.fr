@@ -20,6 +20,6 @@ Un peu comme si vous n'aviez que ça a faire de courir après l'argent, de toujo
 
 Si vous aussi vous avez donné trop de temps aux autres, réagissez !
 
-[![superchapeau-gunes-taylor](https://static.irz.fr/2012/07/superchapeau-gunes-taylor.png)
+[<img alt="superchapeau-gunes-taylor" data-src="https://static.irz.fr/2012/07/superchapeau-gunes-taylor.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/07/superchapeau-gunes-taylor.png" />
 
 ](http://arthurlacoste.com/studenthat/)

@@ -79,7 +79,7 @@ Bon, que faut-il faire  ?
 
 En premier lieu, il faut aller sur WordPress, puis dans *outils > Exporter* :
 
-![wordpress export tool](https://static.irz.fr/2017/11/wordpress-export-tool.gif){: .align-center}
+<img alt="wordpress export tool" data-src="https://static.irz.fr/2017/11/wordpress-export-tool.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/11/wordpress-export-tool.gif" />{: .align-center}
 
 En faisant ceci, vous allez disposer d'un fichier XML qui comprendra toutes les données textuelles de votre site, c'est-à-dire que vous allez devoir gérer séparément les fichiers que vous avez téléchargé sur WP<span class="ar" /><span class="mar">images, vidéos porno, et tout ce que vous avez chopé sur 2bCalvi</span>.
 
@@ -132,7 +132,7 @@ J'ai décidé d'utiliser Staticman, mais il faudra vérifier si votre thème est
 
 Pour ce qui est des images, j'ai utilisé le dossier `wp-content/uploads` de WordPress, et j'ai ajouté un nouveau sous-domaine `static.irz.fr` qui renvoie vers ce dossier. Vous pouvez faire autrement, mais je vous déconseille de mettre vos images dans le même dépôt que votre site, surtout si vous avez plusieurs Gigas de média comme moi. Éventuellement un dépôt annexe.
 
-![remplacer des liens d'images vers plein de fichiers, c'est facile](https://static.irz.fr/2017/11/replace-static-images.gif){: .align-center}
+<img alt="remplacer des liens d'images vers plein de fichiers, c'est facile" data-src="https://static.irz.fr/2017/11/replace-static-images.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/11/replace-static-images.gif" />{: .align-center}
 
 Ainsi les images contenues dans mes articles sont renommées en conséquence.
 

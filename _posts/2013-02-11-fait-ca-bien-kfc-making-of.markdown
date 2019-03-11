@@ -44,7 +44,7 @@ Je vais de ce pas me prendre un [EF-S 18-135 f/f/3.5-5.6 IS STM](http://www.amaz
 ## Un scénario... ...improvisé
 
 
-![WEB_CHEMIN_804_1256033945](https://static.irz.fr/2013/01/WEB_CHEMIN_804_1256033945.jpg)
+<img alt="WEB_CHEMIN_804_1256033945" data-src="https://static.irz.fr/2013/01/WEB_CHEMIN_804_1256033945.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/WEB_CHEMIN_804_1256033945.jpg" />
 
 
 

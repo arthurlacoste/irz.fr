@@ -42,7 +42,7 @@ J'utilise le mot truquer, mais en réalité c'est un phénomène acquis dans not
 
 
 
-![classement-1-2-3](https://static.irz.fr/2013/04/classement-1-2-3.gif)
+<img alt="classement-1-2-3" data-src="https://static.irz.fr/2013/04/classement-1-2-3.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/04/classement-1-2-3.gif" />
 
 En réalité, **les classements sont sans cesse détournés**, et comme l'illustre notamment cette histoire d'Appgratis, et c'est bien la publicité qui régit les classements ! En effet, comment pensez-vous que les films deviennent populaires, ou qu'un président est élu ? Oui la publicité fait tout, et les budgets marketing prennent une proportion incroyable pour faire ou défaire la popularité d'une marque, d'un artiste, d'une application. La publicité est l'un des pendants indéniable de notre société capitalise les gars.
 

@@ -16,7 +16,7 @@ tags:
 - pince à linge
 ---
 
-![pinces-a-linges-nicotine](https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png)
+<img alt="pinces-a-linges-nicotine" data-src="https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png" />
 
 
 

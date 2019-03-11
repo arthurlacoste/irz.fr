@@ -25,7 +25,7 @@ Pour cela, allez dans le menu Chrome / Personnaliser et contrôler Google Chrome
 
 
 
-![Autoriser en mode navigation privée](https://static.irz.fr/2015/02/navigation-privee-extensions.png)
+<img alt="Autoriser en mode navigation privée" data-src="https://static.irz.fr/2015/02/navigation-privee-extensions.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/02/navigation-privee-extensions.png" />
 
 
 

@@ -34,7 +34,7 @@ Dans un premier temps, vous devez vous connecter sur le site [dropbox.com](http:
 
 
 
-![Versions précédentes](https://static.irz.fr/2013/02/dropbox-version-precedante.png)
+<img alt="Versions précédentes" data-src="https://static.irz.fr/2013/02/dropbox-version-precedante.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/dropbox-version-precedante.png" />
 
 
 
@@ -46,7 +46,7 @@ Cliquez sur la date de la dernière modification, puis sur Plus > Versions préc
 
 
 
-![Historique des révisions](https://static.irz.fr/2013/02/dropbox-historique-version.png)
+<img alt="Historique des révisions" data-src="https://static.irz.fr/2013/02/dropbox-historique-version.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/dropbox-historique-version.png" />
 
 
 

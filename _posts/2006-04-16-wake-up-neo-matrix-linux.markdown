@@ -21,7 +21,7 @@ tags:
 - wake up
 ---
 
-![matrix wake up](https://static.irz.fr/2010/02/matrix-wake-up.jpg)Quand j’étais gamin, j’ai pendant longtemps cherché à comprendre l'intérêt du hacking sous toutes ces formes.  Des "disclaimers" régissant les règles de chaque team aux tutoriaux bien ficelés pour réduire à néant une boite mail, en passant par l'installation de chevaux de troie sur les ordinateur des amis, il y avait de quoi faire. D'ailleurs c'est comme ça que j'ai appris les rudiments de l'informatique.
+<img alt="matrix wake up" data-src="https://static.irz.fr/2010/02/matrix-wake-up.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/02/matrix-wake-up.jpg" />Quand j’étais gamin, j’ai pendant longtemps cherché à comprendre l'intérêt du hacking sous toutes ces formes.  Des "disclaimers" régissant les règles de chaque team aux tutoriaux bien ficelés pour réduire à néant une boite mail, en passant par l'installation de chevaux de troie sur les ordinateur des amis, il y avait de quoi faire. D'ailleurs c'est comme ça que j'ai appris les rudiments de l'informatique.
 
 Le but, c'est quand même de faire quelque chose d'animé, comme dans le film. L'écran se réveille tout seul, et s'anime de ces quelques phrases :
 

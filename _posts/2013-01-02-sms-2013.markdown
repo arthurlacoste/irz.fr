@@ -16,4 +16,4 @@ post_format:
 C'est sympa les sms de bonne année, on reçoit des trucs assez varié, on renouvelle son répertoire, bref : c'est la joie !
 
 
-![20130102-113831.jpg](https://static.irz.fr/2013/01/20130102-113831.jpg)
+<img alt="20130102-113831.jpg" data-src="https://static.irz.fr/2013/01/20130102-113831.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/20130102-113831.jpg" />

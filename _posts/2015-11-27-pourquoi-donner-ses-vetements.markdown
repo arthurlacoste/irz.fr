@@ -33,7 +33,7 @@ Emmaüs et Le Relais ont été fondés dans cet objectif, créer des emplois, 
 
 Tout les vêtements que vous ne mettez pas dans votre poubelle seront en effet recyclés, et réduisent d'autant la taille de votre poubelle. En effet, un habil jeté à la poubelle ne sera pas recyclé, car il sera perdu dans le marasme des déchets, perdu entre le plastique et l'alimentaire. Les vêtements sont valorisé à plus 90%.
 
-![seconde-vie-textile](https://static.irz.fr/2015/11/seconde-vie-textile.jpg)
+<img alt="seconde-vie-textile" data-src="https://static.irz.fr/2015/11/seconde-vie-textile.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/11/seconde-vie-textile.jpg" />
 
 **Tout n'est pas rose pour autant**
 

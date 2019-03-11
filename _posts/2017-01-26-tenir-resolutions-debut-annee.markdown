@@ -11,7 +11,7 @@ categories:
 - Parcours
 ---
 
-![Source : Wix Static](http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg)
+<img alt="Source : Wix Static" data-src="http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg" />
 
 Comme moi, vous êtes nombreux à vous demander comment devenir un membre du cercle très fermé des gens qui arrivent à tenir leurs bonnes résolutions de début d'année. Je n'ai pour ainsi dire jamais vraiment réussi à venir à bout d'une résolution, et j'aimerais vraiment que ça change. C'est pourquoi je vous propose des astuces pour essayer de parvenir à vos fins en ce début d'année 2017.
 
@@ -23,7 +23,7 @@ On ne se connaît pas forcément, et pourtant je sais déjà que seulement 8% d'
 
 
 
-![Source : Unlocking The Bible](http://unlockingthebible.org/wp-content/uploads/2014/12/resolutions-scrabble-3297.jpg)
+<img alt="Source : Unlocking The Bible" data-src="http://unlockingthebible.org/wp-content/uploads/2014/12/resolutions-scrabble-3297.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://unlockingthebible.org/wp-content/uploads/2014/12/resolutions-scrabble-3297.jpg" />
 
 Si vous êtes comme moi, vous vous dites souvent: «Je vais enfin me mettre au sport. » Mais qu'est-ce que ça sous-entend réellement? Avez-vous l'intention d'atteindre un certain poids ? Ou un certain pourcentage de graisse corporelle ? Voulez-vous courir trois kilomètres sans cracher vos poumons ? Ou être capable de faire 10 pompes d'un coup ? Pour ce genre de questionnement, le Dr. Marciano prône le « système classique d'objectifs » qui nous force à rendre nos objectifs plus spécifiques, mesurables, réalisables, pertinents et limités dans le temps.
 
@@ -57,7 +57,7 @@ Le soutien social et moral est essentiel. Oui, il faut un certain courage person
 
 
 
-![Source : Gretchen Rubin](http://gretchenrubin.com/wp-content/uploads/2014/12/NEW-YEARS-RESOLUTIONS-calendar.jpg)
+<img alt="Source : Gretchen Rubin" data-src="http://gretchenrubin.com/wp-content/uploads/2014/12/NEW-YEARS-RESOLUTIONS-calendar.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://gretchenrubin.com/wp-content/uploads/2014/12/NEW-YEARS-RESOLUTIONS-calendar.jpg" />
 
 Je me dis souvent que je n'ai pas le temps de voir des gens, de me cultiver plus, d'apprendre une langue... Mais la vérité c'est que je ne « prends » pas le temps. Nous choisissons chaque jour de passer notre temps à faire ou ne pas faire certaines choses. Faites de vos nouveaux objectifs une priorité et programmez-les dans votre calendrier. Pour votre vie culturelle par exemple, un [calendrier d'objectifs](http://www.asap.be/fr/artikel/atteignez-vos-objectifs-avec-le-calendrier-des-objectifs-asap) permet de se créer des plages de disponibilité pour des soirées cinéma ou lecture. Vous avez un max de bordel à ranger chez vous? Prévoyez du temps pour nettoyer votre placard, votre garage ou autre avec un réveil sur votre mobile. Ne remettez pas au lendemain ce que vous pouvez faire aujourd'hui. Le must reste de planifier vos rendez-vous médicaux qui traînent depuis des mois voire des années.
 

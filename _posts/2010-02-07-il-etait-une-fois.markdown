@@ -27,4 +27,4 @@ Je vous souhaite vous aussi de savoir un jour qui vous souhaitez devenir, car ç
 
 Il n'y a aucun rapport avec quelque marque que ce soit dans le nom de ce site. C'est tout simplement mon prénom et mon nom, accolés, que j'assume dorénavant pleinement, me séparant de mon "double virtuel". ArthurLacoste.com n'a en aucun cas vocation à la prétention. On pourra sans doute dénoncer un manque d'imagination, à la rigueur.
 Merci de m'avoir lu et (ou) vu.
-![signature arthur lacoste](http://irz.fr/wp-content/images/signature.jpg)
+<img alt="signature arthur lacoste" data-src="http://irz.fr/wp-content/images/signature.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://irz.fr/wp-content/images/signature.jpg" />

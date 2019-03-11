@@ -37,7 +37,7 @@ Par contre, je ne sais plus ou j'avais lu ceci, mais la réalité est que le le 
 
 Comme vous pouvez le voir dans la photo ci dessus, le fait d'utiliser un iPhone n'a pas empêché le photographe d'utiliser un moyen d'éclairer correctement le joueur de baseball. Ce cliché à mis un coup de pied dans la fourmilière des photographes professionnels.
 
-![touristes appareil photo](https://static.irz.fr/2013/04/touristes-appareils-photo-640x452.gif)
+<img alt="touristes appareil photo" data-src="https://static.irz.fr/2013/04/touristes-appareils-photo-640x452.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/04/touristes-appareils-photo-640x452.gif" />
 
 L'usage d'un APN reflex vient donc compléter un appareil photo compact, et ne vise pas forcément à le remplacer, à moins que vous ne souhaitiez passer votre vie avec un appareil autour du cou, au risque de passer pour un touriste. Aujourd'hui encore, mon smartphone à de beau jours devant lui et reste l'un de mes appareil photo de prédilection, car contrairement au 650D, il est toujours sur moi.
 

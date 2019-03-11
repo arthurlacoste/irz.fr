@@ -148,7 +148,7 @@ Voici à quoi à ressemblé le site pendant presque 2 ans. Un thème pas mal cus
 
 
 
-![irz-v3](https://static.irz.fr/2013/01/irz-v3.png)
+<img alt="irz-v3" data-src="https://static.irz.fr/2013/01/irz-v3.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/irz-v3.png" />
 
 Voilà, vous y êtes. C'est simple, c'est beau. C'est lavé avec mirlaine. Ça correspond à peu près à ce que je veux, et je me sens prêt pour entamer le reste de l'année 2013 sereinement.
 

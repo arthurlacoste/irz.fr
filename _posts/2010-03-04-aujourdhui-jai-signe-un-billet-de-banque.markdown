@@ -23,7 +23,7 @@ tags:
 
 [English version](https://irz.fr/today-i-signed-a-bank-note)
 
-![billet de 10 euros](https://static.irz.fr/2010/03/CIMG0653-300x225.jpg)Non, ce n'est pas une blague, je l'ai bel et bien fait : à l'heure ou la Livre Sterling prend du plomb dans l'aile, je viens de gribouiller ma signature sur un billet de dix euros. Je n'avais pas de billet de cinq cent sous la main, alors j'ai du me contenter de celui-là.
+<img alt="billet de 10 euros" data-src="https://static.irz.fr/2010/03/CIMG0653-300x225.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/CIMG0653-300x225.jpg" />Non, ce n'est pas une blague, je l'ai bel et bien fait : à l'heure ou la Livre Sterling prend du plomb dans l'aile, je viens de gribouiller ma signature sur un billet de dix euros. Je n'avais pas de billet de cinq cent sous la main, alors j'ai du me contenter de celui-là.
 
 Les auteurs signent leurs livres, les acteurs griffonnent leurs affiches, les musiciens dédicacent leurs albums. Et les autres ? N'ont-ils pas besoin de reconnaissance ? Bien sûr. Pour se prouver qu'ils sont quelqu'un, ils s'investissent dans des projets socio-culturels, ou adhèrent à une (ou plusieurs) association(s). Ils entretiennent de "bonnes relations" avec leur famille, ou leurs voisins. Ils aident à faire la cuisine, apportent un dessert, ou même une bouteille. Ils ont même des amis, qui les remercient d'être là pour eux quand ça ne va pas. D'autres comme moi, créent leur entreprise (je suis sur plusieurs  fronts, comme tout le monde).
 

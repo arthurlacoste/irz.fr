@@ -20,7 +20,7 @@ Dans la vidéo ci-dessus, je parle de différentes manières de ne pas se faire 
 
 Zalando est un pure player Allemand, spécialisé à la base dans la vente de chaussures en ligne, et qui s'est désormais placé comme l'un des fers de lance de l'industrie de la mode en ligne.<!-- more -->
 
-![zalando-homepage](https://static.irz.fr/2013/09/zalando-homepage-640x319.png)
+<img alt="zalando-homepage" data-src="https://static.irz.fr/2013/09/zalando-homepage-640x319.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/09/zalando-homepage-640x319.png" />
 
 Autant vous le dire tout de suite, on est très loin des sites aux allures de sapin de noël, tel que GrosBill ou PriceMinister. Zalando, c'est avant tout un design (presque) épuré, et qui se veut clairement sobre. Place à une charte léchée, quasiment aux petits oignons.
 

@@ -15,6 +15,6 @@ tags:
 - upload new photo
 ---
 
-![quora-vend-reve](https://static.irz.fr/2013/01/quora-vend-reve.png)
+<img alt="quora-vend-reve" data-src="https://static.irz.fr/2013/01/quora-vend-reve.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/quora-vend-reve.png" />
 
 Du coup j'ai du mal à choisir.

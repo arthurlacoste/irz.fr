@@ -19,6 +19,6 @@ post_format:
 
 Dans le même trip, mais en version "Pirate des caraïbes : je porte un trésor", ça rend pas trop mal non plus.
 
-![best-dog-costume-ever-pirate](https://static.irz.fr/2013/01/best-dog-costume-ever-pirate.jpg)
+<img alt="best-dog-costume-ever-pirate" data-src="https://static.irz.fr/2013/01/best-dog-costume-ever-pirate.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/best-dog-costume-ever-pirate.jpg" />
 
 

@@ -64,7 +64,7 @@ Donc il y a les cas suivant :
 
 J’ai longtemps été habitué à **avoir de la merde**. Typiquement, les écouteurs de Apple. Tu sais ces écouteurs livrés depuis toujours avec les iPod ? Ben quand tu achètes un iPod, dit-toi qu’il faut aussi que tu achètes aussi un **vrai** casque. Même si tu réalises qu’au fond en plus de t’acheter un iPod 200€ il va falloir mettre une cinquantaine d’euros (plus ou moins) dans des écouteurs. C’est comme ça. Sinon c’est un peu comme si tu faisais une fondue sans fromage. Ou une levrette sans fessée. Tu comprends mieux là, hein ?
 
-![Apple Headphone](https://static.irz.fr/2013/02/apple-headphone.jpg)
+<img alt="Apple Headphone" data-src="https://static.irz.fr/2013/02/apple-headphone.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/apple-headphone.jpg" />
 ****
 
 J’ai essayé les intra, ceux d’Apple aussi, ceux des smartphones de Samsung. Non les intra-auriculaires, c’est pas pour moi. Ils ont une sorte d’embout en plastique que tu finis toujours par perdre ! Sans parler du prix.
