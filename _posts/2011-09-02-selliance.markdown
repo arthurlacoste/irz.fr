@@ -22,7 +22,7 @@ Je pourrais vous faire un article long et argumenté sur le nouveau réseau soci
 
 Au lieu de ça, je vais m'illustrer en une image :
 
-[![](https://static.irz.fr/2011/09/seillance-facebook-1024x949.png)](https://static.irz.fr/2011/09/seillance-facebook.png)
+<a href="https://static.irz.fr/2011/09/seillance-facebook.png"><img alt="No alt" data-src="https://static.irz.fr/2011/09/seillance-facebook-1024x949.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/09/seillance-facebook-1024x949.png" /></a>
 
 Sérieusement, maintenant, en plus de reprendre les fonctionnalités des réseaux sociaux existants, on ne se foule même plus en pompant carrément la homepage (en arrivant a faire quelques chose de pire que Facebook graphiquement parlant, mais la on touche aux goûts et aux couleurs).
 

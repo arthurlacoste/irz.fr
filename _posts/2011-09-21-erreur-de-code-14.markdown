@@ -22,7 +22,7 @@ tags:
 - stop
 ---
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.22.56.png)](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.22.56.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.22.56.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.22.56.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.22.56.png" /></a>
 
 Ce panneau indique qu'à l'intersection, je dois m'arrêter et céder le passage aux usagers de la route rencontrée.
 

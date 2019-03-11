@@ -16,7 +16,7 @@ tags:
 - iPhone 5
 ---
 
-[![](https://static.irz.fr/2010/07/iphone-5-prototype.jpg)](https://static.irz.fr/2010/07/iphone-5-prototype.jpg)
+<a href="https://static.irz.fr/2010/07/iphone-5-prototype.jpg"><img alt="No alt" data-src="https://static.irz.fr/2010/07/iphone-5-prototype.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/07/iphone-5-prototype.jpg" /></a>
 
 Au moins, il n'y aura pas de problèmes de réseau.
 

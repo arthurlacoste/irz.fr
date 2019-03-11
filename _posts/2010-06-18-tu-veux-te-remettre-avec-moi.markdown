@@ -11,7 +11,7 @@ categories:
 - 3615MyLife
 ---
 
-[![](https://static.irz.fr/2010/06/relationship-request-bouclette.png)](https://static.irz.fr/2010/06/relationship-request-bouclette.png)
+<a href="https://static.irz.fr/2010/06/relationship-request-bouclette.png"><img alt="No alt" data-src="https://static.irz.fr/2010/06/relationship-request-bouclette.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/relationship-request-bouclette.png" /></a>
 
 Non, mais c'est gentil de demander.
 

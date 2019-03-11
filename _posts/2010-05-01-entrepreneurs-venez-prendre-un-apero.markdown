@@ -16,7 +16,7 @@ tags:
 - apéro
 ---
 
-[![](https://static.irz.fr/2010/05/aperoentrepreneurs.jpg)](https://static.irz.fr/2010/05/aperoentrepreneurs.jpg)
+<a href="https://static.irz.fr/2010/05/aperoentrepreneurs.jpg"><img alt="No alt" data-src="https://static.irz.fr/2010/05/aperoentrepreneurs.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/05/aperoentrepreneurs.jpg" /></a>
 
 Tout les premiers jeudi du mois, il est coutume de se retrouver (à Paris) en compagnie de [Guilhem Bertholet](http://www.guilhembertholet.com/blog/) à son apéroEntrepreneur.
 

@@ -40,4 +40,4 @@ Intégrer une pub, c'est pas la joie, et souvent (et même la plupart du temps),
 
 
 
-[![](https://static.irz.fr/2011/10/integration-adsense.png)](https://static.irz.fr/2011/10/integration-adsense.png)
+<a href="https://static.irz.fr/2011/10/integration-adsense.png"><img alt="No alt" data-src="https://static.irz.fr/2011/10/integration-adsense.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/10/integration-adsense.png" /></a>

@@ -12,4 +12,4 @@ categories:
 - Dessins
 ---
 
-[![](https://static.irz.fr/2011/05/20100520-le-cheque-1000.png)](https://static.irz.fr/2011/05/20100520-le-cheque-1000.png)
+<a href="https://static.irz.fr/2011/05/20100520-le-cheque-1000.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/20100520-le-cheque-1000.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/20100520-le-cheque-1000.png" /></a>

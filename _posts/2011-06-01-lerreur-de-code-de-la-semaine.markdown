@@ -19,7 +19,7 @@ Je me suis dit qu'il serait fun que je propose une rubrique utile et pratique su
 
 Suivra sans doute d'autres rubriques, qui sait ?
 
-[![](https://static.irz.fr/2011/05/hiro-2011-05-31-à-17.10.10.png)](https://static.irz.fr/2011/05/hiro-2011-05-31-à-17.10.10.png)
+<a href="https://static.irz.fr/2011/05/hiro-2011-05-31-à-17.10.10.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/hiro-2011-05-31-à-17.10.10.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/hiro-2011-05-31-à-17.10.10.png" /></a>
 
 Alors, je klaxonne (et/ou) je freine ?
 

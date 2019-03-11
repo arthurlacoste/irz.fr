@@ -20,7 +20,7 @@ tags:
 - iae
 ---
 
-[![](https://static.irz.fr/2010/03/cokoon-300x220.jpg)](https://static.irz.fr/2010/03/cokoon.jpg)Voici l'intervention orale de Michel Verrier au prix de l'entrepreneur de l'IAE de Grenoble pour **Cokoon**, projet d'un nouveaux moyen de locomotion hybride entre vélo et scooter.
+<a href="https://static.irz.fr/2010/03/cokoon.jpg"><img alt="No alt" data-src="https://static.irz.fr/2010/03/cokoon-300x220.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/cokoon-300x220.jpg" /></a>Voici l'intervention orale de Michel Verrier au prix de l'entrepreneur de l'IAE de Grenoble pour **Cokoon**, projet d'un nouveaux moyen de locomotion hybride entre vélo et scooter.
 
 La création de son entreprise est en cours.
 

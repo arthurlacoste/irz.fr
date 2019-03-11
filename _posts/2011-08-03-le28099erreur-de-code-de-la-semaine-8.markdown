@@ -22,7 +22,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/05/remplacer-batterie.png)](https://static.irz.fr/2011/05/remplacer-batterie.png)
+<a href="https://static.irz.fr/2011/05/remplacer-batterie.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/remplacer-batterie.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/remplacer-batterie.png" /></a>
 
 La batterie contient une solution d'acide sulfurique et d'eau appelée : électrolyte.
 

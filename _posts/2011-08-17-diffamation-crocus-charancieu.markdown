@@ -17,9 +17,9 @@ tags:
 
 Voici ce que j'ai reçu ce matin par courrier avec accusé de réception : un joli courrier de l'avocat du [Crocus de charancieu](https://irz.fr/restaurant-le-crocus-charancieu-moules-frites). Suite à ce courrier et pour ne pas être condamné pour diffamation, je modifie l'article de manière à ne plus être inquiété par la justice.
 
-[![](https://static.irz.fr/2011/08/Image-2-e1313605677928-613x1024.jpg)](https://static.irz.fr/2011/08/Image-2-e1313605677928.jpg)
+<a href="https://static.irz.fr/2011/08/Image-2-e1313605677928.jpg"><img alt="No alt" data-src="https://static.irz.fr/2011/08/Image-2-e1313605677928-613x1024.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/Image-2-e1313605677928-613x1024.jpg" /></a>
 
-[![](https://static.irz.fr/2011/08/Image-3-e1313605630884-1024x910.jpg)](https://static.irz.fr/2011/08/Image-3-e1313605630884.jpg)
+<a href="https://static.irz.fr/2011/08/Image-3-e1313605630884.jpg"><img alt="No alt" data-src="https://static.irz.fr/2011/08/Image-3-e1313605630884-1024x910.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/Image-3-e1313605630884-1024x910.jpg" /></a>
 Il est bon cependant de revenir sur des articles faisant jurisprudence dans le domaine. Un article de Charlotte Paoli évoque que "des commentaires portant sur des produits et services sont regardés comme n’entrant pas dans le champ d’application de la loi de 1881".
 
 En clair, les propos tenus doivent porter directement atteinte à la réputation des exploitants du restaurant et non à celle du restaurant lui même, sinon, ils ne sont pas soutenus par la loi sur la liberté de la presse du 29 juillet 1881.

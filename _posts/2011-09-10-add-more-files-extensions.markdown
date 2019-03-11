@@ -42,7 +42,7 @@ La solution a tout vos problèmes ? Add more files extensions !
 
 C'est tout simple : un champ dans la page _Réglages > Médias > Envoi de fichiers_ va apparaître dès que vous aurez installé le plugin, vous allez pouvoir insérer (séparé par un espace) les extensions supplémentaires que vous souhaitez autoriser.
 
-[![](https://static.irz.fr/2011/09/screenshot-1.png)](https://static.irz.fr/2011/09/screenshot-1.png)
+<a href="https://static.irz.fr/2011/09/screenshot-1.png"><img alt="No alt" data-src="https://static.irz.fr/2011/09/screenshot-1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/09/screenshot-1.png" /></a>
 
 Certifié valide Wordpress 3.2.1.
 

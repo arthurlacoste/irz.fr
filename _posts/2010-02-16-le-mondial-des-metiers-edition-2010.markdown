@@ -16,7 +16,7 @@ tags:
 - mondial
 ---
 
-[![](https://static.irz.fr/2010/02/logo.gif)](https://static.irz.fr/2010/02/logo.gif)
+<a href="https://static.irz.fr/2010/02/logo.gif"><img alt="No alt" data-src="https://static.irz.fr/2010/02/logo.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/02/logo.gif" /></a>
 
 Le mondial des métiers est un rendez-vous incontournable lorsque l'on est une personne qui ne sait pas ce qu'elle veut faire dans la vie. Et cette année, ce ne sont pas moins de 125 000 visiteurs qui ont été accueillis durant les 4 jours qu'ont duré cet évènement, soit du 4 au 7 février. A chaque pas que l'on parcourt le long des allées, un nouveau métier nous fait face. Et même si vous êtes un parent qui n'a pas besoin de chercher, vous y trouvez largement votre compte et repartez sans doute avec un petit cadeau.
 

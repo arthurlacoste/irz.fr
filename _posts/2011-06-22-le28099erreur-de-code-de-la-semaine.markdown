@@ -20,7 +20,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/05/tourner-a-gauche.png)](https://static.irz.fr/2011/05/tourner-a-gauche.png)
+<a href="https://static.irz.fr/2011/05/tourner-a-gauche.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/tourner-a-gauche.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/tourner-a-gauche.png" /></a>
 
 Je circule sur une chaussée à double sens de circulation comme l'indique les lignes de rives.
 
@@ -34,15 +34,15 @@ PS : Personnellement, je referais toujours des erreurs de ce type, il est selon 
 
 Comparons tout de même avec d'autres situations ou le véhicule se situe bien à droite :
 
-[![](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.51.05.png)](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.51.05.png)
+<a href="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.51.05.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.51.05.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.51.05.png" /></a>
 
-[![](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.48.24.png)](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.48.24.png)
+<a href="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.48.24.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.48.24.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.48.24.png" /></a>
 
-[![](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.46.42.png)](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.46.42.png)
+<a href="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.46.42.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.46.42.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.46.42.png" /></a>
 
 Maintenant, revenons à la situation présente :
 
-[![](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.53.43.png)](https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.53.43.png)
+<a href="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.53.43.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.53.43.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/hiro-2011-06-01-à-00.53.43.png" /></a>
 
 Si je peux me permettre, la différence entre les deux situations est la direction de la ligne pointillé séparant les deux voies de circulation, sur cette dernière situation, elle est centrée (voir pointe presque vers la gauche), alors qu'elle se dirige clairement à droite dans les précédents clichés.
 Remarquez aussi la position du volant par rapport à la ligne qui donne un bon indicateur de votre position par rapport à la route.

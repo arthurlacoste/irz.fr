@@ -23,7 +23,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/07/pneus1.png)](https://static.irz.fr/2011/07/pneus1.png)
+<a href="https://static.irz.fr/2011/07/pneus1.png"><img alt="No alt" data-src="https://static.irz.fr/2011/07/pneus1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/07/pneus1.png" /></a>
 
 
 
@@ -36,7 +36,7 @@ Les informations présentes sur les flancs des pneus sont relatives à la dimens
 
 
 
-[![](https://static.irz.fr/2011/07/info-pneus.png)](https://static.irz.fr/2011/07/info-pneus.png)
+<a href="https://static.irz.fr/2011/07/info-pneus.png"><img alt="No alt" data-src="https://static.irz.fr/2011/07/info-pneus.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/07/info-pneus.png" /></a>
 
 Réponse B, C et D.
 

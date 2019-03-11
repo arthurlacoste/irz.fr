@@ -14,6 +14,6 @@ tags:
 - vulli
 ---
 
-[![](https://static.irz.fr/2011/05/sophie-1000-1024x646.png)](https://static.irz.fr/2011/05/sophie-1000.png)
+<a href="https://static.irz.fr/2011/05/sophie-1000.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/sophie-1000-1024x646.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/sophie-1000-1024x646.png" /></a>
 
 Star des nourrissons depuis 50 ans, Sophie la girafe n'a pas pris une ride. Et pour cause, elle est même le jouet numéro 1 que les bébés reçoivent à leurs naissance. L'an passé, 828.000 bébés sont nés en France, et 816.000 exemplaires ont étés vendus. L'export se porte plutôt bien pour la girafe aux 76 tâches, il est considéré comme un objet "de luxe", vendu jusqu'à 2 fois le prix vendu en France (12 euros).

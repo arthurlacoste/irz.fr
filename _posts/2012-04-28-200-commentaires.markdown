@@ -27,7 +27,7 @@ Revenons d'ailleurs sur d'autres incidents juridiques et humains qui ont ponctu�
 
 Il y a aussi eu une discussion avec [Selliance](https://irz.fr/selliance), suite à ma capture-article sur le blog, ils m'ont proposés de travailler pour eux en pensant que mes services étaient gratuits. Bien sûr, la carotte était tellement grosse que le mec qui la tenait, sur l'âne, est tombé assez vite.
 
-[![](https://static.irz.fr/2012/04/ane-carotte-baton.jpg)](https://static.irz.fr/2012/04/ane-carotte-baton.jpg)
+<a href="https://static.irz.fr/2012/04/ane-carotte-baton.jpg"><img alt="No alt" data-src="https://static.irz.fr/2012/04/ane-carotte-baton.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/04/ane-carotte-baton.jpg" /></a>
 
 J'ai aussi commencé à écrire sur le regime, le sport, la perte de poids, tout ces sujets qui m'intéressent pas mal depuis [mon régime](https://irz.fr/bien-dans-son-corps-perdre-du-poids-mais-comment-1), il y a de ça quelques années.
 

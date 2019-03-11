@@ -24,8 +24,8 @@ Sur Mac OS X, l'accès à une imprimante connecté a une time capsule est transp
 
 L'utilitaire va détecter tout de suite l'imprimante.
 
-[![](https://static.irz.fr/2011/06/assistant-bonjour.png)](https://static.irz.fr/2011/06/assistant-bonjour.png)
+<a href="https://static.irz.fr/2011/06/assistant-bonjour.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/assistant-bonjour.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/assistant-bonjour.png" /></a>
 
-[![](https://static.irz.fr/2011/06/assistant-bonjour-2.png)](https://static.irz.fr/2011/06/assistant-bonjour-2.png)
+<a href="https://static.irz.fr/2011/06/assistant-bonjour-2.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/assistant-bonjour-2.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/assistant-bonjour-2.png" /></a>
 
 Vous pourrez dès lors utiliser vos logiciels favoris pour imprimer vos documents sous Windows.

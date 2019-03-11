@@ -18,7 +18,7 @@ Hier, j'étais dans le train pour rentrer chez mes parents (la prochaine fois je
 Et tiens, ça faisait longtemps que je n'avais pas fait le point :
 
 
-### [![](https://static.irz.fr/2010/03/CIMG0893-300x225.jpg)](https://static.irz.fr/2010/03/CIMG0893.jpg)Articles en anglais
+### <a href="https://static.irz.fr/2010/03/CIMG0893.jpg"><img alt="No alt" data-src="https://static.irz.fr/2010/03/CIMG0893-300x225.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/CIMG0893-300x225.jpg" /></a>Articles en anglais
 
 
 Parfois, quand j'écris un article [utile](https://irz.fr/objectif-neige) (ou [marrant](https://irz.fr/aujourdhui-jai-signe-un-billet-de-banque)) que [je n'ai pas moi même traduit](https://irz.fr/lecons-de-vie-albert-einstein), ça ne me dérangerais pas qu'il soit traduit. Et j'ai la chance d'avoir un nouvel arrivant dans l'équipe (après, Valérie, Lucie, et Blandine à la correction) : David Hewes. En dernière année de licence de lettres en Angleterre, il vient s'ajouter à l'équipe en tant que traducteur. J'en suis encore à étudier les conditions techniques, mais ça ne devrait pas prendre plus d'une à deux semaines.

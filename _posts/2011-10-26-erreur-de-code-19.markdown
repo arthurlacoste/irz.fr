@@ -21,7 +21,7 @@ tags:
 - stationnement
 ---
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-09-à-22.21.43.png)](https://static.irz.fr/2011/06/cerberus-2011-06-09-à-22.21.43.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-09-à-22.21.43.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-09-à-22.21.43.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-09-à-22.21.43.png" /></a>
 
 Le panneau interdit le stationnement sur la chaussée et ses dépendances du côté ou il est implanté.
 

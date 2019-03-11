@@ -18,7 +18,7 @@ Parce que j'ai moi même eu la volonté de créer une mini communauté autour de
 
 
 
-### Inviter tout vos amis[![](https://static.irz.fr/2010/04/inviter-membres-groupe-facebook.png)](https://static.irz.fr/2010/04/inviter-membres-groupe-facebook.png)
+### Inviter tout vos amis<a href="https://static.irz.fr/2010/04/inviter-membres-groupe-facebook.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/inviter-membres-groupe-facebook.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/inviter-membres-groupe-facebook.png" /></a>
 
 
 
@@ -40,7 +40,7 @@ Mon concept,  c'est de rebondir sur les noms des groupes sur lesquels je fait de
 
 
 
-[![](https://static.irz.fr/2010/04/message-promo-groupe-don-orgasme.png)](https://static.irz.fr/2010/04/message-promo-groupe-don-orgasme.png)
+<a href="https://static.irz.fr/2010/04/message-promo-groupe-don-orgasme.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/message-promo-groupe-don-orgasme.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/message-promo-groupe-don-orgasme.png" /></a>
 
 Il y a plusieurs éléments à prendre en compte pour une bonne accroche :
 
@@ -62,15 +62,15 @@ La phrase permet de rebondir sur votre groupe en prenant en compte le titre du g
 
 Ce qu'il est important de savoir, c'est que tout les groupes n'autorisent pas la promotion de lien. Dans ce cas, il n'y a pas d'icône lien lorsque vous commentez :
 
-[![](https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook.png)](https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook.png)
+<a href="https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook.png" /></a>
 
 Si il n'y a pas d'icône lien, votre seule et unique alternative est... L'arobase ! En effet, grâce au symbole @ dans un commentaire ou message sur le mur d'un e sera obligatoirement **le nom de votre groupe**.
 
-[![](https://static.irz.fr/2010/04/arobase-c-est-la-vie-groupe-facebook.png)](https://static.irz.fr/2010/04/arobase-c-est-la-vie-groupe-facebook.png)C'est simple, mais il fallait le savoir.
+<a href="https://static.irz.fr/2010/04/arobase-c-est-la-vie-groupe-facebook.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/arobase-c-est-la-vie-groupe-facebook.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/arobase-c-est-la-vie-groupe-facebook.png" /></a>C'est simple, mais il fallait le savoir.
 
 Mais le mieux, c'est vraiment de joindre un lien comme vu plus haut afin d'avoir un maximum de visibilité (et si votre image est marrante, c'est un avantage) :
 
-[![](https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook2.png)](https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook2.png)[![](https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook3.png)](https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook3.png)
+<a href="https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook2.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook2.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook2.png" /></a><a href="https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook3.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook3.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/joindre-un-lien-groupe-facebook3.png" /></a>
 
 Vous n'avez plus qu'à partager !
 

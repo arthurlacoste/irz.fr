@@ -20,7 +20,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-01.19.59.png)](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-01.19.59.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-01.19.59.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-01.19.59.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-01.19.59.png" /></a>
 
 Sur chaussée humide est multipliée par deux la distance de freinage : le coefficiant d'adhérence étant deux fois moindre sur sol mouillé que sur sol sec. La distance parcourue pendant le temps de réaction appartient au conducteur et ne varie donc pas en fonction de l'état de la chaussée.
 

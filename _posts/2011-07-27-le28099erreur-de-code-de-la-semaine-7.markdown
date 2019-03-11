@@ -22,7 +22,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-03.06.31.png)](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-03.06.31.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-03.06.31.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-03.06.31.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-03.06.31.png" /></a>
 
 La voie dans laquelle je circule comporte des flèches de présélection indiquant deux directions différentes. Je dois obligatoirement suivre l'une des directions signalées au sol.
 

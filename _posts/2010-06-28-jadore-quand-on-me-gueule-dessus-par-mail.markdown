@@ -13,6 +13,6 @@ tags:
 - screenshot
 ---
 
-[![](https://static.irz.fr/2010/06/gueule-1024x598.png)](https://static.irz.fr/2010/06/gueule.png)
+<a href="https://static.irz.fr/2010/06/gueule.png"><img alt="No alt" data-src="https://static.irz.fr/2010/06/gueule-1024x598.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/gueule-1024x598.png" /></a>
 
 Enfin bref, sûrement une erreur d'utilisation de polices. 

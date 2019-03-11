@@ -44,7 +44,7 @@ Il vous faut configurer les enregistrements MX de Google sur votre hébergeur : 
 Veillez cependant à retirer le MX par défaut de votre hébergeur, en laissant seulement ceux de Google.
 
 Une fois cette procédure effectué, en revenant sur votre tableau de bord, vous devriez voir ce message apparaître :
-[![](https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.45.39.png)](https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.45.39.png)
+<a href="https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.45.39.png"><img alt="No alt" data-src="https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.45.39.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.45.39.png" /></a>
 
 Ceci signifie que vous avez bien fait votre travail. Après quelques heures de patience, votre mail sera alors fonctionnel.
 

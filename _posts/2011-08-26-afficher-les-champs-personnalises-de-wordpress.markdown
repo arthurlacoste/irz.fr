@@ -22,7 +22,7 @@ Certains thèmes proposent d'agrémenter votre blog avec de magnifiques slides. 
 
 Pour cela, rien de plus simple. Une fois sur l'article que vous êtes en train d'écrire, en haut à gauche, juste en dessous  de "Salutations, TonPrénom", il y a un petit bouton "Option de l'écran". En cliquant dessus, c'est magique, vous pouvez voir tout ce que vous voulez, à l'ancienne. Les trackbacks, discussions, et les fameux **champs personnalisés**.
 
-[![](https://static.irz.fr/2011/08/champs-personnalisés-wordpress-1024x575.png)](https://static.irz.fr/2011/08/champs-personnalisés-wordpress.png)
+<a href="https://static.irz.fr/2011/08/champs-personnalisés-wordpress.png"><img alt="No alt" data-src="https://static.irz.fr/2011/08/champs-personnalisés-wordpress-1024x575.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/champs-personnalisés-wordpress-1024x575.png" /></a>
 
 Après, c'est à vous de savoir quel mot clef et le plus adapté à votre thème en lisant la documentation de celui-ci. Personnellement, c'est "screen", suivi de l'url de l'image.
 

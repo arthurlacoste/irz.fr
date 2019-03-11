@@ -15,7 +15,7 @@ Presse-Citron, c'est l'un des premiers blogs que j'ai suivi, il y a de ça 3 ou 
 
 Le tout dans un design sobre et élégant. Le passage à 2 colonnes s'est fait sans trop l’encombres, et on passe d'un thème "lourd" à un privilégiant le contenu.
 
-[![](https://static.irz.fr/2010/07/design-presse-citron-1024x773.png)](https://static.irz.fr/2010/07/design-presse-citron.png)
+<a href="https://static.irz.fr/2010/07/design-presse-citron.png"><img alt="No alt" data-src="https://static.irz.fr/2010/07/design-presse-citron-1024x773.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/07/design-presse-citron-1024x773.png" /></a>
 
 
 

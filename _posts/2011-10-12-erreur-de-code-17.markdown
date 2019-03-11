@@ -21,7 +21,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.08.32.png)](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.08.32.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.08.32.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.08.32.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.08.32.png" /></a>
 
 Les panneaux de présignalisation de sortie placés sur la route indiquent :
 

@@ -24,7 +24,7 @@ Avec ma commande habituelle, un grand **menu j'ai-faim** avec thé glacé et fri
 
 J'étais donc assis là, dans le hall abondamment bruyant de la gare en train d'ouvrir le couvercle du gobelet à chaque fois que je souhaitais y tremper mes lèvres. Oui cette conne de caissière avait oublié de me mettre la paille. Une fois terminé mon menu, je découvrit un petit sachet, au fond du sac cabas. C'était marquéSugar&Shake dessus. Je venais d'ouvrir le sachet.
 
-[![](https://static.irz.fr/2010/06/Capture-d’écran-2010-06-17-à-14.18.16-300x224.png)](https://static.irz.fr/2010/06/Capture-d’écran-2010-06-17-à-14.18.16.png)
+<a href="https://static.irz.fr/2010/06/Capture-d’écran-2010-06-17-à-14.18.16.png"><img alt="No alt" data-src="https://static.irz.fr/2010/06/Capture-d’écran-2010-06-17-à-14.18.16-300x224.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/Capture-d’écran-2010-06-17-à-14.18.16-300x224.png" /></a>
 
 Les churros sont minuscules. Et ce en deux points. Premièrement, les 5 churros ne sont pas très longs : ils sont refermés, **en forme de goutte d'eau**, tiennent dans la paume de la main. Bref, ils sont moches. Deuxièmement, le diamètre est ridicule, ce qui fait qu'une fois en bouche, seul le désagréable goût de l'huile subsiste, sans jamais laisser place au réel goût du churros.
 

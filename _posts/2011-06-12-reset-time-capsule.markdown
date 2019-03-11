@@ -20,7 +20,7 @@ tags:
 
 Pour ceux qui ont un petit soucis avec leurs time capsule, voici ou se situe l'endroit sur lequel appuyer pour réinitialiser votre time capsule :
 
-[![](https://static.irz.fr/2011/06/time-capsule-reset.png)](https://static.irz.fr/2011/06/time-capsule-reset.png)
+<a href="https://static.irz.fr/2011/06/time-capsule-reset.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/time-capsule-reset.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/time-capsule-reset.png" /></a>
 
 Oui, c'est un petit trou (presque) invisible à l'oeil nu situé entre le port ethernet le plus à <del>gauche</del> droite et l'antivol.
 

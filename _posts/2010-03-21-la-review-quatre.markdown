@@ -25,7 +25,7 @@ Chatroulette, le site qui permet à nos jeunes enfants d'apprendre l'anatomie de
 **Autopromo : Interview d'entrepreneurs**
 Un peu d'auto-promotion, je commence ma série d'interviews d'entrepreneurs, avec la [rencontre du créateur d'objectif neige](https://irz.fr/objectif-neige), reçu en toute simplicité à son domicile.
 
-**[![](https://static.irz.fr/2010/03/la-review-300x140.png)](https://static.irz.fr/2010/03/la-review.png)Régionales : une large victoire de la gauche**
+**<a href="https://static.irz.fr/2010/03/la-review.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/la-review-300x140.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/la-review-300x140.png" /></a>Régionales : une large victoire de la gauche**
 On a constaté que Nicolas Sarkozy avait touché le fond en apprenant les résultats de l'UMP aux régionales. Certains parlent d'un effet titanic. Mieux encore, on comprend mieux le taux d'abstention quand on écoute la remarque de cette mémé anarchiste. Et en plus, si vous faites attention, il y a une affiche de Gorillaz au fond.
 Via Lepost.fr et [zap-tele.com](http://www.dailymotion.com/video/xcloc3_mamie-anarchiste_webcam).
 

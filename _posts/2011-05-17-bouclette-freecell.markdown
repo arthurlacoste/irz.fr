@@ -12,6 +12,6 @@ categories:
 - Logiciels
 ---
 
-[![](https://static.irz.fr/2011/05/bouclette-MAB.png)](https://static.irz.fr/2011/05/bouclette-MAB.png)
+<a href="https://static.irz.fr/2011/05/bouclette-MAB.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/bouclette-MAB.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/bouclette-MAB.png" /></a>
 
 Un peu d'aquarelle et un stylo waterproof, et me voila en train de croquer Bouclette en phase de répit entre 2 biberons.

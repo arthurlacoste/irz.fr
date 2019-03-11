@@ -34,7 +34,7 @@ Il y a deux points importants à voir, en effet, le tutoriel est articulé autou
 
 Commencez par vous connecter à [votre espace sur le site de Pôle emploi](https://www1.pole-emploi.fr/espacepersonnel/identification). Une fois identifié, allez en bas de page, dans la rubrique **Mes dossiers de recherche d'emploi > Mes abonnements aux offres**.
 
-[![](https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.48.22.png)](https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.48.22.png)
+<a href="https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.48.22.png"><img alt="No alt" data-src="https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.48.22.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.48.22.png" /></a>
 
 Attention, comme dans la capture d'écran, laissez le champ "Emploi recherché" vide ! En effet, l'astuce est dans l'absence de critères de type d'emploi.
 
@@ -44,7 +44,7 @@ Pour accéder à l'ensemble des annonces d'une ville, saisissez "Commune" en tan
 
 En ce qui concerne le rayon, étant sans permis B, je ne met que 10 Km de rayon, mais libre à vous de remplir le champ comme bon vous semble. Cependant, n'oubliez pas que plus vous élargissez un critère, plus il y aura d'annonces à parcourir !
 
-[![](https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.49.48.png)](https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.49.48.png)
+<a href="https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.49.48.png"><img alt="No alt" data-src="https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.49.48.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/04/Capture-d’écran-2012-04-08-à-14.49.48.png" /></a>
 
 Une fois vos critères enregistrés, vous recevrez quotidiennement les nouvelles annonces liées à votre filtre. Vous pouvez créer autant de filtres que vous voulez en faisant une veille sur 3 villes par exemple (maximum 5 si mes souvenirs sont bons) en allant dans **Mes services emploi > Mes critères de recherche**. Vous pourrez via cette page activer ou désactiver la réception des offres par mail, ainsi qu'ajouter un nouveau filtre de recherche (en bas de page, le lien "Nouvelle recherche").
 

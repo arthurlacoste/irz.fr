@@ -23,7 +23,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-04.08.27.png)](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-04.08.27.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-04.08.27.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-04.08.27.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-04.08.27.png" /></a>
 
 La pastille verte apposée dans l'angle inférieur droit du pare-brise permet d'identifier :
 

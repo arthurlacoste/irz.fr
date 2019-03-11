@@ -36,7 +36,7 @@ Knock, Knock, Neo.</blockquote>
 
 Une image parle bien plus que de longues phrases :
 
-[![](https://static.irz.fr/2009/02/wakeup.gif)](https://static.irz.fr/2009/02/wakeup.gif)
+<a href="https://static.irz.fr/2009/02/wakeup.gif"><img alt="No alt" data-src="https://static.irz.fr/2009/02/wakeup.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2009/02/wakeup.gif" /></a>
 
 Ce matin, en attaquant un serveur debian avec putty pour écrire un  script et cherchant de la doc pour faire un joli script bien rodé, une  crise d’imagination m’a foudroyé : reprendre cette vieille idée. Quelques recherches sur internet m'ont permis d'écrire un petit fichier shell :
 

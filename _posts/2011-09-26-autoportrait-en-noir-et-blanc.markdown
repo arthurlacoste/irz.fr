@@ -17,4 +17,4 @@ tags:
 
 Aujourd'hui, je ressort un autoportait !
 
-[![](https://static.irz.fr/2011/09/Arthur-2003-10-copy.png)](https://static.irz.fr/2011/09/Arthur-2003-10-copy.png)
+<a href="https://static.irz.fr/2011/09/Arthur-2003-10-copy.png"><img alt="No alt" data-src="https://static.irz.fr/2011/09/Arthur-2003-10-copy.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/09/Arthur-2003-10-copy.png" /></a>

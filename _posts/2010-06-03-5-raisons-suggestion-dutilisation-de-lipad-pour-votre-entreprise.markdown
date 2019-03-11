@@ -11,7 +11,7 @@ categories:
 - Idées
 ---
 
-[![](https://static.irz.fr/2010/05/ipad.png)](https://static.irz.fr/2010/05/ipad.png)
+<a href="https://static.irz.fr/2010/05/ipad.png"><img alt="No alt" data-src="https://static.irz.fr/2010/05/ipad.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/05/ipad.png" /></a>
 
 Difficile de passer à côté de la tablette de Cupertino en ce moment. Apple va renouveler l'exploit de l' iPhone en forçant tous ses concurrents à se plier en quatre pour se mettre à son niveau. Car en plus de proposer toutes les applications (ou la plupart) du catalogue de l'App Store et donc de l'iPhone, La pomme a pensé à **l'aspect entreprise** de [son nouveau bijoux](https://irz.fr/sortie-de-ipad-en-france).
 
@@ -51,7 +51,7 @@ Et si ça ne marche pas, tant pis, cela sera un sujet pour attaquer la réunion 
 
 
 
-[![](https://static.irz.fr/2010/05/ipad-entreprise.png)](https://static.irz.fr/2010/05/ipad-entreprise.png)
+<a href="https://static.irz.fr/2010/05/ipad-entreprise.png"><img alt="No alt" data-src="https://static.irz.fr/2010/05/ipad-entreprise.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/05/ipad-entreprise.png" /></a>
 Dans la documentation (pdf, 18Mo), Apple évoque un profil de configuration, permettant de configurer l'accès à ses courriers électroniques, ses calendriers et ses contacts Exchange. Les protocoles tel que Microsoft Exchange, VPN et LDAP peuvent être configurés simplement.
 
 

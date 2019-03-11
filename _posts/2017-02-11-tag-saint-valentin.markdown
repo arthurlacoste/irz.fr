@@ -29,6 +29,6 @@ Avec Maxime, on a essayé de vous proposer quelque chose d'un peu différent.
 Le street-art, c'était ma première fois.
 
 Voici le rendu final :
-[![](https://static.irz.fr/2017/02/tag-coeur-vomi-sick-heart-valentines-saint-valentin-pochoir.jpg)](https://irz.fr/recherche?q=tag-coeur-vomi-sick-heart-valentines-saint-valentin-pochoir)
+<a href="https://irz.fr/recherche?q=tag-coeur-vomi-sick-heart-valentines-saint-valentin-pochoir"><img alt="No alt" data-src="https://static.irz.fr/2017/02/tag-coeur-vomi-sick-heart-valentines-saint-valentin-pochoir.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/02/tag-coeur-vomi-sick-heart-valentines-saint-valentin-pochoir.jpg" /></a>
 
 Vous voulez vous aussi lutter contre la Saint Valentin ? [Alors voici les pochoirs à imprimer chez vous à télécharger en PDF](https://static.irz.fr/2017/02/pochoirs-saint-valentin-tag-al.pdf).

@@ -21,7 +21,7 @@ tags:
 - iae
 ---
 
-[![](https://static.irz.fr/2010/03/autentica-300x196.png)](https://static.irz.fr/2010/03/autentica.png)Gagnant du concours création avec son concept de Franchise de taqueria, Guillaume François est reparti avec 2000 euros en poche.
+<a href="https://static.irz.fr/2010/03/autentica.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/autentica-300x196.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/autentica-300x196.png" /></a>Gagnant du concours création avec son concept de Franchise de taqueria, Guillaume François est reparti avec 2000 euros en poche.
 
 Les questions du jury :
 **Avez-vous un échéancier pour la mise en place de votre réseau de franchise ?**

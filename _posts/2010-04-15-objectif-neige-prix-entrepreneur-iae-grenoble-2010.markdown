@@ -19,7 +19,7 @@ tags:
 - objectif-neige
 ---
 
-[![](https://static.irz.fr/2010/03/objectif-neige.png)](https://static.irz.fr/2010/03/objectif-neige.png)Après les vidéos de [Cokoon](https://irz.fr/cokoon-prix-entrepreneur-iae), [Autentica](https://irz.fr/autentica-prix-entrepreneur-iae) et [Gest' Affaires](https://irz.fr/gest-affaires-prix-entrepreneur-iae), c'est au tour du premier [comparateur de stations de ski](http://www.objectif-neige.com) de passer devant le jury.
+<a href="https://static.irz.fr/2010/03/objectif-neige.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/objectif-neige.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/objectif-neige.png" /></a>Après les vidéos de [Cokoon](https://irz.fr/cokoon-prix-entrepreneur-iae), [Autentica](https://irz.fr/autentica-prix-entrepreneur-iae) et [Gest' Affaires](https://irz.fr/gest-affaires-prix-entrepreneur-iae), c'est au tour du premier [comparateur de stations de ski](http://www.objectif-neige.com) de passer devant le jury.
 
 Objectif-neige, que j'avais [déjà interviewé auparavant](https://irz.fr/objectif-neige), s'est en effet retrouvé à la finale du concours de l'IAE. Né de la constatation qu'il n'y a pas de moyen de comparer les stations de ski sur internet, O-N est aujourd'hui le premier comparateur de stations de ski sur la toile.
 

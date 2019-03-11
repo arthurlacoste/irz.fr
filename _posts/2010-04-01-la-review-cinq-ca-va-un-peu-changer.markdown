@@ -16,7 +16,7 @@ tags:
 - review
 ---
 
-[![](https://static.irz.fr/2010/04/baby-crying-261x300.png)](https://static.irz.fr/2010/04/baby-crying.png)Non, pas de review de la semaine dernière, et pour cause, j'avais quelques [autres projets en tête](https://irz.fr/maintenant-on-se-retrousse-les-manches). De plus, je constate que pour continuer cette review, il me faut du temps. J'ai peut être voulu aller plus vite qu'a mon rythme, mais pondre une review par semaine me prend quand même 5-6 heures. Et puis ça ne m'éclate plus trop en ce moment. Matthieu Blanco nous explique très bien dans sa _Revue tech_ comment se passe la création d'un podcast.
+<a href="https://static.irz.fr/2010/04/baby-crying.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/baby-crying-261x300.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/baby-crying-261x300.png" /></a>Non, pas de review de la semaine dernière, et pour cause, j'avais quelques [autres projets en tête](https://irz.fr/maintenant-on-se-retrousse-les-manches). De plus, je constate que pour continuer cette review, il me faut du temps. J'ai peut être voulu aller plus vite qu'a mon rythme, mais pondre une review par semaine me prend quand même 5-6 heures. Et puis ça ne m'éclate plus trop en ce moment. Matthieu Blanco nous explique très bien dans sa _Revue tech_ comment se passe la création d'un podcast.
 
 A vrai dire, je préfère faire les choses au feeling, et vous ?
 

@@ -24,7 +24,7 @@ D'ailleurs le logo de ce nouveau groupe déchire !
 
 Vous voulez le voir ? Le voici :
 
-[![](https://static.irz.fr/2017/03/prophet-of-rage-logo-1.png)](https://irz.fr/recherche?q=prophet-of-rage-logo-2)
+<a href="https://irz.fr/recherche?q=prophet-of-rage-logo-2"><img alt="No alt" data-src="https://static.irz.fr/2017/03/prophet-of-rage-logo-1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/prophet-of-rage-logo-1.png" /></a>
 
 Et pour ceux qui adorent ce groupe mythique, je ne peux que vous suggérer d'écouter cette chanson généralissime "Killing in the name" :
 

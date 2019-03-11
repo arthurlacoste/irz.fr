@@ -22,7 +22,7 @@ tags:
 - série
 ---
 
-[![](https://static.irz.fr/2011/05/depasser-droite.png)](https://static.irz.fr/2011/05/depasser-droite.png)
+<a href="https://static.irz.fr/2011/05/depasser-droite.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/depasser-droite.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/depasser-droite.png" /></a>
 
 La voiture indique son intention de tourner à gauche et est arrêté pour céder le passage aux véhicules venant en sens inverse. Bien que, dans ce cas, le dépassement par la droite doit autorisé, je ralentis et j'attends car l'espace à droite est insuffisant.
 

@@ -24,7 +24,7 @@ tags:
 - twitter
 ---
 
-[![](https://static.irz.fr/2010/03/magdinier-300x264.png)](https://static.irz.fr/2010/03/magdinier.png)
+<a href="https://static.irz.fr/2010/03/magdinier.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/magdinier-300x264.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/magdinier-300x264.png" /></a>
 
 Chef de projet informatique, Martin Magdinier a fait murir son projet pendant ses années d'études. Créatif, il a eu de multiples idées. Mais aujourd'hui, il se concentre exclusivement sur [Objectif-Neige.com](http://www.objectif-neige.com).
 
@@ -43,7 +43,7 @@ Mais cela ne veut pas dire qu'il ne travaille pas, il a en effet une charge de t
 
 ### Un flocon de neige qui s'envole
 
-[![](https://static.irz.fr/2010/03/objectif-neige-300x294.png)](https://static.irz.fr/2010/03/objectif-neige.png)
+<a href="https://static.irz.fr/2010/03/objectif-neige.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/objectif-neige-300x294.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/objectif-neige-300x294.png" /></a>
 
 L'auto-entreprise, il connait bien. Quelques clics, et un numéro siret arrive dans votre boite aux lettres quelques semaines plus tard.
 

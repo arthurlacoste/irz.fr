@@ -14,7 +14,7 @@ tags:
 - redondance
 ---
 
-[![](https://static.irz.fr/2010/07/lesite.tv_.png)](https://static.irz.fr/2010/07/lesite.tv_.png)
+<a href="https://static.irz.fr/2010/07/lesite.tv_.png"><img alt="No alt" data-src="https://static.irz.fr/2010/07/lesite.tv_.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/07/lesite.tv_.png" /></a>
 
 Parfois quand on voit le prix que coûte un developpeur, on se demande pourquoi il y a encore des abberations de ce type sur internet.
 

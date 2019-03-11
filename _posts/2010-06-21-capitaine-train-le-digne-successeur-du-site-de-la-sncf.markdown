@@ -11,7 +11,7 @@ categories:
 - Web
 ---
 
-[![](https://static.irz.fr/2010/06/capitaine-train.png)](https://www.capitainetrain.com/welcome/5aade0)
+<a href="https://www.capitainetrain.com/welcome/5aade0"><img alt="No alt" data-src="https://static.irz.fr/2010/06/capitaine-train.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/capitaine-train.png" /></a>
 
 [Capitaine train](https://www.capitainetrain.com/welcome/5aade0) est une idée. Et même **une bonne idée**. Jean-Daniel, Martin et Valentin souhaitent proposer à leurs visiteurs une interface épuré, simple et ergonomique pour visualiser et commander en ligne ses billets de train. C'est tout. c'est simple, ça ne mange pas de pain, ça ne se fait pas de marge ou de comm' sur votre billet et ça ne vous pollue pas visuellement d’hôtels et autres avion improbables sur un site **de train**. Et "pas non plus de publicité pour le prochain Twilight".
 

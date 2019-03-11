@@ -17,6 +17,6 @@ tags:
 - super-mamie
 ---
 
-[![](https://static.irz.fr/2011/06/super-mamy-1024x589.png)](https://static.irz.fr/2011/06/super-mamy.png)
+<a href="https://static.irz.fr/2011/06/super-mamy.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/super-mamy-1024x589.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/super-mamy-1024x589.png" /></a>
 
 Je vous présente Super-Mamie et son fidèle compagnon. La suite au prochain épisode.

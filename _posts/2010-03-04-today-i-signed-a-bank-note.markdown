@@ -13,7 +13,7 @@ categories:
 
 [French (and original) article](https://irz.fr/aujourdhui-jai-signe-un-billet-de-banque)
 
-[![](https://static.irz.fr/2010/03/cash-wad-300x225.jpg)](https://static.irz.fr/2010/03/cash-wad.jpg) No, it’s not a joke, I went and did it.  At the moment that the price of the pound sterling plummeted, I scribbled my signature on a ten euro note.  It wasn’t a 500€ bill in my hand, but for the moment I’ll have to be satisfied with this one.
+<a href="https://static.irz.fr/2010/03/cash-wad.jpg"><img alt="No alt" data-src="https://static.irz.fr/2010/03/cash-wad-300x225.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/cash-wad-300x225.jpg" /></a> No, it’s not a joke, I went and did it.  At the moment that the price of the pound sterling plummeted, I scribbled my signature on a ten euro note.  It wasn’t a 500€ bill in my hand, but for the moment I’ll have to be satisfied with this one.
 
 Authors sign books, actors pen their posters and musicians dedicate their albums.  But what about the others?  Do they not need recognition?  Of course they do.  To prove to themselves that they are someone they invest time in socio-cultural projects and get involved in charities and foundations.  They nurture good relationships with their family and their neighbours.  They help do the cooking and bring a dessert to the party, or a bottle of wine.  They have friends as well, who they thank for having been there when times were tough.  People like me create a business (myself on several frontiers, just like the rest of the world.)<!-- more -->
 

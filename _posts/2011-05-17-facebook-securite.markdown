@@ -12,7 +12,7 @@ categories:
 - Dessins
 ---
 
-[![](https://static.irz.fr/2011/05/facebook-securite.png)](https://static.irz.fr/2011/05/facebook-securite.png)
+<a href="https://static.irz.fr/2011/05/facebook-securite.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/facebook-securite.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/facebook-securite.png" /></a>
 
 "Facebook veut mieux protéger ses utilisateurs contre le " spam et les scams " ( arnaques ). C'est du moins en ces termes que le réseau social a annoncé le déploiement de nouvelles fonctionnalités de sécurité dont certaines avaient déjà été évoquées il y a quelques semaines sans pour autant être devenues opérationnelles pour tous."
 

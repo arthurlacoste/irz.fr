@@ -27,7 +27,7 @@ Une astuce permet d'archiver automatiquement les courriers provenant de certaine
 
 Pour y accéder, rien de plus simple :
 
-[![](https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1-1024x692.png)](https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1.png)
+<a href="https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1-1024x692.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1-1024x692.png" /></a>
 
 Vous verrez apparaître cette petite fenêtre :
 ![](https://static.irz.fr/2011/06/cerberus-2011-06-10-à-12.59.25.png)
