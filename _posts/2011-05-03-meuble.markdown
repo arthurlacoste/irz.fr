@@ -13,4 +13,4 @@ categories:
 
 Ca fait un mois que j'ai déménagé. Nous n'avons plus besoin de meuble, ils ont tous étés trouvés sur des sites de dons. Petit hommage a ceux-ci :
 
-![](https://static.irz.fr/2011/05/cerberus-2011-05-03-%C3%A0-23.19.24.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/05/cerberus-2011-05-03-%C3%A0-23.19.24.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/cerberus-2011-05-03-%C3%A0-23.19.24.png" />

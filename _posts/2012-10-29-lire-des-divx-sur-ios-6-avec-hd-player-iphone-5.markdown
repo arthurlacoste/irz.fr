@@ -20,7 +20,7 @@ tags:
 
 A la sortie du iPhone 5, très rare étaient les logiciels permettant la lecture de fichiers avi en profitant de son écran 16/9.
 
-![](https://static.irz.fr/2012/10/mzl.cgjrgxci.320x480-75.jpg)![](https://static.irz.fr/2012/10/mzl.dmsrtpsa.320x480-75.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2012/10/mzl.cgjrgxci.320x480-75.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/10/mzl.cgjrgxci.320x480-75.jpg" /><img alt="No alt" data-src="https://static.irz.fr/2012/10/mzl.dmsrtpsa.320x480-75.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/10/mzl.dmsrtpsa.320x480-75.jpg" />
 
 [HD Player](https://itunes.apple.com/fr/app/hd-player/id483866500?mt=8) permet donc gratuitement de lire des fichiers de tout type. Vous pouvez soit les transférer depuis iTunes, en allant en bas de page de l'onglet Applications, soit avec un système de transfert wifi assez sympathique, mais qui n'égal pas la vitesse de transfert USB.
 

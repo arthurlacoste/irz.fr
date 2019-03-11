@@ -17,6 +17,6 @@ Ce matin, dès 8h, les commandes par téléphone étaient déjà possibles chez 
 
 Pensez-bien que vous ne pourrez pas vous faire rembourser des 100 € **si vous n'avez pas un forfait Origami pour iPhone** !
 
-![](https://static.irz.fr/2010/06/iphone-4-commande-orange.png)
+<img alt="No alt" data-src="https://static.irz.fr/2010/06/iphone-4-commande-orange.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/iphone-4-commande-orange.png" />
 
 Via MacGé, merci à [@leclitoris](http://twitter.com/leclitoris) pour l'info.

@@ -23,7 +23,7 @@ Je ne vous en ai pas encore parlé ? Pourtant elle represente tant pour moi, co
 
 
 
-![](http://sakima.free.fr/blog/images/ipodred.png)
+<img alt="No alt" data-src="http://sakima.free.fr/blog/images/ipodred.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://sakima.free.fr/blog/images/ipodred.png" />
 
 Vous avez vu cette beauté ?!!! J'ai acheté le iPod nano Red de capacité 4Go, pour la modique somme de 209 €, un achat que j'amorti depuis deux semaines avec une écoute active d'une huitaine d'heures par jour. Comparé au iPod Shuffle première génération que j'ai acquis il y a près d'un an, ce ne serait pas possible. La seule comparaison notable est le fait que ce soit un appareil d'écoute musique de grande qualité. Le shuffle avait l'air plus robuste, le ipod nano a l'air tout petit et tout cassable avec un écran a nu qui réclamerait bien un petit écran de protection.
 

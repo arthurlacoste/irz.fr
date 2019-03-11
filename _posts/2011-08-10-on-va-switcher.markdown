@@ -33,7 +33,7 @@ Je tiens a vous avertir Gamers, Alienware et Asus ROG (Republic Of Gamers) sont 
 
 Au final, deux produits de chez LDLC m'ont particulièrement séduit. Le[ LDLC Saturne SB2-i7-8-H7](http://www.ldlc.com/fiche/PB00111813.html) à 900 euros (et [son pendant SSD](http://www.ldlc.com/fiche/PB00111814.html) beaucoup <del>trop</del> plus cher) sans OS, [ainsi que le MSI GE620-017](http://www.ldlc.com/fiche/PB00113446.html) pour 790 euros moins cher. La différence notable à mes yeux entre les deux étant une RAM de 4 Go pour le modèle de MSI. J'opte donc pour le MSI avec [deux barrettes de 4 Go](http://www.ldlc.com/fiche/PB00107667.html) pour prendre un bon départ. Ce qui me fait (frais de port compris) une facture de 865.90 €. A titre de comparaison, un Mac avec une configuration similaire est vendu aux alentours de 2000 €.
 
-![](https://static.irz.fr/2011/08/msi-ge620.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2011/08/msi-ge620.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/msi-ge620.jpg" />
 
 
 ## Les petits plaisir du petit nouveau sous Windows
@@ -51,7 +51,7 @@ Le logiciel Norton qui est une plaie à retirer. Sérieusement. Et puis en parla
 
 J'ai magouillé un peu pour virer la S-Bar de MSI, un gestionnaires des raccourci clavier "Fn" qui affiche une barre avec des raccourcis sur le bureau. On appelle ça un OSD, et pour ceux qui ne voient toujours pas ce que c'est, une image vaut mieux que de longues explications. C'est cette barre en haut avec des icônes rondes et grises.
 
-![](https://static.irz.fr/2011/08/s-bar.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2011/08/s-bar.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/s-bar.jpg" />
 
 Il y a des choses qui vont me manquer de chez Mac. Les applications intuitives et ergonomiques (Screenflow, Garageband pour ne citer qu'elles...), l'adaptateur Magsafe qui permet de brancher son laptop grâce à un aimant et d'éviter de fameux accrochages (en prolongeant la durée de vie de votre câble d'alimentation.
 

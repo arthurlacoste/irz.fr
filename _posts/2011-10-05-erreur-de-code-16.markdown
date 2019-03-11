@@ -21,7 +21,7 @@ tags:
 - série
 ---
 
-![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.03.34.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.03.34.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-17.03.34.png" />
 
 En ville, les systèmes de climatisation automobile actuels augmentent la consommation de carburant pour les moteurs essences d'envirion 30% (15% sur route) et pour les moteurs diesel d'environ 35% (20% sur route).
 

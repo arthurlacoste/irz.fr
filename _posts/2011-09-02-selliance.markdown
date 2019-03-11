@@ -36,7 +36,7 @@ Mais ce n'est pas tout !
 
 Les développeurs ont pensé intelligent de **stocker votre mot de passe dans leurs base de donnée** (ou du moins d'envoyer ce mot de passe par le formulaire, ce qui n'est pas recommandé). Je déconseille donc de vous inscrire sur ce site, car les mots de passes que vous inscrirez ne seront pas en sécurité.
 
-![](https://static.irz.fr/2011/09/mail-seillance.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/09/mail-seillance.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/09/mail-seillance.png" />
 
 Un jour il faudra que j'écrive un manuel des bonnes conduites a avoir pour les développeurs de site internet, car c'est vraiment préoccupant de voir encore de grosse bourdes comme ça sur internet...
 

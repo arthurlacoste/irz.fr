@@ -22,7 +22,7 @@ tags:
 - série
 ---
 
-![](https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.20.33.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.20.33.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-07-à-16.20.33.png" />
 
 Je circule sur une chaussée à 3 voies à sens unique.
 

@@ -30,10 +30,10 @@ Pour y accéder, rien de plus simple :
 <a href="https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1-1024x692.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.28.39-copy1-1024x692.png" /></a>
 
 Vous verrez apparaître cette petite fenêtre :
-![](https://static.irz.fr/2011/06/cerberus-2011-06-10-à-12.59.25.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-10-à-12.59.25.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-10-à-12.59.25.png" />
 
 Dans cette fenêtre, nous allons sélectionner les mails qui nous intéressent. *@waluu.com signifie (grâce à la petite étoile) que les mails provenant de toutes les boites @waluu.com seront prise en compte dans votre règle de filtrage. Vous pouvez par exemple créer une règle pour les sites sur lesquels vous faites vos achats, afin de leurs attribuer automatiquement un libellé en ne polluant (par exemple) pas votre boite de réception. Pour sélectionner plusieurs boites mails, voici la syntaxe : “*@amazon.com|*@ldlc.com|*@nierle.com”.
 
-![](https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.00.05-copy.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.00.05-copy.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-10-à-13.00.05-copy.png" />
 
 En anglais : [20 Ways to Use Gmail Filters](http://www.lifehack.org/articles/technology/20-ways-to-use-gmail-filters.html).

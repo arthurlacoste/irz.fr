@@ -21,7 +21,7 @@ tags:
 ---
 
 [
-![](https://static.irz.fr/2011/05/depasser.png)](https://static.irz.fr/2011/05/depasser.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/05/depasser.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/depasser.png" />](https://static.irz.fr/2011/05/depasser.png)
 
 Je circule sur une chaussée à double sens comportant trois voies de circulation. La voie centrale est commune à chaque sens de circulation et peut être utilisée soit pour dépasser, soit pour tourner à gauche.
 

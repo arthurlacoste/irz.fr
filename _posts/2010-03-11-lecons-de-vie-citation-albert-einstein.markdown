@@ -25,7 +25,7 @@ tags:
 - succès
 ---
 
-![](https://static.irz.fr/2010/03/einstein-242x300.jpg)Albert Einstein est considéré depuis longtemps comme un génie. Il travaillait dans la physique théorique, était philosophe, auteur, et il est sans doute le scientifique le plus influent qui ai jamais existé. Einstein a apporté sa contribution au monde scientifique, notamment avec la théorie de la relativité, la prédiction de la déviation de la lumière par gravité, ou encore ses travaux sur la mécanique quantique et la cosmologie.
+<img alt="No alt" data-src="https://static.irz.fr/2010/03/einstein-242x300.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/einstein-242x300.jpg" />Albert Einstein est considéré depuis longtemps comme un génie. Il travaillait dans la physique théorique, était philosophe, auteur, et il est sans doute le scientifique le plus influent qui ai jamais existé. Einstein a apporté sa contribution au monde scientifique, notamment avec la théorie de la relativité, la prédiction de la déviation de la lumière par gravité, ou encore ses travaux sur la mécanique quantique et la cosmologie.
 
 Einstein a reçu en 1921 le prix Nobel de physique, "pour ses travaux sur la physique théorique, et spécialement pour avoir découvert la loi de l'effet photoélectrique".
 

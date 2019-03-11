@@ -22,7 +22,7 @@ tags:
 - zone de stationnement
 ---
 
-![](https://static.irz.fr/2011/05/stationnement.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/05/stationnement.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/stationnement.png" />
 
 La signalisation annonce une zone à stationnement unilatéral à alternance semi-mensuelle.
 

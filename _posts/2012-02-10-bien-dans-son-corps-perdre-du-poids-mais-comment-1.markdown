@@ -24,6 +24,6 @@ Pour vous situer rapidement mon histoire, j'ai pris près de 20 kilos en allant 
 
 Depuis ce jour j'ai commencé à me renseigner J'ai commencé avec l'intégration douloureuse du jogging dans mon train train quotidien. Puis Dukan, avec lequel j'ai perdu près de 30 kilos en l'espace de quelques mois (en suivant le livre religieusement).
 
-![](https://static.irz.fr/2012/02/tumblr_lafyznOoFa1qeor8go1_1280.jpg) 17 octobre 2010, L'effet du régime dukan avec quelques mois sans écarts
+<img alt="No alt" data-src="https://static.irz.fr/2012/02/tumblr_lafyznOoFa1qeor8go1_1280.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/02/tumblr_lafyznOoFa1qeor8go1_1280.jpg" /> 17 octobre 2010, L'effet du régime dukan avec quelques mois sans écarts
 
 A la fin du mois de novembre, je pesait 62 kilos pour 1m70.

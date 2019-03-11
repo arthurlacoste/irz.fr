@@ -22,5 +22,5 @@ En réalité je n'ai pas totalement arrêté d'écrire. J'ai seulement réduit u
 
 J'ai l'impression que les réseaux sociaux absorbent une partie de la force vitale, de notre potentiel d'écriture. Alors finalement, devrait-on arrêter d'écrire sur les réseaux sociaux pour canaliser son capital écriture ?
 
-![](https://static.irz.fr/2012/02/Image-nume%CC%81rise%CC%81e-1-643x288.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2012/02/Image-nume%CC%81rise%CC%81e-1-643x288.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/02/Image-nume%CC%81rise%CC%81e-1-643x288.jpg" />
 C'est marrant, on parle d'écriture, en ce moment mon père est en train d'écrire en se servant des réseaux sociaux pour rythmer son histoire, ce qui lui permet par la même occasion de tester en direct la réaction des lecteurs. Vous pouvez d'ailleurs voir le [Google Docs de l'oeuvre : Starfuck](http://bit.ly/starfuck).

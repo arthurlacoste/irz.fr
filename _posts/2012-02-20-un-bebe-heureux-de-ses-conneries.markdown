@@ -13,7 +13,7 @@ post_format:
 - Galerie
 ---
 
-![](https://static.irz.fr/2012/02/bebe-content-de-ses-betises-lena.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2012/02/bebe-content-de-ses-betises-lena.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2012/02/bebe-content-de-ses-betises-lena.jpg" />
 
 Y'a que ça de vrai !
 

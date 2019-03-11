@@ -22,7 +22,7 @@ tags:
 ---
 
 [
-![](https://static.irz.fr/2011/05/tourner-a-gauche.png)](https://static.irz.fr/2011/05/tourner-a-gauche.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/05/tourner-a-gauche.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/tourner-a-gauche.png" />](https://static.irz.fr/2011/05/tourner-a-gauche.png)
 Je circule sur une chaussée à double sens de circulation comme l'indiquent les lignes de rives.
 
 Dans ce cas, pour tourner à gauche, les véhicules ne doivent pas empiéter sur la voie réservée à la circulation inverse, tout en venant serrer au plus prêt l'axe médian.

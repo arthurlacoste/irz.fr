@@ -25,21 +25,21 @@ Que ce que je viens d'évoquer vous passionne ou qu'il vous rebute, tout un chac
 ### Créer un espace Google Apps
 
 
-![](https://static.irz.fr/2010/12/hiro-2010-12-27-%C3%A0-13.47.22-1024x680.png)
+<img alt="No alt" data-src="https://static.irz.fr/2010/12/hiro-2010-12-27-%C3%A0-13.47.22-1024x680.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/12/hiro-2010-12-27-%C3%A0-13.47.22-1024x680.png" />
 
 Dans [Google Apps](http://google.com/a/), en bas de page, dans la catégorie **Versions disponibles**, sélectionnez [Google Apps](http://www.google.com/apps/intl/fr/group/index.html). En cliquant ensuite sur premiers pas, vous allez pouvoir créer un compte Google Apps, sous réserve que vous ayez votre propre nom de domaine, bien entendu.
-![](https://static.irz.fr/2011/01/hiro-2010-12-27-à-21.56.15.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/01/hiro-2010-12-27-à-21.56.15.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/01/hiro-2010-12-27-à-21.56.15.png" />
 Une fois votre compte créé, vous pouvez y accédez via l'adresse http://google.com/a/votre-domaine.com.
 
 En vous connectant, vous allez nez à nez avec une page qui ressemble à ça :
 
-![](https://static.irz.fr/2010/12/png-1024x716.)
+<img alt="No alt" data-src="https://static.irz.fr/2010/12/png-1024x716." src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/12/png-1024x716." />
 
 Un peu plus bas, dans la rubrique "Paramètres du service", aller dans E-mail.
-![](https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.32.06.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.32.06.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/01/cerberus-2010-12-28-à-01.32.06.png" />
 
 Il vous faut configurer les enregistrements MX de Google sur votre hébergeur : c'est ainsi que sera fait le lien entre votre nom de domaine, et la gestion de la réception et envoi de mails par Google. Il y a quelques ligne à remplir. Pour cela, il vous faut aller dans la rubrique "Zone DNS" de votre hébergeur. Si vous ne disposez pas de MX 10, 20 et 30 vous pouvez remplacer ceux-ci par d'autres d'ordre de grandeur similaires. Une image vaut mieux que de long discours :
-![](https://static.irz.fr/2011/01/mx-google.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/01/mx-google.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/01/mx-google.png" />
 
 Veillez cependant à retirer le MX par défaut de votre hébergeur, en laissant seulement ceux de Google.
 
@@ -50,4 +50,4 @@ Ceci signifie que vous avez bien fait votre travail. Après quelques heures de p
 
 Lorsque la mention _Mise à jour_ disparaitra, c'est que tout sera ok.
 
-![](https://static.irz.fr/2011/01/cerberus-2010-12-28-à-10.20.03.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/01/cerberus-2010-12-28-à-10.20.03.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/01/cerberus-2010-12-28-à-10.20.03.png" />

@@ -17,6 +17,6 @@ La bonne nouvelle, [Google Docs](https://docs.google.com/) permet maintenant de 
 
 Il vous suffit de cocher "Convertir les textes de PDF ou image vers un documents Google Docs".
 
-![](https://static.irz.fr/2010/06/Google-Docs-OCR.png)
+<img alt="No alt" data-src="https://static.irz.fr/2010/06/Google-Docs-OCR.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/Google-Docs-OCR.png" />
 
 [Source](http://googledocs.blogspot.com/2010/06/optical-character-recognition-ocr-in.html) - Relayeur

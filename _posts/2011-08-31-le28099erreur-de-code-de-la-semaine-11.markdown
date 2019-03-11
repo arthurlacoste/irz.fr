@@ -25,7 +25,7 @@ tags:
 - série
 ---
 
-![](https://static.irz.fr/2011/08/route-acces-reglemente.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/08/route-acces-reglemente.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/route-acces-reglemente.png" />
 
 **Après ce panneau, je pourrai rencontrer :
 - des cyclomoteurs

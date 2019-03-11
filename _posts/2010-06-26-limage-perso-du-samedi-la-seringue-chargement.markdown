@@ -30,6 +30,6 @@ Je vais essayer, tout les samedis, de sortir de mes archives une image perso sym
 
 Aujourd'hui, la seringue-chargement :
 
-![](https://static.irz.fr/2010/06/seringue.gif)
+<img alt="No alt" data-src="https://static.irz.fr/2010/06/seringue.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/seringue.gif" />
 
 Trouvé par hasard dans un sous-dossier de mon ancien web-cv, elle devait sans doute servir à la base d'image de chargement AJAX de la page du CV, mais à été vite retiré, car après réflexion, les employeurs n'auraient pas aimés.

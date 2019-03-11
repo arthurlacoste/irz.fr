@@ -24,7 +24,7 @@ tags:
 - série
 ---
 
-![](https://static.irz.fr/2011/11/cerberus-2011-06-10-à-23.57.21.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/11/cerberus-2011-06-10-à-23.57.21.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/11/cerberus-2011-06-10-à-23.57.21.png" />
 
 Ce panneau indique un "Cédez le passage" à l'intersection et le panonceau en précise la configuration.
 
@@ -33,7 +33,7 @@ Les traits fins représentent les branches non prioritaires de l'intersection.
 Le trait large représente la route prioritaire.
 
 
-![](https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.00.42.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.00.42.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.00.42.png" />
 Je céderai le passage à droite car j'aborde la route prioritaire. Cependant, je n'aurai pas à céder le passage à gauche car les usagers rencontrerons un panneau "Cédez le passage".
 
 Réponse B et C.

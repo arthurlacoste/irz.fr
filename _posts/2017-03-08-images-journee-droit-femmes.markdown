@@ -71,7 +71,7 @@ qui est beaucoup plus importante ! 85,4 ans chez les femmes, pour 79,3
 chez les hommes !** On commence par la petite fée qui vient souffler à
 l'oreille d'un bébé\... Mais lui dire quoi ?
 
-![](https://static.irz.fr/2017/03/journee-droit-femmes-inegalités.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2017/03/journee-droit-femmes-inegalités.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/03/journee-droit-femmes-inegalités.jpg" />
 
 Jeanne d'Arc, Madame de Sévigné, Olympe de Gouge, Marie Curie. Ces
 femmes ne vous disent rien ? Il serait peut être temps de réviser votre

@@ -83,7 +83,7 @@ Bon, pour ce prix là, vous avez le droit à la totale : deux câbles, un micro 
 
 Autre truc super stylé, c’est le fait de pouvoir changer votre câble mini jack, pour en mettre un plus court par exemple, comme les Beat de Dr Dre. Sauf que la, Bowers & Wilkins à intégré le branchement à l’intérieur du casque. Une question d'esthétique. Une réponse parfaite. Comme vous pouvez le voir sur le cliché plus bas, les mousses du casque sont aimantées, vous pouvez les enlever très facilement, pour changer le câble ou lorsque [elles sont trop usé](http://www.custom-cable.co.uk/b-and-w-p5-replacement-earpads.html)es.
 
-******![](https://lh4.googleusercontent.com/Hfdmqr1fIqX8xsDAwnLtoiEmS0YPYEpzElYHwKisPqGa9V-W95UEk1LWAp3h1njGbxU6AfcJMPimt9K_SXnkaUj4-FigQVIrdDVicYNrD6iv2DfsTxBK)
+******<img alt="No alt" data-src="https://lh4.googleusercontent.com/Hfdmqr1fIqX8xsDAwnLtoiEmS0YPYEpzElYHwKisPqGa9V-W95UEk1LWAp3h1njGbxU6AfcJMPimt9K_SXnkaUj4-FigQVIrdDVicYNrD6iv2DfsTxBK" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://lh4.googleusercontent.com/Hfdmqr1fIqX8xsDAwnLtoiEmS0YPYEpzElYHwKisPqGa9V-W95UEk1LWAp3h1njGbxU6AfcJMPimt9K_SXnkaUj4-FigQVIrdDVicYNrD6iv2DfsTxBK" />
 **
 
 Quel est le point commun entre tout les produits dont je viens de vous parler ? Ils ont des fils. C’est l’heure des confessions : je déteste les fils ! Vous allez me dire “comme tout le monde”. Ouais. Mais en plus de ça, **je déteste recharger les trucs sans fil**. C’est pas facile mes amis d’être dans ma vie.
@@ -98,7 +98,7 @@ Mais ce qu’il m’arrive d’utiliser encore parfois (et [tant qu’il fonctio
 ## Les enceintes portables
 
 
-** ![](https://lh5.googleusercontent.com/YDjICX0XShLJwGA3wpq9etGRyVn5v3HRAFMf7h--OAVQBW0NK9BLJVHkFO9H76S6_zs2B4Kt02MF7QewuHxAaJ1U3uF4EWJ9_jXnGgQfEixRrx5FdAbMdJBcLg)**
+** <img alt="No alt" data-src="https://lh5.googleusercontent.com/YDjICX0XShLJwGA3wpq9etGRyVn5v3HRAFMf7h--OAVQBW0NK9BLJVHkFO9H76S6_zs2B4Kt02MF7QewuHxAaJ1U3uF4EWJ9_jXnGgQfEixRrx5FdAbMdJBcLg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://lh5.googleusercontent.com/YDjICX0XShLJwGA3wpq9etGRyVn5v3HRAFMf7h--OAVQBW0NK9BLJVHkFO9H76S6_zs2B4Kt02MF7QewuHxAaJ1U3uF4EWJ9_jXnGgQfEixRrx5FdAbMdJBcLg" />**
 
 Non, je ne vous parlerais pas de boombox des années 80, car ce n’est pas l’usage que je fais de la musique, à part si vous aimer vous balader avec un appareil qui pèse 10 kilos pour rien. Mon enceinte fait moins de 350 grammes et est l’une des plus puissante enceintes portable du marché, si l’on compare le rapport encombrement / Watts. C’est la Jambox de Jawbone.
 

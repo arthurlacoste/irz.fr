@@ -16,14 +16,12 @@ Certains modèles récents de Macbook Pro possèdent deux cartes graphique, ce q
 
 Dans les préférences systèmes, il faut aller dans la catégorie "Economie d'énergie".
 
-![](https://static.irz.fr/2010/12/cerberus-2010-12-27-à-00.41.47.png)
+<img alt="No alt" data-src="$2" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=$2" />
 
 Dans la catégorie "graphisme" vous avez le choix entre :
 - **Meilleure autonomie batterie** : le choix sera porté sur la carte necessitant le moins de ressources, pour allonger votre autonomie;
 - **Meilleure performance** : vous pourrez profiter de toutes les possibilité que vous offre votre machine à pleine puissance.
 
-![](https://static.irz.fr/2010/12/cerberus-2010-12-27-à-00.40.57.png)
+<img alt="No alt" data-src="$2" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=$2" />
 
 Votre choix sera pris en compte après une réouverture de votre session.
-
-

@@ -24,7 +24,7 @@ J'avoue préférer présenter des solutions multiplateformes (bonjour Windows 
 ### L'application iPhone
 
 
-![](https://static.irz.fr/2010/12/mzl.letmsdsk.320x480-75.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2010/12/mzl.letmsdsk.320x480-75.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/12/mzl.letmsdsk.320x480-75.jpg" />
 Vous pouvez retrouver [iComptaMobile](http://itunes.apple.com/app/icompta-2-personal-finance/id294191195?mt=8) (iCompta 2 Personal Finance - 2.2.5, $4.99 - sur le App Store); J'ai commencé à utiliser iCompta sur iPhone. En effet, l'application mobile est pleinement fonctionnelle et de surcroît très intuitive. La gestion de vos différents comptes, le choix d'attribuer une catégorie (ou plusieurs !) à tel enregistrement, le système de pointage des entrées, rien n'est laissé au dépourvu.
 
 Pour les amateurs de graphiques et statistiques en tout genre, vous en aurez pour votre argent : diagramme en camembert colorés exprimant vos dépenses et revenus, un histogramme retrace l'évolution de votre solde, avec la possibilité d'avoir un budget prévisionnel (calculé à partir des entrées périodiques). Nous déplorerons un usage plus poussées des données précédemment enregistrées pour établir un budget approximatif plus "intelligent" (moyenne des dépenses précédentes sur un poste pour "prévoir" les dépenses du mois à venir).
@@ -39,7 +39,7 @@ Outre la traditionnelle sauvegarde par mail de l'application iPhone et les compl
 ### L'application Mac OS
 
 
-![](https://static.irz.fr/2010/12/hiro-2010-12-24-à-08.05.29-1024x718.png)
+<img alt="No alt" data-src="https://static.irz.fr/2010/12/hiro-2010-12-24-à-08.05.29-1024x718.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/12/hiro-2010-12-24-à-08.05.29-1024x718.png" />
 
 Presque moins intuitive, elle n'en demeure pas pour le moins fonctionnelle. On retrouve tout les atouts qui font la popularité de iCompta sur iPhone, avec cependant des petits plus.
 

@@ -15,7 +15,7 @@ tags:
 - pixel-art
 ---
 
-![](https://static.irz.fr/2011/06/fee-des-bois1.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/fee-des-bois1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/fee-des-bois1.png" />
 
 L'art nait de contraintes. On le sait tous. Et le pixel-art en est l'une de ses plus illustres représentations. En effet, le pixel-art à été imposé par le nombre restreint de pixels qu'il était possible d'afficher sur les premiers écrans.
 
@@ -23,4 +23,4 @@ Lorsque je me suis décidé à créer [la page Wikipédia du Pixel-Art](http://f
 
 Bref, passons les introductions, et voici des petits gif animés en pixel-art que j'ai <del>pixelisé</del> dessiné en 2005. Ça ne me rajeuni pas. Ils représentent tous une fée des bois en situation. La première, stoïque. La seconde, travaillant. Le troisième, en <del>boulet</del> prisonnier. La dernier est déguisé en o0o, pixel-artiste que j'affectionne tout particulièrement. Je vous recommande d'ailleurs d'aller faire un tour sur [son site](http://www.o0o.ch) qui regorge de petites images de ce style !
 
-![](https://static.irz.fr/2011/06/0A0.gif) ![](https://static.irz.fr/2011/06/0A0_02.gif) ![](https://static.irz.fr/2011/06/0A0_05.gif) ![](https://static.irz.fr/2011/06/0A0_03.gif)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/0A0.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/0A0.gif" /> <img alt="No alt" data-src="https://static.irz.fr/2011/06/0A0_02.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/0A0_02.gif" /> <img alt="No alt" data-src="https://static.irz.fr/2011/06/0A0_05.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/0A0_05.gif" /> <img alt="No alt" data-src="https://static.irz.fr/2011/06/0A0_03.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/0A0_03.gif" />

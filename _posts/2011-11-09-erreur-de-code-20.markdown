@@ -25,7 +25,7 @@ tags:
 - série
 ---
 
-![](https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.06.27.png)
+<img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.06.27.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.06.27.png" />
 
 A cette intersection sans signalisation, c'est la règle de la priorité à droite qui s'applique. Je céderai donc le passage aux usagers venant de droite.
 

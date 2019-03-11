@@ -15,7 +15,7 @@ post_format:
 
 Cette page est une copie de l'article [du blog de Sebsauvage](http://sebsauvage.net/rhaa/) qui à été supprimé suite à la plainte de tuto4pc, provoquant ainsi l'effet Streisand.
 
-![](https://static.irz.fr/2011/07/rha_20110628_money.jpg)
+<img alt="No alt" data-src="https://static.irz.fr/2011/07/rha_20110628_money.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/07/rha_20110628_money.jpg" />
 
 Il n'y a pas de petits profits.
 

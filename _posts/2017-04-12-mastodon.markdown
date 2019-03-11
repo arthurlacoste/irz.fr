@@ -15,7 +15,7 @@ Depuis quelques semaines, un pachyderme s’est installé sur la toile d’inter
 _
 <!--more-->
 
-![](https://static.irz.fr/2017/04/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png)
+<img alt="No alt" data-src="https://static.irz.fr/2017/04/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/04/fluffy-elephant-friend-6b47d8e924332955795ff4b2d8fc446437d26b28bfc67d6be2a4d88995ab2c1f.png" />
 
 # Mais alors… Mastodon, qu’est-ce que c’est ?
 
@@ -35,13 +35,13 @@ En ce qui concerne le visuel, très épuré, il se compose de plusieurs colonnes
 
 Vous avez vos informations, les pouets des personnes que vous suivez, ce que vous avez boosté (retweeté pour les twittos). La colonne du milieu est dédiée aux notifications vous concernant, quand on vous répond, qui vous suit, etc... Pour enfin finir sur la colonne de droite, permettant de consulter les différents fils d’actualités.
 
-![](https://static.irz.fr/2017/04/capture1-640x296.png)
+<img alt="No alt" data-src="https://static.irz.fr/2017/04/capture1-640x296.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/04/capture1-640x296.png" />
 
 Chaque utilisateur peut poser un message, appelés « _Pouets _» (ou « _Toot _» en anglais, ndlr) limité à 500 caractères, public ou privé, ou encore avec une partie du contenu caché, visible uniquement si les personnes souhaitant le voir cliquent dessus (une sorte de fonction « _spoiler _» pour ne pas tout afficher de base, utile pour du contenu sensible).
 
 Il est possible de suivre des profils, et d’être suivi à son tour, et même si la recherche n’est pour l’instant pas très réussie pour trouver des personnes sur d’autres instances que la sienne. Il est possible d’accéder au profil d’une personne via votre navigateur en utilisant l’adresse : <span style="text-decoration: underline">nom-de-mon.instance/@pseudo</span>
 
-![](https://static.irz.fr/2017/04/capture2-640x302.png)
+<img alt="No alt" data-src="https://static.irz.fr/2017/04/capture2-640x302.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2017/04/capture2-640x302.png" />
 
 # En bref
 

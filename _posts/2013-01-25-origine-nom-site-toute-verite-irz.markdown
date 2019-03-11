@@ -33,7 +33,7 @@ Le .com c'est ce que tu peux faire de mieux, tu n'as pas de limite concernant to
 
 Et donc ce soir du 24 décembre, j'étais [sur mon site préféré pour chercher des noms de domaines](http://www.ovh.com/fr/index.xml) coule. Je cherchais un concept fédérateur et puissant pouvant nous permettre de tous... ...communiquer.
 
-![](http://irz.fr/img/i%3C3irz.png)
+<img alt="No alt" data-src="http://irz.fr/img/i%3C3irz.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://irz.fr/img/i%3C3irz.png" />
 
 
 
