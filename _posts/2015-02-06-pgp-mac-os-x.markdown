@@ -58,16 +58,18 @@ J’ai essayé des dizaines de manières d’installer PGP sur mon Mac. La plupa
 
 Cette étape est simple. Allez sur [le site de GPGTools](https://gpgtools.org/) et téléchargez GPG Suite for OS X. Une fois téléchargé, montez la DMG et lancer l’application “Install”.
 
-![GPG Suite DMG](https://static.irz.fr/2015/02/GPG-Suite-dmg.png)
-![GPGTools-install-1](https://static.irz.fr/2015/02/GPGTools-install-1.png)
+
+<p><img data-src="https://static.irz.fr/2015/02/GPG-Suite-dmg.png" alt="GPG Suite DMG" />
+<img data-src="https://static.irz.fr/2015/02/GPGTools-install-1.png" alt="GPGTools-install-1" /></p>
+
 
 Pendant l’installation, vous pouvez utiliser tous les paramètres par défaut, excepté un. Dans “Type d’installation”, allez dans “Personnaliser”…
 
-![GPGTools-install-1](https://static.irz.fr/2015/02/GPGTools-install-2.png)
+<p><img data-src="https://static.irz.fr/2015/02/GPGTools-install-2.png" alt="GPGTools-install-1" /></p>
 
 Et décochez l’option GPGMail :
 
-![GPGTools-install-1](https://static.irz.fr/2015/02/GPGTools-install-3.png)
+<p><img data-src="https://static.irz.fr/2015/02/GPGTools-install-3.png" alt="GPGTools-install-1" /></p>
 
 Ensuite, cliquez sur “Installer”.
 

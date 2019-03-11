@@ -23,7 +23,7 @@
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >
-        <img src=
+        <img data-src=
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
           {% else %}
