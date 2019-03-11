@@ -18,26 +18,26 @@ Merci à Paul, Lucie, Beber & Jimmy qui se sont prêtés au jeu.
 
 Et surtout Paul pour ce magnifique calendrier.
 
-[![IMG_0174](https://static.irz.fr/2013/01/IMG_0174-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0174.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0174.jpg"><img alt="IMG_0174" data-src="https://static.irz.fr/2013/01/IMG_0174-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0174-1024x682.jpg" /></a>
 
-[![IMG_0161](https://static.irz.fr/2013/01/IMG_0161-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0161.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0161.jpg"><img alt="IMG_0161" data-src="https://static.irz.fr/2013/01/IMG_0161-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0161-1024x682.jpg" /></a>
 
-[![IMG_0157](https://static.irz.fr/2013/01/IMG_0157-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0157.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0157.jpg"><img alt="IMG_0157" data-src="https://static.irz.fr/2013/01/IMG_0157-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0157-1024x682.jpg" /></a>
 
-[![IMG_0154](https://static.irz.fr/2013/01/IMG_0154-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0154.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0154.jpg"><img alt="IMG_0154" data-src="https://static.irz.fr/2013/01/IMG_0154-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0154-1024x682.jpg" /></a>
 
-[![IMG_0136](https://static.irz.fr/2013/01/IMG_0136-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0136.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0136.jpg"><img alt="IMG_0136" data-src="https://static.irz.fr/2013/01/IMG_0136-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0136-1024x682.jpg" /></a>
 
-[![IMG_0119](https://static.irz.fr/2013/01/IMG_0119-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0119.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0119.jpg"><img alt="IMG_0119" data-src="https://static.irz.fr/2013/01/IMG_0119-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0119-1024x682.jpg" /></a>
 
 Avec un peu de couleur aussi c'est bien.
 
-[![IMG_0082](https://static.irz.fr/2013/01/IMG_0082-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0082.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0082.jpg"><img alt="IMG_0082" data-src="https://static.irz.fr/2013/01/IMG_0082-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0082-1024x682.jpg" /></a>
 
-[![IMG_0079](https://static.irz.fr/2013/01/IMG_0079-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0079.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0079.jpg"><img alt="IMG_0079" data-src="https://static.irz.fr/2013/01/IMG_0079-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0079-1024x682.jpg" /></a>
 
 Lucie et le jeu des chapeaux.
 
-[![IMG_0071](https://static.irz.fr/2013/01/IMG_0071-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0071.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0071.jpg"><img alt="IMG_0071" data-src="https://static.irz.fr/2013/01/IMG_0071-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0071-1024x682.jpg" /></a>
 
-[![IMG_0062](https://static.irz.fr/2013/01/IMG_0062-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0062.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0062.jpg"><img alt="IMG_0062" data-src="https://static.irz.fr/2013/01/IMG_0062-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0062-1024x682.jpg" /></a>

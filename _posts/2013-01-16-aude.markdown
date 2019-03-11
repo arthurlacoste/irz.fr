@@ -28,4 +28,4 @@ Je tiens à signaler que cette capture d'écran n'est pas truqué, j'en atteste 
 
 
 
-[![20130116-223547.jpg](https://static.irz.fr/2013/01/20130116-223547.jpg)](https://static.irz.fr/2013/01/20130116-223547.jpg)
+<a href="https://static.irz.fr/2013/01/20130116-223547.jpg"><img alt="20130116-223547.jpg" data-src="https://static.irz.fr/2013/01/20130116-223547.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/20130116-223547.jpg" /></a>

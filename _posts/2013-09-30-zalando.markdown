@@ -28,7 +28,7 @@ Autant vous le dire tout de suite, on est très loin des sites aux allures de sa
 
 Zalando est particulièrement plébiscité pour ces boutiques de marque. En effet, le site c'est - avec le temps - spécialisé dans la vente de vêtements de marque. Par exemple, si je veux aller sur la page de Benetton chez Zalando, je n'ai qu'à taper Benetton dans le moteur de recherche, et le site fait le reste.
 
-[![zalando-benetton](https://static.irz.fr/2013/09/zalando-benetton-640x536.png)](https://irz.fr/recherche?q=zalando-benetton)
+<a href="https://irz.fr/recherche?q=zalando-benetton"><img alt="zalando-benetton" data-src="https://static.irz.fr/2013/09/zalando-benetton-640x536.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/09/zalando-benetton-640x536.png" /></a>
 
 Comme vous pouvez le voir (et c'est similaire sur les pages de recherche), vous avez au niveau de la sidebar de gauche des sélecteurs très pratique, qui permettent de choisir une catégorie (homme, femme, enfants, mégère, etc..), une fourchette de prix, ainsi qu'une couleur en particulier. Cette petite chose en ajax permet de préciser en temps réel vos envies les plus folles.
 

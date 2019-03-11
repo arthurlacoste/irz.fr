@@ -13,7 +13,7 @@ categories:
 - Tutoriel
 ---
 
-[![microsim maison](https://static.irz.fr/2010/06/IMG_0026-1024x303.jpg)](https://static.irz.fr/2010/06/IMG_0026.jpg)
+<a href="https://static.irz.fr/2010/06/IMG_0026.jpg"><img alt="microsim maison" data-src="https://static.irz.fr/2010/06/IMG_0026-1024x303.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/IMG_0026-1024x303.jpg" /></a>
 
 Je l'ai fait et ça marche. Le mieux, c'est quand même d'avoir un modèle de Micro sim sous la main pour vous inspirer de la forme, mais sinon, avec un cutter et 20 minutes devant soi (c'est un peu dur à couper), ça marche nikel. Je vais enfin pouvoir profiter de mon iPhone 4, sans me soucier des problèmes de serveur de Orange...
 

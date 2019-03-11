@@ -67,7 +67,7 @@ C'est d'ailleurs pour ça que j'inaugure un nouveau visuel pour le site, car ava
 
 Donc voici un visuel qui va peut-être un peu mieux vous parler :
 
-[![logo-v2-v3](https://static.irz.fr/2013/01/logo-v2-v3.png)](https://static.irz.fr/2013/01/logo-v2-v3.png)
+<a href="https://static.irz.fr/2013/01/logo-v2-v3.png"><img alt="logo-v2-v3" data-src="https://static.irz.fr/2013/01/logo-v2-v3.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/logo-v2-v3.png" /></a>
 
 En premier, le logo de la v2, et en bas, le logo de la v3. Avec un bol plus grand. Entre autres.
 
@@ -129,7 +129,7 @@ Voici les différents thème que le site à arboré tout au long de ses deux ann
 
 
 
-[![irz-v1](https://static.irz.fr/2013/01/irz-v1.png)](https://static.irz.fr/2013/01/irz-v1.png)La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](https://irz.fr/), [Mac OS](http://irz.fr/categories/#apple), & [Tutoriel](https://irz.fr/).
+<a href="https://static.irz.fr/2013/01/irz-v1.png"><img alt="irz-v1" data-src="https://static.irz.fr/2013/01/irz-v1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/irz-v1.png" /></a>La version 1 (que j'ai retrouvé grâce à mon ami [archive.org](http://archive.org/)) était un thème temporaire, que je n'ai gardé que 2 ou 3 mois, le temps de prendre mes marques et de me poser les bonnes questions en terme de pagination et ligne de conduite... Dans la capture d'écran, on peut voir que mes quelques premiers articles été axées autour des catégories [Logiciels](https://irz.fr/), [Mac OS](http://irz.fr/categories/#apple), & [Tutoriel](https://irz.fr/).
 
 Pourtant je ne me suis pas cantonné à ces seuls catégories, car aujourd'hui je ne saurai pas dire combien il y a exactement de catégories sur le site. Même si j'ai [une belle page](http://irz.fr/archives) qui liste l'ensemble des articles par catégorie. Faudrait que je fasse du tri...
 
@@ -139,7 +139,7 @@ Pourtant je ne me suis pas cantonné à ces seuls catégories, car aujourd'hui j
 
 
 
-[![irz-janvier-2013](https://static.irz.fr/2013/01/irz-janvier-2013.png)](https://static.irz.fr/2013/01/irz-janvier-2013.png)
+<a href="https://static.irz.fr/2013/01/irz-janvier-2013.png"><img alt="irz-janvier-2013" data-src="https://static.irz.fr/2013/01/irz-janvier-2013.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/irz-janvier-2013.png" /></a>
 Voici à quoi à ressemblé le site pendant presque 2 ans. Un thème pas mal customisé largement inspiré du thème de base Twenty thème, que j'ai toujours trouvé très bien ficelé dans l'ensemble, même si il comportait quelques faiblesses au niveau des fonctionnalités supplémentaires.
 
 

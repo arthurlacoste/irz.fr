@@ -17,7 +17,7 @@ tags:
 - commercial
 ---
 
-[![rool-up-sleeves](https://static.irz.fr/2010/03/rool-up-sleeves-300x200.jpg)](https://static.irz.fr/2010/03/rool-up-sleeves.jpg)C'était bien marrant de se préparer psychologiquement à la création d'une aventure d'entrepreneur. Maintenant, passons aux choses sérieuses, car se retrousser les manches, ça veut aussi dire : "se sortir les doigts du...".
+<a href="https://static.irz.fr/2010/03/rool-up-sleeves.jpg"><img alt="rool-up-sleeves" data-src="https://static.irz.fr/2010/03/rool-up-sleeves-300x200.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/rool-up-sleeves-300x200.jpg" /></a>C'était bien marrant de se préparer psychologiquement à la création d'une aventure d'entrepreneur. Maintenant, passons aux choses sérieuses, car se retrousser les manches, ça veut aussi dire : "se sortir les doigts du...".
 
 Mon projet, c'est maintenant ce qui me fait me lever le matin à 6 heures - "Mais que fais-t-il à cette heure ?" - au lieu de larver dans mon lit. C'est ce qui me pousse à (essayer de) faire les choses jusqu'au bout. Apprendre l'Anglais, pour faire dans l'international, et essayer de s'incruster dans des pays du genre Angleterre, États-Unis ou Australie. Que je puisse quitter toute mes attaches en cas de besoin. Ne pas se contenter d'un boulot au SMIC dans un lycée. En faire plus pour gagner moins. Continuer ma formation autodidacte de commercial en montant une petite semaine à Paris.
 

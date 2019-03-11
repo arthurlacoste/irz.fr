@@ -13,8 +13,8 @@ categories:
 - Liveblog
 ---
 
-[![Photo 26-05-2014 09 42 39](https://static.irz.fr/2014/05/Photo-26-05-2014-09-42-39-640x480.jpg)](http://irz.fr/?attachment_id=1438449358)
+<a href="http://irz.fr/?attachment_id=1438449358"><img alt="Photo 26-05-2014 09 42 39" data-src="https://static.irz.fr/2014/05/Photo-26-05-2014-09-42-39-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/Photo-26-05-2014-09-42-39-640x480.jpg" /></a>
 
-[![Photo 26-05-2014 09 38 54](https://static.irz.fr/2014/05/Photo-26-05-2014-09-38-54-640x480.jpg)](http://irz.fr/?attachment_id=1438449360)
+<a href="http://irz.fr/?attachment_id=1438449360"><img alt="Photo 26-05-2014 09 38 54" data-src="https://static.irz.fr/2014/05/Photo-26-05-2014-09-38-54-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/Photo-26-05-2014-09-38-54-640x480.jpg" /></a>
 
-[![Photo 26-05-2014 09 42 52](https://static.irz.fr/2014/05/Photo-26-05-2014-09-42-52-640x480.jpg)](http://irz.fr/?attachment_id=1438449359)
+<a href="http://irz.fr/?attachment_id=1438449359"><img alt="Photo 26-05-2014 09 42 52" data-src="https://static.irz.fr/2014/05/Photo-26-05-2014-09-42-52-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/Photo-26-05-2014-09-42-52-640x480.jpg" /></a>

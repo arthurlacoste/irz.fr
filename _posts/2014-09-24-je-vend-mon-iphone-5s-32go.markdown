@@ -20,15 +20,15 @@ Si vous êtes en agglomération Grenobloise, c'est mieux.
 Prix : 550€ (acheté à 800€)
 
 Voici les photos :
-[![iPhone-5s-vente-dos](https://static.irz.fr/2014/09/iPhone-5s-vente-dos-640x480.jpg)](https://irz.fr/recherche?q=iphone-5s-vente-dos)
+<a href="https://irz.fr/recherche?q=iphone-5s-vente-dos"><img alt="iPhone-5s-vente-dos" data-src="https://static.irz.fr/2014/09/iPhone-5s-vente-dos-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/iPhone-5s-vente-dos-640x480.jpg" /></a>
 
-[![iPhone-5s-vente-face](https://static.irz.fr/2014/09/iPhone-5s-vente-face-640x480.jpg)](https://irz.fr/recherche?q=iphone-5s-vente-face)
+<a href="https://irz.fr/recherche?q=iphone-5s-vente-face"><img alt="iPhone-5s-vente-face" data-src="https://static.irz.fr/2014/09/iPhone-5s-vente-face-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/iPhone-5s-vente-face-640x480.jpg" /></a>
 
-[![iPhone-5s-vente-details](https://static.irz.fr/2014/09/iPhone-5s-vente-details-640x480.jpg)](https://irz.fr/recherche?q=iphone-5s-vente-details)
+<a href="https://irz.fr/recherche?q=iphone-5s-vente-details"><img alt="iPhone-5s-vente-details" data-src="https://static.irz.fr/2014/09/iPhone-5s-vente-details-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/iPhone-5s-vente-details-640x480.jpg" /></a>
 
-[![IMG_0124.JPG](https://static.irz.fr/2014/09/IMG_0124.jpg)](https://static.irz.fr/2014/09/IMG_0124.jpg)
+<a href="https://static.irz.fr/2014/09/IMG_0124.jpg"><img alt="IMG_0124.JPG" data-src="https://static.irz.fr/2014/09/IMG_0124.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/IMG_0124.jpg" /></a>
 
 Pour les accessoires que je vend à côté, je propose un support de trépied que je vous propose à 5€ (Photo à venir).
 
 Et un système de lentilles objectif grand Angle, fish-eye, et macro 4 en 1 (celui-ci) : 15€.
-[![objectif-4-1-iphone5-5s](https://static.irz.fr/2014/09/objectif-4-1-iphone5-5s.jpg)](https://irz.fr/recherche?q=objectif-4-1-iphone5-5s)
+<a href="https://irz.fr/recherche?q=objectif-4-1-iphone5-5s"><img alt="objectif-4-1-iphone5-5s" data-src="https://static.irz.fr/2014/09/objectif-4-1-iphone5-5s.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/objectif-4-1-iphone5-5s.jpg" /></a>

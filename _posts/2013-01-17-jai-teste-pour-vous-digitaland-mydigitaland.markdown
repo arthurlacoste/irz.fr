@@ -39,7 +39,7 @@ Leurs [côte du site sur Google](http://www.google.fr/products/seller?zmi=mydig
 
 
 
-[![digitaland](https://static.irz.fr/2013/01/digitaland.png)](https://static.irz.fr/2013/01/digitaland.png)
+<a href="https://static.irz.fr/2013/01/digitaland.png"><img alt="digitaland" data-src="https://static.irz.fr/2013/01/digitaland.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/digitaland.png" /></a>
 
 Aux premier abord, nous atterrissons dès la page d'accueil sur une landing assez chargée, comprenant un peu trop de polices différentes et ne laissant pas les yeux se poser sur un détail en particulier, a part éventuellement sur le carrousel "Special Offer".
 
@@ -51,7 +51,7 @@ Rien à dire du côté du prix des produits en ce qui concerne les appareils pho
 
 Côté traduction, c'est la stratégie du "un peu, mais pas trop". On est à la limite de l'inutile (voir capture ci-dessous). Et c'est la même chose sur les autres pages, et autant dans l'espace membre que dans les fiches produits - très rarement traduites - on assiste à un bal multilingue.
 
-[![mydigitaland traduction](https://static.irz.fr/2013/01/mydigitaland-traduction-e1358343112171.png)](https://static.irz.fr/2013/01/mydigitaland-traduction-e1358343112171.png)
+<a href="https://static.irz.fr/2013/01/mydigitaland-traduction-e1358343112171.png"><img alt="mydigitaland traduction" data-src="https://static.irz.fr/2013/01/mydigitaland-traduction-e1358343112171.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/mydigitaland-traduction-e1358343112171.png" /></a>
 
 
 

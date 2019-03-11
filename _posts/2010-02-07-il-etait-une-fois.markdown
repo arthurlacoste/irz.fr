@@ -19,7 +19,7 @@ post_format:
 - Galerie
 ---
 
-[![sorti enfin](https://static.irz.fr/2010/02/sortie-bientot.jpg)](https://static.irz.fr/2010/02/sortie-bientot.jpg)Il était une fois l'histoire d'un garçon qui était touche-à-tout. Il adorait la nouveauté. Peut importe le domaine, le lieu ou le contexte, tout l'émerveillait. Du battement des ailes d'une libellule jusqu'aux éruptions volcaniques.
+<a href="https://static.irz.fr/2010/02/sortie-bientot.jpg"><img alt="sorti enfin" data-src="https://static.irz.fr/2010/02/sortie-bientot.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/02/sortie-bientot.jpg" /></a>Il était une fois l'histoire d'un garçon qui était touche-à-tout. Il adorait la nouveauté. Peut importe le domaine, le lieu ou le contexte, tout l'émerveillait. Du battement des ailes d'une libellule jusqu'aux éruptions volcaniques.
 
 Je démarre ce site aujourd'hui, lequel va être un bloc-notes de mes démarches entrepreneuriales (pour me mettre à mon compte). J'ai enfin trouvé en ce début d'année les objectifs professionnels et personnels que je souhaitais atteindre tout au long de ma courte existence. Et cette suite d'articles sera une manière de laisser une trace écrite, en vidéos, sous formes de dessins, peut être en plusieurs langues, qui sait. Je retransmettrais tout ce que j'apprendrais.
 

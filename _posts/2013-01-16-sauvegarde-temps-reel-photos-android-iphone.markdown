@@ -34,13 +34,13 @@ Le concept, c'est de sauvegarder une copie de vos photo, vidéos (et captures d'
 Pour fonctionner sur vos appareil, vous devez disposer de l'application Google+ sur votre mobile ou tablette ([iPhone](http://itunes.apple.com/us/app/google/id447119634?ls=1&mt=8)/[Android](https://market.android.com/details?id=com.google.android.apps.plus)), et d'un compte Google ! Avouez, c'est mieux. Si vous n'êtes pas encore inscrit, [vous pouvez vous inscrire en suivant ce lien](https://accounts.google.com/SignUp).
 
 
-[![instant-upload-start-android](https://static.irz.fr/2013/01/instant-upload-start-android.png)](https://static.irz.fr/2013/01/instant-upload-start-android.png)
+<a href="https://static.irz.fr/2013/01/instant-upload-start-android.png"><img alt="instant-upload-start-android" data-src="https://static.irz.fr/2013/01/instant-upload-start-android.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/instant-upload-start-android.png" /></a>
 
 
 Une fois l'application installée, Il est possible que l'on vous propose dès le démarrage d'activer Instant Upload. Si ce n'est pas le cas, allez dans le menu Paramètres, Instant Upload, Quand importer.
 
 
-[![20130113-214332.jpg](https://static.irz.fr/2013/01/20130113-214332.jpg)](https://static.irz.fr/2013/01/20130113-214332.jpg)
+<a href="https://static.irz.fr/2013/01/20130113-214332.jpg"><img alt="20130113-214332.jpg" data-src="https://static.irz.fr/2013/01/20130113-214332.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/20130113-214332.jpg" /></a>
 
 
 Une fois sur la page en question, vous pouvez activer Instant Upload, puis paramétrer en fonction de vos besoin dans quel cas vous souhaitez importer vos photos et vidéos. Vous pouvez si vous le souhaitez attendre d'être en wifi pour importer vos données, ou bien tout télécharger en direct depuis votre réseau mobile.
@@ -48,7 +48,7 @@ Une fois sur la page en question, vous pouvez activer Instant Upload, puis param
 Un bouton "Toutes les photos et vidéos" envoi toutes les photos qui sont sur votre appareil vers les serveurs de Google.
 
 
-[![20130114-083328.jpg](https://static.irz.fr/2013/01/20130114-083328.jpg)](https://static.irz.fr/2013/01/20130114-083328.jpg)
+<a href="https://static.irz.fr/2013/01/20130114-083328.jpg"><img alt="20130114-083328.jpg" data-src="https://static.irz.fr/2013/01/20130114-083328.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/20130114-083328.jpg" /></a>
 
 
 
@@ -58,7 +58,7 @@ Et voilà, dorénavant, chaque photo ou vidéo que vous prendrez se retrouvera 
 
 
 
-[![instant-upload-liveview](https://static.irz.fr/2013/01/instant-upload-liveview.png)](https://static.irz.fr/2013/01/instant-upload-liveview.png)
+<a href="https://static.irz.fr/2013/01/instant-upload-liveview.png"><img alt="instant-upload-liveview" data-src="https://static.irz.fr/2013/01/instant-upload-liveview.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/instant-upload-liveview.png" /></a>
 
 
 
@@ -67,7 +67,7 @@ Et voilà, dorénavant, chaque photo ou vidéo que vous prendrez se retrouvera 
 # Paramètres spécifiques à Android
 
 
-[![tablette-google-android-instant-upload-parametres](https://static.irz.fr/2013/01/tablette-google-android-instant-upload-parametres.png)](https://static.irz.fr/2013/01/tablette-google-android-instant-upload-parametres.png)
+<a href="https://static.irz.fr/2013/01/tablette-google-android-instant-upload-parametres.png"><img alt="tablette-google-android-instant-upload-parametres" data-src="https://static.irz.fr/2013/01/tablette-google-android-instant-upload-parametres.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/tablette-google-android-instant-upload-parametres.png" /></a>
 
 Sur l'application Android, vous pouvez en plus activer quelques options supplémentaires :
 

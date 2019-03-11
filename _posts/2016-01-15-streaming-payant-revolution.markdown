@@ -24,7 +24,7 @@ Ce qui m'a surpris en premier lieu : la fluidité du service. La qualité de l'i
 
 Un autre avantage : le prix. Le mono-écran est à 8€/mois, mais si vous êtes malin, prenez le multi-écran à 12€/mois ou 4 personnes peuvent se connecter simultanément : 3€ chacun, c'est le prix de 2 cafés en province. C'est presque donné. C'est presque gratuit. Bon ok, ce n'est pas gratuit, mais abordable, c'est certain.
 
-[![netflix-tarifs](https://static.irz.fr/2016/01/netflix-tarifs.png)](https://irz.fr/recherche?q=netflix-tarifs)
+<a href="https://irz.fr/recherche?q=netflix-tarifs"><img alt="netflix-tarifs" data-src="https://static.irz.fr/2016/01/netflix-tarifs.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2016/01/netflix-tarifs.png" /></a>
 
 Niveau ergonomie, on s'y perd parfois un peu, mais quand on sait ce qu'on cherche, le moteur de recherche fait très bien son travail, et le reste de l'interface est minimaliste : on a droit à l'essentiel.
 

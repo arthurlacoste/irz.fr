@@ -19,13 +19,13 @@ tags:
 
 Si vous avez perdu ou égaré votre iPhone, il est possible de le localiser en allant sur le site d'[iCloud](http://icloud.com).
 
-[![icloud-connexion](https://static.irz.fr/2014/07/icloud-connexion-640x416.png)](https://irz.fr/recherche?q=icloud-connexion)
+<a href="https://irz.fr/recherche?q=icloud-connexion"><img alt="icloud-connexion" data-src="https://static.irz.fr/2014/07/icloud-connexion-640x416.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/07/icloud-connexion-640x416.png" /></a>
 
 Une fois connecté, cliquez en haut au centre sur "Tout mes appareils", puis sur votre iPhone. en cliquant sur le rond vert/gris au centre de la page, vous aurez la possibilité de mettre à jour la position.
 
 La taille du cercle vert qui se trouve autour du point indique la précision de la localisation. Il peut être soit minuscule si le signal GPS est fort, soit couvrir une grande surface si le signal est faible. Si au lieu d'être vert, le rond est gris, c'est que votre téléphone est soit déconnecté du réseau, soit éteint.
 
-[![icloud-localiser-iphone](https://static.irz.fr/2014/07/icloud-localiser-iphone-640x416.png)](https://irz.fr/recherche?q=icloud-localiser-iphone)
+<a href="https://irz.fr/recherche?q=icloud-localiser-iphone"><img alt="icloud-localiser-iphone" data-src="https://static.irz.fr/2014/07/icloud-localiser-iphone-640x416.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/07/icloud-localiser-iphone-640x416.png" /></a>
 
 Si vous avez perdu votre téléphone (dans le tram par exemple), vous avez plusieurs autres possibilités :
 

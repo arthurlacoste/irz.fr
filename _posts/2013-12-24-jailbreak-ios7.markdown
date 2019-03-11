@@ -143,16 +143,16 @@ Link
 
 
 2
-    Connectez votre iPhone (ou autre iDevice) en USB à votre ordinateur.Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n 7.exe sur Windows, evasi0n 7.app sur Mac). Vous allez avoir un logiciel avec une fenêtre de ce style. Cliquez sur la bouton **Jailbreak**.[![evasi0n-7-ios7-1-retrieving-remote-package](https://static.irz.fr/2013/12/evasi0n-7-ios7-1-retrieving-remote-package.png)](https://irz.fr/recherche?q=evasi0n-7-ios7-1-retrieving-remote-package)
+    Connectez votre iPhone (ou autre iDevice) en USB à votre ordinateur.Lancez l’exécutable qui doit s'appeler evasiOn (evasi0n 7.exe sur Windows, evasi0n 7.app sur Mac). Vous allez avoir un logiciel avec une fenêtre de ce style. Cliquez sur la bouton **Jailbreak**.<a href="https://irz.fr/recherche?q=evasi0n-7-ios7-1-retrieving-remote-package"><img alt="evasi0n-7-ios7-1-retrieving-remote-package" data-src="https://static.irz.fr/2013/12/evasi0n-7-ios7-1-retrieving-remote-package.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/evasi0n-7-ios7-1-retrieving-remote-package.png" /></a>
 
 
 
 
 3
-    Après quelques minutes le message suivant va apparaître : "To continue, please unlock your device and tap the new 'evasi0n 7' icon."Lorsque un message vous indique de rechercher l'icône "evasi0n 7", déverrouillez votre précieux, puis allez chercher l'application en question sur votre iDevice. Voir l'application sur la quatrième ligne de la capture.[![evasi0n-7-ios7-3-please-unlock](https://static.irz.fr/2013/12/evasi0n-7-ios7-3-please-unlock.png)](https://irz.fr/recherche?q=evasi0n-7-ios7-3-please-unlock)
+    Après quelques minutes le message suivant va apparaître : "To continue, please unlock your device and tap the new 'evasi0n 7' icon."Lorsque un message vous indique de rechercher l'icône "evasi0n 7", déverrouillez votre précieux, puis allez chercher l'application en question sur votre iDevice. Voir l'application sur la quatrième ligne de la capture.<a href="https://irz.fr/recherche?q=evasi0n-7-ios7-3-please-unlock"><img alt="evasi0n-7-ios7-3-please-unlock" data-src="https://static.irz.fr/2013/12/evasi0n-7-ios7-3-please-unlock.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/evasi0n-7-ios7-3-please-unlock.png" /></a>
 
 
-[![evasi0n-jailbreak-ios7-install-screenshot](https://static.irz.fr/2013/12/evasi0n-jailbreak-ios7-install-screenshot-576x1024.png)](https://irz.fr/recherche?q=evasi0n-jailbreak-ios7-install-screenshot)
+<a href="https://irz.fr/recherche?q=evasi0n-jailbreak-ios7-install-screenshot"><img alt="evasi0n-jailbreak-ios7-install-screenshot" data-src="https://static.irz.fr/2013/12/evasi0n-jailbreak-ios7-install-screenshot-576x1024.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/evasi0n-jailbreak-ios7-install-screenshot-576x1024.png" /></a>
 
 
 

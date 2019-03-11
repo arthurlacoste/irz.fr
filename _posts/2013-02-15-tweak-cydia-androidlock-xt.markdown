@@ -28,7 +28,7 @@ Mais une image vaut mieux qu'un long discours :
 
 
 
-[![androidlock-xt-tweak-cydia](https://static.irz.fr/2013/02/androidlock-xt-tweak-cydia-640x480.png)](https://irz.fr/recherche?q=androidlock-xt-tweak-cydia)
+<a href="https://irz.fr/recherche?q=androidlock-xt-tweak-cydia"><img alt="androidlock-xt-tweak-cydia" data-src="https://static.irz.fr/2013/02/androidlock-xt-tweak-cydia-640x480.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/androidlock-xt-tweak-cydia-640x480.png" /></a>
 
 
 En ce qui concerne le paramétrage, il faut aller dans Réglages > AndroidLock XT, puis vous pouvez :

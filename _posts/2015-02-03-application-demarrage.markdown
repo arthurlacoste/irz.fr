@@ -21,11 +21,11 @@ Tout d'abord, allez dans le finder, puis dans Applications > Préférences Syst�
 
 
 
-[![utilisateurs-et-groupes-pref-systeme](https://static.irz.fr/2015/02/utilisateurs-et-groupes-pref-systeme-640x509.png)](https://irz.fr/recherche?q=utilisateurs-et-groupes-pref-systeme)
+<a href="https://irz.fr/recherche?q=utilisateurs-et-groupes-pref-systeme"><img alt="utilisateurs-et-groupes-pref-systeme" data-src="https://static.irz.fr/2015/02/utilisateurs-et-groupes-pref-systeme-640x509.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/02/utilisateurs-et-groupes-pref-systeme-640x509.png" /></a>
 
 
 
-[![ouverture](https://static.irz.fr/2015/02/ouverture-640x430.png)](https://irz.fr/recherche?q=ouverture)
+<a href="https://irz.fr/recherche?q=ouverture"><img alt="ouverture" data-src="https://static.irz.fr/2015/02/ouverture-640x430.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/02/ouverture-640x430.png" /></a>
 
 
 

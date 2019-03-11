@@ -14,7 +14,7 @@ categories:
 - Actu
 ---
 
-[![Logo IAE grenoble](https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi-300x300.png)](https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi.png)Contrairement au titre, je n'annonce pas l'ouverture d'un énième concours d'entrepreneurs, mais plutôt la sélection finale de ce concours, c'est-à-dire l'intervention des entrepreneurs afin de gagner ce prix.
+<a href="https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi.png"><img alt="Logo IAE grenoble" data-src="https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi-300x300.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi-300x300.png" /></a>Contrairement au titre, je n'annonce pas l'ouverture d'un énième concours d'entrepreneurs, mais plutôt la sélection finale de ce concours, c'est-à-dire l'intervention des entrepreneurs afin de gagner ce prix.
 
 Il aura lieu ce jeudi 25 Mars 2010 à 18h, Amphi A à l'IAE de Grenoble.
 

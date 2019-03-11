@@ -19,10 +19,10 @@ tags:
 - tutu
 ---
 
-[![danseuse-histoire-de-la-vie](https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie-640x619.png)](https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie.png)<!-- more -->
+<a href="https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie.png"><img alt="danseuse-histoire-de-la-vie" data-src="https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie-640x619.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie-640x619.png" /></a><!-- more -->
 
 La danse, c'est l'histoire de toute ma vie... Comment ça, vous ne me croyez pas ?
 
 Version coloriage :
 
-[![la-danseuse](https://static.irz.fr/2013/05/la-danseuse.png)](https://static.irz.fr/2013/05/la-danseuse.png)
+<a href="https://static.irz.fr/2013/05/la-danseuse.png"><img alt="la-danseuse" data-src="https://static.irz.fr/2013/05/la-danseuse.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/05/la-danseuse.png" /></a>

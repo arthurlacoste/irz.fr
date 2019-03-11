@@ -28,19 +28,19 @@ Le prix est quand même incroyable pour un produit de cette qualité : 50€, al
 Vous n'aimez pas les pubs ? Dans un prochain article nous verrons justement comment supprimer cette publicité disgracieuse et optimiser votre CDisplay.
 
 
-[![boite-cdisplay-carton](https://static.irz.fr/2014/09/boite-cdisplay-carton-640x853.jpg)](https://irz.fr/recherche?q=boite-cdisplay-carton)
+<a href="https://irz.fr/recherche?q=boite-cdisplay-carton"><img alt="boite-cdisplay-carton" data-src="https://static.irz.fr/2014/09/boite-cdisplay-carton-640x853.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/boite-cdisplay-carton-640x853.jpg" /></a>
 
-[![boite-cdisplay-carton-ouvert](https://static.irz.fr/2014/09/boite-cdisplay-carton-ouvert-640x853.jpg)](https://irz.fr/recherche?q=boite-cdisplay-carton-ouvert)
+<a href="https://irz.fr/recherche?q=boite-cdisplay-carton-ouvert"><img alt="boite-cdisplay-carton-ouvert" data-src="https://static.irz.fr/2014/09/boite-cdisplay-carton-ouvert-640x853.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/boite-cdisplay-carton-ouvert-640x853.jpg" /></a>
 
-[![boite-cdisplay](https://static.irz.fr/2014/09/boite-cdisplay-640x853.jpg)](https://irz.fr/recherche?q=boite-cdisplay)
+<a href="https://irz.fr/recherche?q=boite-cdisplay"><img alt="boite-cdisplay" data-src="https://static.irz.fr/2014/09/boite-cdisplay-640x853.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/boite-cdisplay-640x853.jpg" /></a>
 
 
-[![unboxing-cdisplay](https://static.irz.fr/2014/09/unboxing-cdisplay-640x480.jpg)](https://irz.fr/recherche?q=unboxing-cdisplay)
+<a href="https://irz.fr/recherche?q=unboxing-cdisplay"><img alt="unboxing-cdisplay" data-src="https://static.irz.fr/2014/09/unboxing-cdisplay-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/unboxing-cdisplay-640x480.jpg" /></a>
 
-[![unboxing-cdiplay-chiffon-cable](https://static.irz.fr/2014/09/unboxing-cdiplay-chiffon-cable-640x480.jpg)](https://irz.fr/recherche?q=unboxing-cdiplay-chiffon-cable)
+<a href="https://irz.fr/recherche?q=unboxing-cdiplay-chiffon-cable"><img alt="unboxing-cdiplay-chiffon-cable" data-src="https://static.irz.fr/2014/09/unboxing-cdiplay-chiffon-cable-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/unboxing-cdiplay-chiffon-cable-640x480.jpg" /></a>
 
-[![cdisplay-ipad-mini](https://static.irz.fr/2014/09/cdisplay-ipad-mini-640x480.jpg)](https://irz.fr/recherche?q=cdisplay-ipad-mini)
+<a href="https://irz.fr/recherche?q=cdisplay-ipad-mini"><img alt="cdisplay-ipad-mini" data-src="https://static.irz.fr/2014/09/cdisplay-ipad-mini-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/cdisplay-ipad-mini-640x480.jpg" /></a>
 
-[![cdisplay-ipad-mini-dessus](https://static.irz.fr/2014/09/cdisplay-ipad-mini-dessus-640x480.jpg)](https://irz.fr/recherche?q=cdisplay-ipad-mini-dessus)
+<a href="https://irz.fr/recherche?q=cdisplay-ipad-mini-dessus"><img alt="cdisplay-ipad-mini-dessus" data-src="https://static.irz.fr/2014/09/cdisplay-ipad-mini-dessus-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/cdisplay-ipad-mini-dessus-640x480.jpg" /></a>
 
-[![2014-09-22 11.58.00](https://static.irz.fr/2014/09/2014-09-22-11.58.00-640x480.jpg)](https://irz.fr/recherche?q=2014-09-22-11-58-00)
+<a href="https://irz.fr/recherche?q=2014-09-22-11-58-00"><img alt="2014-09-22 11.58.00" data-src="https://static.irz.fr/2014/09/2014-09-22-11.58.00-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/09/2014-09-22-11.58.00-640x480.jpg" /></a>

@@ -41,7 +41,7 @@ Dans le Mac App Store, cliquez sur le bouton "Utiliser" pour commencer le télé
 4
 
     Une fois le téléchargement terminé, allez dans votre menu de recherche, puis taper "Install OS X Yosemite Beta". L'utilitaire se trouve dans votre dossier "Application". L'utilitaire d'installation durera près d'un quart d'heure.
-[![install-yosemite](https://static.irz.fr/2014/07/install-yosemite-640x515.png)](https://irz.fr/recherche?q=install-yosemite)
+<a href="https://irz.fr/recherche?q=install-yosemite"><img alt="install-yosemite" data-src="https://static.irz.fr/2014/07/install-yosemite-640x515.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/07/install-yosemite-640x515.png" /></a>
 
 
 

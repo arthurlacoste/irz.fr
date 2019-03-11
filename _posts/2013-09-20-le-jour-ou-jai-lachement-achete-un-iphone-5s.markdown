@@ -21,7 +21,7 @@ J'ai eu ouïe dire qu'un produit Apple venait d'être disponible à la commande,
 
 Le iPhone 5c me narguait car lui, il est en précommande depuis le début de la semaine. Mais comprenez, il est plus gros, plus lourd, ne reconnait pas ton empreinte digitale, ne fait pas du slow motion avec les vidéos, et ne contient pas les dernières puces super-à-la-mode d'Apple, A7 et M7. Et en plus, il fait 100 euros de moins ! Tu peux l'acheter à partir de 600 boules le 5c. Et comme dit mon père : "Pas assez cher mon fils !".
 
-[![iphone-5s-5C](https://static.irz.fr/2013/09/iphone-5s-5C-640x139.png)](https://irz.fr/recherche?q=iphone-5s-5c)
+<a href="https://irz.fr/recherche?q=iphone-5s-5c"><img alt="iphone-5s-5C" data-src="https://static.irz.fr/2013/09/iphone-5s-5C-640x139.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/09/iphone-5s-5C-640x139.png" /></a>
 
 Mon doigt à glissé. Je veux dire la souris à vraiment commandé à l'insu de mon plein gré un iPhone 5s, en cliquant subversivement sur le bouton commander du Apple store. Putain en plus elle s'est pas trompé ma souris, elle me connait : la version de base à 700€ en 16 Go, c'est pour les rigolos, moi il me faut un 32Go, pour 100€ de plus. Et une coque. En cuir s'il vous plait. 40 euros le bout de cuir rouge. Pour me donner bonne conscience, je prend une product RED. Ouais, en gros une partie des bénéfices des produits rouges d'Apple sont reversé à l'association des "Fonds mondial de lutte contre le sida, la tuberculose et le paludisme", une blague en somme.
 

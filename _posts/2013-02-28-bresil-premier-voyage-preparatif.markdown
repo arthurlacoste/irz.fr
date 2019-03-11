@@ -24,7 +24,7 @@ En effet, Je n'ai jamais dépassé l'Espagne dans un sens et la Suisse dans l'au
 
 Tout d'abord, petit aperçu du voyage en une image :
 
-[![voyage-bresil-trajet-aller-retour](https://static.irz.fr/2013/02/voyage-bresil-trajet-aller-retour.png)](https://static.irz.fr/2013/02/voyage-bresil-trajet-aller-retour.png)
+<a href="https://static.irz.fr/2013/02/voyage-bresil-trajet-aller-retour.png"><img alt="voyage-bresil-trajet-aller-retour" data-src="https://static.irz.fr/2013/02/voyage-bresil-trajet-aller-retour.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/voyage-bresil-trajet-aller-retour.png" /></a>
 
 Donc comme vous pouvez le voir il y a près de 20h de trajet pour l'aller (20h20 d'avion réparti sur 26h de trajet) et 20h15 pour le retour. Toujours sur ces petits tableaux, vous pouvez voir que je transiterai par l’aéroport Barajas Madrid (la capitale de l'Espagne) et John F Kennedy à New York (USA), pour finir à l’aéroport "internacional" de Rio de Janeiro, au Brésil.
 
@@ -32,7 +32,7 @@ Donc comme vous pouvez le voir il y a près de 20h de trajet pour l'aller (20h20
 # Décalage horaire
 
 
-[![decalage-horaire-bresil-new-york](https://static.irz.fr/2013/02/decalage-horaire-bresil-new-york.png)](https://static.irz.fr/2013/02/decalage-horaire-bresil-new-york.png)
+<a href="https://static.irz.fr/2013/02/decalage-horaire-bresil-new-york.png"><img alt="decalage-horaire-bresil-new-york" data-src="https://static.irz.fr/2013/02/decalage-horaire-bresil-new-york.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/decalage-horaire-bresil-new-york.png" /></a>
 
 
 Donc pour résumer pour Rio de Janeiro c'est -4h, et pour New York -6h. Rien de spécial en ce qui concerne Madrid, qui est sur le même fuseau horaire que la France. J'ai du mal à me rendre compte de l'effet produit par un décalage horaire de -4 heures.
@@ -44,7 +44,7 @@ Donc pour résumer pour Rio de Janeiro c'est -4h, et pour New York -6h. Rien de
 # Température
 
 
-En ce qui concerne la température un petit tour sur Wikipedia nous indique qu'à Rio, **il va faire hot** :[![temperature-rio-bresil](https://static.irz.fr/2013/02/temperature-rio-bresil.png)](https://static.irz.fr/2013/02/temperature-rio-bresil.png)
+En ce qui concerne la température un petit tour sur Wikipedia nous indique qu'à Rio, **il va faire hot** :<a href="https://static.irz.fr/2013/02/temperature-rio-bresil.png"><img alt="temperature-rio-bresil" data-src="https://static.irz.fr/2013/02/temperature-rio-bresil.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/temperature-rio-bresil.png" /></a>
 
 Les données datent de 1960-1990, mais en gros on peut voir que pour le mois de Mars il faut s'attendre à une moyenne de 27 degrés. Rien que ça. Je vais prévoir des shorts, et surtout **des marcels** !
 

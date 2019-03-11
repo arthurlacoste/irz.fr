@@ -75,7 +75,7 @@ Ma petite vessie se manifeste avant même que je prenne place dans l'avion. Tant
 
 
 
-[![L'avion qui nous emmena à Madrid](https://static.irz.fr/2013/07/avion-lyon-madrid-640x480.jpg)](https://irz.fr/recherche?q=avion-lyon-madrid)
+<a href="https://irz.fr/recherche?q=avion-lyon-madrid"><img alt="L'avion qui nous emmena à Madrid" data-src="https://static.irz.fr/2013/07/avion-lyon-madrid-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/07/avion-lyon-madrid-640x480.jpg" /></a>
 
 
 

@@ -19,6 +19,6 @@ Il y a quelque chose de génial que j'ai mis en place sur mes comptes Google et 
 
 Dans Paramètres > Sécurité, vous pouvez activer cette fonctionnalité dans "Approbations de connexion" :
 
-[![Capture d’écran 2016-05-09 à 23.32.19](https://static.irz.fr/2016/05/Capture-d’écran-2016-05-09-à-23.32.19.png)](https://irz.fr/recherche?q=capture-decran-2016-05-09-a-23-32-19)
+<a href="https://irz.fr/recherche?q=capture-decran-2016-05-09-a-23-32-19"><img alt="Capture d’écran 2016-05-09 à 23.32.19" data-src="https://static.irz.fr/2016/05/Capture-d’écran-2016-05-09-à-23.32.19.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2016/05/Capture-d’écran-2016-05-09-à-23.32.19.png" /></a>
 
 On le sait tous, tout ne fonctionne pas toujours parfaitement. Cette méthode peut vous empêcher de vous faire [pirater votre compte Facebook](https://www.password-decryptor.com/fr/facebook-password.php) par exemple. Mais si vous perdez votre téléphone, vous ne pourrez plus vous y connecter. Vous pouvez ajouter un "numéro joker", un deuxième numéro de téléphone qui peut prendre le relais. J'utilise celui d'un membre de ma famille pour cela. Mais il y a un tas de solutions pour ne plus jamais se faire pirater son compte Facebook, dont une solution assez simple : supprimez votre compte. Tout simplement. Éteignez votre ordinateur ou votre smartphone dernier cri, et sortez de chez vous. Entendez-vous les oiseaux chanter ?

@@ -28,7 +28,7 @@ Alors autant vous dire tout de suite : ceci ne va pas améliorer la qualité de 
 # La photo "main tendue"
 
 
-[![tumblr_mhsrzzVd9H1s5qvcfo1_1280](https://static.irz.fr/2013/02/tumblr_mhsrzzVd9H1s5qvcfo1_1280.jpg)](http://irz.fr/?attachment_id=1438448843)
+<a href="http://irz.fr/?attachment_id=1438448843"><img alt="tumblr_mhsrzzVd9H1s5qvcfo1_1280" data-src="https://static.irz.fr/2013/02/tumblr_mhsrzzVd9H1s5qvcfo1_1280.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/02/tumblr_mhsrzzVd9H1s5qvcfo1_1280.jpg" /></a>
 
 Ce type de photo ou vous vous prenez seul ou avec vos amis n'est enfin plus une corvée ! En effet, plus besoin de "viser" correctement avec ce type d'objectif, puisque de toute manière il y a 100% de chances pour que vous soyez dans le champ de la photo, l'angle de vue étant tellement démentiel que vous êtes sur de réussir votre coup.
 

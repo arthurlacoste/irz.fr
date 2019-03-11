@@ -29,7 +29,7 @@ C'est un peu comme si je comparais la taille de ma B**e (et oui, ma B**e porte u
 
 Autre chose. Votre scanner. En général, dans 90% des cas, vous avez un scanner intégré à votre imprimante. Que ce soit le cas ou non, ça vous fait un gros bloc qui prend bien de la place ! Et parfois même **beaucoup** de place !
 
-[![pet-scanner](https://static.irz.fr/2013/12/pet-scanner-640x436.jpg)](https://irz.fr/recherche?q=pet-scanner)
+<a href="https://irz.fr/recherche?q=pet-scanner"><img alt="pet-scanner" data-src="https://static.irz.fr/2013/12/pet-scanner-640x436.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/pet-scanner-640x436.jpg" /></a>
 
 Mais alors, bien bien bien. La solution intégré, c'est le top quand vous voulez faire des photocopies, je vous le concède. Mais lorsqu'il s'agit de scanner un truc à l'arrache, la regardez la place que prend votre téléphone, dans votre poche, à côté de vos clefs. Peanuts !
 
@@ -38,4 +38,4 @@ Mais alors, bien bien bien. La solution intégré, c'est le top quand vous voule
 Mais bien entendu, je vous entend déjà me poser la question, vous allez me dire : "Ouais mais comment je fais pour bien viser et recadrer ma feuille A4, c'est super chaud !?". Et bien non pas tant que ça, il y a des solutions logiciel avec des Apps comme Genius Scan ([iOS](https://itunes.apple.com/fr/app/genius-scan/id377672876) / [Android](https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free)) qui vont intégrer un outil vous permettant de recadrer, puis de générer un PDF ou un JPG de votre scan. Et même si votre photo prend un scan penché, ça va marcher !
 
 
-[![scanner-smartphone](https://static.irz.fr/2013/12/scanner-smartphone1.png)](https://irz.fr/recherche?q=scanner-smartphone-2)
+<a href="https://irz.fr/recherche?q=scanner-smartphone-2"><img alt="scanner-smartphone" data-src="https://static.irz.fr/2013/12/scanner-smartphone1.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/scanner-smartphone1.png" /></a>

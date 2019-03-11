@@ -12,7 +12,7 @@ categories:
 - Liveblog
 ---
 
-[![IMG_3028](https://static.irz.fr/2014/05/IMG_3028-640x480.jpg)](https://irz.fr/recherche?q=img_3028)
+<a href="https://irz.fr/recherche?q=img_3028"><img alt="IMG_3028" data-src="https://static.irz.fr/2014/05/IMG_3028-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/IMG_3028-640x480.jpg" /></a>
 
 Oh ! Petite surprise, une grosse boite venue de Sarenza, contenant une paire de [Desert Boot "Edouard" de Kickers](http://www.sarenza.com/kickers-edouard-s2490-p0000087802), accompagné d'un guide des tailles (sympa !).
 

@@ -27,14 +27,14 @@ Alors c’est loin d’être parfait, souvent c’est même des privates jokes e
 
 Alors effectivement, on peut se dire que c’est une manière comme une autre d’animer votre vie un peu morne, devant votre écran, pour passer le temps et en attendant de trouver une meilleure application, toute aussi chronophage.
 
-[![bitstrips-breaking-bad](https://static.irz.fr/2013/12/bitstrips-breaking-bad.jpg)](https://irz.fr/recherche?q=bitstrips-breaking-bad)
+<a href="https://irz.fr/recherche?q=bitstrips-breaking-bad"><img alt="bitstrips-breaking-bad" data-src="https://static.irz.fr/2013/12/bitstrips-breaking-bad.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/bitstrips-breaking-bad.jpg" /></a>
 
 Il y a tant a faire avec cette application, que certains en viennent à “redessiner” (disons plutôt mettre en forme) des instants cultes de vos séries préférées (ci-dessus, la série Breaking Bad revisité), ou bien mettre en scène des personnalités publique plus ou moins ironiquement. Tiens, un petit lien vers [la page Facebook de la vie de François Hollande](https://www.facebook.com/LesAventuresDeFrancois) en Bitstrips.
 
 Alors je sais bien que les bitstrips envahissent depuis quelques mois vos flux Facebook, et que ça peut vous énerver, surtout lorsque l’image posté et totalement dénué d’intérêt à vos yeux. Mais en réalité, ce n’est pas de la faute de bitstrips, mais de la manière de s’en servir. Aujourd’hui, c’est devenu une alternative au statut Facebook, et on peut le voir ainsi, comme une version imagé de l’actualisation de sa vie.
 
 
-[![IMG_2358](https://static.irz.fr/2013/12/IMG_2358-640x528.jpg)](http://irz.fr/?attachment_id=1438449247)
+<a href="http://irz.fr/?attachment_id=1438449247"><img alt="IMG_2358" data-src="https://static.irz.fr/2013/12/IMG_2358-640x528.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/12/IMG_2358-640x528.jpg" /></a>
 
 
 

@@ -47,7 +47,7 @@ Dans cet article
 
 Si vous êtes sous iOS, pas le choix : il va falloir que votre appareil soit jailbreaké. Vous pouvez [lire notre tuto indiquant comment jailbreaker un iPhone](https://irz.fr/jailbreak-ios7). Une fois que ceci est fait, sur Cydia, recherchez le tweak appelé "YouTubed" dans le repository BigBoss.
 
-[![youtubed-cydia-tweak](https://static.irz.fr/2014/07/youtubed-cydia-tweak.png)](https://irz.fr/recherche?q=youtubed-cydia-tweak)
+<a href="https://irz.fr/recherche?q=youtubed-cydia-tweak"><img alt="youtubed-cydia-tweak" data-src="https://static.irz.fr/2014/07/youtubed-cydia-tweak.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/07/youtubed-cydia-tweak.png" /></a>
 
 
 
@@ -57,4 +57,4 @@ Si vous êtes sous iOS, pas le choix : il va falloir que votre appareil soit jai
 
 L'application uListen permet de lancer YouTube dans une fenêtre flottante.
 
-[![ulisten-youtube-tache-fond](https://static.irz.fr/2014/07/ulisten-youtube-tache-fond.jpg)](https://irz.fr/recherche?q=ulisten-youtube-tache-fond)
+<a href="https://irz.fr/recherche?q=ulisten-youtube-tache-fond"><img alt="ulisten-youtube-tache-fond" data-src="https://static.irz.fr/2014/07/ulisten-youtube-tache-fond.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/07/ulisten-youtube-tache-fond.jpg" /></a>

@@ -23,7 +23,7 @@ tags:
 - teaser
 ---
 
-[![header de la review de la semaine](https://static.irz.fr/2010/03/header-review.png)](https://static.irz.fr/2010/03/header-review.png)
+<a href="https://static.irz.fr/2010/03/header-review.png"><img alt="header de la review de la semaine" data-src="https://static.irz.fr/2010/03/header-review.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/header-review.png" /></a>
 
 Rien de tel que de finir ces vacances d'hiver par un petit état des lieux de l'avancement du site, lequel est - et c'est bien visible - encore dans sa phase de développement. C'est que je voudrais me mettre à la barre d'un navire, mais je n'ai qu'un radeau à ma disposition. On fait avec ses moyens.
 

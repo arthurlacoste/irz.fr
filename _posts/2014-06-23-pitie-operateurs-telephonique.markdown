@@ -27,7 +27,7 @@ Mais pour moi, gros consommateur de data devant l'éternel, bien qu'étant arriv
 
 Il y a quelques semaines, SFR a proposé son offre Appels SMS/MMS illimités + 2Go data pour 4€ pendant un an, toujours sans engagement. Comment refuser un forfait aussi intéressant, collant aussi bien à mes besoins et à un tarif aussi abordable ? Je veux bien faire l'impasse sur l'impossibilité de bloquer mon forfait pour ce prix là. Regardez d'ailleurs cette image, représentative de l'offre (et qui m'a bien fait rire au passage) :
 
-[![red-sfr-facture-4](https://static.irz.fr/2014/06/red-sfr-facture-4-640x323.png)](https://irz.fr/recherche?q=red-sfr-facture-4)
+<a href="https://irz.fr/recherche?q=red-sfr-facture-4"><img alt="red-sfr-facture-4" data-src="https://static.irz.fr/2014/06/red-sfr-facture-4-640x323.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/06/red-sfr-facture-4-640x323.png" /></a>
 
 Comment faire pour être encore fidèle - à l'heure d'aujourd'hui - à un opérateur spécifique ?
 

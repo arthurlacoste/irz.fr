@@ -17,4 +17,4 @@ tags:
 
 Pour activer la localisation de votre iPhone, vous devez aller dans l'application Réglages, dans iCloud, puis vous connecter avec vos identifiants Apple. Un fois connecté, veillez à ce que l'option "Localiser mon iPhone" soit bien coché.
 
-[![icloud-localiser-ipad](https://static.irz.fr/2014/07/icloud-localiser-ipad.png)](https://irz.fr/recherche?q=icloud-localiser-ipad)
+<a href="https://irz.fr/recherche?q=icloud-localiser-ipad"><img alt="icloud-localiser-ipad" data-src="https://static.irz.fr/2014/07/icloud-localiser-ipad.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/07/icloud-localiser-ipad.png" /></a>

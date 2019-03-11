@@ -13,7 +13,7 @@ tags:
 - Arthak Network
 ---
 
-[![fillette](https://static.irz.fr/2010/06/fillette-e1277043153291.jpg)](http://lucie.irz.fr)
+<a href="http://lucie.irz.fr"><img alt="fillette" data-src="https://static.irz.fr/2010/06/fillette-e1277043153291.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/fillette-e1277043153291.jpg" /></a>
 
 Ma sœur, Lucie est le genre de fille qui n'a pas la langue de sa poche quand il s'agit de la relation qu'elle a avec les êtres humains, et elle-même. Elle cherche à devenir avocate, mais vous pourrez en savoir davantage en consultant [ses objectifs par années](http://lucie.arthak.com/vie-ta-vie-maintenant/). Elle à 14 mois de moins que moi, elle est donc **ma cadette** (ou puînée si vous aimez le langage soutenu).
 

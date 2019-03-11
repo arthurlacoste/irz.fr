@@ -144,7 +144,7 @@ Si l'on regarde un peu le cicuit de notre projet, nous pouvons voir que les pin 
 
 Erratum : le cable jaune n'est pas bien positionné, sur la Raspi, il doit se trouver tout en bas à gauche, sur la masse (merci Xhark).
 
-[![schéma_bb](https://static.irz.fr/2015/08/schéma_bb-640x388.png)](https://irz.fr/recherche?q=schema_bb)
+<a href="https://irz.fr/recherche?q=schema_bb"><img alt="schéma_bb" data-src="https://static.irz.fr/2015/08/schéma_bb-640x388.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/08/schéma_bb-640x388.png" /></a>
 
 Ou en réel :
 

@@ -33,7 +33,7 @@ Il est très utile, notamment pour vous mettre à jour les fichiers qui composen
 
 Il y a aussi le port qui peut être personnalisé, mais par défaut il s'agit du port 21.
 
-[![cyberduck-nouvelle-connexion](https://static.irz.fr/2014/08/cyberduck-nouvelle-connexion-640x508.png)](https://irz.fr/recherche?q=cyberduck-nouvelle-connexion)
+<a href="https://irz.fr/recherche?q=cyberduck-nouvelle-connexion"><img alt="cyberduck-nouvelle-connexion" data-src="https://static.irz.fr/2014/08/cyberduck-nouvelle-connexion-640x508.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/08/cyberduck-nouvelle-connexion-640x508.png" /></a>
 
 
 3. Voilà, vous êtes fin prêt à changer des fichiers ! Il suffit pour cela d'effectuer des glissez déposer pour déposer ou récupérer des documents.
@@ -47,4 +47,4 @@ Il arrive parfois que vous ayez besoin de modifier un fichier directement sur le
 
 Toutefois, si le logiciel qui s'ouvre n'est pas votre programme d'édition par défaut, vous pouvez le modifier en allant dans Cyberduck > Préférences > Editeur externe. Sur cette page de configuration, vous avez la possibilité de **paramétrer votre logiciel favori**. Vous pouvez aussi cocher "Toujours utiliser l'éditeur par défaut", si vous souhaitez l'utiliser pour ouvrir tout vos fichier sur le FTP.
 
-[![cyberduck-editeur-par-defaut](https://static.irz.fr/2014/08/cyberduck-editeur-par-defaut-640x339.png)](https://irz.fr/recherche?q=cyberduck-editeur-par-defaut)
+<a href="https://irz.fr/recherche?q=cyberduck-editeur-par-defaut"><img alt="cyberduck-editeur-par-defaut" data-src="https://static.irz.fr/2014/08/cyberduck-editeur-par-defaut-640x339.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/08/cyberduck-editeur-par-defaut-640x339.png" /></a>

@@ -467,7 +467,7 @@ Voilà, c'est fini ! faites un reboot et vérifiez si vos services fonctionnent 
 
 
 
-[![12077356_1149485491743392_1805889955_n](https://static.irz.fr/2015/12/12077356_1149485491743392_1805889955_n-640x694.jpg)](https://irz.fr/recherche?q=12077356_1149485491743392_1805889955_n)
+<a href="https://irz.fr/recherche?q=12077356_1149485491743392_1805889955_n"><img alt="12077356_1149485491743392_1805889955_n" data-src="https://static.irz.fr/2015/12/12077356_1149485491743392_1805889955_n-640x694.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2015/12/12077356_1149485491743392_1805889955_n-640x694.jpg" /></a>
 
 Vous pouvez maintenant vous connecter a votre AP avec le mot de passe que vous avez défini.
 normalement si vous faite un tour sur https://check.torproject.org/ vous devriez avoir le message ' Félicitation vous êtes en train d'utiliser tor '.

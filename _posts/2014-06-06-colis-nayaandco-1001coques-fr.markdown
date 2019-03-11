@@ -18,4 +18,4 @@ Un emballage sommaire mais efficace, un timbre de 1,65€, et hop !
 
 Il n'aura fallu que 7 jours de la commande à la livraison.
 
-[![IMG_3106](https://static.irz.fr/2014/06/IMG_3106-640x480.jpg)](https://irz.fr/recherche?q=img_3106)
+<a href="https://irz.fr/recherche?q=img_3106"><img alt="IMG_3106" data-src="https://static.irz.fr/2014/06/IMG_3106-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/06/IMG_3106-640x480.jpg" /></a>

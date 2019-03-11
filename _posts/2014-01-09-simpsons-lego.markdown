@@ -24,26 +24,26 @@ Je vous laisse regarder cette vidéo ainsi que quelques photos du pack qui vous 
 
 {% include video id="zxCIXqYaSPU" provider="youtube" %}
 
-[![lego-bart-chambre](https://static.irz.fr/2014/01/lego-bart-chambre-640x521.jpg)](https://irz.fr/recherche?q=lego-bart-chambre)
+<a href="https://irz.fr/recherche?q=lego-bart-chambre"><img alt="lego-bart-chambre" data-src="https://static.irz.fr/2014/01/lego-bart-chambre-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-bart-chambre-640x521.jpg" /></a>
 
-[![lego-homer-flanders](https://static.irz.fr/2014/01/lego-homer-flanders-640x521.jpg)](https://irz.fr/recherche?q=lego-homer-flanders)
+<a href="https://irz.fr/recherche?q=lego-homer-flanders"><img alt="lego-homer-flanders" data-src="https://static.irz.fr/2014/01/lego-homer-flanders-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-homer-flanders-640x521.jpg" /></a>
 
-[![lego-lisa-photo](https://static.irz.fr/2014/01/lego-lisa-photo-640x521.jpg)](https://irz.fr/recherche?q=lego-lisa-photo)
+<a href="https://irz.fr/recherche?q=lego-lisa-photo"><img alt="lego-lisa-photo" data-src="https://static.irz.fr/2014/01/lego-lisa-photo-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-lisa-photo-640x521.jpg" /></a>
 
-[![lego-lisa-piano-homer](https://static.irz.fr/2014/01/lego-lisa-piano-homer-640x521.jpg)](https://irz.fr/recherche?q=lego-lisa-piano-homer)
+<a href="https://irz.fr/recherche?q=lego-lisa-piano-homer"><img alt="lego-lisa-piano-homer" data-src="https://static.irz.fr/2014/01/lego-lisa-piano-homer-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-lisa-piano-homer-640x521.jpg" /></a>
 
-[![lego-maggie-cuisine](https://static.irz.fr/2014/01/lego-maggie-cuisine-640x480.jpg)](https://irz.fr/recherche?q=lego-maggie-cuisine)
+<a href="https://irz.fr/recherche?q=lego-maggie-cuisine"><img alt="lego-maggie-cuisine" data-src="https://static.irz.fr/2014/01/lego-maggie-cuisine-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-maggie-cuisine-640x480.jpg" /></a>
 
-[![lego-maggie-marge](https://static.irz.fr/2014/01/lego-maggie-marge-640x521.jpg)](https://irz.fr/recherche?q=lego-maggie-marge)
+<a href="https://irz.fr/recherche?q=lego-maggie-marge"><img alt="lego-maggie-marge" data-src="https://static.irz.fr/2014/01/lego-maggie-marge-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-maggie-marge-640x521.jpg" /></a>
 
-[![lego-maggie-wc](https://static.irz.fr/2014/01/lego-maggie-wc-640x468.jpg)](https://irz.fr/recherche?q=lego-maggie-wc)
+<a href="https://irz.fr/recherche?q=lego-maggie-wc"><img alt="lego-maggie-wc" data-src="https://static.irz.fr/2014/01/lego-maggie-wc-640x468.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-maggie-wc-640x468.jpg" /></a>
 
-[![lego-simpsons-canape](https://static.irz.fr/2014/01/lego-simpsons-canape-640x521.jpg)](https://irz.fr/recherche?q=lego-simpsons-canape)
+<a href="https://irz.fr/recherche?q=lego-simpsons-canape"><img alt="lego-simpsons-canape" data-src="https://static.irz.fr/2014/01/lego-simpsons-canape-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-simpsons-canape-640x521.jpg" /></a>
 
-[![lego-bart-skate](https://static.irz.fr/2014/01/lego-bart-skate-640x521.jpg)](https://irz.fr/recherche?q=lego-bart-skate)
+<a href="https://irz.fr/recherche?q=lego-bart-skate"><img alt="lego-bart-skate" data-src="https://static.irz.fr/2014/01/lego-bart-skate-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-bart-skate-640x521.jpg" /></a>
 
-[![lego-simpsons-maison](https://static.irz.fr/2014/01/lego-simpsons-maison-640x521.jpg)](https://irz.fr/recherche?q=lego-simpsons-maison)
+<a href="https://irz.fr/recherche?q=lego-simpsons-maison"><img alt="lego-simpsons-maison" data-src="https://static.irz.fr/2014/01/lego-simpsons-maison-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-simpsons-maison-640x521.jpg" /></a>
 
-[![lego-simpsons-voiture](https://static.irz.fr/2014/01/lego-simpsons-voiture-640x521.jpg)](https://irz.fr/recherche?q=lego-simpsons-voiture)
+<a href="https://irz.fr/recherche?q=lego-simpsons-voiture"><img alt="lego-simpsons-voiture" data-src="https://static.irz.fr/2014/01/lego-simpsons-voiture-640x521.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/01/lego-simpsons-voiture-640x521.jpg" /></a>
 
 

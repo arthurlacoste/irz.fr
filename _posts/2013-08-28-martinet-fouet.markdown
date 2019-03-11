@@ -22,7 +22,7 @@ tags:
 
 Le martinet, c'est un petit fouet. Un manche en bois et quelques lanières de cuir, il est utilisé depuis des générations comme instrument de torture **soft**.<!-- more -->
 
-[![martinet-noir-hard-sm-toy-sado-maso](https://static.irz.fr/2013/08/martinet-noir-hard-sm-toy-sado-maso.jpg)](https://irz.fr/recherche?q=martinet-noir-hard-sm-toy-sado-maso)
+<a href="https://irz.fr/recherche?q=martinet-noir-hard-sm-toy-sado-maso"><img alt="martinet-noir-hard-sm-toy-sado-maso" data-src="https://static.irz.fr/2013/08/martinet-noir-hard-sm-toy-sado-maso.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/08/martinet-noir-hard-sm-toy-sado-maso.jpg" /></a>
 
 Il y a deux usages du martinet. la première me parait dépassé, l'autre (presque) intéressante.
 

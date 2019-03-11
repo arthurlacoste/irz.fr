@@ -20,7 +20,7 @@ tags:
 - salon
 ---
 
-[![foire du printemps](https://static.irz.fr/2010/03/foire-du-printemps-300x225.jpg)](http://www.flickr.com/photos/arthurlacoste/4415859218/sizes/o/)La foire du printemps, c'est l'occasion pour des professionnels venus de tout horizons de présenter leurs nouveaux produits. Et pour les visiteurs, c'est une petite ballade en famille qui s'annonce, car en laissant les enfants au spectacle d'otaries ou à la rencontre des 300 spécimens de la faune reptilienne, les parents pourront saisir l'opportunité de repenser leurs aménagement d'intérieur ou d'extérieur.
+<a href="http://www.flickr.com/photos/arthurlacoste/4415859218/sizes/o/"><img alt="foire du printemps" data-src="https://static.irz.fr/2010/03/foire-du-printemps-300x225.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/foire-du-printemps-300x225.jpg" /></a>La foire du printemps, c'est l'occasion pour des professionnels venus de tout horizons de présenter leurs nouveaux produits. Et pour les visiteurs, c'est une petite ballade en famille qui s'annonce, car en laissant les enfants au spectacle d'otaries ou à la rencontre des 300 spécimens de la faune reptilienne, les parents pourront saisir l'opportunité de repenser leurs aménagement d'intérieur ou d'extérieur.
 
 Dans l'allée centrale ce trouve une exposition de Harley Davidson, la plus grande collection d'Europe. 26 modèles, les premières datant de 1918. Mais ce n'est pas la seule exposition, car l'Armée de l'air, elle, présente une maquette grandeur nature de l'Alpha Jet de la patrouille de France. C'est sans parler des 5 jours de la bande dessinée qui se déroule dans cette foire.
 

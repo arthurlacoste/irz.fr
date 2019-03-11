@@ -15,11 +15,11 @@ Alors là, pour le coup, grosse surprise de ce vendeur professionnel de chez Ama
 
 Arrivé 10 jours après la commande en direct de Singapour par avion : un délai plus que correct.
 
-[![IMG_3033](https://static.irz.fr/2014/05/IMG_3033-640x480.jpg)](https://irz.fr/recherche?q=img_3033)
+<a href="https://irz.fr/recherche?q=img_3033"><img alt="IMG_3033" data-src="https://static.irz.fr/2014/05/IMG_3033-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/IMG_3033-640x480.jpg" /></a>
 
-[![IMG_3036](https://static.irz.fr/2014/05/IMG_3036-640x853.jpg)](https://irz.fr/recherche?q=img_3036)
+<a href="https://irz.fr/recherche?q=img_3036"><img alt="IMG_3036" data-src="https://static.irz.fr/2014/05/IMG_3036-640x853.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/IMG_3036-640x853.jpg" /></a>
 
-[![IMG_3034](https://static.irz.fr/2014/05/IMG_3034-640x480.jpg)](https://irz.fr/recherche?q=img_3034)
+<a href="https://irz.fr/recherche?q=img_3034"><img alt="IMG_3034" data-src="https://static.irz.fr/2014/05/IMG_3034-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/IMG_3034-640x480.jpg" /></a>
 
-[![IMG_3035](https://static.irz.fr/2014/05/IMG_3035-640x480.jpg)](https://irz.fr/recherche?q=img_3035)
+<a href="https://irz.fr/recherche?q=img_3035"><img alt="IMG_3035" data-src="https://static.irz.fr/2014/05/IMG_3035-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/IMG_3035-640x480.jpg" /></a>
 

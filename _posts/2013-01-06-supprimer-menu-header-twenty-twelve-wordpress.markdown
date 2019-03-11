@@ -24,7 +24,7 @@ Petite explication du pourquoi du comment avant de vous montrer l'astuce. Le seu
 
 Sur votre menu d'administration de WordPress, allez dans Apparence, Éditeur  Dans la colonne de gauche, sélectionnez **En-tête** (header.php) comme sur la catpure ci dessous :
 
-[![modification-fichier-header-theme-twenty-twelve](https://static.irz.fr/2013/01/modification-fichier-header-theme-twenty-twelve-1024x763.png)](https://static.irz.fr/2013/01/modification-fichier-header-theme-twenty-twelve.png)
+<a href="https://static.irz.fr/2013/01/modification-fichier-header-theme-twenty-twelve.png"><img alt="modification-fichier-header-theme-twenty-twelve" data-src="https://static.irz.fr/2013/01/modification-fichier-header-theme-twenty-twelve-1024x763.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/modification-fichier-header-theme-twenty-twelve-1024x763.png" /></a>
 
 Dans la page, vous aller avoir un bout de texte qui commence par "<nav id" et qui fini par "</nav>". Comme dans la capture plus haut, vous pouvez mettre ce texte en commentaire (en mettant "<? /*" avant et "*/ ?>" après. Ou alors vous appuyez sur la touche suppr de votre clavier.
 

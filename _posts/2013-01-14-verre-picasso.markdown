@@ -19,7 +19,7 @@ tags:
 - Pablo Picasso
 ---
 
-[![le-verre_Picasso](https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg)](https://static.irz.fr/2013/01/le-verre_Picasso.jpg){: .align-center}
+<a href="https://static.irz.fr/2013/01/le-verre_Picasso.jpg"><img alt="le-verre_Picasso" data-src="https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg" /></a>{: .align-center}
 
 
 Verre, 1914

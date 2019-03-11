@@ -25,7 +25,7 @@ tags:
 
 Cet article fait partie de la série “Mes premières fois” qui conte au jour le jour mes premières expérience de jeune puceau (métaphore !) de la vie. L’année 2013 sera l’année des premières fois, avec au moins une première fois par mois, si tout se goupille bien.
 
-[![crane](https://static.irz.fr/2013/01/crane-1024x682.jpg)](https://static.irz.fr/2013/01/crane.jpg)
+<a href="https://static.irz.fr/2013/01/crane.jpg"><img alt="crane" data-src="https://static.irz.fr/2013/01/crane-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/crane-1024x682.jpg" /></a>
 
 
 
@@ -37,7 +37,7 @@ Quand j’étais lycéen, j’avais longtemps envisagé de me faire tatouer. Ce 
 
 Ce que je rêvait d’avoir, c’était un code barre dans la nuque, avec à la place des chiffres habituels, mon blason de l’époque : [arthak](https://irz.fr/arthak). Dans le genre “Je ne suis pas un numéro, mais quand même une victime de la société de consommation, et moi même un produit de cette société”. Je suis content de ne pas l’avoir fait, car l’endroit est effectivement peu pertinent pour travailler, il suffit de porter un t-shirt pour voir le tatouage. De plus, c’est un concept éphémère et vraiment un tatouage "de mode".
 
-[![salle-attente-velvet-grenoble](https://static.irz.fr/2013/01/salle-attente-velvet-grenoble-1024x682.jpg)](https://static.irz.fr/2013/01/salle-attente-velvet-grenoble.jpg)
+<a href="https://static.irz.fr/2013/01/salle-attente-velvet-grenoble.jpg"><img alt="salle-attente-velvet-grenoble" data-src="https://static.irz.fr/2013/01/salle-attente-velvet-grenoble-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/salle-attente-velvet-grenoble-1024x682.jpg" /></a>
 
 
 
@@ -57,7 +57,7 @@ Quelques jours avant le rendez-vous, j’envoi un message sur la page fan Facebo
 
 La veille du jour du tatouage, je ne disposait toujours pas du dessin. La pression commençait à monter, il y a toujours pas mal d'arguments contre le tatouage. C'est pour la vie, **une pièce conséquente peut coûter plusieurs milliers d'euros**.. La on est quand même dans un budget de moins de 500 euros, mais oui, ça représente quand même un budget. Le studio m'appelle, pour m'informer ne pas pouvoir me montrer le dessin avant le jour J. C'est un coup dur pour mon moral, je me dit que le dessin ne va peut être pas me convenir.
 
-[![machine-tatouage](https://static.irz.fr/2013/01/machine-tatouage-1024x682.jpg)](http://www.flickr.com/photos/nasthunter/8402356139/)
+<a href="http://www.flickr.com/photos/nasthunter/8402356139/"><img alt="machine-tatouage" data-src="https://static.irz.fr/2013/01/machine-tatouage-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/machine-tatouage-1024x682.jpg" /></a>
 
 
 

@@ -42,7 +42,7 @@ En l'occurrence la somme engagée dans ce test était de près de 1000€.
 
 **Virement.** 2 virements de 500€ ont été effectués en SEPA, sans frais de dépôt. Le premier virement à été accessible 3 jours plus tard. Je dis 3 jours plus tard, mais le virement à été effectué le vendredi, et c’est dès le lundi que Kraken à rendu le montant disponible, il est donc possible que cela prenne moins de 24h. Cependant, le second virement n’a pas été validé tout de suite, car le montant étant exactement le même, leurs systèmes à bloqué le deuxième envoi. Ceci s'est résolu quelques jours plus tard, après avoir pris contact avec le support.
 
-[![kraken-buy-sell](https://static.irz.fr/2014/06/kraken-buy-sell-640x115.png)](https://irz.fr/recherche?q=kraken-buy-sell)
+<a href="https://irz.fr/recherche?q=kraken-buy-sell"><img alt="kraken-buy-sell" data-src="https://static.irz.fr/2014/06/kraken-buy-sell-640x115.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/06/kraken-buy-sell-640x115.png" /></a>
 
 **Achat des bitcoins.** Après avoir demandé un équivalent en Bitcoin au prix du marché, l’opération fut instantanée ! En effet, Kraken est la plate-forme la plus utilisée en ce moment, et a contrario de Bitcoin-Central qui met quasiment une minute entière pour la même opération. Les frais furent de 0.26%, mais une petite barre astucieuse m’indique que je peux acheter des bitcoins pour réduire mes frais. À partir de 50 000$ de transaction, les frais passent à 0,24%, etc… Vous pouvez voir ceci en détail dans [la documentation](https://www.kraken.com/help/fees). Le compteur se réinitialise tout les 30 jours. Chez Paymium, les frais sont de 0.59%, soit 3x plus importants !
 

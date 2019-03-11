@@ -24,7 +24,7 @@ Je bidouille un [configuration multidomaine](http://www.dailymotion.com/video/xc
 Imaginez sa tête !
 
 
-[![fabien garcia nu](https://static.irz.fr/2010/06/IMG_0405-300x225.jpg)](https://static.irz.fr/2010/06/IMG_0405.jpg)
+<a href="https://static.irz.fr/2010/06/IMG_0405.jpg"><img alt="fabien garcia nu" data-src="https://static.irz.fr/2010/06/IMG_0405-300x225.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/IMG_0405-300x225.jpg" /></a>
 
 
 Lui et moi, on est pas patients, mais surtout de [gros geeks](http://www.youtube.com/user/missclicktv).

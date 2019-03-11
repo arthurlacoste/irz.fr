@@ -11,7 +11,7 @@ categories:
 - Photo
 ---
 
-[![Premier visage](https://static.irz.fr/2013/01/IMG_0012-1024x682.jpg)](https://static.irz.fr/2013/01/IMG_0012.jpg)
+<a href="https://static.irz.fr/2013/01/IMG_0012.jpg"><img alt="Premier visage" data-src="https://static.irz.fr/2013/01/IMG_0012-1024x682.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/IMG_0012-1024x682.jpg" /></a>
 
 
 Harmonie, 07/01/2012 - f/1.8, 1/60, ISO 3200
