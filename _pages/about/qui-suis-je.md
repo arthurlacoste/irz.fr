@@ -17,7 +17,8 @@ c'est soit:
     bien pouvoir te réserver.
 
 <figure style="width: 400px" class="align-right">
-  <img src="https://static.irz.fr/2013/03/arthur-madrid-640x426.jpg" alt="Arthur Madrid">
+  <img data-src="https://static.irz.fr/2013/03/arthur-madrid-640x426.jpg" alt="Arthur Madrid"
+  src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/03/arthur-madrid-640x426.jpg">
   <figcaption>A l'aéroport de Madrid, Espagne. Photo Paul Lacoste</figcaption>
 </figure>
 

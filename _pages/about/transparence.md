@@ -13,6 +13,7 @@ sidebar:
 
 Pour ne rien vous cacher, je vous dois cette page. Elle répertorie toutes les campagnes de netlinking auquel j'ai participé en partenariat avec IRZ. Entre parenthèses, le prix payé par l'annonceur.
 
+- 28/09/18 : [Comment réparer ses cheveux abimés](https://irz.fr/cheveux-abimes) (100€)
 - 26/01/18 : [Le e-commerce](https://irz.fr/e-commerce) (100€)
 - 26/01/17 : [Comment tenir ses bonnes résolutions de début d'année](https://irz.fr/tenir-resolutions-debut-annee) (100€)
 - 06/07/16 : [Découvrez "Bon ou mauvais conducteur"](https://irz.fr/gagnez-gopro-hero-habitudes-conducteurs) (150€)
