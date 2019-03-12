@@ -40,14 +40,14 @@ Le dofollow est **un état esprit** laissant libre aux personnes amenées à com
 Par défaut, les commentaires Wordpress sont en nofollow. Il vous faut donc un plugin, ou ajouter quelques lignes de code dans le fichier fonction du thème de votre blog :
 
 
-    
+
     // Fonction Do Follow
     function dofollow($attr) {
         return str_replace('" rel="nofollow', '', $attr);
     }
     add_filter('comment_text', 'dofollow');
     remove_filter('pre_comment_content', 'wp_rel_nofollow', 15);
-    
+
     function enleve_nofollow($attr){
         return str_ireplace(' nofollow', '', $attr);
     }
@@ -76,25 +76,10 @@ Sur la ligne surlignée, si vous disposez le l'attribut **`rel="nofollow"`** com
 
 
 Si vous souhaitez utiliser IRZ pour commenter et avoir des lien en dofollow, pas de problème ! Cependant, je n'accepte pas tout les commentaires. Je privilégie les commentaires construits, de plus de 150 caractères (à la louche, une ou deux bonne phrase minimum), et apportant une valeur ajouté à l'article. Déjà, ne commentez pas cet article, tout le monde le fait. Voici ce que je vous conseille de faire :
-
-
-
-
-  1
-
-      Allez sur la page d’accueil du site ou faites une recherche par mot-clef.
-
-  2
-
-      Trouvez un article se rapprochant de votre thématique (mais ce n'est pas obligatoire).
-
-  3
-
-      Lisez l'article !
-
-    4
-
-      Utilisez votre savoir ou une expérience personnelle pour commenter celui-ci
+1 Allez sur la page d’accueil du site ou faites une recherche par mot-clef.
+2 Trouvez un article se rapprochant de votre thématique (mais ce n'est pas obligatoire).
+3 Lisez l'article !
+4 Utilisez votre savoir ou une expérience personnelle pour commenter celui-ci
 
 
 
