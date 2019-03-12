@@ -19,42 +19,29 @@ tags:
 
 Il n'est pas toujours aisé de différencier la motocyclette du cyclomoteur, et cet article va tenter de vous aider a les différencier.
 
+### La motocyclette
 
-
-### La motocyclette<img alt="No alt" data-src="https://static.irz.fr/2011/05/moto.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/moto.png" />
-
-
+<img alt="No alt" data-src="https://static.irz.fr/2011/05/moto.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/moto.png" />
 
 Une motocyclette est un véhicule à deux roues à moteur ne répondant pas à la définition du cyclomoteur et dont la puissance n'excède pas 73,6 kilowatts (100 ch) ; l'adjonction d'un side-car à une motocyclette ne modifie pas le classement de celle-ci.
 
 Une motocyclette légère est une motocyclette dont la cylindrée n'excède pas 125 cm3 et dont la puissance n'excède pas 11 kilowatts ; l'adjonction d'un side-car à une motocyclette ne modifie pas le classement de celle-ci.
 
+### Le cyclomoteur
 
-
-### Le cyclomoteur<a href="https://static.irz.fr/2011/05/cyclo.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/cyclo.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/cyclo.png" /></a>
+<img alt="No alt" data-src="https://static.irz.fr/2011/05/cyclo.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/cyclo.png" />
 
 
 
 Un cyclomoteur est un véhicule à deux ou trois roues dont la vitesse maximale par construction ne dépasse pas 45 km/h et équipé :
 
-
-
-
-    
-  * pour un cyclomoteur à deux roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à combustion interne ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur.
-
-    
-  * Pour un cyclomoteur à trois roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à allumage commandé ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur.
-
-
-
+* pour un cyclomoteur à deux roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à combustion interne ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur.
+* Pour un cyclomoteur à trois roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à allumage commandé ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur.
 
 
 ### En conclusion
 
-
-
-Pour différencier le cyclo et la [moto](http://irz.fr/?s=moto), il suffit de comprendre que pour le premier, il s'agit d'un véhicule dont le moteur n'excède pas les 50 cm3, et que l'autre fait plus de 50 cm3. Et pour ne pas les confondre, le cyclo est moins rapide et moins puissant, plus proche du vélo que de la moto. Bien qu'aujourd'hui les principaux cyclomoteurs en circulation soient des scooters, un cyclomoteur est à la base une bicyclette munie d'un petit moteur. Tandis que la moto, elle, va aussi vite (voir plus vite) qu'une voiture.
+Pour différencier le cyclo et la moto, il suffit de comprendre que pour le premier, il s'agit d'un véhicule dont le moteur n'excède pas les 50 cm3, et que l'autre fait plus de 50 cm3. Et pour ne pas les confondre, le cyclo est moins rapide et moins puissant, plus proche du vélo que de la moto. Bien qu'aujourd'hui les principaux cyclomoteurs en circulation soient des scooters, un cyclomoteur est à la base une bicyclette munie d'un petit moteur. Tandis que la moto, elle, va aussi vite (voir plus vite) qu'une voiture.
 
 De la même manière, pour différencier rapidement sur un panneau de signalisation (qui correspond aux images qui illustrent cet article) si il s'agit d'un cylo ou d'une moto, on voit bien que l'un ressemble davantage à un vélo, et que l'autre, et bien, c'est une moto.
 
