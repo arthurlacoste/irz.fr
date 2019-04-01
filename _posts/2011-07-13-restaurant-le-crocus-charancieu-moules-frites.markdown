@@ -16,7 +16,7 @@ tags:
 - plat à volonté
 ---
 
-_Cet article à été modifié suite à l'[accusation de diffamation](https://irz.fr/accusation-en-diffamation-crocus-charancie) du restaurant concerné par cet article._
+_Cet article à été modifié suite à l'[accusation de diffamation](https://irz.fr/diffamation-crocus-charancieu) du restaurant concerné par cet article._
 
 Le crocus à Charancieu fait partie de ces restaurants de campagne qui proposent un service plutôt agréable, peu onéreux, et vraiment bon, tant que l'on reste dans la tranchée de la carte. J'ai tenté pour vous l'expérience du **no man's land**, la soirée Moule-frite à volonté.
 
