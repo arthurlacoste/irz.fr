@@ -1,19 +1,18 @@
 ---
+title: Entrepreneurs, venez prendre un apéro !
+date: 2010-05-01 10:18:11 Z
+categories:
+- Actu
+tags:
+- apéro
 author: art
 comments: true
-date: 2010-05-01 10:18:11+00:00
 excerpt: 'Depuis quelques mois, et avec quelques autres entrepreneurs francophones,
   nous avons préparé un plan machiavélique : multiplier les villes dans lesquelles
   l''apéro aura lieu. '
 layout: post
 redirect_from: entrepreneurs-venez-prendre-un-apero/
-slug: entrepreneurs-venez-prendre-un-apero
-title: Entrepreneurs, venez prendre un apéro !
 wordpress_id: 789
-categories:
-- Actu
-tags:
-- apéro
 ---
 
 <a href="https://static.irz.fr/2010/05/aperoentrepreneurs.jpg"><img alt="No alt" data-src="https://static.irz.fr/2010/05/aperoentrepreneurs.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/05/aperoentrepreneurs.jpg" /></a>

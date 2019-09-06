@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2010-12-27 00:03:28+00:00
-layout: post
-redirect_from: changer-carte-graphique-macbook-pro/
-slug: changer-carte-graphique-macbook-pro
 title: Changer la carte graphique de votre Macbook Pro
-wordpress_id: 54
+date: 2010-12-27 00:03:28 Z
 categories:
 - Apple
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: changer-carte-graphique-macbook-pro/
+wordpress_id: 54
 ---
 
 Certains modèles récents de Macbook Pro possèdent deux cartes graphique, ce qui peut avoir un intérêt lorsque l'on possède un appareil mobile puissant. Il permet d'économiser de l'énergie en situation de mobilité, et une fois sur secteur, de pouvoir se servir de toute la puissance de l'autre carte graphique pour réaliser des tâches plus lourdes (traitements graphiques, jeux gourmands)...

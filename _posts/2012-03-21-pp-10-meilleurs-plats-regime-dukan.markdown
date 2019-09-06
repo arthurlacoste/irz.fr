@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2012-03-21 12:03:15+00:00
-layout: post
-redirect_from: pp-10-meilleurs-plats-regime-dukan/
-slug: pp-10-meilleurs-plats-regime-dukan
 title: Le top 3 des plats hyper-proteinés
-wordpress_id: 1438448441
+date: 2012-03-21 12:03:15 Z
 categories:
 - Santé
 tags:
@@ -16,6 +10,11 @@ tags:
 - protéine pure
 - protéines pures
 - régime
+author: art
+comments: true
+layout: post
+redirect_from: pp-10-meilleurs-plats-regime-dukan/
+wordpress_id: 1438448441
 ---
 
 Alors que je parlais il y a quelques jours, voir quelques semaines, de ma [première expérience de perte de de poids](https://irz.fr/bien-dans-son-corps-perdre-du-poids-mais-comment-1), je vous livre aujourd'hui un article concis évoquant les différents plats que je préfère, qui permettent - selon moi - de maigrir sans s'affamer.

@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-02-25 12:58:24+00:00
-layout: post
-redirect_from: configurer-page-attachment/
-slug: configurer-page-attachment
 title: 'Configurer une page d''image attachée à votre thème '
-wordpress_id: 1438448855
+date: 2013-02-25 12:58:24 Z
 categories:
 - Overgeek
 - Tutoriel
@@ -14,6 +8,11 @@ categories:
 tags:
 - attachment
 - wp_get_attachment_image_src
+author: art
+comments: true
+layout: post
+redirect_from: configurer-page-attachment/
+wordpress_id: 1438448855
 ---
 
 Aujourd'hui nous allons voir ensemble comment mettre en place une page de fichiers images attachés personnalisée. Tout d'abord, sachez que vous pouvez trouver (si votre thème le prévoit) ce modèle sous le nom **attachment.php**. Si vous n'en disposez pas, dupliquer et renommez le fichier single.php, il constitue une bonne base de travail pour disposer d'une structure de page similaire à votre thème.<!-- more -->

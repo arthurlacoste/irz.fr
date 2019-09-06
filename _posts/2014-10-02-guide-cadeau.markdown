@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2014-10-02 12:36:18+00:00
-layout: post
-redirect_from: guide-cadeau/
-slug: guide-cadeau
 title: Le guide du petit cadeau débile
-wordpress_id: 1438449511
+date: 2014-10-02 12:36:18 Z
 categories:
 - Lifestyle
+author: art
+comments: true
+layout: post
+redirect_from: guide-cadeau/
+wordpress_id: 1438449511
 post_format:
 - En passant
 ---

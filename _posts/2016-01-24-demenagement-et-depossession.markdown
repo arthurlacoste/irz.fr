@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-01-24 04:06:03+00:00
-layout: post
-redirect_from: demenagement-et-depossession/
-slug: demenagement-et-depossession
 title: Déménagement et dépossession
-wordpress_id: 1438450198
+date: 2016-01-24 04:06:03 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: demenagement-et-depossession/
+wordpress_id: 1438450198
 ---
 
 Demain je déménage.

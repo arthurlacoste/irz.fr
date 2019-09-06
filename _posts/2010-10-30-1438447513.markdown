@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2010-10-30 11:09:57+00:00
-layout: post
-redirect_from: 1438447513/
-slug: '1438447513'
 title: No Content Found
-wordpress_id: 1438447513
+date: 2010-10-30 11:09:57 Z
 categories:
 - 3615MyLife
-post_format:
-- En passant
 tags:
 - mysql
 - php
+author: art
+comments: true
+layout: post
+redirect_from: 1438447513/
+wordpress_id: 1438447513
+post_format:
+- En passant
 ---
 
 Ça y est, je déballe un livre reçu en pré-commande il y a près de 6 mois, "Concevez votre site web avec php et MySQL" de Mathieu Nebra. Non pas que je doive apprendre, mais je me concentre sur l'acquisition de notions avancées (classes, MVC) sur lequelles j'ai quelques lacunes. Ça et un memento PHP+SQL, et c'est parti pour un week end à coder.

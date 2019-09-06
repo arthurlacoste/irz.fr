@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-05-22 09:55:03+00:00
-layout: post
-redirect_from: maldives/
-slug: maldives
 title: Petit détour par les Maldives
-wordpress_id: 151
+date: 2011-05-22 09:55:03 Z
 categories:
 - Dessins
+author: art
+comments: true
+layout: post
+redirect_from: maldives/
+wordpress_id: 151
 ---
 
 Une petite aquarelle (mon premier "paysage") des îles Maldives.

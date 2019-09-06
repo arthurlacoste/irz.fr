@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-03-20 16:17:00+00:00
-layout: post
-redirect_from: resoudre-un-rubiks-cube-loccasion-de-faire-le-point/
-slug: resoudre-un-rubiks-cube-loccasion-de-faire-le-point
 title: Résoudre un rubik’s Cube, l’occasion de faire le point
-wordpress_id: 471
+date: 2010-03-20 16:17:00 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: resoudre-un-rubiks-cube-loccasion-de-faire-le-point/
+wordpress_id: 471
 ---
 
 Hier, j'étais dans le train pour rentrer chez mes parents (la prochaine fois je penserais à m'inscrire sur la liste électorale de ma ville), quand, pour la première fois, je suis arrivé à résoudre mon rubik's cube (que j'ai redécouvert grâce à Fabien). N'étant pas chez moi, cette vidéo à été faite à la webcam "à l'ancienne".

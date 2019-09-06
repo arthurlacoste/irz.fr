@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-10-15 19:08:16+00:00
-layout: post
-redirect_from: cravate-de-grand-mre/
-slug: cravate-de-grand-mre
 title: Cravate de grand mère
-wordpress_id: 1321760977
+date: 2010-10-15 19:08:16 Z
 categories:
 - Divers
+author: art
+comments: true
+layout: post
+redirect_from: cravate-de-grand-mre/
+wordpress_id: 1321760977
 ---
 
 Tout à l'heure, j'ai croisé un mec qui a du tailler sa cravate dans une vieille nappe de table de grand-mère…

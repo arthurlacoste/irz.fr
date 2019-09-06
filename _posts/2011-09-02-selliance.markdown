@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-09-02 14:26:41+00:00
-layout: post
-redirect_from: selliance/
-slug: selliance
 title: 'Selliance : le poisson d''avril en retard'
-wordpress_id: 1438448374
+date: 2011-09-02 14:26:41 Z
 categories:
 - Web
 tags:
@@ -16,6 +10,11 @@ tags:
 - poisson d'avril
 - réseaux sociaux
 - social
+author: art
+comments: true
+layout: post
+redirect_from: selliance/
+wordpress_id: 1438448374
 ---
 
 Je pourrais vous faire un article long et argumenté sur le nouveau réseau social qu'est Selliance et l'impact (grosse dose de lol) qu'il va avoir dans le paysage de l'internet connecté.

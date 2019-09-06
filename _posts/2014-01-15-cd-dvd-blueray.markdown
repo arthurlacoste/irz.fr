@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2014-01-15 07:00:03+00:00
-layout: post
-redirect_from: cd-dvd-blueray/
-slug: cd-dvd-blueray
 title: Les supports CD/DVD/Blueray sont-t-ils obsolètes ?
-wordpress_id: 1438449308
+date: 2014-01-15 07:00:03 Z
 categories:
 - Consommacteur
 - Tendances
-post_format:
-- En passant
 tags:
 - Blueray
 - Bluray
@@ -19,6 +11,13 @@ tags:
 - DVD
 - SD
 - USB
+author: art
+comments: true
+layout: post
+redirect_from: cd-dvd-blueray/
+wordpress_id: 1438449308
+post_format:
+- En passant
 ---
 
 Voilà déjà quelques années que j'ai mis de côté mes dernières galettes. Je ne m'en sert plus, **mais alors plus du tout**. Elles s'entassent et prennent la poussière sur mes étagères, alors que je n'ai jamais autant consommé, et ce à toute vitesse : films, séries, musique. Autant de médias qui s'accumulent sur le disque dur de mon ordinateur.

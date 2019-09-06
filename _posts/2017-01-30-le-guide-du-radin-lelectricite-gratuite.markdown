@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2017-01-30 12:08:00+00:00
-layout: post
-redirect_from: le-guide-du-radin-lelectricite-gratuite/
-slug: le-guide-du-radin-lelectricite-gratuite
 title: 'Le guide du radin : l''électricité gratuite'
-wordpress_id: 1438492117
+date: 2017-01-30 12:08:00 Z
 categories:
 - Consommacteur
 - Video
-post_format:
-- Vidéo
 tags:
 - 700D
 - électricité
@@ -21,6 +13,13 @@ tags:
 - Le guide du radin
 - Rode VideoMicro
 - voiture électrique
+author: art
+comments: true
+layout: post
+redirect_from: le-guide-du-radin-lelectricite-gratuite/
+wordpress_id: 1438492117
+post_format:
+- Vidéo
 header:
   video:
     id: fKCAUuMKNbM

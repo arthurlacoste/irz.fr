@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-06-15 16:13:45+00:00
-layout: post
-redirect_from: parfois-les-gens-laissent-trainer-nimporte-quoi-dans-la-rue/
-slug: parfois-les-gens-laissent-trainer-nimporte-quoi-dans-la-rue
 title: Parfois les gens laissent traîner n'importe quoi dans la rue !
-wordpress_id: 1438447691
+date: 2010-06-15 16:13:45 Z
 categories:
 - Idées
+author: art
+comments: true
+layout: post
+redirect_from: parfois-les-gens-laissent-trainer-nimporte-quoi-dans-la-rue/
+wordpress_id: 1438447691
 ---
 
 Parfois, quand on se promène dans la rue, on se retrouve nez-à-nez avec de bien étranges choses !

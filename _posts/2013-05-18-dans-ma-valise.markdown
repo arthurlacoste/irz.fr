@@ -1,22 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-05-18 09:51:28+00:00
-layout: post
-redirect_from: dans-ma-valise/
-slug: dans-ma-valise
 title: Dans ma valise
-wordpress_id: 1438449063
+date: 2013-05-18 09:51:28 Z
 categories:
 - Coloriages
 - Dessins
-post_format:
-- En passant
 tags:
 - chips
 - téléphone
 - voyages
-
+author: art
+comments: true
+layout: post
+redirect_from: dans-ma-valise/
+wordpress_id: 1438449063
+post_format:
+- En passant
 ---
 
 <a href="https://static.irz.fr/2013/05/dans-ma-valise.png"><img alt="dans-ma-valise" data-src="https://static.irz.fr/2013/05/dans-ma-valise-640x656.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/05/dans-ma-valise-640x656.png" /></a>

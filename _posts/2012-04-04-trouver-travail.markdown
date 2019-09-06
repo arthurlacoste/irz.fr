@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2012-04-04 13:41:11+00:00
-layout: post
-redirect_from: trouver-travail/
-slug: trouver-travail
 title: Comment trouver du travail ?
-wordpress_id: 1438448459
+date: 2012-04-04 13:41:11 Z
 categories:
 - Divers
 - Tutoriel
 tags:
 - grenoble
 - tag
+author: art
+comments: true
+layout: post
+redirect_from: trouver-travail/
+wordpress_id: 1438448459
 ---
 
 Il y a quelques mois, je travaillais pour le compte de la SEMITAG, une entreprise Grenobloise spécialisée dans les transports en commun. L'équivalent de la RATP pour Paris ou de TCL pour Lyon. Ayant lors de l'emploi en question constaté une interrogation récurrente de la marche à suivre pour trouver du travail, j'ai concocté un petit tutoriel maison pour vous aider un peu dans vos recherche. Et aujourd'hui, on ne va parler de n'importe quoi, mais bel et bien d'un mastodonte de la recherche d'emploi, j'ai nommé Pôle emploi.<!-- more -->

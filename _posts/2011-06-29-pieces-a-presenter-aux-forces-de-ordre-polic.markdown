@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2011-06-29 06:00:29+00:00
-layout: post
-redirect_from: pieces-a-presenter-aux-forces-de-ordre-polic/
-slug: pieces-a-presenter-aux-forces-de-ordre-polic
 title: Pièces à présenter aux forces de l'ordre
-wordpress_id: 1438447710
+date: 2011-06-29 06:00:29 Z
 categories:
 - Code de la route
 - Erreur de code
-post_format:
-- Galerie
 tags:
 - assurance
 - assurence
@@ -26,6 +18,13 @@ tags:
 - récépissé de la vignette fiscale
 - révisions
 - série
+author: art
+comments: true
+layout: post
+redirect_from: pieces-a-presenter-aux-forces-de-ordre-polic/
+wordpress_id: 1438447710
+post_format:
+- Galerie
 ---
 
 **Au volant d'une voiture particulière âgée de 2 ans, je dois être en mesure de présenter aux forces de l'ordre :**

@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2014-01-09 11:05:05+00:00
-layout: post
-redirect_from: simpsons-lego/
-slug: simpsons-lego
 title: La maison des simpsons en lego !
-wordpress_id: 1438449292
+date: 2014-01-09 11:05:05 Z
 categories:
 - Consommacteur
 - Overgeek
 - Tendances
-post_format:
-- En passant
 tags:
 - lego
 - simpsons
+author: art
+comments: true
+layout: post
+redirect_from: simpsons-lego/
+wordpress_id: 1438449292
+post_format:
+- En passant
 ---
 
 L'annonce est officielle ! Le premier set de la licence Simpons/Lego devrait être disponible dès le mois de février pour un prix avoisinant les 200€. 2523 pièces assemblerons un pack comprenant la maison, la voiture, et 6 personnages de Simpsons : Homer, Marge, Maggie, Lisa, Bart et Ned Flanders. Le sens du détail est de rigueur avec une maison pleine de surprises, de quoi retomber dans l'enfance avec ce set nommé "71006 The Simpsons House".

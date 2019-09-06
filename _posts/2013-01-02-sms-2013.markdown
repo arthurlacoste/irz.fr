@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-01-02 10:38:54+00:00
-layout: post
-redirect_from: sms-2013/
-slug: sms-2013
 title: Bonne année ! Les conversations qui vendent du rêve
-wordpress_id: 1438448566
+date: 2013-01-02 10:38:54 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: sms-2013/
+wordpress_id: 1438448566
 post_format:
 - Galerie
 ---

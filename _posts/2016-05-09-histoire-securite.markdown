@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-05-09 21:34:17+00:00
-layout: post
-redirect_from: histoire-securite/
-slug: histoire-securite
 title: Une histoire de sécurité
-wordpress_id: 1438461512
+date: 2016-05-09 21:34:17 Z
 categories:
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: histoire-securite/
+wordpress_id: 1438461512
 ---
 
 Vous savez, j'ai toujours eu du mal à donner mes mots de passe, que ce soit à des amis, de la famille et même ma petite amie ! Je considère que le mot de passe est un peu la porte d'entrée de mon intimité et même lorsque l'on veut tout partager avec son partenaire de vie, il est toujours essentiel de garder un jardin secret, pour son bien comme pour celui du couple. Et puis, comment lui faire de belles surprises si elle a accès à votre boîte mail ? Elle découvrirait avant même que vous lui offriez ce voyage à l'autre bout du monde.<!-- more -->

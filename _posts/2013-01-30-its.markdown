@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-01-30 11:23:16+00:00
-layout: post
-redirect_from: its/
-slug: its
 title: Gagnez un buzz l'éclair et pleins d'autres cadeaux !
-wordpress_id: 1438448742
+date: 2013-01-30 11:23:16 Z
 categories:
 - Web
+author: art
+comments: true
+layout: post
+redirect_from: its/
+wordpress_id: 1438448742
 ---
 
 Depuis quelques années je suis [le portfolio du graphiste Maxime Siméon](http://dribbble.com/maximesimeon), que je vous invite à aller voir. J'admire son style très 3.0, le respect des normes, le design épuré et ergonomique de ses compositions, et le [responsive design](http://www.commentcamarche.net/faq/35464-responsive-design-definition) dans ses sites web.

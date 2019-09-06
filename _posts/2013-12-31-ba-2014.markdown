@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-12-31 23:25:32+00:00
-layout: post
-redirect_from: ba-2014/
-slug: ba-2014
 title: Bonne année 2014 !
-wordpress_id: 1438449270
+date: 2013-12-31 23:25:32 Z
 categories:
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: ba-2014/
+wordpress_id: 1438449270
 post_format:
 - En passant
 ---

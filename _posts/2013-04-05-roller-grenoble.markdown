@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-04-05 12:44:28+00:00
-layout: post
-redirect_from: roller-grenoble/
-slug: roller-grenoble
 title: Faire du roller à Grenoble
-wordpress_id: 1438448979
+date: 2013-04-05 12:44:28 Z
 categories:
 - Liveblog
 tags:
 - grenoble
 - randonnée
 - roller
+author: art
+comments: true
+layout: post
+redirect_from: roller-grenoble/
+wordpress_id: 1438448979
 ---
 
 Ce soir (05/04/2013) l'association [Grenoble Roller](http://www.grenoble-roller.org/) organise la première randonnée roller de la saison, venez nombreux à partir de 20h30 à l'anneau de vitesse, pour un départ à 21h tapantes ! Une ballade de près de 9 km dont vous pouvez retrouver les détails un peu plus bas dans l'article. <!-- more -->

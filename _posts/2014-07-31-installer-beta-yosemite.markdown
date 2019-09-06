@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-07-31 11:00:48+00:00
-layout: post
-redirect_from: installer-beta-yosemite/
-slug: installer-beta-yosemite
 title: Comment installer la beta publique de Mac OS X Yosemite ?
-wordpress_id: 1438449449
+date: 2014-07-31 11:00:48 Z
 categories:
 - Apple
 - Liveblog
@@ -15,6 +9,11 @@ tags:
 - '10.10'
 - OS X
 - Yosemite
+author: art
+comments: true
+layout: post
+redirect_from: installer-beta-yosemite/
+wordpress_id: 1438449449
 ---
 
 Pour installer Mac OS X Yosemite, Voici la démarche à suivre :

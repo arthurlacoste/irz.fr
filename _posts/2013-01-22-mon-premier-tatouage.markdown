@@ -1,16 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-01-22 09:31:07+00:00
-excerpt: Cet article fait partie de la série “Mes premières fois” qui conte au jour
-  le jour mes premières expérience de jeune puceau (métaphore !) de la vie. L’année
-  2013 sera l’année des premières fois, avec au moins une première fois par mois,
-  si tout se goupille bien.
-layout: post
-redirect_from: mon-premier-tatouage/
-slug: mon-premier-tatouage
 title: Mon premier tatouage
-wordpress_id: 1438448673
+date: 2013-01-22 09:31:07 Z
 categories:
 - L'essentiel
 - Parcours
@@ -21,6 +11,15 @@ tags:
 - Mes premières fois
 - Tatoueur
 - Velvet studio
+author: art
+comments: true
+excerpt: Cet article fait partie de la série “Mes premières fois” qui conte au jour
+  le jour mes premières expérience de jeune puceau (métaphore !) de la vie. L’année
+  2013 sera l’année des premières fois, avec au moins une première fois par mois,
+  si tout se goupille bien.
+layout: post
+redirect_from: mon-premier-tatouage/
+wordpress_id: 1438448673
 ---
 
 Cet article fait partie de la série “Mes premières fois” qui conte au jour le jour mes premières expérience de jeune puceau (métaphore !) de la vie. L’année 2013 sera l’année des premières fois, avec au moins une première fois par mois, si tout se goupille bien.

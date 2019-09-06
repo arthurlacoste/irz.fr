@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2017-01-11 19:07:16+00:00
-layout: post
-redirect_from: quel-est-mon-poids-ideal/
-slug: quel-est-mon-poids-ideal
 title: QUEL EST MON POIDS IDÉAL ?
-wordpress_id: 1438490934
+date: 2017-01-11 19:07:16 Z
 categories:
 - Liveblog
 - Video
 tags:
 - 700D
 - Rode VideoMicro
+author: art
+comments: true
+layout: post
+redirect_from: quel-est-mon-poids-ideal/
+wordpress_id: 1438490934
 header:
   video:
     id: oXyHtSPxhkU

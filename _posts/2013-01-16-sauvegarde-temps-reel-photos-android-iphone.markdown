@@ -1,19 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-01-16 08:00:08+00:00
-excerpt: Il existe plusieurs solutions pour vous synchroniser depuis votre mobile.
-  Instant Upload, Dropbox, iCloud pour iOS, et récemment, Facebook s'y est mis aussi.
-  La composante commune à tout ces services et de créer un espace privé et gratuit
-  sur internet pour sauvegarder vos documents multimédia pris avec votre appareil
-  mobile préféré. J'ai choisi de vous présenter le service de Google, Instant Upload,
-  que j'ai eu l'occasion de tester avec succès autant sur un Galaxy SII de Samung
-  sous Android et avec un iPhone 5 sous iOS.
-layout: post
-redirect_from: sauvegarde-temps-reel-photos-android-iphone/
-slug: sauvegarde-temps-reel-photos-android-iphone
 title: La sauvegarde en temps réel de vos photos sous Android & iPhone
-wordpress_id: 1438448600
+date: 2013-01-16 08:00:08 Z
 categories:
 - Android
 - Apple
@@ -23,6 +10,18 @@ tags:
 - 3G
 - cloud
 - wifi
+author: art
+comments: true
+excerpt: Il existe plusieurs solutions pour vous synchroniser depuis votre mobile.
+  Instant Upload, Dropbox, iCloud pour iOS, et récemment, Facebook s'y est mis aussi.
+  La composante commune à tout ces services et de créer un espace privé et gratuit
+  sur internet pour sauvegarder vos documents multimédia pris avec votre appareil
+  mobile préféré. J'ai choisi de vous présenter le service de Google, Instant Upload,
+  que j'ai eu l'occasion de tester avec succès autant sur un Galaxy SII de Samung
+  sous Android et avec un iPhone 5 sous iOS.
+layout: post
+redirect_from: sauvegarde-temps-reel-photos-android-iphone/
+wordpress_id: 1438448600
 ---
 
 Il existe plusieurs solutions pour vous synchroniser depuis votre mobile. Instant Upload, Dropbox, iCloud pour iOS, et récemment, [Facebook](https://www.facebook.com/help/photosync) s'y est mis aussi. La composante commune à tout ces services et de créer un espace privé **et gratuit** sur internet pour sauvegarder vos documents multimédia pris avec votre appareil mobile préféré. J'ai choisi de vous présenter le service de Google, Instant Upload, que j'ai eu l'occasion de tester avec succès autant sur un Galaxy SII de Samung sous Android et avec un iPhone 5 sous iOS.

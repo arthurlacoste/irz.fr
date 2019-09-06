@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-04-28 20:13:46+00:00
-layout: post
-redirect_from: rss-notifications-facebook/
-slug: rss-notifications-facebook
 title: Suivre le flux RSS de ses notifications Facebook
-wordpress_id: 1438449028
+date: 2013-04-28 20:13:46 Z
 categories:
 - Divers
 - Overgeek
 - Tutoriel
 tags:
 - facebook
+author: art
+comments: true
+layout: post
+redirect_from: rss-notifications-facebook/
+wordpress_id: 1438449028
 ---
 
 Petite astuce du jour : comment suivre votre flux de notifications Facebook (votre timeline) via votre RSS reader, et ceci sans avoir à vous connecter à Facebook, en utilisant donc votre lecteur RSS préféré pour lire vos notifications (pas Google reader bien sûr, mais l'une de ses alternatives).

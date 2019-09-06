@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-12-01 14:28:10+00:00
-layout: post
-redirect_from: vendre-sur-amazon/
-slug: vendre-sur-amazon
 title: Vendre sur Amazon
-wordpress_id: 1438449682
+date: 2015-12-01 14:28:10 Z
 categories:
 - Consommacteur
 tags:
 - Amazon
+author: art
+comments: true
+layout: post
+redirect_from: vendre-sur-amazon/
+wordpress_id: 1438449682
 ---
 
 J'avais déjà écrit [à propos d'Amazon](https://irz.fr/amazon) il y a quelques temps, un article qui évoquait notamment un reportage fait en infiltration de l'un de leurs entrepôt.<!-- more -->

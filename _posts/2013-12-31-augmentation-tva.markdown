@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-12-31 14:32:25+00:00
-layout: post
-redirect_from: augmentation-tva/
-slug: augmentation-tva
 title: Parlons de l'augmentation de la TVA
-wordpress_id: 1438449265
+date: 2013-12-31 14:32:25 Z
 categories:
 - Consommacteur
-post_format:
-- En passant
 tags:
 - arnaque
 - prix
 - TVA
 - Un consommateur averti en vaut deux
+author: art
+comments: true
+layout: post
+redirect_from: augmentation-tva/
+wordpress_id: 1438449265
+post_format:
+- En passant
 ---
 
 Vous n'êtes pas sans savoir qu'une augmentation de la TVA (qui passe de 19,6 à 20%, et de 5% à 7%) engendre quelques modifications significatives, notamment une possible hausse du coût des produits, et un jackpot de l'Etat de l'ordre de 2,6 milliards d'€/an. Et tout ceci est valable maintenant, et à chaque hausse de la TVA. Je pourrais vous dire de lire ce billet à l'envers si jamais il y a une baisse de la TVA, mais les poules n'ont toujours pas de dents.

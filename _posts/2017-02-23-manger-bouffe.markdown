@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2017-02-23 12:03:07+00:00
-layout: post
-redirect_from: manger-bouffe/
-slug: manger-bouffe
 title: J'aime la bouffe, et toi ?
-wordpress_id: 1438493716
+date: 2017-02-23 12:03:07 Z
 categories:
 - Consommacteur
-post_format:
-- Vidéo
 tags:
 - a manger et a boire
 - blanc manger coco jeu
@@ -20,6 +12,13 @@ tags:
 - manger bouger
 - nourriture
 - régime
+author: art
+comments: true
+layout: post
+redirect_from: manger-bouffe/
+wordpress_id: 1438493716
+post_format:
+- Vidéo
 header:
   video:
     id: wOZ1aG5M-x0

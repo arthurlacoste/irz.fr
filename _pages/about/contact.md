@@ -1,9 +1,9 @@
 ---
-title: "Contact"
-permalink: /contact/
+title: Contact
+permalink: "/contact/"
 layout: single
 sidebar:
-  nav: "about"
+  nav: about
 ---
 
 <div class="page__comments">

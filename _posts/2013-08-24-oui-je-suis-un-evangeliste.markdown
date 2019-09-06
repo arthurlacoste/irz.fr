@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2013-08-24 07:00:58+00:00
-layout: post
-redirect_from: oui-je-suis-un-evangeliste/
-slug: oui-je-suis-un-evangeliste
 title: Oui, je suis un évangeliste
-wordpress_id: 1438449130
+date: 2013-08-24 07:00:58 Z
 categories:
 - Consommacteur
 - Overgeek
+author: art
+comments: true
+layout: post
+redirect_from: oui-je-suis-un-evangeliste/
+wordpress_id: 1438449130
 post_format:
 - En passant
 ---

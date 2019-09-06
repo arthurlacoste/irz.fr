@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2013-04-05 16:50:25+00:00
-layout: post
-redirect_from: hotel-hostel-motel/
-slug: hotel-hostel-motel
 title: Hôtel, Hostel, ou Motel ?
-wordpress_id: 1438448980
+date: 2013-04-05 16:50:25 Z
 categories:
 - Consommacteur
 - Parcours
-post_format:
-- En passant
 tags:
 - brésil
 - comparatif
@@ -21,6 +13,13 @@ tags:
 - Rio de Janeiro
 - Un consommateur averti en vaut deux
 - Voyage
+author: art
+comments: true
+layout: post
+redirect_from: hotel-hostel-motel/
+wordpress_id: 1438448980
+post_format:
+- En passant
 ---
 
 L'autre jour, pendant le trajet pour aller au Brésil, j'ai eu une conversation avec mon compagnon de voyage, qui avait réservé notre chambre dans Rio. Il me parle d'hôtel, puis me dit "Tu savais qu'en portugais, hôtel s'écrivait hostel, avec un s dedans ?".<!-- more -->

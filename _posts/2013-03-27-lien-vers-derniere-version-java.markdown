@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-03-27 15:56:31+00:00
-layout: post
-redirect_from: lien-vers-derniere-version-java/
-slug: lien-vers-derniere-version-java
 title: Faire un lien vers la dernière version de Java depuis son site
-wordpress_id: 1438448958
+date: 2013-03-27 15:56:31 Z
 categories:
 - Développement
 - Overgeek
@@ -16,6 +10,11 @@ tags:
 - file_get_contents
 - php
 - strtolower
+author: art
+comments: true
+layout: post
+redirect_from: lien-vers-derniere-version-java/
+wordpress_id: 1438448958
 ---
 
 Dans le boulot que je fais (je bosse dans la dématérialisation des marchés publics), certains modules de notre service en ligne utilisent Java. Oui je sais c'est pas top, mais on a pas encore trouvé mieux pour gérer les certificats de chiffrement. Bref. Vous savez (et si vous ne le savez pas je vous le rappelle), Google aime bien les pages dynamiques, dont le contenu change régulièrement, et lorsque c'est le cas, vous prenez quelques places dans les résultats de votre moteur de recherche favori...

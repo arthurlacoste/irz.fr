@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2016-03-05 21:29:14+00:00
-layout: post
-redirect_from: pourcentage-graisse/
-slug: pourcentage-graisse
 title: Comment connaître mon pourcentage de graisse ?
-wordpress_id: 1438493781
+date: 2016-03-05 21:29:14 Z
 categories:
 - Overgeek
 - Santé
 tags:
 - connaitre pourcentage masse grasse
 - masse graisseuse ideale
+author: art
+comments: true
+layout: post
+redirect_from: pourcentage-graisse/
+wordpress_id: 1438493781
 ---
 
 Je me réveille.

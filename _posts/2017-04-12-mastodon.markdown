@@ -1,14 +1,13 @@
 ---
-author: Hugo Mallaroni-Cosentino
-comments: true
-date: 2017-04-12 17:59:14+00:00
-layout: post
-redirect_from: mastodon/
-slug: mastodon
 title: Mastodon ? Plus qu'un gros mammouth, un nouveau réseau
-wordpress_id: 1438493851
+date: 2017-04-12 17:59:14 Z
 categories:
 - Actu
+author: Hugo Mallaroni-Cosentino
+comments: true
+layout: post
+redirect_from: mastodon/
+wordpress_id: 1438493851
 ---
 
 Depuis quelques semaines, un pachyderme s’est installé sur la toile d’internet, et il a bien l’intention de la faire vibrer, quitte à voler dans les plumes d’un certain oiseau… Son nom, <span style="color: #800000">**Mastodon**</span>, nouveau réseau social qui effectue une percée spectaculaire dans le monde d’internet. On ne pouvait évidemment pas passer à côté de quelque chose d’aussi imposant

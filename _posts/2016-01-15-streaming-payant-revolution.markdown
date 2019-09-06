@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2016-01-15 09:00:58+00:00
-layout: post
-redirect_from: streaming-payant-revolution/
-slug: streaming-payant-revolution
 title: La révolution du streaming payant est en marche
-wordpress_id: 1438449730
+date: 2016-01-15 09:00:58 Z
 categories:
 - Consommacteur
 - Tendances
 tags:
 - Netflix
+author: art
+comments: true
+layout: post
+redirect_from: streaming-payant-revolution/
+wordpress_id: 1438449730
 ---
 
 Il y a quelques années encore, j’attendais de pied ferme l'arrivée de Netflix, le CanalPlay américain, sur notre territoire. J’étais sceptique, quoi que très enjoué par une future concurrence ne pouvant mener qu’a une amélioration de l’offre française.<!-- more -->

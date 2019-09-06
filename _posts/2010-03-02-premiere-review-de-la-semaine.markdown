@@ -1,16 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-03-02 01:15:36+00:00
-excerpt: Rien de tel que de finir ces vacances d'hiver par un petit état des lieux
-  de l'avancement du site, qui est encore dans sa phase de développement. C'est que
-  je voudrais me mettre à la barre d'un navire, mais je n'ai qu'un radeau à ma disposition.
-  On fait avec ses moyens.
-layout: post
-redirect_from: premiere-review-de-la-semaine/
-slug: premiere-review-de-la-semaine
 title: Première review de la semaine
-wordpress_id: 168
+date: 2010-03-02 01:15:36 Z
 categories:
 - Actu
 tags:
@@ -21,6 +11,15 @@ tags:
 - musique
 - review
 - teaser
+author: art
+comments: true
+excerpt: Rien de tel que de finir ces vacances d'hiver par un petit état des lieux
+  de l'avancement du site, qui est encore dans sa phase de développement. C'est que
+  je voudrais me mettre à la barre d'un navire, mais je n'ai qu'un radeau à ma disposition.
+  On fait avec ses moyens.
+layout: post
+redirect_from: premiere-review-de-la-semaine/
+wordpress_id: 168
 ---
 
 <a href="https://static.irz.fr/2010/03/header-review.png"><img alt="header de la review de la semaine" data-src="https://static.irz.fr/2010/03/header-review.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/header-review.png" /></a>

@@ -1,6 +1,6 @@
 ---
-title: "Maintenant"
-permalink: /maintenant/
+title: Maintenant
+permalink: "/maintenant/"
 layout: single
 ---
 

@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-12-08 07:05:04+00:00
-last_modified_at:
-layout: post
-redirect_from: la-chaussure-video/
-slug: la-chaussure-video
 title: La chaussure
-wordpress_id: 448
+date: 2015-12-08 07:05:04 Z
 categories:
 - Consommacteur
 - Video
+author: art
+comments: true
+last_modified_at: 
+layout: post
+redirect_from: la-chaussure-video/
+wordpress_id: 448
 post_format:
 - Vidéo
 ---

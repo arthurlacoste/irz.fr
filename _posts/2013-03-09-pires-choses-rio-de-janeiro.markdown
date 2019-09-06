@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-03-09 13:38:07+00:00
-layout: post
-redirect_from: pires-choses-rio-de-janeiro/
-slug: pires-choses-rio-de-janeiro
 title: 8 choses que vous ne devez jamais faire à Rio de Janeiro
-wordpress_id: 1438448936
+date: 2013-03-09 13:38:07 Z
 categories:
 - Parcours
-post_format:
-- En passant
 tags:
 - brésil
+author: art
+comments: true
+layout: post
+redirect_from: pires-choses-rio-de-janeiro/
+wordpress_id: 1438448936
+post_format:
+- En passant
 ---
 
 Vous pouvez faire des tas de choses à Rio de Janeiro. Flâner dans les quartiers de Flamengo, faire du longboard sur la piste cyclable qui longe toutes les plages, monter le Corcovado, explorer le pain de sucre. Mais **il y a des choses à ne pas faire**. Tour d'horizon.<!-- more -->

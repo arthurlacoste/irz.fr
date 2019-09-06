@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-07-06 06:00:47+00:00
-layout: post
-redirect_from: un-nouveau-design-pour-presse-citron/
-slug: un-nouveau-design-pour-presse-citron
 title: Un nouveau design pour Presse-Citron
-wordpress_id: 201
+date: 2010-07-06 06:00:47 Z
 categories:
 - Web
+author: art
+comments: true
+layout: post
+redirect_from: un-nouveau-design-pour-presse-citron/
+wordpress_id: 201
 ---
 
 Presse-Citron, c'est l'un des premiers blogs que j'ai suivi, il y a de ça 3 ou 4 ans. Aujourd'hui, [Eric Dupin](http://www.ericdupin.com/) sort une nouvelle version de son blog personnel, axé sur le communautaire, et ce le même jour de l'anniversaire des 5 ans de son blog.

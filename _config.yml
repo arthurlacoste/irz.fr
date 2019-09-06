@@ -1,167 +1,174 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Site Settings
-locale                   : "fr"
-title                    : "IRZ"
-title_img                : "assets/img/logo.svg"
-title_separator          : "-"
-name                     : "art"
-description              : "Inspiration, réflexion, et partage du savoir"
-url                      : https://irz.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : arthurlacoste/irz.fr # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 170
+---
+title: IRZ
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    author_profile: false
+    read_time: true
+    comments: true
+    share: true
+    related: true
+    author: art
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: single
+    author_profile: false
+    read_time: true
+    comments: true
+    share: true
+    related: true
+minimal_mistakes_skin: default
+locale: fr
+title_img: assets/img/logo.svg
+title_separator: "-"
+name: art
+description: Inspiration, réflexion, et partage du savoir
+url: https://irz.fr
+baseurl: 
+repository: arthurlacoste/irz.fr
+teaser: 
+words_per_minute: 170
 comments:
-  provider               : staticman_v2 # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider: staticman_v2
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: 
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: 
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid: 
+    num_posts: 
+    colorscheme: 
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "/_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields:
+  - name
+  - email
+  - url
+  - message
+  branch: gh-pages
+  commitMessage: New comment.
+  filename: comment-{@timestamp}
+  format: yml
+  moderation: true
+  path: "/_data/comments/{options.slug}"
+  requiredFields:
+  - name
+  - email
+  - message
   transforms:
-    email                : "md5"
+    email: md5
   generatedFields:
     date:
-      type               : "date"
+      type: date
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: 
 reCaptcha:
-  siteKey: "6LfhwjgUAAAAAKe-NJJoSThrjQYCL-TpO5h8oXvH"
-  secret: "tBSOyntwF4JAoOvzfbOoDCx3XIi+Ts07RjVXwAdCCYjmN8N7v17qIxr9RpgAf5VMpaWhgp1dYVZ566JcKYV58037lO59yCP/InvbL6d8vxPRWzlSB+k3wXa+uBWZ7ttQiVjV7OdNfJQTF74accijyFLu1EAqfftb8pbjUWiGUX0="
+  siteKey: 6LfhwjgUAAAAAKe-NJJoSThrjQYCL-TpO5h8oXvH
+  secret: tBSOyntwF4JAoOvzfbOoDCx3XIi+Ts07RjVXwAdCCYjmN8N7v17qIxr9RpgAf5VMpaWhgp1dYVZ566JcKYV58037lO59yCP/InvbL6d8vxPRWzlSB+k3wXa+uBWZ7ttQiVjV7OdNfJQTF74accijyFLu1EAqfftb8pbjUWiGUX0=
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-naver-site-verification  :
-
-# Social Sharing
+  path: 
+google_site_verification: 
+bing_site_verification: 
+alexa_site_verification: 
+yandex_site_verification: 
+naver-site-verification: 
 twitter:
-  username               : &id arthurlacoste
+  username: arthurlacoste
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : assets/img/logo-og-irz.png # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+  username: 
+  app_id: 
+  publisher: 
+og_image: assets/img/logo-og-irz.png
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-# Analytics
+  type: 
+  name: 
+  links: 
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider: google
   google:
-    tracking_id          : UA-5025145-5
-
-
-# Site Author
+    tracking_id: UA-5025145-5
 author:
-  name             : "art"
-  avatar           : /assets/img/me.jpg
-  bio              : "Trafiquant de rêves."
-  location         : "Grenoble, France"
-  email            :
-  uri              : http://arthurlacoste.com
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : irz.fr
-  foursquare       :
-  github           : *id
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        : &id2 arthak
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       : &id2
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : *id
-  mastodon         : https://mastodon.social/@arthak
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : https://www.youtube.com/user/lacostearthur
-
-
-# Reading Files
+  name: art
+  avatar: "/assets/img/me.jpg"
+  bio: Trafiquant de rêves.
+  location: Grenoble, France
+  email: 
+  uri: http://arthurlacoste.com
+  bitbucket: 
+  codepen: 
+  dribbble: 
+  flickr: 
+  facebook: irz.fr
+  foursquare: 
+  github: arthurlacoste
+  gitlab: 
+  google_plus: 
+  keybase: 
+  instagram: arthak
+  lastfm: 
+  linkedin: 
+  pinterest: 
+  soundcloud: 
+  stackoverflow: 
+  steam: 
+  tumblr: 
+  twitter: arthurlacoste
+  mastodon: https://mastodon.social/@arthak
+  vine: 
+  weibo: 
+  xing: 
+  youtube: https://www.youtube.com/user/lacostearthur
 include:
-  - .htaccess
-  - _pages
+- ".htaccess"
+- _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+- "*.sublime-project"
+- "*.sublime-workspace"
+- vendor
+- ".asset-cache"
+- ".bundle"
+- ".jekyll-assets-cache"
+- ".sass-cache"
+- assets/js/plugins
+- assets/js/_main.js
+- assets/js/vendor
+- Capfile
+- CHANGELOG
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- node_modules
+- package.json
+- Rakefile
+- README
+- tmp
+- "/docs"
+- "/test"
 keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
+- ".git"
+- ".svn"
+encoding: utf-8
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
-# Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
@@ -171,104 +178,37 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:slug
-paginate: 20 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins (previously gems:)
+  style: compressed
+permalink: "/:slug"
+paginate: 20
+paginate_path: "/page:num/"
 plugins:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-# mimic GitHub Pages with --safe
+- jekyll-redirect-from
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
 whitelist:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+- jekyll-redirect-from
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
 category_archive:
   type: liquid
-  path: /categories/
+  path: "/categories/"
 tag_archive:
   type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
-
-# HTML Compression
-# - http://jch.penibelst.de/
+  path: "/tags/"
 compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      author: art
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
 tipue_search:
   include:
     pages: true
-    collections:
+    collections: 

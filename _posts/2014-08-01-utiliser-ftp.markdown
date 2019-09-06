@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2014-08-01 11:23:07+00:00
-layout: post
-redirect_from: utiliser-ftp/
-slug: utiliser-ftp
 title: Utiliser un client FTP
-wordpress_id: 1438449439
+date: 2014-08-01 11:23:07 Z
 categories:
 - Développement
 - Liveblog
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: utiliser-ftp/
+wordpress_id: 1438449439
 ---
 
 FTP (pour File Transfer Protocol) est le nom d'un des protocoles de transfert de fichier les plus utilisés au monde. Il permet via une application (appelé aussi client) de déposer/récupérer des documents sur un serveur.

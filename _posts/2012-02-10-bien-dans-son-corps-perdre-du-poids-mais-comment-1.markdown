@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2012-02-10 20:20:00+00:00
-layout: post
-redirect_from: bien-dans-son-corps-perdre-du-poids-mais-comment-1/
-slug: bien-dans-son-corps-perdre-du-poids-mais-comment-1
 title: 'Bien dans son corps : Perdre du poids, mais comment ? #1'
-wordpress_id: 1438448433
+date: 2012-02-10 20:20:00 Z
 categories:
 - Manger
 - Santé
+author: art
+comments: true
+layout: post
+redirect_from: bien-dans-son-corps-perdre-du-poids-mais-comment-1/
+wordpress_id: 1438448433
 post_format:
 - Galerie
 ---

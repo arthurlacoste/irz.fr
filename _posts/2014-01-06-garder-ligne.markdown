@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-01-06 06:00:44+00:00
-layout: post
-redirect_from: garder-ligne/
-slug: garder-ligne
 title: 'Le guide du radin : garder la ligne sans dépenser un centime'
-wordpress_id: 1438449262
+date: 2014-01-06 06:00:44 Z
 categories:
 - Consommacteur
 - Lifestyle
@@ -15,6 +9,11 @@ tags:
 - poids
 - radin
 - régime
+author: art
+comments: true
+layout: post
+redirect_from: garder-ligne/
+wordpress_id: 1438449262
 ---
 
 Avec la nouvelle année qui vient d'arriver, j'imagine que vous vous essayez tous à l'exercice des bonnes résolutions. Parmi les plus populaires, il y à celle de garder la ligne, ou de perdre du poids. Et justement, c'est ce dont nous allons parler ! Garder la ligne n'est pas si compliqué en soi, il s'agit simplement d'adapter son hygiène de vie à son métabolisme.

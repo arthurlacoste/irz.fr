@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-02-28 15:25:46+00:00
-layout: post
-redirect_from: dropbox-restaurer-un-document/
-slug: dropbox-restaurer-un-document
 title: 'Dropbox : restaurer un document'
-wordpress_id: 1438448903
+date: 2013-02-28 15:25:46 Z
 categories:
 - Divers
 - Overgeek
@@ -14,6 +8,11 @@ categories:
 tags:
 - dropbox
 - restaurer fichier
+author: art
+comments: true
+layout: post
+redirect_from: dropbox-restaurer-un-document/
+wordpress_id: 1438448903
 ---
 
 Pour ceux qui ne connaissent pas Dropbox, c'est un service permettant de de sauvegarder et synchroniser en temps réel un dossier de votre ordinateur _en ligne_, mais aussi entre vos différents PC (ou mac).

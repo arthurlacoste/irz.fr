@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-01-19 09:00:18+00:00
-layout: post
-redirect_from: lappartement-de-mes-reves/
-slug: lappartement-de-mes-reves
 title: L'appartement de mes rêves
-wordpress_id: 1438448665
+date: 2013-01-19 09:00:18 Z
 categories:
 - Parcours
 - WTF
@@ -14,6 +8,11 @@ tags:
 - lit repliable
 - loft
 - rangement
+author: art
+comments: true
+layout: post
+redirect_from: lappartement-de-mes-reves/
+wordpress_id: 1438448665
 ---
 
 Je vous avait parlé il y a quelques jours de [mes résolutions](https://irz.fr/mes-resolutions-en-2013) pour 2013, et l'une d'entre elles était de m'organiser un peu niveau mobilier. Je poursuis mes recherches, je me penche sur un lit 140x200 avec un bon matelas, entre autres choses. Mais ce n'est pas de moi dont nous allons parler aujourd'hui.

@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2013-08-22 07:00:59+00:00
-layout: post
-redirect_from: autocollant-casquette-new-era/
-slug: autocollant-casquette-new-era
 title: Dois-je garder l'autocollant de ma casquette New Era ?
-wordpress_id: 1438449125
+date: 2013-08-22 07:00:59 Z
 categories:
 - Lifestyle
-post_format:
-- En passant
 tags:
 - 59 Fifty
 - cap
@@ -18,6 +10,13 @@ tags:
 - new era
 - NY
 - Yankees
+author: art
+comments: true
+layout: post
+redirect_from: autocollant-casquette-new-era/
+wordpress_id: 1438449125
+post_format:
+- En passant
 ---
 
 L'autre jour, j'avais une folle envie de me prendre une nouvelle casquette, la saison aidant à faire pencher la balance pour ce choix cornélien. Ma dernière casquette était une New Era 59 Fifty des Yankees (le logo NY que tout le monde reconnaît), en noir sur fond noir, c'est-à-dire très discrète dans son genre. Elle a malheureusement disparu lors d'une soirée bien arrosée dans un bar, après quelques années de bons et loyaux services. <!-- more -->

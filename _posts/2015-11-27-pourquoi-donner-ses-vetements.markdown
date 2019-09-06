@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-11-27 09:22:17+00:00
-layout: post
-redirect_from: pourquoi-donner-ses-vetements/
-slug: pourquoi-donner-ses-vetements
 title: Pourquoi donner ses vêtements ?
-wordpress_id: 102
+date: 2015-11-27 09:22:17 Z
 categories:
 - Liveblog
 - Rangement
 - Zéro déchet
+author: art
+comments: true
+layout: post
+redirect_from: pourquoi-donner-ses-vetements/
+wordpress_id: 102
 ---
 
 Donner ses vêtements n'est pas une démarche anodine. Et pourtant, les médias vous parlent sans cesse de ces petit containers disséminés dans (presque) toutes les villes de France, sans vraiment vous expliquer ou va votre vieux linge.

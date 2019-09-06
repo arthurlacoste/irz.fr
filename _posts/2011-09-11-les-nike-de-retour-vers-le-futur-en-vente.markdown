@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-09-11 09:09:15+00:00
-layout: post
-redirect_from: les-nike-de-retour-vers-le-futur-en-vente/
-slug: les-nike-de-retour-vers-le-futur-en-vente
 title: Les Nike de Retour vers le futur en vente !
-wordpress_id: 1438448392
+date: 2011-09-11 09:09:15 Z
 categories:
 - Video
 - WTF
@@ -19,6 +13,11 @@ tags:
 - nike
 - Nike Air Mag
 - Parkinson
+author: art
+comments: true
+layout: post
+redirect_from: les-nike-de-retour-vers-le-futur-en-vente/
+wordpress_id: 1438448392
 ---
 
 Depuis le temps qu'on les voit à l'écran, 22 ans après le film ! Nike à enfin décidé de mettre en vente des Nike Air Mag, pour le plus grand bonheur des fans !

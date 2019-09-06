@@ -1,14 +1,13 @@
 ---
-author: Hugo Mallaroni-Cosentino
-comments: true
-date: 2017-04-30 13:47:21+00:00
-layout: post
-redirect_from: mastodon-nos-retours/
-slug: mastodon-nos-retours
 title: On a testé Mastodon... Voici nos retours !
-wordpress_id: 1438493861
+date: 2017-04-30 13:47:21 Z
 categories:
 - Liveblog
+author: Hugo Mallaroni-Cosentino
+comments: true
+layout: post
+redirect_from: mastodon-nos-retours/
+wordpress_id: 1438493861
 ---
 
 Dans un précédent article, nous vous présentions le nouveau réseau, Mastodon, qui perçait sur la toile. Nous l'avons testé, et il paraissait intéressant de vous en faire un petit retour ;)<!-- more -->

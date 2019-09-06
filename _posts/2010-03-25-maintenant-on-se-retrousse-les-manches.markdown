@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2010-03-25 11:45:28+00:00
-excerpt: C'était bien marrant de se préparer psychologiquement à la création d'une
-  aventure d'entrepreneur. Maintenant, passons aux choses sérieuses.
-layout: post
-redirect_from: maintenant-on-se-retrousse-les-manches/
-slug: maintenant-on-se-retrousse-les-manches
 title: Maintenant, on se retrousse les manches
-wordpress_id: 556
+date: 2010-03-25 11:45:28 Z
 categories:
 - Parcours
 tags:
 - auto-entrepreneur
 - auto-entreprise
 - commercial
+author: art
+comments: true
+excerpt: C'était bien marrant de se préparer psychologiquement à la création d'une
+  aventure d'entrepreneur. Maintenant, passons aux choses sérieuses.
+layout: post
+redirect_from: maintenant-on-se-retrousse-les-manches/
+wordpress_id: 556
 ---
 
 <a href="https://static.irz.fr/2010/03/rool-up-sleeves.jpg"><img alt="rool-up-sleeves" data-src="https://static.irz.fr/2010/03/rool-up-sleeves-300x200.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/rool-up-sleeves-300x200.jpg" /></a>C'était bien marrant de se préparer psychologiquement à la création d'une aventure d'entrepreneur. Maintenant, passons aux choses sérieuses, car se retrousser les manches, ça veut aussi dire : "se sortir les doigts du...".

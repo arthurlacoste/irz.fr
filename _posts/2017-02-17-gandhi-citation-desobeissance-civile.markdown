@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2017-02-17 23:06:44+00:00
-layout: post
-redirect_from: gandhi-citation-desobeissance-civile/
-slug: gandhi-citation-desobeissance-civile
 title: Gandhi et la désobéissance civile
-wordpress_id: 1438493700
+date: 2017-02-17 23:06:44 Z
 categories:
 - Parcours
-post_format:
-- Vidéo
 tags:
 - gandhi biographie en francais
 - gandhi documentaire
+author: art
+comments: true
+layout: post
+redirect_from: gandhi-citation-desobeissance-civile/
+wordpress_id: 1438493700
+post_format:
+- Vidéo
 header:
   video:
     id: YhGMMxYpucI

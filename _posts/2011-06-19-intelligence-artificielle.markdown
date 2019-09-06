@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2011-06-19 06:00:47+00:00
-layout: post
-redirect_from: intelligence-artificielle/
-slug: intelligence-artificielle
 title: Pensée sur un programme d'intelligence artificielle (#1)
-wordpress_id: 1438447744
+date: 2011-06-19 06:00:47 Z
 categories:
 - Logiciels
 tags:
 - IA
+author: art
+comments: true
+layout: post
+redirect_from: intelligence-artificielle/
+wordpress_id: 1438447744
 ---
 
 Aujourd'hui, j'ai décidé de déterrer un article datant du **3 février 2009** qui était sagement entreposé dans un vieux blog hors-ligne sur le sujet de l'intelligence artificielle, alors un peu d'indulgence...

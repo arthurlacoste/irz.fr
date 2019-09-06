@@ -1,20 +1,17 @@
 ---
-author: art
-comments: true
-date: 2010-02-07 14:05:38+00:00
-excerpt: 'Il était une fois l''histoire d''un garçon qui était touche-à-tout. Il adorait
-  la nouveauté. Peut importe le domaine, le lieu ou le contexte, tout l''émerveillait.
-  Du battement des ailes d''une libellules jusqu''aux éruptions volcaniques.
-
-
-  C''est parti !'
-layout: post
-redirect_from: il-etait-une-fois/
-slug: il-etait-une-fois
 title: Il était une fois...
-wordpress_id: 847
+date: 2010-02-07 14:05:38 Z
 categories:
 - Parcours
+author: art
+comments: true
+excerpt: |-
+  Il était une fois l'histoire d'un garçon qui était touche-à-tout. Il adorait la nouveauté. Peut importe le domaine, le lieu ou le contexte, tout l'émerveillait. Du battement des ailes d'une libellules jusqu'aux éruptions volcaniques.
+
+  C'est parti !
+layout: post
+redirect_from: il-etait-une-fois/
+wordpress_id: 847
 post_format:
 - Galerie
 ---

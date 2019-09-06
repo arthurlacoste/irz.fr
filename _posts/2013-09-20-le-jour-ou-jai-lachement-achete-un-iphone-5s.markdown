@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2013-09-20 01:25:10+00:00
-layout: post
-redirect_from: le-jour-ou-jai-lachement-achete-un-iphone-5s/
-slug: le-jour-ou-jai-lachement-achete-un-iphone-5s
 title: Le jour ou j'ai lâchement acheté un iPhone 5S
-wordpress_id: 1438449172
+date: 2013-09-20 01:25:10 Z
 categories:
 - Apple
 - Consommacteur
-post_format:
-- En passant
 tags:
 - iPhone
 - victime
+author: art
+comments: true
+layout: post
+redirect_from: le-jour-ou-jai-lachement-achete-un-iphone-5s/
+wordpress_id: 1438449172
+post_format:
+- En passant
 ---
 
 J'ai eu ouïe dire qu'un produit Apple venait d'être disponible à la commande, depuis aujourd'hui. J'imagine depuis minuit, mais bon, j'étais dans ce qu'on pourrait qualifier une pâle copie d'un pub irlandais (le Korner pub, à Grenoble) avec des amis. Je rentre chez moi, et la, oui, je suis allé sur le Apple store comme ça, pour voir.<!-- more -->

@@ -1,10 +1,10 @@
 ---
-title: "Outils"
-permalink: /outils/
+title: Outils
+permalink: "/outils/"
 layout: single
-nav:
+nav: 
 sidebar:
-  nav: "listes"  
+  nav: listes
 ---
 
 {% comment %}

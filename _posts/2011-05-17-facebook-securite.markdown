@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2011-05-17 11:12:14+00:00
-layout: post
-redirect_from: facebook-securite/
-slug: facebook-securite
 title: 'Facebook ajoute des mesures de sécurité '
-wordpress_id: 136
+date: 2011-05-17 11:12:14 Z
 categories:
 - Actu
 - Dessins
+author: art
+comments: true
+layout: post
+redirect_from: facebook-securite/
+wordpress_id: 136
 ---
 
 <a href="https://static.irz.fr/2011/05/facebook-securite.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/facebook-securite.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/facebook-securite.png" /></a>

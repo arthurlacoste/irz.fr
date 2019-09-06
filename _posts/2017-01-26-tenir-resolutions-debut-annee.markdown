@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2017-01-26 09:15:48+00:00
-layout: post
-redirect_from: tenir-resolutions-debut-annee/
-slug: tenir-resolutions-debut-annee
 title: Comment tenir ses bonnes résolutions de début d'année
-wordpress_id: 1438492010
+date: 2017-01-26 09:15:48 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: tenir-resolutions-debut-annee/
+wordpress_id: 1438492010
 ---
 
 <img alt="Source : Wix Static" data-src="http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=http://static.wixstatic.com/media/79aced_196ce33baafc4781be4033b15a13a84c.jpeg" />

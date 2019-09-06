@@ -1,9 +1,9 @@
 ---
-title: "A propos"
-permalink: /a-propos/
+title: A propos
+permalink: "/a-propos/"
 layout: single
 sidebar:
-  nav: "about"
+  nav: about
 ---
 
 [IRZ] fournis du contenu débile et inutile [depuis le 24 décembre 2010]

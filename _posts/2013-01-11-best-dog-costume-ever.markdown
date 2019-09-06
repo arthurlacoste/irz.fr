@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2013-01-11 15:17:39+00:00
-layout: post
-redirect_from: best-dog-costume-ever/
-slug: best-dog-costume-ever
 title: Best dog costume ever
-wordpress_id: 1438448626
+date: 2013-01-11 15:17:39 Z
 categories:
 - Photo
 - WTF
+author: art
+comments: true
+layout: post
+redirect_from: best-dog-costume-ever/
+wordpress_id: 1438448626
 post_format:
 - Galerie
 ---

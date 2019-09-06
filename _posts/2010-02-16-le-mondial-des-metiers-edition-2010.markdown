@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-02-16 10:27:37+00:00
-layout: post
-redirect_from: le-mondial-des-metiers-edition-2010/
-slug: le-mondial-des-metiers-edition-2010
 title: Le Mondial des Métiers, édition 2010
-wordpress_id: 855
+date: 2010-02-16 10:27:37 Z
 categories:
 - Sortir
 tags:
@@ -14,6 +8,11 @@ tags:
 - lycée
 - métiers
 - mondial
+author: art
+comments: true
+layout: post
+redirect_from: le-mondial-des-metiers-edition-2010/
+wordpress_id: 855
 ---
 
 <a href="https://static.irz.fr/2010/02/logo.gif"><img alt="No alt" data-src="https://static.irz.fr/2010/02/logo.gif" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/02/logo.gif" /></a>

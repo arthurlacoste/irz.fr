@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2011-08-24 06:00:33+00:00
-layout: post
-redirect_from: ?p=1438447908
-published: false
-slug: l%e2%80%99erreur-de-code-de-la-semaine-10
 title: L’erreur de code de la semaine
-wordpress_id: 1438447908
+date: 2011-08-24 06:00:33 Z
+published: false
 categories:
 - Code de la route
 - Erreur de code
@@ -20,6 +14,11 @@ tags:
 - révisions
 - série
 - zone de stationnement
+author: art
+comments: true
+layout: post
+redirect_from: "?p=1438447908"
+wordpress_id: 1438447908
 ---
 
 <img alt="No alt" data-src="https://static.irz.fr/2011/05/stationnement.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/stationnement.png" />

@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-04-13 13:04:11+00:00
-layout: post
-redirect_from: crepe/
-slug: crepe
 title: C'est ce qui se passe quand on fait n'importe quoi
-wordpress_id: 1438449010
+date: 2013-04-13 13:04:11 Z
 categories:
 - Liveblog
 - WTF
-post_format:
-- Vidéo
 tags:
 - chantilly
 - crêpes
 - Julie
+author: art
+comments: true
+layout: post
+redirect_from: crepe/
+wordpress_id: 1438449010
+post_format:
+- Vidéo
 ---
 
 {% include video id="PUPll6rGmxo" provider="youtube" %}

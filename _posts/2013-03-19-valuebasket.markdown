@@ -1,18 +1,10 @@
 ---
-author: art
-comments: true
-date: 2013-03-19 10:23:43+00:00
-layout: post
-redirect_from: valuebasket/
-slug: valuebasket
 title: 'J''ai testé pour vous : ValueBasket'
-wordpress_id: 1438448765
+date: 2013-03-19 10:23:43 Z
 categories:
 - Consommacteur
 - L'essentiel
 - Web
-post_format:
-- En passant
 tags:
 - 5d mark iii
 - avis valuebasket
@@ -21,6 +13,13 @@ tags:
 - j'ai testé pour vous
 - test value basket
 - Un consommateur averti en vaut deux
+author: art
+comments: true
+layout: post
+redirect_from: valuebasket/
+wordpress_id: 1438448765
+post_format:
+- En passant
 ---
 
 {% include video id="OXRy-8wNvSQ" provider="youtube" %}

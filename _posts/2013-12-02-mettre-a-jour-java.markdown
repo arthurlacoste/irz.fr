@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-12-02 09:26:09+00:00
-layout: post
-redirect_from: mettre-a-jour-java/
-slug: mettre-a-jour-java
 title: Mettre à jour JAVA
-wordpress_id: 1438449215
+date: 2013-12-02 09:26:09 Z
 categories:
 - Divers
 - Overgeek
@@ -14,6 +8,11 @@ categories:
 tags:
 - installation
 - java
+author: art
+comments: true
+layout: post
+redirect_from: mettre-a-jour-java/
+wordpress_id: 1438449215
 ---
 
 Comment mettre à jour de manière propre JAVA ?

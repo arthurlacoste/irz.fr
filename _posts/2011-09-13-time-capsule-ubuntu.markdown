@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2011-09-13 12:17:28+00:00
-layout: post
-redirect_from: time-capsule-ubuntu/
-slug: time-capsule-ubuntu
 title: Connecter votre Time Capsule à Ubuntu
-wordpress_id: 1438448397
+date: 2011-09-13 12:17:28 Z
 categories:
 - Tutoriel
 - Ubuntu
-post_format:
-- Galerie
 tags:
 - cifs
 - créer un lanceur
@@ -24,6 +16,13 @@ tags:
 - time capsule
 - Time Machine
 - umount
+author: art
+comments: true
+layout: post
+redirect_from: time-capsule-ubuntu/
+wordpress_id: 1438448397
+post_format:
+- Galerie
 ---
 
 Une fois n’est pas coutume nous retournons sous Ubuntu aujourd'hui pour tenter de monter une Time Capsule (une sorte de NAS de Apple) à votre OS préféré (ou pas), j'ai nommé Ubuntu.

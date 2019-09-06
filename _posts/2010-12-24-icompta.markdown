@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2010-12-24 07:51:58+00:00
-layout: post
-redirect_from: icompta/
-slug: icompta
 title: iCompta, votre comptabilité dans les nuages
-wordpress_id: 4
+date: 2010-12-24 07:51:58 Z
 categories:
 - Apple
 - Logiciels
 tags:
 - dropbox
+author: art
+comments: true
+layout: post
+redirect_from: icompta/
+wordpress_id: 4
 ---
 
 La comptabilité vous effraie ? Vous avez du mal à gérer votre argent au jour le jour et êtes souvent à découvert ? Alors cette application Mac OS / iPhone vous rendra un grand service, pour le bien de l'humanité. Et surtout le vôtre.

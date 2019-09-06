@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-05-21 10:30:52+00:00
-layout: post
-redirect_from: moving-dispossession/
-slug: moving-dispossession
 title: Moving and dispossession
-wordpress_id: 1438463351
+date: 2016-05-21 10:30:52 Z
 categories:
 - Journey
+author: art
+comments: true
+layout: post
+redirect_from: moving-dispossession/
+wordpress_id: 1438463351
 ---
 
 Everything is packed. Everything is labeled. Looking at these forty boxes, I realize that he never purchased much of objects during the year 2015. More space, an empty apartment to fill two. Furniture for every room.

@@ -1,15 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-03-20 16:34:51+00:00
-excerpt: Chef de projet informatique, Martin Magdinier a fait murir son projet pendant
-  ses années d'étude. Créatif, il a eu de multiples idées. Mais aujourd'hui, il se
-  concentre exclusivement sur Objectif-Neige.com.
-layout: post
-redirect_from: objectif-neige/
-slug: objectif-neige
 title: Rencontre de Martin Magdinier d’Objectif-Neige.com
-wordpress_id: 420
+date: 2010-03-20 16:34:51 Z
 categories:
 - Idées
 tags:
@@ -22,6 +13,14 @@ tags:
 - objectif-neige
 - projet
 - twitter
+author: art
+comments: true
+excerpt: Chef de projet informatique, Martin Magdinier a fait murir son projet pendant
+  ses années d'étude. Créatif, il a eu de multiples idées. Mais aujourd'hui, il se
+  concentre exclusivement sur Objectif-Neige.com.
+layout: post
+redirect_from: objectif-neige/
+wordpress_id: 420
 ---
 
 <a href="https://static.irz.fr/2010/03/magdinier.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/magdinier-300x264.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/magdinier-300x264.png" /></a>

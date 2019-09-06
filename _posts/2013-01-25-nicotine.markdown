@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2013-01-25 08:00:04+00:00
-layout: post
-redirect_from: nicotine/
-slug: nicotine
 title: Nicotine
-wordpress_id: 1438448655
+date: 2013-01-25 08:00:04 Z
 categories:
 - Divers
 - Dessins
-post_format:
-- Galerie
 tags:
 - pince à linge
+author: art
+comments: true
+layout: post
+redirect_from: nicotine/
+wordpress_id: 1438448655
+post_format:
+- Galerie
 ---
 
 <img alt="pinces-a-linges-nicotine" data-src="https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/pinces-a-linges-nicotine-1024x633.png" />

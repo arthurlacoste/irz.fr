@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-01-14 10:55:32+00:00
-layout: post
-redirect_from: verre-picasso/
-slug: verre-picasso
 title: Verre de Picasso
-wordpress_id: 1438448641
+date: 2013-01-14 10:55:32 Z
 categories:
 - WTF
-post_format:
-- Galerie
 tags:
 - Art
 - Le verre
 - Francisco de Paula
 - María de los Remedios
 - Pablo Picasso
+author: art
+comments: true
+layout: post
+redirect_from: verre-picasso/
+wordpress_id: 1438448641
+post_format:
+- Galerie
 ---
 
 <a href="https://static.irz.fr/2013/01/le-verre_Picasso.jpg"><img alt="le-verre_Picasso" data-src="https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/le-verre_Picasso-275x300.jpg" /></a>{: .align-center}

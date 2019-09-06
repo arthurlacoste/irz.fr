@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-08-22 20:58:15+00:00
-layout: post
-redirect_from: sticker-new-era-cap/
-slug: sticker-new-era-cap
 title: Should I keep the sticker of my New Era cap?
-wordpress_id: 1438464097
+date: 2013-08-22 20:58:15 Z
 categories:
 - Lifestyle
+author: art
+comments: true
+layout: post
+redirect_from: sticker-new-era-cap/
+wordpress_id: 1438464097
 ---
 
 The other day I had a mad desire to buy a new cap, the season helping to tip the balance in this difficult choice. My last cap was a New Era 59 Fifty of Yankees baseball team (NY logo that everyone recognizes), black on black, that is to say, very simple in its genre. It has unfortunately disappeared during a drunken night in a bar, after several years of loyal service.<!-- more -->

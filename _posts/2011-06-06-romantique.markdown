@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2011-06-06 03:24:34+00:00
-layout: post
-redirect_from: romantique/
-slug: romantique
 title: Je voulais juste que ce soit romantique
-wordpress_id: 1438447815
+date: 2011-06-06 03:24:34 Z
 categories:
 - Dessins
-post_format:
-- Galerie
 tags:
 - étoile de mer
 - romantique
+author: art
+comments: true
+layout: post
+redirect_from: romantique/
+wordpress_id: 1438447815
+post_format:
+- Galerie
 header:
   image: https://static.irz.fr/2011/06/romantique.png
 ---

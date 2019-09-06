@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2012-04-28 11:01:32+00:00
-layout: post
-redirect_from: provient-developpeur-non-identifie/
-slug: provient-developpeur-non-identifie
 title: Résoudre "Votre application" provient d'un développeur non identifié
-wordpress_id: 1438448469
+date: 2012-04-28 11:01:32 Z
 categories:
 - Apple
 - Tutoriel
-post_format:
-- Galerie
 tags:
 - Apple
 - DP3
@@ -20,6 +12,13 @@ tags:
 - Mountain Lion
 - Sécurité
 - winrar mac
+author: art
+comments: true
+layout: post
+redirect_from: provient-developpeur-non-identifie/
+wordpress_id: 1438448469
+post_format:
+- Galerie
 ---
 
 Depuis la DP3 de Mac OSX Mountain Lion, il est possible que le message : "Cette application **provient d'un développeur non identifié**, vos préférences de sécurité sont définies pour bloquer l'installation venant de développeurs non identifiés." vous incommode lors de l'installation d'un logiciel téléchargé via internet.

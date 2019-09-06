@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-01-08 09:18:10+00:00
-layout: post
-redirect_from: le-pere-noel-est-une-ordure-canape/
-slug: le-pere-noel-est-une-ordure-canape
 title: 'Le père noël est une ordure : le canapé'
-wordpress_id: 1438448564
+date: 2013-01-08 09:18:10 Z
 categories:
 - WTF
-post_format:
-- En passant
 tags:
 - canapé
 - Cinéma
 - père noël
 - santa claus
+author: art
+comments: true
+layout: post
+redirect_from: le-pere-noel-est-une-ordure-canape/
+wordpress_id: 1438448564
+post_format:
+- En passant
 ---
 
 <img alt="le-pere-noel-est-une-ordure" data-src="https://static.irz.fr/2013/01/le-pere-noel-est-une-ordure.jpeg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/01/le-pere-noel-est-une-ordure.jpeg" />

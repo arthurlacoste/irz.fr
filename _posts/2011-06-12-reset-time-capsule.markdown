@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2011-06-12 10:04:01+00:00
-layout: post
-redirect_from: reset-time-capsule/
-slug: reset-time-capsule
 title: Reset de votre Time Capsule
-wordpress_id: 1438448139
+date: 2011-06-12 10:04:01 Z
 categories:
 - Apple
 - Tutoriel
-post_format:
-- Galerie
 tags:
 - configuration d'origine
 - réinitialiser
 - time capsule
+author: art
+comments: true
+layout: post
+redirect_from: reset-time-capsule/
+wordpress_id: 1438448139
+post_format:
+- Galerie
 ---
 
 Pour ceux qui ont un petit soucis avec leurs time capsule, voici ou se situe l'endroit sur lequel appuyer pour réinitialiser votre time capsule :

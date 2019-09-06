@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2014-10-22 07:00:56+00:00
-layout: post
-redirect_from: reprendre-etudes/
-slug: reprendre-etudes
 title: Reprendre ses études après être entré dans la vie active
-wordpress_id: 1438449335
+date: 2014-10-22 07:00:56 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: reprendre-etudes/
+wordpress_id: 1438449335
 post_format:
 - En passant
 ---

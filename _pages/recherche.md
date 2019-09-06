@@ -1,6 +1,6 @@
 ---
-title: "Chercher"
-permalink: /recherche/
+title: Chercher
+permalink: "/recherche/"
 tipue_search_active: true
 ---
 

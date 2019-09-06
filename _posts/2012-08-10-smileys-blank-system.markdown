@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2012-08-10 12:09:40+00:00
-layout: post
-redirect_from: smileys-blank-system/
-slug: smileys-blank-system
 title: Smileys Blank System
-wordpress_id: 1438448495
+date: 2012-08-10 12:09:40 Z
 categories:
 - Dessins
-post_format:
-- Galerie
 tags:
 - animés
 - émoticones
 - gif
 - pixel-art
 - smileys
+author: art
+comments: true
+layout: post
+redirect_from: smileys-blank-system/
+wordpress_id: 1438448495
+post_format:
+- Galerie
 ---
 
 Retour dans le passé avec des 14 smileys qui ont près de 7 ans. Je vous livre aujourd'hui le pack Blank System.

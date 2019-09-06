@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2011-09-26 13:34:27+00:00
-layout: post
-redirect_from: autoportrait-en-noir-et-blanc/
-slug: autoportrait-en-noir-et-blanc
 title: Autoportrait en noir et blanc
-wordpress_id: 1438448409
+date: 2011-09-26 13:34:27 Z
 categories:
 - Dessins
-post_format:
-- Galerie
 tags:
 - Autoportait
+author: art
+comments: true
+layout: post
+redirect_from: autoportrait-en-noir-et-blanc/
+wordpress_id: 1438448409
+post_format:
+- Galerie
 ---
 
 Aujourd'hui, je ressort un autoportait !

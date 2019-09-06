@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-12-16 15:14:58+00:00
-layout: post
-redirect_from: et-si-vous-alliez-voir-demain/
-slug: et-si-vous-alliez-voir-demain
 title: Et si vous alliez voir "Demain" ?
-wordpress_id: 597
+date: 2015-12-16 15:14:58 Z
 categories:
 - Le site
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: et-si-vous-alliez-voir-demain/
+wordpress_id: 597
 ---
 
 Aujourd'hui sort un gros blockbuster Hollywoodien, je n'ai même pas besoin de dire son nom, la machine commerciale et le tapage autour de ce film étant bien suffisante.

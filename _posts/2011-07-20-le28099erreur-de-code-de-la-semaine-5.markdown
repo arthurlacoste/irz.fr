@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2011-07-20 06:00:03+00:00
-layout: post
-redirect_from: ?p=1438447870
-published: false
-slug: l%e2%80%99erreur-de-code-de-la-semaine-5
 title: L’erreur de code de la semaine
-wordpress_id: 1438447870
+date: 2011-07-20 06:00:03 Z
+published: false
 categories:
 - Code de la route
 - Erreur de code
@@ -20,6 +14,11 @@ tags:
 - questions
 - révisions
 - série
+author: art
+comments: true
+layout: post
+redirect_from: "?p=1438447870"
+wordpress_id: 1438447870
 ---
 
 <a href="https://static.irz.fr/2011/05/depasser-droite.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/depasser-droite.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/depasser-droite.png" /></a>

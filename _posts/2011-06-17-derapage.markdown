@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-06-17 14:15:54+00:00
-layout: post
-redirect_from: derapage/
-slug: derapage
 title: Dérapage
-wordpress_id: 1438448237
+date: 2011-06-17 14:15:54 Z
 categories:
 - Video
+author: art
+comments: true
+layout: post
+redirect_from: derapage/
+wordpress_id: 1438448237
 header:
   video:
     id: _CzzfwMN5CY

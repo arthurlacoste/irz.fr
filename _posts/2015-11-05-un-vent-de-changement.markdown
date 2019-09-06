@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-11-05 09:15:21+00:00
-layout: post
-redirect_from: un-vent-de-changement/
-slug: un-vent-de-changement
 title: Un vent de changement
-wordpress_id: 3
+date: 2015-11-05 09:15:21 Z
 categories:
 - Le site
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: un-vent-de-changement/
+wordpress_id: 3
 ---
 
 Une vie saine, c’est tout d’abord respecter son corps. Que ce soit le sport, ou comprendre ce que l’on mange.

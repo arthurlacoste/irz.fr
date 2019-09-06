@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-07-13 20:36:25+00:00
-layout: post
-redirect_from: restaurant-le-crocus-charancieu-moules-frites/
-slug: restaurant-le-crocus-charancieu-moules-frites
 title: 'Le crocus : méfiez-vous des moules à volonté'
-wordpress_id: 1438448329
+date: 2011-07-13 20:36:25 Z
 categories:
 - Manger
 tags:
@@ -14,6 +8,11 @@ tags:
 - frites
 - moules
 - plat à volonté
+author: art
+comments: true
+layout: post
+redirect_from: restaurant-le-crocus-charancieu-moules-frites/
+wordpress_id: 1438448329
 ---
 
 _Cet article à été modifié suite à l'[accusation de diffamation](https://irz.fr/diffamation-crocus-charancieu) du restaurant concerné par cet article._

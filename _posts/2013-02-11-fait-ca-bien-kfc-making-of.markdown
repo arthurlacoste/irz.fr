@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2013-02-11 13:20:00+00:00
-layout: post
-redirect_from: fait-ca-bien-kfc-making-of/
-slug: fait-ca-bien-kfc-making-of
 title: 'Ce que vous avez toujours rêvé de faire au KFC... ...Making of '
-wordpress_id: 1438448728
+date: 2013-02-11 13:20:00 Z
 categories:
 - 3615MyLife
 - Parcours
 tags:
 - réflexions
+author: art
+comments: true
+layout: post
+redirect_from: fait-ca-bien-kfc-making-of/
+wordpress_id: 1438448728
 ---
 
 Salut à vous, je ne sais pas si vous avez vu cette [vidéo de moi nu](https://irz.fr/ce-que-vous-avez-toujours-reve-de-faire-au-kfc) (bon ok c'est juste une vidéo de moi qui va au KFC), cette article en est un peu le making of, ainsi que des pistes pour les prochaines vidéos. Je vais essayer de porter un regard très critique sur moi-même et ce afin de m'améliorer en tirant des leçons de mes bêtises. <!-- more -->

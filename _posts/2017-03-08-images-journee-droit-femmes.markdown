@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2017-03-08 16:52:16+00:00
-layout: post
-redirect_from: images-journee-droit-femmes/
-slug: images-journee-droit-femmes
 title: 10 images pour illustrer la journée du droit des femmes
-wordpress_id: 1438493818
+date: 2017-03-08 16:52:16 Z
 categories:
 - Liveblog
 tags:
-- '#JournéeDeLaFemme'
+- "#JournéeDeLaFemme"
 - droit des femmes au travail
 - droit des femmes date
+author: art
+comments: true
+layout: post
+redirect_from: images-journee-droit-femmes/
+wordpress_id: 1438493818
 ---
 
 Avant de commencer cet article, je souhaite reprendre les mots qu'un

@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2017-01-23 19:47:36+00:00
-layout: post
-redirect_from: de-la-bonne-puff/
-slug: de-la-bonne-puff
 title: De la bonne puff
-wordpress_id: 1438491843
+date: 2017-01-23 19:47:36 Z
 categories:
 - Lifestyle
 - Musique
@@ -24,6 +18,11 @@ tags:
 - snowboard
 - snowpark
 - val thorens
+author: art
+comments: true
+layout: post
+redirect_from: de-la-bonne-puff/
+wordpress_id: 1438491843
 header:
   video:
     id: RarujRtcb7A

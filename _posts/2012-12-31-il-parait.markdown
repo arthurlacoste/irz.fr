@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2012-12-31 23:01:27+00:00
-layout: post
-redirect_from: il-parait/
-slug: il-parait
 title: Il paraît...
-wordpress_id: 1438448557
+date: 2012-12-31 23:01:27 Z
 categories:
 - Dessins
+author: art
+comments: true
+layout: post
+redirect_from: il-parait/
+wordpress_id: 1438448557
 post_format:
 - Galerie
 header:

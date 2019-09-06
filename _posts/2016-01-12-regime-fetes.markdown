@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2016-01-12 22:29:08+00:00
-layout: post
-redirect_from: regime-fetes/
-slug: regime-fetes
 title: Faire un régime juste avant une fête, c'est possible
-wordpress_id: 1438449726
+date: 2016-01-12 22:29:08 Z
 categories:
 - Développement
 - Lifestyle
+author: art
+comments: true
+layout: post
+redirect_from: regime-fetes/
+wordpress_id: 1438449726
 ---
 
 Quand on est du genre à prendre facilement du poids comme moi, la période des fêtes de fin d'année qui combine Noël, le jour de l'an et mon anniversaire n'est pas des plus propices à une perte de poids.<!-- more -->

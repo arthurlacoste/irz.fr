@@ -1,17 +1,14 @@
 ---
-author: art
-comments: true
-date: 2006-04-16 10:53:48+00:00
-layout: post
-link: https://irz.fr/test-ipod-nano-2g/
-slug: test-ipod-nano-2g
 title: Test du iPod Nano 2nd Génération
-wordpress_id: 1438448512
+date: 2006-04-16 10:53:48 Z
 categories:
 - Apple
+author: art
+comments: true
+layout: post
+link: https://irz.fr/test-ipod-nano-2g/
+wordpress_id: 1438448512
 ---
-
-
 
 Je ne vous en ai pas encore parlé ? Pourtant elle represente tant pour moi, comme si c'était un gouffre dans lequel je me noie de bonheur et de douceur. Elle est intelligente et tout et tout !!
 

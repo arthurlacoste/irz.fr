@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2013-01-08 22:19:11+00:00
-layout: post
-redirect_from: une-soiree-comme-une-autre/
-slug: une-soiree-comme-une-autre
 title: Une soirée comme une autre
-wordpress_id: 1438448601
+date: 2013-01-08 22:19:11 Z
 categories:
 - Photo
 tags:
 - Canon EOS 650D
 - EF 50mm f/1.8 II
+author: art
+comments: true
+layout: post
+redirect_from: une-soiree-comme-une-autre/
+wordpress_id: 1438448601
 ---
 
 Merci à Paul, Lucie, Beber & Jimmy qui se sont prêtés au jeu.

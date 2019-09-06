@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-05-02 10:30:01+00:00
-layout: post
-redirect_from: ce-reseau-social-qui-nous-est-cher/
-slug: ce-reseau-social-qui-nous-est-cher
 title: Ce réseau social qui nous est cher
-wordpress_id: 111
+date: 2011-05-02 10:30:01 Z
 categories:
 - Logiciels
+author: art
+comments: true
+layout: post
+redirect_from: ce-reseau-social-qui-nous-est-cher/
+wordpress_id: 111
 ---
 
 Ces derniers temps, en raison de mon emménagement récent, je n'ai plus internet. Je capte cependant de manière intermittente une borne wifi capricieuse. Vient alors la question fatidique : quelles seraient les 5 pages internet que je voudrais charger si j'étais limité en ce sens ? Le site de ma banque, ma boite mail, le site de pôle emploi, et... ...un réseau social. Tel Facebook, pour ne citer que lui.

@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2017-02-04 13:04:24+00:00
-layout: post
-redirect_from: le-telephone/
-slug: le-telephone
 title: Le téléphone
-wordpress_id: 1438492730
+date: 2017-02-04 13:04:24 Z
 categories:
 - Consommacteur
 - Video
-post_format:
-- Vidéo
 tags:
 - 700D
 - galaxy s7
@@ -20,6 +12,13 @@ tags:
 - Rode VideoMicro
 - samsung
 - smartphone
+author: art
+comments: true
+layout: post
+redirect_from: le-telephone/
+wordpress_id: 1438492730
+post_format:
+- Vidéo
 header:
   video:
     id: ukRwfjdVHVU

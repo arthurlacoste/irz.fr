@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-12-01 13:18:12+00:00
-layout: post
-redirect_from: aller-plus-loin-avec-le-vrac/
-slug: aller-plus-loin-avec-le-vrac
 title: Aller plus loin avec le vrac
-wordpress_id: 179
+date: 2015-12-01 13:18:12 Z
 categories:
 - Liveblog
 - Zéro déchet
+author: art
+comments: true
+layout: post
+redirect_from: aller-plus-loin-avec-le-vrac/
+wordpress_id: 179
 post_format:
 - Image
 ---

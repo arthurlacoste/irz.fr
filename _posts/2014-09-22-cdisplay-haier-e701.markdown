@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2014-09-22 13:57:58+00:00
-layout: post
-redirect_from: cdisplay-haier-e701/
-slug: cdisplay-haier-e701
 title: Prise en main de la CDisplay
-wordpress_id: 1438449491
+date: 2014-09-22 13:57:58 Z
 categories:
 - Android
 - Dans mon colis
 - Overgeek
+author: art
+comments: true
+layout: post
+redirect_from: cdisplay-haier-e701/
+wordpress_id: 1438449491
 ---
 
 Ce matin, ma tablette Cdisplay est arrivée. Ayant commandé la mienne un peu après la vague, j'ai eu le droit à quelques semaines de retard sur ma livraison. 14 jours pour arriver. Un peu long, certes, mais Cdiscount n'avait manifestement pas prévu un tel engouement pour ce produit : les stocks prévus n'ont pas su faire face à la demande, ce qui explique cette attente...<!-- more -->

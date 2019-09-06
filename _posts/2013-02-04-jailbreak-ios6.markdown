@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2013-02-04 17:42:30+00:00
-layout: post
-redirect_from: jailbreak-ios6/
-slug: jailbreak-ios6
 title: Comment jailbreaker votre iPhone 5 et tout autre terminal sous iOS 6 ? (MAJ
   evasi0n 1.5.3)
-wordpress_id: 1438448757
+date: 2013-02-04 17:42:30 Z
 categories:
 - Apple
 tags:
@@ -23,6 +17,11 @@ tags:
 - evasion 1.3
 - iPhone 5
 - jailbreak
+author: art
+comments: true
+layout: post
+redirect_from: jailbreak-ios6/
+wordpress_id: 1438448757
 ---
 
 La solution evasi0n est la seule permettant un jailbreak untethered (jailbreak complet ne nécessitant pas de redémarrage avec un ordinateur de votre iDevice) de l'ensemble des terminaux sous iOS 6.0, 6.0.1, 6.0.2, 6.1, 6.1.1 et 6.1.2.

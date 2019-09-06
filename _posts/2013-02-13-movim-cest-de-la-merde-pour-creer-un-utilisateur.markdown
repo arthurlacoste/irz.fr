@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-02-13 12:49:34+00:00
-layout: post
-redirect_from: movim-cest-de-la-merde-pour-creer-un-utilisateur/
-slug: movim-cest-de-la-merde-pour-creer-un-utilisateur
 title: Movim, c'est de la merde pour créer un utilisateur
-wordpress_id: 1438448799
+date: 2013-02-13 12:49:34 Z
 categories:
 - Liveblog
 - Web
 tags:
 - réseau social
 - réseaux sociaux
+author: art
+comments: true
+layout: post
+redirect_from: movim-cest-de-la-merde-pour-creer-un-utilisateur/
+wordpress_id: 1438448799
 ---
 
 Vous savez que j'aime ce qui est intuitif & ergonomique.

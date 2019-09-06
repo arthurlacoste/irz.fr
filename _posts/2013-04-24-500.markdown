@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-04-24 12:59:30+00:00
-layout: post
-redirect_from: 500/
-slug: '500'
 title: Et là, il y a plus de 500 commentaires
-wordpress_id: 1438449021
+date: 2013-04-24 12:59:30 Z
 categories:
 - Blog
+author: art
+comments: true
+layout: post
+redirect_from: 500/
+wordpress_id: 1438449021
 post_format:
 - En passant
 ---

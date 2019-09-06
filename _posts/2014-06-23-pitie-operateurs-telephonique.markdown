@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2014-06-23 11:22:13+00:00
-layout: post
-redirect_from: pitie-operateurs-telephonique/
-slug: pitie-operateurs-telephonique
 title: Plus de pitié pour les opérateurs téléphonique
-wordpress_id: 1438449375
+date: 2014-06-23 11:22:13 Z
 categories:
 - Consommacteur
 - Overgeek
-post_format:
-- Galerie
 tags:
 - B&amp;You
 - Free
@@ -19,6 +11,13 @@ tags:
 - Joe Mobile
 - opérateurs
 - SFR
+author: art
+comments: true
+layout: post
+redirect_from: pitie-operateurs-telephonique/
+wordpress_id: 1438449375
+post_format:
+- Galerie
 ---
 
 Depuis que la guerre des prix a éclatée, il y a de ça quelques années, les offres se font de plus en plus alléchantes. Les prix les plus incroyables étant pour les utilisateurs n'ayant pas besoin de forfait data (accès à internet), avec des prix difficilement plus proches du néant, rappelez-vous l'offre 2h d'appel + SMS/MMS illimités de Free pour 2€ !

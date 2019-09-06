@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-06-13 12:15:30+00:00
-layout: post
-redirect_from: oui-cest-le-premier-article/
-slug: oui-cest-le-premier-article
 title: Oui, c'est le premier article !
-wordpress_id: 1438447687
+date: 2010-06-13 12:15:30 Z
 categories:
 - 3615MyLife
+author: art
+comments: true
+layout: post
+redirect_from: oui-cest-le-premier-article/
+wordpress_id: 1438447687
 ---
 
 (j'adore, je dois avoir 3 ou 4 "premiers articles" sur ce blog, vu que je les ai tous fusionnés en un)

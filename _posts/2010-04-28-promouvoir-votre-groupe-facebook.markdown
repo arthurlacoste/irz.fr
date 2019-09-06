@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2010-04-28 16:12:33+00:00
-layout: post
-redirect_from: promouvoir-votre-groupe-facebook/
-slug: promouvoir-votre-groupe-facebook
 title: Promouvoir votre groupe ou votre page fan Facebook
-wordpress_id: 1438447803
+date: 2010-04-28 16:12:33 Z
 categories:
 - Divers
 - Tutoriel
 tags:
 - facebook
+author: art
+comments: true
+layout: post
+redirect_from: promouvoir-votre-groupe-facebook/
+wordpress_id: 1438447803
 ---
 
 Parce que j'ai moi même eu la volonté de créer une mini communauté autour de [mon premier groupe](https://www.facebook.com/irz.fr/), voici comment j'ai procédé pour le promouvoir, alors qu'à priori il n'était pas destiné a avoir avoir plus de 50 membres.

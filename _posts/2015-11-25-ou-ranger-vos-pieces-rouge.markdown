@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-11-25 09:46:06+00:00
-layout: post
-redirect_from: ou-ranger-vos-pieces-rouge/
-slug: ou-ranger-vos-pieces-rouge
 title: Ou ranger vos pièces rouge ?
-wordpress_id: 28
+date: 2015-11-25 09:46:06 Z
 categories:
 - Liveblog
 - Rangement
+author: art
+comments: true
+layout: post
+redirect_from: ou-ranger-vos-pieces-rouge/
+wordpress_id: 28
 post_format:
 - Image
 ---

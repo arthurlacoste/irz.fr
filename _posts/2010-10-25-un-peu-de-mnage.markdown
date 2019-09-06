@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-10-25 14:46:00+00:00
-layout: post
-redirect_from: un-peu-de-mnage/
-slug: un-peu-de-mnage
 title: Un peu de ménage...
-wordpress_id: 1398557375
+date: 2010-10-25 14:46:00 Z
 categories:
 - 3615MyLife
+author: art
+comments: true
+layout: post
+redirect_from: un-peu-de-mnage/
+wordpress_id: 1398557375
 ---
 
 Bon, je me suis décidé à archiver [mon blog d’entrepreneur](http://blog.arthurlacoste.com) au profit de tumblr, qui me permet une liberté d’utilisation et une simplicité d’emploi en situation de mobilité accrue. Et ici, pas de “charte” ou de dress code, j’écris et envoi ce qui me passe par la tête, à mi-chemin entre twitter, facebook et un blog. Mon blog arthurlacoste.com n’est plus sous cette adresse, et passe sur le sous-domaine blog.arthurlacoste.com. Le domaine principal pointe vers une vitrine épurée avec mes coordonnées, un lien vers mon CV et un autre vers **Réflexions p****erso**.

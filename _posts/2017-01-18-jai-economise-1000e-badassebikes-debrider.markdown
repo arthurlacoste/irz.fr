@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2017-01-18 21:46:43+00:00
-layout: post
-redirect_from: jai-economise-1000e-badassebikes-debrider/
-slug: jai-economise-1000e-badassebikes-debrider
 title: J'ai économisé 1000€
-wordpress_id: 1438491328
+date: 2017-01-18 21:46:43 Z
 categories:
 - Liveblog
 - Video
@@ -16,6 +10,11 @@ tags:
 - casey neistat
 - vae
 - vélo electrique
+author: art
+comments: true
+layout: post
+redirect_from: jai-economise-1000e-badassebikes-debrider/
+wordpress_id: 1438491328
 header:
   video:
     id: BwTXXEpRZus

@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-08-08 13:13:34+00:00
-layout: post
-redirect_from: introduction-au-gpio-du-raspberry-pi-2/
-slug: introduction-au-gpio-du-raspberry-pi-2
 title: Introduction au GPIO du Raspberry Pi 2
-wordpress_id: 1438449661
+date: 2015-08-08 13:13:34 Z
 categories:
 - Développement
 - Overgeek
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: introduction-au-gpio-du-raspberry-pi-2/
+wordpress_id: 1438449661
 ---
 
 Il y a quelques semaines, j'ai craqué pour un starter Pack Raspberry Pi 2. N'ayant pas de serveur, je me suis dit que ce serait idéal pour programmer quelques tâches cron et bidouiller un peu.<!-- more -->

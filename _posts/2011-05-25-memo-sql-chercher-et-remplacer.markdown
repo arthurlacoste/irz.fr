@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2011-05-25 16:17:13+00:00
-layout: post
-redirect_from: memo-sql-chercher-et-remplacer/
-slug: memo-sql-chercher-et-remplacer
 title: 'Mémo SQL : chercher et remplacer'
-wordpress_id: 161
+date: 2011-05-25 16:17:13 Z
 categories:
 - Tutoriel
 - Wordpress
+author: art
+comments: true
+layout: post
+redirect_from: memo-sql-chercher-et-remplacer/
+wordpress_id: 161
 ---
 
 Dans le contexte du changement de certaines données dans une base de données Wordpress, et pour ne pas a avoir a modifier l'url manuellement pour l'ensemble des articles, j'ai déniché cette petite fonction replace() SQL dont je n'avais pas souvenir d'avoir rencontré.

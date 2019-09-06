@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2015-01-15 12:56:31+00:00
-layout: post
-redirect_from: devenir-vieux/
-slug: devenir-vieux
 title: Devenir Vieux
-wordpress_id: 1438449576
+date: 2015-01-15 12:56:31 Z
 categories:
 - Divers
+author: art
+comments: true
+layout: post
+redirect_from: devenir-vieux/
+wordpress_id: 1438449576
 post_format:
 - En passant
 ---

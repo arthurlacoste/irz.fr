@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-02-25 23:32:55+00:00
-layout: post
-redirect_from: lws-fatal-error/
-slug: lws-fatal-error
 title: 'LWS : Fatal error ?'
-wordpress_id: 1438448861
+date: 2013-02-25 23:32:55 Z
 categories:
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: lws-fatal-error/
+wordpress_id: 1438448861
 post_format:
 - En passant
 ---

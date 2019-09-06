@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2015-12-09 09:18:47+00:00
-layout: post
-redirect_from: meilleur-cadeau/
-slug: meilleur-cadeau
 title: Quel est le meilleur cadeau à offrir ?
-wordpress_id: 454
+date: 2015-12-09 09:18:47 Z
 categories:
 - Consommacteur
 - DIY
 - Liveblog
 - Zéro déchet
+author: art
+comments: true
+layout: post
+redirect_from: meilleur-cadeau/
+wordpress_id: 454
 header:
   video:
     id: nZUfJpVxUNI

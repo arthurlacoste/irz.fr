@@ -1,6 +1,6 @@
 ---
-title: "Historique des produits Apple"
-permalink: /liste-apple/
+title: Historique des produits Apple
+permalink: "/liste-apple/"
 layout: single
 ---
 

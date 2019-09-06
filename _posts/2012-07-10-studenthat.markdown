@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2012-07-10 22:14:29+00:00
-layout: post
-redirect_from: studenthat/
-slug: studenthat
 title: Studenthat
-wordpress_id: 1438448482
+date: 2012-07-10 22:14:29 Z
 categories:
 - Divers
 tags:
 - couillonnage
 - Superchapeau
+author: art
+comments: true
+layout: post
+redirect_from: studenthat/
+wordpress_id: 1438448482
 ---
 
 Studenthat, c'est un peu le nom que pourrait porter chaque personne exerçant une profession libérale se faisant couillonner.

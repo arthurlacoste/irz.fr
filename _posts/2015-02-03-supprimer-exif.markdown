@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2015-02-03 00:10:57+00:00
-layout: post
-redirect_from: supprimer-exif/
-slug: supprimer-exif
 title: Comment supprimer les EXIF sous Mac OSX ou Windows ?
-wordpress_id: 1438449590
+date: 2015-02-03 00:10:57 Z
 categories:
 - Apple
 - Overgeek
@@ -19,6 +13,11 @@ tags:
 - metas
 - méthadonnées
 - sous mac
+author: art
+comments: true
+layout: post
+redirect_from: supprimer-exif/
+wordpress_id: 1438449590
 ---
 
 Il y a plusieurs méthodes qui permettent de supprimer les EXIF sous Mac OSX.

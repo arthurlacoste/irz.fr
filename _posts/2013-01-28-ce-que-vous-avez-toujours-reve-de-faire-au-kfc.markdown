@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-01-28 07:45:06+00:00
-layout: post
-redirect_from: ce-que-vous-avez-toujours-reve-de-faire-au-kfc/
-slug: ce-que-vous-avez-toujours-reve-de-faire-au-kfc
 title: Ce que vous avez toujours rêvé de faire au KFC...
-wordpress_id: 1438448725
+date: 2013-01-28 07:45:06 Z
 categories:
 - Manger
 - WTF
-post_format:
-- Vidéo
 tags:
 - coca
 - Fait ça bien qu'on soit pas emmerdés
 - KFC
 - malbouffe
+author: art
+comments: true
+layout: post
+redirect_from: ce-que-vous-avez-toujours-reve-de-faire-au-kfc/
+wordpress_id: 1438448725
+post_format:
+- Vidéo
 header:
   video:
     id: fIoix4WRGws

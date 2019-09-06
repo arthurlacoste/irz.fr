@@ -1,18 +1,15 @@
 ---
-author: art
-comments: true
-date: 2010-10-19 12:43:55+00:00
-layout: post
-redirect_from: une-vente-privee/
-slug: une-vente-privee
 title: J'ai participé à une vente privée
-wordpress_id: 1351083534
+date: 2010-10-19 12:43:55 Z
 categories:
 - Photo
+author: art
+comments: true
+layout: post
+redirect_from: une-vente-privee/
+wordpress_id: 1351083534
 ---
 
-  
-  
 J'ai participé a une vente privée aujourd'hui. Rien d'exceptionnel, 10 vêtements de marque étalés sur une table, aucun ne me paraissait plaisant soit dit en passant..
 
 

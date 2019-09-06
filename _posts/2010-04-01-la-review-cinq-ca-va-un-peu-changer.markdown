@@ -1,19 +1,18 @@
 ---
+title: La review, ça va un peu changer…
+date: 2010-04-01 18:20:07 Z
+categories:
+- Actu
+tags:
+- review
 author: art
 comments: true
-date: 2010-04-01 18:20:07+00:00
 excerpt: 'Non, pas de review de la semaine dernière, et pour cause, j''avais quelques
   autres projets en tête. De plus, je constate que pour continuer cette review, il
   me faut du temps. '
 layout: post
 redirect_from: la-review-cinq-ca-va-un-peu-changer/
-slug: la-review-cinq-ca-va-un-peu-changer
-title: La review, ça va un peu changer…
 wordpress_id: 655
-categories:
-- Actu
-tags:
-- review
 ---
 
 <a href="https://static.irz.fr/2010/04/baby-crying.png"><img alt="No alt" data-src="https://static.irz.fr/2010/04/baby-crying-261x300.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/04/baby-crying-261x300.png" /></a>Non, pas de review de la semaine dernière, et pour cause, j'avais quelques [autres projets en tête](https://irz.fr/maintenant-on-se-retrousse-les-manches). De plus, je constate que pour continuer cette review, il me faut du temps. J'ai peut être voulu aller plus vite qu'a mon rythme, mais pondre une review par semaine me prend quand même 5-6 heures. Et puis ça ne m'éclate plus trop en ce moment. Matthieu Blanco nous explique très bien dans sa _Revue tech_ comment se passe la création d'un podcast.

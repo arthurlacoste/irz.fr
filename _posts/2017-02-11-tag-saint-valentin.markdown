@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2017-02-11 10:22:07+00:00
-layout: post
-redirect_from: tag-saint-valentin/
-slug: tag-saint-valentin
 title: Mon cadeau pour la Saint Valentin
-wordpress_id: 1438493682
+date: 2017-02-11 10:22:07 Z
 categories:
 - Consommacteur
 - Dessins
-post_format:
-- Vidéo
 tags:
 - cadeau
 - street art
 - street art artiste
 - street artist
+author: art
+comments: true
+layout: post
+redirect_from: tag-saint-valentin/
+wordpress_id: 1438493682
+post_format:
+- Vidéo
 header:
   video:
     id: 0gyrpgOmC0k

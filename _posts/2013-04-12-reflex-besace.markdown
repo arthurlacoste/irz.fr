@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2013-04-12 05:00:01+00:00
-layout: post
-redirect_from: reflex-besace/
-slug: reflex-besace
 title: Un reflex dans ma besace
-wordpress_id: 1438448992
+date: 2013-04-12 05:00:01 Z
 categories:
 - Consommacteur
-post_format:
-- En passant
 tags:
 - Canon EOS 650D
 - iPhone
 - RAW
+author: art
+comments: true
+layout: post
+redirect_from: reflex-besace/
+wordpress_id: 1438448992
+post_format:
+- En passant
 ---
 
 Il y a quelques mois, je me suis offert un super cadeau de noël (enfin, si on peut parler de cadeau de nöel au mois de janvier !) : un Canon EOS 650D, un objectif 50mm f/1.8 puis un peu plus tard, j'ai osé débourser quelques centaines d'euros supplémentaires pour une seconde optique, un 18-135 f/3.5-5.6, essentiellement pour faire des vidéos.<!-- more -->

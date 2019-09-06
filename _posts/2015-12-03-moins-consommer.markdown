@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2015-12-03 09:46:14+00:00
-layout: post
-redirect_from: moins-consommer/
-slug: moins-consommer
 title: Arrêter d'acheter ou comment moins consommer
-wordpress_id: 318
+date: 2015-12-03 09:46:14 Z
 categories:
 - Consommacteur
 - Liveblog
 tags:
 - économies
 - surconsommation
+author: art
+comments: true
+layout: post
+redirect_from: moins-consommer/
+wordpress_id: 318
 ---
 
 Il y a quelques jours (c'était le vendredi 27 novembre 2015 cette année), nous avons assisté au Black Friday, c'est un jour presque comme les autres, ou toutes les enseignes du monde proposent des prix cassés, divisés par 2, 3, voir plus. Au temple de la consommation, ce jour est marqué d'une pierre noire. Les gens font la queue pour être les premiers lors de l'ouverture des magasins, se bousculent, parfois même certains se font piétiner.

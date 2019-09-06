@@ -1,14 +1,12 @@
 ---
-author: art
-
-date: 2017-06-02 08:29:46+00:00
-layout: post
-redirect_from: cadeau-mains/
-slug: cadeau-mains
 title: 3 cadeaux à mettre entre toutes les mains
-wordpress_id: 1438493870
+date: 2017-06-02 08:29:46 Z
 categories:
 - Liveblog
+author: art
+layout: post
+redirect_from: cadeau-mains/
+wordpress_id: 1438493870
 ---
 
 D'ici quelques semaines, c'est la fête des pères. Et comme c'est très logique, je vous propose donc de faire le point sur les cadeaux les plus   tendance du moment, mais pas forcément pour les papas ! Voici donc une liste de 3 cadeaux, pas forcément très cher, ni pas forcément très utile. Mais à quoi sert un cadeau si ce n'est à [procurer un émerveillement de ses congénères](https://irz.fr/meilleur-cadeau) ?

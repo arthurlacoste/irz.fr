@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-02-15 08:00:21+00:00
-layout: post
-redirect_from: la-vente-forcee-en-ligne-les-sites-de-e-commerce-leurs-garanties/
-slug: la-vente-forcee-en-ligne-les-sites-de-e-commerce-leurs-garanties
 title: La vente forcée en ligne, les sites de e-commerce & leurs "garanties"
-wordpress_id: 1438448739
+date: 2013-02-15 08:00:21 Z
 categories:
 - Consommacteur
 - Web
-post_format:
-- En passant
 tags:
 - e-commerce
 - soldes
 - vente
 - vente forcée
+author: art
+comments: true
+layout: post
+redirect_from: la-vente-forcee-en-ligne-les-sites-de-e-commerce-leurs-garanties/
+wordpress_id: 1438448739
+post_format:
+- En passant
 ---
 
 {% include video id="OXRy-8wNvSQ" provider="youtube" %}

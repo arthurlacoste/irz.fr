@@ -1,23 +1,22 @@
 ---
-author: art
-comments: true
-date: 2014-07-03 13:22:47+00:00
-layout: post
-redirect_from: confide/
-slug: confide
 title: Prise en main de Confide
-wordpress_id: 1438449377
+date: 2014-07-03 13:22:47 Z
 categories:
 - Android
 - Apple
-post_format:
-- En passant
 tags:
 - Android
 - cryptage
 - iOS
 - iPhone
 - Snapchat
+author: art
+comments: true
+layout: post
+redirect_from: confide/
+wordpress_id: 1438449377
+post_format:
+- En passant
 ---
 
 Vous le cachez à tous, mais en réalité, vous êtes un agent secret. Vous avez donc besoin, entre deux missions sur le terrain, armés jusqu'aux dents, d'un canal de discussion crypté pour discuter avec votre agent de liaison. Alors que votre cœur tambourine dans votre poitrine, vous prenez la fuite, une énième fois.<!-- more -->

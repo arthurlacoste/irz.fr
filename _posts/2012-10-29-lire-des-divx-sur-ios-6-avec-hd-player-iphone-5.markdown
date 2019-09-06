@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2012-10-29 09:42:39+00:00
-layout: post
-redirect_from: lire-des-divx-sur-ios-6-avec-hd-player-iphone-5/
-slug: lire-des-divx-sur-ios-6-avec-hd-player-iphone-5
 title: Lire des films sur iOS 6 avec HD Player
-wordpress_id: 1438448533
+date: 2012-10-29 09:42:39 Z
 categories:
 - Apple
-post_format:
-- Galerie
 tags:
 - App
 - iOS6
 - iPhone
 - iPhone 5
+author: art
+comments: true
+layout: post
+redirect_from: lire-des-divx-sur-ios-6-avec-hd-player-iphone-5/
+wordpress_id: 1438448533
+post_format:
+- Galerie
 ---
 
 A la sortie du iPhone 5, très rare étaient les logiciels permettant la lecture de fichiers avi en profitant de son écran 16/9.

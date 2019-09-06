@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-12-10 10:58:03+00:00
-layout: post
-redirect_from: apprendre-manger/
-slug: apprendre-manger
 title: Pourquoi faut-il réapprendre à manger ?
-wordpress_id: 510
+date: 2015-12-10 10:58:03 Z
 categories:
 - Le site
 - Liveblog
 - Santé
+author: art
+comments: true
+layout: post
+redirect_from: apprendre-manger/
+wordpress_id: 510
 post_format:
 - Image
 ---

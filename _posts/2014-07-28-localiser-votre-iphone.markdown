@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-07-28 10:58:43+00:00
-layout: post
-redirect_from: localiser-votre-iphone/
-slug: localiser-votre-iphone
 title: Localiser votre iPhone
-wordpress_id: 1438449419
+date: 2014-07-28 10:58:43 Z
 categories:
 - Apple
 - Liveblog
@@ -15,6 +9,11 @@ tags:
 - iCloud
 - localiser
 - mode perdu
+author: art
+comments: true
+layout: post
+redirect_from: localiser-votre-iphone/
+wordpress_id: 1438449419
 ---
 
 Si vous avez perdu ou égaré votre iPhone, il est possible de le localiser en allant sur le site d'[iCloud](http://icloud.com).

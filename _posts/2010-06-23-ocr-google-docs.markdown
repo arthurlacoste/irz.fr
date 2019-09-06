@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2010-06-23 07:51:36+00:00
-layout: post
-redirect_from: ocr-google-docs/
-slug: ocr-google-docs
 title: L'OCR dans Google Docs
-wordpress_id: 1438447705
+date: 2010-06-23 07:51:36 Z
 categories:
 - Web
 tags:
 - google
+author: art
+comments: true
+layout: post
+redirect_from: ocr-google-docs/
+wordpress_id: 1438447705
 ---
 
 La bonne nouvelle, [Google Docs](https://docs.google.com/) permet maintenant de faire de la reconnaissance de caractères à partir d'images scannées ou de pdf aux caractères improbables. Le service n'est disponible que pour une petite poignée de langues dont l'Anglais et le Français.

@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-06-18 14:34:32+00:00
-layout: post
-redirect_from: tu-veux-te-remettre-avec-moi/
-slug: tu-veux-te-remettre-avec-moi
 title: Tu veux te remettre avec moi ?
-wordpress_id: 1438447696
+date: 2010-06-18 14:34:32 Z
 categories:
 - 3615MyLife
+author: art
+comments: true
+layout: post
+redirect_from: tu-veux-te-remettre-avec-moi/
+wordpress_id: 1438447696
 ---
 
 <a href="https://static.irz.fr/2010/06/relationship-request-bouclette.png"><img alt="No alt" data-src="https://static.irz.fr/2010/06/relationship-request-bouclette.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/relationship-request-bouclette.png" /></a>

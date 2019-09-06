@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2017-02-24 12:03:00+00:00
-layout: post
-redirect_from: micode/
-slug: micode
 title: Micode = escroc ? J'ai creusé pour vous !
-wordpress_id: 1438493719
+date: 2017-02-24 12:03:00 Z
 categories:
 - Consommacteur
-post_format:
-- Vidéo
 tags:
 - arnaque
 - comment avoir plus d'abonné sur youtube
@@ -36,6 +28,13 @@ tags:
 - piège
 - vulnérabilité
 - zero day
+author: art
+comments: true
+layout: post
+redirect_from: micode/
+wordpress_id: 1438493719
+post_format:
+- Vidéo
 header:
   video:
     id: MmWOxo5tFh8

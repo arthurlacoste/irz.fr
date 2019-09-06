@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-05-10 13:28:41+00:00
-layout: post
-redirect_from: manger-en-colocation/
-slug: manger-en-colocation
 title: Comment manger en colocation ?
-wordpress_id: 1438449040
+date: 2013-05-10 13:28:41 Z
 categories:
 - Lifestyle
-post_format:
-- En passant
 tags:
 - colocation
+author: art
+comments: true
+layout: post
+redirect_from: manger-en-colocation/
+wordpress_id: 1438449040
+post_format:
+- En passant
 ---
 
 Si vous me connaissez, vous savez qu'il y a quelque chose qui rythme ma vie (et sans doute la vôtre aussi d'ailleurs !). Je parle bien entendu de la cause des [problèmes de vaisselle](https://irz.fr/departager-entre-colocataires) : **l'alimentation **!<!-- more --> En effet, j'ai déjà à mon actif quelques colocations et quelques vies de couples derrière moi (et je ne parle pas de mes précédentes vies, je ne m'en souvient pas), et il y a deux ou trois grands axes de manières de manger :

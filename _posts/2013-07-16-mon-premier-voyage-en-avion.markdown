@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-07-16 11:37:03+00:00
-layout: post
-redirect_from: mon-premier-voyage-en-avion/
-slug: mon-premier-voyage-en-avion
 title: Mon premier voyage en avion
-wordpress_id: 1438449104
+date: 2013-07-16 11:37:03 Z
 categories:
 - Parcours
-post_format:
-- En passant
 tags:
 - Mes premières fois
+author: art
+comments: true
+layout: post
+redirect_from: mon-premier-voyage-en-avion/
+wordpress_id: 1438449104
+post_format:
+- En passant
 ---
 
 Je ne me suis jamais déplacé en avion. Non pas que je ne voulais pas - loin de la - mais plutôt parce que ce n'était pas ma priorité lorsque j'ai commencé à travailler. Etant tellement passionné par les technologies (comme vous le savez) et par l'épargne (mais ceci est une autre histoire) je n'ai jamais vraiment économisé pour **partir loin**. Quand bien même lorsque je souhaitais partir, il me manquait quelque chose d'essentiel de mon point de vue pour un premier voyage : une team, ou du moins un compagnon de voyage. <!-- more -->

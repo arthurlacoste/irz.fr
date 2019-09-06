@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2015-02-11 22:08:29+00:00
-layout: post
-redirect_from: saint-valentin/
-slug: saint-valentin
 title: Tout seul pour la Saint-Valentin ?
-wordpress_id: 1438449628
+date: 2015-02-11 22:08:29 Z
 categories:
 - Tendances
+author: art
+comments: true
+layout: post
+redirect_from: saint-valentin/
+wordpress_id: 1438449628
 post_format:
 - En passant
 header:

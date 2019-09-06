@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2011-08-24 22:57:59+00:00
-layout: post
-redirect_from: steve-jobs-demissionne/
-slug: steve-jobs-demissionne
 title: Steve Jobs démissionne de son poste de dirigeant d'Apple
-wordpress_id: 1438448358
+date: 2011-08-24 22:57:59 Z
 categories:
 - Apple
-post_format:
-- Galerie
 tags:
 - Apple
 - démission
 - mac
 - steve jobs
 - tim cook
+author: art
+comments: true
+layout: post
+redirect_from: steve-jobs-demissionne/
+wordpress_id: 1438448358
+post_format:
+- Galerie
 ---
 
 Steve Jobs laisse sa place à Tim Cook pour diriger l'entreprise Apple.

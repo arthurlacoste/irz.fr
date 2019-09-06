@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-04-01 18:34:01+00:00
-layout: post
-redirect_from: yen-a-qui-se-touchent/
-slug: yen-a-qui-se-touchent
 title: Y'en a qui se touchent...
-wordpress_id: 1438448967
+date: 2013-04-01 18:34:01 Z
 categories:
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: yen-a-qui-se-touchent/
+wordpress_id: 1438448967
 post_format:
 - En passant
 ---

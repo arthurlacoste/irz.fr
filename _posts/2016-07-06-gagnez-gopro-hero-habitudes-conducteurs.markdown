@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-07-06 08:17:41+00:00
-layout: post
-redirect_from: gagnez-gopro-hero-habitudes-conducteurs/
-slug: gagnez-gopro-hero-habitudes-conducteurs
 title: Découvrez "Bon ou mauvais conducteur" et gagnez une GoPro Hero
-wordpress_id: 1438467741
+date: 2016-07-06 08:17:41 Z
 categories:
 - Code de la route
+author: art
+comments: true
+layout: post
+redirect_from: gagnez-gopro-hero-habitudes-conducteurs/
+wordpress_id: 1438467741
 ---
 
 Ces dernières années, les avancées technologiques en matière de réalité augmentée et de réalité virtuelle immersive ont explosé.

@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2014-12-23 12:39:16+00:00
-layout: post
-redirect_from: acheter-catalogue/
-slug: acheter-catalogue
 title: On aurait presque envie d'acheter ce catalogue...
-wordpress_id: 1438449544
+date: 2014-12-23 12:39:16 Z
 categories:
 - Consommacteur
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: acheter-catalogue/
+wordpress_id: 1438449544
 post_format:
 - Galerie
 header:

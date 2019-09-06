@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2013-02-18 17:44:00+00:00
-layout: post
-redirect_from: pastis-frig/
-slug: pastis-frig
 title: C'est du pastis
-wordpress_id: 1438448830
+date: 2013-02-18 17:44:00 Z
 categories:
 - Liveblog
 tags:
 - paillette
+author: art
+comments: true
+layout: post
+redirect_from: pastis-frig/
+wordpress_id: 1438448830
 ---
 
 **Vous avez déjà vu du pastis de cette couleur ?**

@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-12-18 21:46:29+00:00
-layout: post
-redirect_from: lire-videos-ipad/
-slug: lire-videos-ipad
 title: Comment lire des vidéos sur votre iPad ?
-wordpress_id: 1438449229
+date: 2013-12-18 21:46:29 Z
 categories:
 - Apple
 - Overgeek
@@ -20,10 +14,12 @@ tags:
 - mac
 - séries
 - VLC
+author: art
+comments: true
+layout: post
+redirect_from: lire-videos-ipad/
+wordpress_id: 1438449229
 ---
-
-
-  
 
 Ce tutoriel évoque VLC, mais il n'est plus disponible sur iOS pour le moment. Je vous invite à suivre le même tuto, en utilisant par exemple le logiciel Infuse.
 

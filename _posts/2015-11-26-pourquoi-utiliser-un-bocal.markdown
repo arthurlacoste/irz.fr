@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-11-26 08:16:32+00:00
-layout: post
-redirect_from: pourquoi-utiliser-un-bocal/
-slug: pourquoi-utiliser-un-bocal
 title: Pourquoi utiliser un bocal ?
-wordpress_id: 65
+date: 2015-11-26 08:16:32 Z
 categories:
 - Liveblog
 - Zéro déchet
+author: art
+comments: true
+layout: post
+redirect_from: pourquoi-utiliser-un-bocal/
+wordpress_id: 65
 post_format:
 - Image
 ---

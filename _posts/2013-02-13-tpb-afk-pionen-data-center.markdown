@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2013-02-13 10:30:29+00:00
-layout: post
-redirect_from: tpb-afk-pionen-data-center/
-slug: tpb-afk-pionen-data-center
-title: '[TPB AFK] : Zoom sur les data center de Pionen'
-wordpress_id: 1438448781
+title: "[TPB AFK] : Zoom sur les data center de Pionen"
+date: 2013-02-13 10:30:29 Z
 categories:
 - Web
 - WTF
+author: art
+comments: true
+layout: post
+redirect_from: tpb-afk-pionen-data-center/
+wordpress_id: 1438448781
 ---
 
 Je viens de regarder le film TPB AFK (The Pirate Bay : Away From Keyboard), et ce qui m'a le plus marqué, c'est les images de ce data center, qui sert de relais pour cacher la réelle location des serveurs de **The Pirate Bay**. Pionen héberge aussi le site **Wikileaks**, autre site qui s'attire les foudres politiques. <!-- more -->

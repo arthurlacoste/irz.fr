@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2013-04-30 06:00:55+00:00
-layout: post
-redirect_from: departager-entre-colocataires/
-slug: departager-entre-colocataires
 title: Comment se départager entre colocataires ?
-wordpress_id: 1438449027
+date: 2013-04-30 06:00:55 Z
 categories:
 - Idées
 - Lifestyle
-post_format:
-- En passant
 tags:
 - colocation
 - poker
+author: art
+comments: true
+layout: post
+redirect_from: departager-entre-colocataires/
+wordpress_id: 1438449027
+post_format:
+- En passant
 ---
 
 "Oula, mais qu'est ce que c'est que cette pile pharaonique de vaisselle dans le lavabo de la cuisine ?". Si vous êtes en colocation et que vous n'avez jamais eu affaire à une histoire de cette nature, il y a deux solutions :

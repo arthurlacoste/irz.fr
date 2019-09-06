@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-11-29 12:54:20+00:00
-layout: post
-redirect_from: adourcir-sa-barbe-avec-une-recette-maison/
-slug: adourcir-sa-barbe-avec-une-recette-maison
 title: Adourcir sa barbe avec une recette maison
-wordpress_id: 187
+date: 2015-11-29 12:54:20 Z
 categories:
 - DIY
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: adourcir-sa-barbe-avec-une-recette-maison/
+wordpress_id: 187
 post_format:
 - Image
 ---

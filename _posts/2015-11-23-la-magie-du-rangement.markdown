@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-11-23 08:26:35+00:00
-layout: post
-redirect_from: la-magie-du-rangement/
-slug: la-magie-du-rangement
 title: La magie du rangement
-wordpress_id: 1438493754
+date: 2015-11-23 08:26:35 Z
 categories:
 - Liveblog
 - Livres
 - Rangement
+author: art
+comments: true
+layout: post
+redirect_from: la-magie-du-rangement/
+wordpress_id: 1438493754
 ---
 
 Je suis tombé sur "La magie du rangement" par hasard, dans une grande surface : c'est l'une des meilleure manière de découvrir un livre je crois. De plus, le moment était bien choisi, j'avais quelques problèmes d’encombrements de mon appartement, et n'arrivais pas vraiment à y faire face.

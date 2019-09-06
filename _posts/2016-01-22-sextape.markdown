@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-01-22 15:15:19+00:00
-layout: post
-redirect_from: sextape/
-slug: sextape
 title: Et toi, tu as fait ta sextape ?
-wordpress_id: 1438450191
+date: 2016-01-22 15:15:19 Z
 categories:
 - Lifestyle
+author: art
+comments: true
+layout: post
+redirect_from: sextape/
+wordpress_id: 1438450191
 ---
 
 Vendredi après-midi. Il fait beau, mais mon oncle m'a confié son ordinateur pour réparations. En vérifiant le fonctionnement de mon lecteur de disques, je (re)découvre de vieilles sauvegardes entre 2008 et 2010. Des photos de l'époque, puis des vidéos.<!-- more -->

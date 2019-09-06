@@ -1,15 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-03-04 12:35:16+00:00
-excerpt: 'Non, ce n''est pas une blague, je l''ai bel et bien fait : gribouiller ma
-  signature sur un billet de dix euros. Je n''avais pas de billet de cinq cent sous
-  la main, alors j''ai du me contenter de celui-là. '
-layout: post
-redirect_from: aujourdhui-jai-signe-un-billet-de-banque/
-slug: aujourdhui-jai-signe-un-billet-de-banque
 title: Aujourd'hui j'ai signé un billet de banque
-wordpress_id: 858
+date: 2010-03-04 12:35:16 Z
 categories:
 - L'essentiel
 - Parcours
@@ -19,6 +10,14 @@ tags:
 - développement personnel
 - euro
 - signer
+author: art
+comments: true
+excerpt: 'Non, ce n''est pas une blague, je l''ai bel et bien fait : gribouiller ma
+  signature sur un billet de dix euros. Je n''avais pas de billet de cinq cent sous
+  la main, alors j''ai du me contenter de celui-là. '
+layout: post
+redirect_from: aujourdhui-jai-signe-un-billet-de-banque/
+wordpress_id: 858
 ---
 
 [English version](https://irz.fr/today-i-signed-a-bank-note)

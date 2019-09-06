@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2013-05-28 09:53:30+00:00
-layout: post
-redirect_from: connaitre-colocataires/
-slug: connaitre-colocataires
 title: Apprenez à connaître vos colocataires
-wordpress_id: 1438449073
+date: 2013-05-28 09:53:30 Z
 categories:
 - Lifestyle
-post_format:
-- En passant
 tags:
 - colocation
 - poker
+author: art
+comments: true
+layout: post
+redirect_from: connaitre-colocataires/
+wordpress_id: 1438449073
+post_format:
+- En passant
 ---
 
 Pas besoin d'aller à l'autre bout du globe pour avoir votre « Rendez-vous en terre inconnue » : [si vous vivez ou avez déjà vécu dans une colocation](https://irz.fr/recherche?q=colocation), vous savez de quoi je parle.<!-- more -->

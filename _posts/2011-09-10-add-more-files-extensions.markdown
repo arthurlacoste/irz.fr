@@ -1,19 +1,11 @@
 ---
-author: art
-comments: true
-date: 2011-09-10 08:14:18+00:00
-layout: post
-redirect_from: add-more-files-extensions/
-slug: add-more-files-extensions
 title: 'Add more files extensions : le remède contre le manque d''extensions de wordpress'
-wordpress_id: 1438448387
+date: 2011-09-10 08:14:18 Z
 categories:
 - Tutoriel
 - Wordpress
-post_format:
-- Galerie
 tags:
-- $existing_mimes
+- "$existing_mimes"
 - add_action
 - add_filter
 - add_settings_section
@@ -28,6 +20,13 @@ tags:
 - type de fichier
 - upload_mimes
 - wordpress
+author: art
+comments: true
+layout: post
+redirect_from: add-more-files-extensions/
+wordpress_id: 1438448387
+post_format:
+- Galerie
 ---
 
 Ce plugin fait suite a cet article concernant l'[ajout de types mime, ou des extensions de fichiers à la volée](https://irz.fr/ajouter-un-type-mime).

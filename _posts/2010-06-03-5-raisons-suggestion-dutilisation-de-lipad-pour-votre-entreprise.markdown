@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-06-03 13:00:25+00:00
-layout: post
-redirect_from: 5-raisons-suggestion-dutilisation-de-lipad-pour-votre-entreprise/
-slug: 5-raisons-suggestion-dutilisation-de-lipad-pour-votre-entreprise
 title: 5 raisons/suggestions d’utilisation de l’iPad pour votre entreprise
-wordpress_id: 709
+date: 2010-06-03 13:00:25 Z
 categories:
 - Idées
+author: art
+comments: true
+layout: post
+redirect_from: 5-raisons-suggestion-dutilisation-de-lipad-pour-votre-entreprise/
+wordpress_id: 709
 ---
 
 <a href="https://static.irz.fr/2010/05/ipad.png"><img alt="No alt" data-src="https://static.irz.fr/2010/05/ipad.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/05/ipad.png" /></a>

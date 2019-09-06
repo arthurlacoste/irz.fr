@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2011-05-23 13:04:11+00:00
-layout: post
-redirect_from: sophie/
-slug: sophie
 title: Il est temps que ton règne prenne fin
-wordpress_id: 155
+date: 2011-05-23 13:04:11 Z
 categories:
 - Dessins
 tags:
 - sophie
 - vulli
+author: art
+comments: true
+layout: post
+redirect_from: sophie/
+wordpress_id: 155
 ---
 
 <a href="https://static.irz.fr/2011/05/sophie-1000.png"><img alt="No alt" data-src="https://static.irz.fr/2011/05/sophie-1000-1024x646.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/05/sophie-1000-1024x646.png" /></a>

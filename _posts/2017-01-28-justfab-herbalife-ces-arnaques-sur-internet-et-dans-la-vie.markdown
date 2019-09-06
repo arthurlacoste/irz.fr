@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2017-01-28 09:51:37+00:00
-layout: post
-redirect_from: justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie/
-slug: justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie
 title: Justfab, Herbalife, ces arnaques sur internet et dans la vie
-wordpress_id: 1438491778
+date: 2017-01-28 09:51:37 Z
 categories:
 - Consommacteur
 - Video
-post_format:
-- Vidéo
 tags:
 - 18-55mm STM
 - 700D
@@ -19,6 +11,13 @@ tags:
 - critique herbalife
 - critique justfab
 - Rode VideoMicro
+author: art
+comments: true
+layout: post
+redirect_from: justfab-herbalife-ces-arnaques-sur-internet-et-dans-la-vie/
+wordpress_id: 1438491778
+post_format:
+- Vidéo
 header:
   video:
     id: OXRy-8wNvSQ

@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-01-28 16:48:30+00:00
-layout: post
-redirect_from: controler-tag-chronique/
-slug: controler-tag-chronique
 title: Chronique de la vie de tout les jours
-wordpress_id: 1438448737
+date: 2013-01-28 16:48:30 Z
 categories:
 - Liveblog
 - Parcours
 - WTF
-post_format:
-- En passant
 tags:
 - auchan
 - la vie
 - la vraie
+author: art
+comments: true
+layout: post
+redirect_from: controler-tag-chronique/
+wordpress_id: 1438448737
+post_format:
+- En passant
 ---
 
 Depuis une semaine que j'ai perdu ma carte de bus, a chaque fois que je monte a bord, je feinte. Parfois je fais le bruit de la machine avec la bouche, d'autre fois je passe en même temps que quelqu'un d'autre.

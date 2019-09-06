@@ -1,19 +1,18 @@
 ---
-author: art
-date: 2016-09-25 08:29:46+00:00
-last_modified_at: 2018-02-25
-layout: post
-slug: cheveux-abimes
 title: Comment réparer ses cheveux abimés
-categories: Lifestyle
+date: 2016-09-25 08:29:46 Z
+categories:
+- Lifestyle
+tags:
+- Lifestyle
+author: art
+last_modified_at: 2018-02-25 00:00:00 Z
+layout: post
 header:
   overlay_image: https://static.irz.fr/2018/09/beautiful-black-and-white-eye-1027092-3.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [Alexander Krivitskiy](https://www.pexels.com/@krivitskiy)"
-tags:
-- Lifestyle
+  caption: 'Photo credit: [Alexander Krivitskiy](https://www.pexels.com/@krivitskiy)'
 ---
-
 
 Vous êtes paniqués par l’état de vos cheveux secs, fourchus ou cassant ?
 

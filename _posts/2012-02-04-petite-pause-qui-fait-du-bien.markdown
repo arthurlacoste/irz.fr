@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2012-02-04 12:06:50+00:00
-layout: post
-redirect_from: petite-pause-qui-fait-du-bien/
-slug: petite-pause-qui-fait-du-bien
 title: Petite pause qui fait du bien
-wordpress_id: 1438448430
+date: 2012-02-04 12:06:50 Z
 categories:
 - 3615MyLife
-post_format:
-- Galerie
 tags:
 - écriture
 - réseaux sociaux
+author: art
+comments: true
+layout: post
+redirect_from: petite-pause-qui-fait-du-bien/
+wordpress_id: 1438448430
+post_format:
+- Galerie
 ---
 
 Tiens, le dernier article date de novembre 2011. Ça fait quelques mois de pause dans ce blog qui, avouons-le, est assez irrégulier. D'autant plus que je n'ai pas vraiment envie de parler de high-tech en ce moment, d'ailleurs les sujets évoqués ici sont toujours différents, c'est d'ailleurs pour ça que j'aime ce bloc notes sans réelle ligne éditoriale.

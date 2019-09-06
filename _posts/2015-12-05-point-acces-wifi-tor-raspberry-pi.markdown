@@ -1,15 +1,14 @@
 ---
-author: tom
-comments: true
-date: 2015-12-05 18:11:13+00:00
-layout: post
-redirect_from: point-acces-wifi-tor-raspberry-pi/
-slug: point-acces-wifi-tor-raspberry-pi
 title: Créer un point d'accès wifi avec Tor sur votre Raspberry Pi
-wordpress_id: 1438449694
+date: 2015-12-05 18:11:13 Z
 categories:
 - Divers
 - Tutoriel
+author: tom
+comments: true
+layout: post
+redirect_from: point-acces-wifi-tor-raspberry-pi/
+wordpress_id: 1438449694
 ---
 
 Bonjour ! Dans ce tutoriel je vais vous expliquer comment crée un AP (Point d'Accès Wifi) avec un Raspberry pi en y ajoutant ensuite les services de tor. Je vais utiliser Vim comme éditeur de texte et citer des numéro de lignes pour les fichiers a modifier. Histoire de vous éviter de chercher.<!-- more -->

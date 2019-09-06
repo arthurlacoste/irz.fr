@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2013-04-15 05:00:34+00:00
-layout: post
-redirect_from: detourner-classement/
-slug: detourner-classement
 title: Détourner un classement
-wordpress_id: 1438449000
+date: 2013-04-15 05:00:34 Z
 categories:
 - Tutoriel
 - Web
-post_format:
-- En passant
 tags:
 - truquer classement
+author: art
+comments: true
+layout: post
+redirect_from: detourner-classement/
+wordpress_id: 1438449000
+post_format:
+- En passant
 ---
 
 Au menu du jour, nous allons voir comment détourner un classement. Tiens, et si commençait par parler un peu de Justin ? Non non, ça ne veut pas dire que j'écoute ! Quoi que, j'ai toujours bien aimé cette parodie - version Starcraft 2 - de baby des Nerd Alert, "Banelings"<!-- more --> :

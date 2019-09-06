@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-09-23 08:39:48+00:00
-layout: post
-redirect_from: lisser-bords-detourages-photoshop/
-slug: lisser-bords-detourages-photoshop
 title: Lisser les bords de ses détourages sous Photoshop
-wordpress_id: 1438448408
+date: 2011-09-23 08:39:48 Z
 categories:
 - Dessins
 - Divers
@@ -17,6 +11,11 @@ tags:
 - lasso magnétique
 - lisser
 - photoshop
+author: art
+comments: true
+layout: post
+redirect_from: lisser-bords-detourages-photoshop/
+wordpress_id: 1438448408
 ---
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.dailymotion.com/embed/video/xgly3z' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

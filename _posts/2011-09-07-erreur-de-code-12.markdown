@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2011-09-07 06:00:29+00:00
-layout: post
-redirect_from: ?p=1438447583
-published: false
-slug: erreur-de-code-12
 title: L’erreur de code de la semaine
-wordpress_id: 1438447583
+date: 2011-09-07 06:00:29 Z
+published: false
 categories:
 - Code de la route
 - Erreur de code
@@ -19,6 +13,11 @@ tags:
 - révisions
 - série
 - tourner
+author: art
+comments: true
+layout: post
+redirect_from: "?p=1438447583"
+wordpress_id: 1438447583
 ---
 
 [

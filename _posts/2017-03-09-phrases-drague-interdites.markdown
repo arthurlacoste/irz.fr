@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2017-03-09 05:00:16+00:00
-layout: post
-redirect_from: phrases-drague-interdites/
-slug: phrases-drague-interdites
 title: 10 phrases de drague que vous ne devez jamais prononcer !
-wordpress_id: 1438493802
+date: 2017-03-09 05:00:16 Z
 categories:
 - WTF
 tags:
-- '#LaPirePhraseDeDragueCEst'
+- "#LaPirePhraseDeDragueCEst"
 - phrase drague beauf
 - phrase drague drole
 - phrase drague lourde
+author: art
+comments: true
+layout: post
+redirect_from: phrases-drague-interdites/
+wordpress_id: 1438493802
 ---
 
 Draguer. Pour certains ce mot fait peur, pour d'autres c'est un art (les pick up artist, ça vous parle ?).

@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2014-01-10 12:03:24+00:00
-layout: post
-redirect_from: cable-hdmi/
-slug: cable-hdmi
 title: Dois-je acheter un câble HDMI cher ?
-wordpress_id: 1438449305
+date: 2014-01-10 12:03:24 Z
 categories:
 - Consommacteur
-post_format:
-- En passant
 tags:
 - Le guide du radin
+author: art
+comments: true
+layout: post
+redirect_from: cable-hdmi/
+wordpress_id: 1438449305
+post_format:
+- En passant
 ---
 
 Non, différentes études ont démontré qu'un câble coûtant une cinquantaine d'euros n'est pas plus performant qu'un câble que vous pouvez trouver moins de 5€ sur internet. Alors **économisez votre argent** pour votre prochain écran 4K et arrêtez d'acheter tout ce qu'on essaye de vous vendre, pour une fois. 

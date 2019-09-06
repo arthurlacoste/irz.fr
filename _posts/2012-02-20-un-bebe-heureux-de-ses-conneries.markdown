@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2012-02-20 12:19:03+00:00
-layout: post
-redirect_from: un-bebe-heureux-de-ses-conneries/
-slug: un-bebe-heureux-de-ses-conneries
 title: Un bébé heureux de ses conneries
-wordpress_id: 1438448437
+date: 2012-02-20 12:19:03 Z
 categories:
 - Photo
+author: art
+comments: true
+layout: post
+redirect_from: un-bebe-heureux-de-ses-conneries/
+wordpress_id: 1438448437
 post_format:
 - Galerie
 ---

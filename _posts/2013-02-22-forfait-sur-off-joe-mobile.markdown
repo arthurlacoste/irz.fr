@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2013-02-22 16:00:02+00:00
-layout: post
-redirect_from: forfait-sur-off-joe-mobile/
-slug: forfait-sur-off-joe-mobile
 title: 'Mettre son forfait sur off : c''est possible en fait !'
-wordpress_id: 1438448828
+date: 2013-02-22 16:00:02 Z
 categories:
 - Consommacteur
 - Web
 tags:
 - Joe Mobile
+author: art
+comments: true
+layout: post
+redirect_from: forfait-sur-off-joe-mobile/
+wordpress_id: 1438448828
 ---
 
 Tu sais, quand Free à sorti ses offres à 20€/mois, je me suis dit que ça pourrait être très pratique de **mettre son forfait sur off**, puisque de toute manière je pouvais passer de mon offre à 16€ à une offre à 0€... Donc autant aider le consommateur avec une option cool ! Mais non, ils ne l'on jamais fait.<!-- more -->

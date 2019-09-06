@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2013-01-06 07:00:28+00:00
-layout: post
-redirect_from: supprimer-menu-header-twenty-twelve-wordpress/
-slug: supprimer-menu-header-twenty-twelve-wordpress
 title: Comment supprimer le menu au dessus de l'image de header du thème Twenty Twelve
   de WordPress
-wordpress_id: 1438448578
+date: 2013-01-06 07:00:28 Z
 categories:
 - Overgeek
 - Tutoriel
@@ -16,6 +10,11 @@ tags:
 - éditeur de thème
 - header.php
 - Twenty Twelve
+author: art
+comments: true
+layout: post
+redirect_from: supprimer-menu-header-twenty-twelve-wordpress/
+wordpress_id: 1438448578
 ---
 
 Etant en train de travailler sur un site WordPress avec le nouveau thème de base Twenty Twelve (que je tiens à acclamer au passage !), il arrive parfois que l'on souhaite un site simplisme, sans page "a propos", ni "contact". J'ai dit : **pas de page**.

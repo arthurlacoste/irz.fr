@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-03-21 13:23:53+00:00
-layout: post
-redirect_from: site-de-rencontre/
-slug: site-de-rencontre
 title: Ma première rencontre sur internet
-wordpress_id: 1438448951
+date: 2013-03-21 13:23:53 Z
 categories:
 - Web
-post_format:
-- En passant
 tags:
 - j'ai testé pour vous
 - Mes premières fois
 - rencontre
 - rencontre en ligne
 - site de rencontre
+author: art
+comments: true
+layout: post
+redirect_from: site-de-rencontre/
+wordpress_id: 1438448951
+post_format:
+- En passant
 ---
 
 Pour ceux qui me connaissent bien et qui me lisent, vous savez que j'ai toujours eu un peu de mal avec les sites de rencontres. C'est vrai que je suis un grand consommateur de technologies, et que je passe pas mal de temps sur internet.<!-- more --> Mais pour ce qui est de parler avec des gens que je ne connais pas, au secours ! Que ce soit [le tchat en ligne](http://badoo.com/fr/) ou les sites de rencontres, cela m'a toujours paru assez peu naturel.

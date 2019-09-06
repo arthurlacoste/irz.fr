@@ -1,7 +1,14 @@
 ---
+title: La foire de printemps de Grenoble, édition 2010
+date: 2010-03-12 16:01:50 Z
+categories:
+- Sortir
+tags:
+- bd
+- harley
+- salon
 author: art
 comments: true
-date: 2010-03-12 16:01:50+00:00
 excerpt: La foire du printemps, c'est l'occasion pour des professionnels venus de
   tout horizons de présenter leurs nouveaux produits. Et pour les visiteurs, c'est
   une petite ballade en famille qui s'annonce, car en laissant les enfants au spectacle
@@ -9,15 +16,7 @@ excerpt: La foire du printemps, c'est l'occasion pour des professionnels venus d
   pourront saisir l'opportunité de repenser leurs aménagement d'intérieur ou d'extérieur.
 layout: post
 redirect_from: la-foire-de-printemps-de-grenoble-edition-2010/
-slug: la-foire-de-printemps-de-grenoble-edition-2010
-title: La foire de printemps de Grenoble, édition 2010
 wordpress_id: 264
-categories:
-- Sortir
-tags:
-- bd
-- harley
-- salon
 ---
 
 <a href="http://www.flickr.com/photos/arthurlacoste/4415859218/sizes/o/"><img alt="foire du printemps" data-src="https://static.irz.fr/2010/03/foire-du-printemps-300x225.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/foire-du-printemps-300x225.jpg" /></a>La foire du printemps, c'est l'occasion pour des professionnels venus de tout horizons de présenter leurs nouveaux produits. Et pour les visiteurs, c'est une petite ballade en famille qui s'annonce, car en laissant les enfants au spectacle d'otaries ou à la rencontre des 300 spécimens de la faune reptilienne, les parents pourront saisir l'opportunité de repenser leurs aménagement d'intérieur ou d'extérieur.

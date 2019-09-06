@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-01-11 10:32:22+00:00
-layout: post
-redirect_from: adobe-cs2-est-devenu-gratuit-lien-et-explications/
-slug: adobe-cs2-est-devenu-gratuit-lien-et-explications
 title: 'Adobe CS2 est devenu gratuit : lien et explications'
-wordpress_id: 1438448598
+date: 2013-01-11 10:32:22 Z
 categories:
 - Apple
 - Logiciels
@@ -16,6 +10,11 @@ tags:
 - Illustrator
 - photoshop
 - Premiere
+author: art
+comments: true
+layout: post
+redirect_from: adobe-cs2-est-devenu-gratuit-lien-et-explications/
+wordpress_id: 1438448598
 ---
 
 Vous avez peut être suivi le dossier de la semaine dernière, Adobe a mis à disposition toute sa suite CS2 avec les numéros de série et tout le tralala sur son site. En effet, l'intention d'Adobe à la base était de se séparer de ses serveurs d'activation. Tout les numéros de série sont donc disponibles sur le site d'Adobe, mais en réalité ce n'est à la base qu'à disposition des personnes ayant déjà acheté le logiciel.

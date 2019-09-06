@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2013-03-31 16:20:15+00:00
-layout: post
-redirect_from: arev-manoukian-skrillex-devils-den/
-slug: arev-manoukian-skrillex-devils-den
 title: 'La minute musique #2 : Skrillex revisité par Arev Manoukian'
-wordpress_id: 1438448963
+date: 2013-03-31 16:20:15 Z
 categories:
 - Liveblog
 - Musique
-post_format:
-- En passant
 tags:
 - La minute musique
+author: art
+comments: true
+layout: post
+redirect_from: arev-manoukian-skrillex-devils-den/
+wordpress_id: 1438448963
+post_format:
+- En passant
 ---
 
 Nous mettrons aujourd'hui en exergue un clip non officiel - mais respectant pourtant l'esprit - de Skrillex & Wolfgang Gartner, avec la chanson The Devil's Den. Ecrit et réalisé par Arev Manoukian, le protagoniste principal se retrouve pris en sandwich par une armée de femmes en string, éveillant l'être maléfique caché au plus profond de son âme brumeuse. 

@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2013-03-13 08:01:17+00:00
-layout: post
-redirect_from: joe-mobile-vs-free-options/
-slug: joe-mobile-vs-free-options
 title: 'Joe vs Free : les options'
-wordpress_id: 1438448942
+date: 2013-03-13 08:01:17 Z
 categories:
 - Consommacteur
-post_format:
-- En passant
 tags:
 - forfait bloqué
 - Free
@@ -19,6 +11,13 @@ tags:
 - Joe Mobile
 - options
 - tethering
+author: art
+comments: true
+layout: post
+redirect_from: joe-mobile-vs-free-options/
+wordpress_id: 1438448942
+post_format:
+- En passant
 ---
 
 Nous allons aujourd'hui comparer l’offre illimité de Joe (à 20€ / 30 jours) à celle de Free (19,99€ ou 15,99 si vous êtes déjà clients chez Free ADSL). En effet, je suis récemment passé de Free à Joe, et certaines choses sont relativement différentes.<!-- more -->

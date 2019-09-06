@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2017-01-26 21:29:45+00:00
-layout: post
-redirect_from: la-rotoscopie/
-slug: la-rotoscopie
 title: La rotoscopie
-wordpress_id: 1438492014
+date: 2017-01-26 21:29:45 Z
 categories:
 - Dessins
 - Video
@@ -15,6 +9,11 @@ tags:
 - Ko
 - Madsness and ko
 - Rode VideoMicro
+author: art
+comments: true
+layout: post
+redirect_from: la-rotoscopie/
+wordpress_id: 1438492014
 header:
   video:
     id: WZ-jKdsYCcg

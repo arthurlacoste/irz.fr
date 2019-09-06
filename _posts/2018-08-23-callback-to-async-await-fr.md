@@ -1,14 +1,12 @@
 ---
-author: art
-date: 2018-08-23 08:29:46+00:00
-last_modified_at:
-layout: post
-slug: callback-to-async-await
 title: La manière la plus simple d'utiliser ses fonction callback en async/await
+date: 2018-08-23 08:29:46 Z
 categories:
 - dev
+author: art
+last_modified_at: 
+layout: post
 ---
-
 
 Les callbacks imbriqués sont diabolique. Et dans cet enfer, une porte au loin semble tous nous éblouir. Oui, je veux parler de async/await.
 

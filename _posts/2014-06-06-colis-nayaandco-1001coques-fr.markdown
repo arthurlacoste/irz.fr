@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2014-06-06 06:00:17+00:00
-layout: post
-redirect_from: colis-nayaandco-1001coques-fr/
-slug: colis-nayaandco-1001coques-fr
 title: 'Dans mon colis : nayaandco (priceminister)'
-wordpress_id: 1438449362
+date: 2014-06-06 06:00:17 Z
 categories:
 - Dans mon colis
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: colis-nayaandco-1001coques-fr/
+wordpress_id: 1438449362
 ---
 
 ce matin, une coque venant de la boutique PriceMinister de Naya & co, qui après quelques recherche administre aussi la boutique 1001coques.fr, administré par Garcia David.

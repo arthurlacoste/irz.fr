@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2011-08-31 06:00:22+00:00
-layout: post
-redirect_from: l%e2%80%99erreur-de-code-de-la-semaine-11/
-slug: l%e2%80%99erreur-de-code-de-la-semaine-11
 title: L’erreur de code de la semaine
-wordpress_id: 1438447918
+date: 2011-08-31 06:00:22 Z
 categories:
 - Code de la route
 - Erreur de code
-post_format:
-- Galerie
 tags:
 - code
 - cyclomoteur
@@ -23,6 +15,13 @@ tags:
 - route à accès réglementé
 - route à caractère réglementé
 - série
+author: art
+comments: true
+layout: post
+redirect_from: l%e2%80%99erreur-de-code-de-la-semaine-11/
+wordpress_id: 1438447918
+post_format:
+- Galerie
 ---
 
 <img alt="No alt" data-src="https://static.irz.fr/2011/08/route-acces-reglemente.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/08/route-acces-reglemente.png" />

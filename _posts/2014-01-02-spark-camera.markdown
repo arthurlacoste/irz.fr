@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2014-01-02 07:00:38+00:00
-layout: post
-redirect_from: spark-camera/
-slug: spark-camera
 title: 'Prise en main : Spark Camera'
-wordpress_id: 1438449264
+date: 2014-01-02 07:00:38 Z
 categories:
 - Apple
 - Logiciels
-post_format:
-- En passant
 tags:
 - iOS
 - Vine
+author: art
+comments: true
+layout: post
+redirect_from: spark-camera/
+wordpress_id: 1438449264
+post_format:
+- En passant
 ---
 
 Spark pour iOS est une grosse claque en terme d'ergonomie. La simplicité de cette application vous laissera perplexe tant vous allez pouvoir mettre à l'épreuve votre imagination en utilisant cet utilitaire de montage vidéo. 

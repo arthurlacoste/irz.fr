@@ -1,16 +1,16 @@
 ---
-author: art
-date: 2018-02-25 08:29:46+00:00
-last_modified_at: 2018-02-25
-layout: post
-slug: e-commerce
 title: Le e-commerce
-categories: e-commerce
-header:
-  image: https://static.irz.fr/2018/02/e-commerce-irz-shopify-dropshipping.jpg
-  caption: "Photo credit: Heidi Sandstrom"
+date: 2018-02-25 08:29:46 Z
+categories:
+- e-commerce
 tags:
 - e-commerce
+author: art
+last_modified_at: 2018-02-25 00:00:00 Z
+layout: post
+header:
+  image: https://static.irz.fr/2018/02/e-commerce-irz-shopify-dropshipping.jpg
+  caption: 'Photo credit: Heidi Sandstrom'
 ---
 
 - Greg, il viennent tous de débarquer en même temps !

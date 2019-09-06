@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-07-04 10:38:11+00:00
-layout: post
-redirect_from: lokan/
-slug: lokan
 title: Lokan.fr - Le bilan, version courte
-wordpress_id: 1438448322
+date: 2011-07-04 10:38:11 Z
 categories:
 - Web
 tags:
@@ -15,6 +9,11 @@ tags:
 - exif
 - lokan
 - lokangate
+author: art
+comments: true
+layout: post
+redirect_from: lokan/
+wordpress_id: 1438448322
 ---
 
 Je vous propose une version courte (et en musique) de la vidéo d'adieu que Lokan à posté hier sur son site, pour ceux qui n'aurait pas le courage de regarder les 30 minutes de larmes, cris et autres émotions non retenues de Lokan.

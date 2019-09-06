@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2014-01-13 11:00:11+00:00
-layout: post
-redirect_from: whyd/
-slug: whyd
 title: Consommez la musique autrement avec Whyd
-wordpress_id: 1438449310
+date: 2014-01-13 11:00:11 Z
 categories:
 - Musique
 - Web
-post_format:
-- En passant
 tags:
 - réseau social
+author: art
+comments: true
+layout: post
+redirect_from: whyd/
+wordpress_id: 1438449310
+post_format:
+- En passant
 ---
 
 Aujourd'hui pour écouter de la musique sur internet, je suppose que vous utilisez principalement YouTube, GrooveShark, Pandora, Souncloud, Spotify et Deezer. Il n'y a pas vraiment de service centralisé qui réuni toutes vos chansons préférées. Il y a votre iPod, sur lequel vous avez téléchargé vos chansons préférées. Mais il vous manque quelque chose.

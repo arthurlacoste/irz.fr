@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2012-06-11 14:01:33+00:00
-layout: post
-redirect_from: slugme-permalien-javascript-slug/
-slug: slugme-permalien-javascript-slug
 title: Générer un slug à la volée en javascript
-wordpress_id: 1438448476
+date: 2012-06-11 14:01:33 Z
 categories:
 - Développement
 - Tutoriel
@@ -16,6 +10,11 @@ tags:
 - javascript
 - permalien
 - slug
+author: art
+comments: true
+layout: post
+redirect_from: slugme-permalien-javascript-slug/
+wordpress_id: 1438448476
 ---
 
 Un slug (ou Permalien pour les francophones) est la partie d'une url qui permet d'identifier clairement à quoi correspond celle-ci, en passant à travers le traditionnel identifiant numérique propre à la majorité des bases de données.

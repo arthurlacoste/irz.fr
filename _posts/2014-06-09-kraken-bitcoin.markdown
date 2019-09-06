@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2014-06-09 06:00:00+00:00
-layout: post
-redirect_from: kraken-bitcoin/
-slug: kraken-bitcoin
 title: 'J’ai testé pour vous : Kraken (plateforme bitcoin et ethereum)'
-wordpress_id: 1438449367
+date: 2014-06-09 06:00:00 Z
 categories:
 - Consommacteur
 - L'essentiel
-post_format:
-- En passant
 tags:
 - avis kraken
 - Bitcoin
@@ -20,6 +12,13 @@ tags:
 - Kraken
 - Paymium
 - trading
+author: art
+comments: true
+layout: post
+redirect_from: kraken-bitcoin/
+wordpress_id: 1438449367
+post_format:
+- En passant
 header:
   image: https://ecrire.irz.fr/wp-content/uploads/2014/06/kraken-bitcoin.png
 ---

@@ -1,15 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-04-03 17:40:28+00:00
-excerpt: Gagnant du concours développement avec son activité d'aide à la création
-  d'entreprise, Marine Simon est reparti avec 2000 euros en poche lors du prix de
-  l'entrepreneur le l'IAE de Grenoble.
-layout: post
-redirect_from: gestaffaires/
-slug: gestaffaires
 title: Gest’ Affaires (Prix de l’entrepreneur de L’IAE)
-wordpress_id: 684
+date: 2010-04-03 17:40:28 Z
 categories:
 - Parcours
 tags:
@@ -18,6 +9,14 @@ tags:
 - entrepreneur
 - gestaffaires
 - iae
+author: art
+comments: true
+excerpt: Gagnant du concours développement avec son activité d'aide à la création
+  d'entreprise, Marine Simon est reparti avec 2000 euros en poche lors du prix de
+  l'entrepreneur le l'IAE de Grenoble.
+layout: post
+redirect_from: gestaffaires/
+wordpress_id: 684
 ---
 
 Gagnante du concours développement avec son activité d'aide à la création d'entreprise, [Marine Simon](https://static.irz.fr/2010/04/Capture-d’écran-2010-04-03-à-19.42.25.png) est reparti avec 2000 euros en poche lors du prix de l'entrepreneur le l'IAE de Grenoble.

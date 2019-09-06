@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2012-08-06 09:30:13+00:00
-layout: post
-redirect_from: carte-sd-externe-android/
-slug: carte-sd-externe-android
 title: Trouver le chemin de sa carte SD sous Android
-wordpress_id: 1438448486
+date: 2012-08-06 09:30:13 Z
 categories:
 - Android
 - Google
@@ -20,6 +14,11 @@ tags:
 - ics
 - jb
 - rom
+author: art
+comments: true
+layout: post
+redirect_from: carte-sd-externe-android/
+wordpress_id: 1438448486
 ---
 
 La ROM de Cyanogen nous fait perdre les pédales quand il s'agit de retrouver sa carte SD externe. En effet, le lieu du montage de ce disque est différent de celui des ROM officielles de Google.

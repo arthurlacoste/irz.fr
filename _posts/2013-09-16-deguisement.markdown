@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2013-09-16 13:05:35+00:00
-layout: post
-redirect_from: deguisement/
-slug: deguisement
-title: "Le Guide du Radin : 5 manières de se déguiser quand on a pas une thune"
-wordpress_id: 1438449151
+title: 'Le Guide du Radin : 5 manières de se déguiser quand on a pas une thune'
+date: 2013-09-16 13:05:35 Z
 categories:
 - Consommacteur
-post_format:
-- En passant
 tags:
 - déguisement
 - Le guide du radin
+author: art
+comments: true
+layout: post
+redirect_from: deguisement/
+wordpress_id: 1438449151
+post_format:
+- En passant
 ---
 
 Les soirées déguisées, c'est à la mode. Qu'elles soient thématiques - vous imposant à vous habiller dans une catégorie bien spécifique - ou plus générales, c'est une manière de passer une soirée décalée et pleine de surprises !<!-- more -->

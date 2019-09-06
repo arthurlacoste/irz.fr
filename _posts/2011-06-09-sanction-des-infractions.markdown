@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-06-09 06:00:42+00:00
-layout: post
-redirect_from: sanction-des-infractions/
-slug: sanction-des-infractions
 title: Sanction des infractions
-wordpress_id: 1438448000
+date: 2011-06-09 06:00:42 Z
 categories:
 - Code de la route
+author: art
+comments: true
+layout: post
+redirect_from: sanction-des-infractions/
+wordpress_id: 1438448000
 ---
 
 **Le comportement du conducteur est en cause dans la quasi-totalité des accidents de la route, raison pour laquelle les pouvoirs publics ont instauré le système du permis de conduire à points. Selon la gravité de l’infraction, le conducteur peut être passible :**

@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-07-29 14:05:05+00:00
-layout: post
-redirect_from: narmol/
-slug: narmol
 title: 'J''ai testé pour vous : Narmol'
-wordpress_id: 1438449070
+date: 2013-07-29 14:05:05 Z
 categories:
 - Consommacteur
+author: art
+comments: true
+layout: post
+redirect_from: narmol/
+wordpress_id: 1438449070
 post_format:
 - En passant
 ---

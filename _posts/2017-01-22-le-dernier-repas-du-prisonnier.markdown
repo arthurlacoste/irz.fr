@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2017-01-22 20:49:44+00:00
-layout: post
-redirect_from: le-dernier-repas-du-prisonnier/
-slug: le-dernier-repas-du-prisonnier
 title: Le dernier repas du prisonnier
-wordpress_id: 1438491482
+date: 2017-01-22 20:49:44 Z
 categories:
 - Liveblog
 - Manger
@@ -17,6 +11,11 @@ tags:
 - régime
 - Rode VideoMicro
 - sucre
+author: art
+comments: true
+layout: post
+redirect_from: le-dernier-repas-du-prisonnier/
+wordpress_id: 1438491482
 header:
   video:
     id: 7AT4ak-HpMM

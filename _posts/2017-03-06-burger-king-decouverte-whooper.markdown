@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2017-03-06 14:43:53+00:00
-layout: post
-redirect_from: burger-king-decouverte-whooper/
-slug: burger-king-decouverte-whooper
 title: 'Burger King : elle ouvre son sandwich et ce qu''elle découvre va vous révolter
   !'
-wordpress_id: 1438493790
+date: 2017-03-06 14:43:53 Z
 categories:
 - Manger
 tags:
@@ -16,6 +10,11 @@ tags:
 - burger king menu
 - burger king meylan
 - burger king prix
+author: art
+comments: true
+layout: post
+redirect_from: burger-king-decouverte-whooper/
+wordpress_id: 1438493790
 ---
 
 Il y a quelques jours à Burger King, alors qu'elle souhaitait retirer la tomate de son whooper, une Grenobloise à fait une incroyable découverte dans son burger.

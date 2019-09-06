@@ -1,19 +1,11 @@
 ---
-author: art
-comments: true
-date: 2011-09-02 16:03:44+00:00
-layout: post
-redirect_from: desole-type-fichier-pas-autorise-pour-raisons-securite/
-slug: desole-type-fichier-pas-autorise-pour-raisons-securite
 title: Désolé, ce type de fichier n’est pas autorisé pour des raisons de sécurité
-wordpress_id: 1438448378
+date: 2011-09-02 16:03:44 Z
 categories:
 - Tutoriel
 - Wordpress
-post_format:
-- Galerie
 tags:
-- $existing_mimes
+- "$existing_mimes"
 - add_action
 - add_filter
 - add_settings_section
@@ -26,6 +18,13 @@ tags:
 - type de fichier
 - upload_mimes
 - wordpress
+author: art
+comments: true
+layout: post
+redirect_from: desole-type-fichier-pas-autorise-pour-raisons-securite/
+wordpress_id: 1438448378
+post_format:
+- Galerie
 ---
 
 Qui n’a jamais eu le message : **“Tel fichier n’a pas pu être mis en ligne suite à une erreur - Désolé, ce type de fichier n’est pas autorisé pour des raisons de sécurité.”** ? C’est le message qui s’affiche lorsque vous essayer d’utiliser l’utilitaire d’upload de WordPress en utilisant une extension interdite par défaut par votre CMS préféré.

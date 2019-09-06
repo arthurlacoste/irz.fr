@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-11-20 10:23:56+00:00
-layout: post
-redirect_from: mes-preoccupations/
-slug: mes-preoccupations
 title: Mes préoccupations
-wordpress_id: 12
+date: 2015-11-20 10:23:56 Z
 categories:
 - Le site
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: mes-preoccupations/
+wordpress_id: 12
 ---
 
 Nous avons tous des sujets de préoccupation plus important que d'autres en tête. Je vais vous faire part des miens.

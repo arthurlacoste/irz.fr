@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2017-03-25 15:32:45+00:00
-layout: post
-redirect_from: journee-procrastination/
-slug: journee-procrastination
 title: 10 tweets pour fêter la journée de la procrastination
-wordpress_id: 1438493839
+date: 2017-03-25 15:32:45 Z
 categories:
 - WTF
+author: art
+comments: true
+layout: post
+redirect_from: journee-procrastination/
+wordpress_id: 1438493839
 ---
 
 Aujourd'hui, c'est la journée de la procrastination. C'est donc l'occasion pour moi de faire une petite sélection des meilleures punchlines de twittos ! Que la flemme soit avec toi, petit padawan.

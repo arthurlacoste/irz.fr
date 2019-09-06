@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-04-06 04:56:38+00:00
-layout: post
-redirect_from: konbini-daft-punk/
-slug: konbini-daft-punk
 title: Le dernier Daft Punk déjà piraté ?
-wordpress_id: 1438448982
+date: 2013-04-06 04:56:38 Z
 categories:
 - Musique
-post_format:
-- En passant
 tags:
 - badbuzz
 - Daft Punk
 - fail
 - leak
 - Random access memory
+author: art
+comments: true
+layout: post
+redirect_from: konbini-daft-punk/
+wordpress_id: 1438448982
+post_format:
+- En passant
 ---
 
 J'aimerais aujourd'hui réagir sur un sujet d'actualité assez hot, à savoir leak du dernier album de Daft Punk, Random Access Memory. Le site "d'actualité" français Konbini à en effet publié il y a quelques jours [un article](http://www.konbini.com/fr/music/album-daft-punk-leak-deux-mois-random-access-memories-sortie/) faisant part d'allégations concernant une copie du dernier album des **Daft Punk** qu'ils auraient reçu près de 2 mois avant la sortie du disque. <!-- more -->

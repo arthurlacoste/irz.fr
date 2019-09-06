@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-08-20 12:51:21+00:00
-layout: post
-redirect_from: trouver-partenaire-timide/
-slug: trouver-partenaire-timide
 title: Comment trouver un partenaire quand on est un peu timide ?
-wordpress_id: 1438449120
+date: 2013-08-20 12:51:21 Z
 categories:
 - Lifestyle
 - Web
-post_format:
-- En passant
 tags:
 - rencontre
 - rencontre en ligne
 - site de rencontre
+author: art
+comments: true
+layout: post
+redirect_from: trouver-partenaire-timide/
+wordpress_id: 1438449120
+post_format:
+- En passant
 ---
 
 Vous êtes las de ne pas partager votre vie avec votre moitié ? Mais surtout, de ne pas en avoir ! Etre seul à traverser les épreuves que vous impose la vie ? Vous n'avez pas à rester en solo tout le long de votre existence, vous le savez : vous méritez mieux.<!-- more -->

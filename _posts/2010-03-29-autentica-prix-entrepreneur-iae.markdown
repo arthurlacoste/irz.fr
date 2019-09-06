@@ -1,16 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-03-29 21:33:36+00:00
-excerpt: 'Gagnant du concours création avec son concept de Franchise de taqueria,
-  Guillaume François est reparti avec 2000 euros en poche.
-
-  '
-layout: post
-redirect_from: autentica-prix-entrepreneur-iae/
-slug: autentica-prix-entrepreneur-iae
 title: L’Autentica (Prix de l’entrepreneur de L’IAE)
-wordpress_id: 606
+date: 2010-03-29 21:33:36 Z
 categories:
 - Parcours
 tags:
@@ -19,6 +9,15 @@ tags:
 - entrepreneurs
 - grenoble
 - iae
+author: art
+comments: true
+excerpt: 'Gagnant du concours création avec son concept de Franchise de taqueria,
+  Guillaume François est reparti avec 2000 euros en poche.
+
+'
+layout: post
+redirect_from: autentica-prix-entrepreneur-iae/
+wordpress_id: 606
 ---
 
 <a href="https://static.irz.fr/2010/03/autentica.png"><img alt="No alt" data-src="https://static.irz.fr/2010/03/autentica-300x196.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/autentica-300x196.png" /></a>Gagnant du concours création avec son concept de Franchise de taqueria, Guillaume François est reparti avec 2000 euros en poche.

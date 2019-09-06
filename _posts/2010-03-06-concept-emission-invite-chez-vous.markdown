@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2010-03-06 03:00:04+00:00
-layout: post
-redirect_from: concept-emission-invite-chez-vous/
-slug: concept-emission-invite-chez-vous
 title: 'Concept d''émission : "On s''invite chez vous"'
-wordpress_id: 227
+date: 2010-03-06 03:00:04 Z
 categories:
 - Idées
+author: art
+comments: true
+layout: post
+redirect_from: concept-emission-invite-chez-vous/
+wordpress_id: 227
 ---
 
 Mes diverses expériences m'ayant mené à prendre ma caméra à l'épaule et à faire du montage vidéo à de nombreuses reprises. J'ai longtemps cherché des concepts, des idées ou des scénarios. Monter une équipe. Réaliser un tournage : un film bien entendu. Non, monsieur ne veut pas faire un court-métrage, il souhaite réaliser une adaptation Hollywoodienne de Vakarm*, le tout dans une version de 150 minutes ! Ce qu'on ne comprend pas tout de suite, c'est qu'**il y a une équipe derrière un réalisateur**.

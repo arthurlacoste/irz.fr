@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-05-02 10:19:17+00:00
-layout: post
-redirect_from: 28-avril-2011/
-slug: 28-avril-2011
 title: 28 Avril 2011
-wordpress_id: 106
+date: 2011-05-02 10:19:17 Z
 categories:
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: 28-avril-2011/
+wordpress_id: 106
 ---
 
 Hier, j'ai eu mon second rendez-vous avec ma conseillère pôle-emploi. Je me suis fait remonter les bretelles parce que je n'avais pas cherché de boulot depuis notre dernier rendez-vous. J'avoue. J'ai envoyé 1 CV. Ils ne m'ont même pas répondu ces enculés. En même temps, en cherchant à Aoste / Les Abrets et sans aucun moyen de transport, c'est relativement compliqué, en rase campagne, de trouver du boulot. Avec le vélo qu'on m'a prêté, je peux à la rigueur taper dans les 3 ou 4 kilomètres aux alentours. J'ai aussi un deux roues, qui me permet lorsqu'il veut bien fonctionner de me déplacer dans les environs. De plus, un autre handicap, mes cours de code. J'aimerais que ça avance pour que je puisse avoir une voiture, pour travailler. Mais je ne peux pas travailler tant que je n'ai pas de voiture. Heureusement que j'ai l'argent necessaire pour passer le permis, sans quoi ce serait un cercle vicieux dont il serait compliqué de sortir.

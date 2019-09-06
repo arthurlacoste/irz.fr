@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-05-03 21:32:44+00:00
-layout: post
-redirect_from: meuble/
-slug: meuble
 title: Un meuble ou la vie
-wordpress_id: 121
+date: 2011-05-03 21:32:44 Z
 categories:
 - Dessins
+author: art
+comments: true
+layout: post
+redirect_from: meuble/
+wordpress_id: 121
 ---
 
 Ca fait un mois que j'ai déménagé. Nous n'avons plus besoin de meuble, ils ont tous étés trouvés sur des sites de dons. Petit hommage a ceux-ci :

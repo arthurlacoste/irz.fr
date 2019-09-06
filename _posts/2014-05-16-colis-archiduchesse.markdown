@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2014-05-16 08:48:50+00:00
-layout: post
-redirect_from: colis-archiduchesse/
-slug: colis-archiduchesse
 title: 'Dans mon colis : Archiduchesse'
-wordpress_id: 1438449340
+date: 2014-05-16 08:48:50 Z
 categories:
 - Dans mon colis
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: colis-archiduchesse/
+wordpress_id: 1438449340
 ---
 
 Petite surprise arrivée en Colissimo dans la boite aux lettre de mon travail !

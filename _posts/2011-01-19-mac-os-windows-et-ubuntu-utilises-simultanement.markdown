@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2011-01-19 18:20:19+00:00
-layout: post
-redirect_from: mac-os-windows-et-ubuntu-utilises-simultanement/
-slug: mac-os-windows-et-ubuntu-utilises-simultanement
 title: Mac OS, Windows et Ubuntu utilisés simultanément
-wordpress_id: 97
+date: 2011-01-19 18:20:19 Z
 categories:
 - Apple
 - Logiciels
 - Tutoriel
 - Ubuntu
 - Windows
+author: art
+comments: true
+layout: post
+redirect_from: mac-os-windows-et-ubuntu-utilises-simultanement/
+wordpress_id: 97
 ---
 
 Pour le commun des mortels, j'avoue que c'est d'une utilité plus que moyenne. A moins d'utiliser des logiciels qui sont sur chacune de ces systèmes d'exploitation, il n'y a même aucune utilité. Cependant, les développeurs (autant les développeurs web que ceux d'applications lourdes et multiplateformes) apprécierons d'avoir un rendu sur les plates-formes les plus utilisées.

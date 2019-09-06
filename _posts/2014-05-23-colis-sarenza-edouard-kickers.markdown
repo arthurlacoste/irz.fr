@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2014-05-23 06:00:24+00:00
-layout: post
-redirect_from: colis-sarenza-edouard-kickers/
-slug: colis-sarenza-edouard-kickers
 title: 'Dans mon colis : Sarenza'
-wordpress_id: 1438449346
+date: 2014-05-23 06:00:24 Z
 categories:
 - Dans mon colis
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: colis-sarenza-edouard-kickers/
+wordpress_id: 1438449346
 ---
 
 <a href="https://irz.fr/recherche?q=img_3028"><img alt="IMG_3028" data-src="https://static.irz.fr/2014/05/IMG_3028-640x480.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2014/05/IMG_3028-640x480.jpg" /></a>

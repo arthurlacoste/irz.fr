@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2011-07-14 15:54:45+00:00
-layout: post
-redirect_from: sav-omar-fred-geek/
-slug: sav-omar-fred-geek
 title: 'Le SAV d''Omar et Fred version geek : plagiat délibéré ou hommage raté ?'
-wordpress_id: 1438448320
+date: 2011-07-14 15:54:45 Z
 categories:
 - Web
 tags:
 - omar et fred
 - sav des emissions
+author: art
+comments: true
+layout: post
+redirect_from: sav-omar-fred-geek/
+wordpress_id: 1438448320
 ---
 
 Le SAV des émissions d'Omar et Fred est une série humoristique que tout le monde connait : un duo détonnant, des gags tirés par les cheveux, et surtout, des histoires tirés de l'actualité qui mettent le doigt la ou "ça fait mal".

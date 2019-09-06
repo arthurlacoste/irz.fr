@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-12-26 09:00:57+00:00
-layout: post
-redirect_from: bitstrips/
-slug: bitstrips
 title: Pourquoi je dis oui à Bitstrips
-wordpress_id: 1438449246
+date: 2013-12-26 09:00:57 Z
 categories:
 - Web
-post_format:
-- En passant
 tags:
 - Android
 - facebook
 - iOS
 - iPhone
 - trends
+author: art
+comments: true
+layout: post
+redirect_from: bitstrips/
+wordpress_id: 1438449246
+post_format:
+- En passant
 ---
 
 Je vous voit déjà, vous, détracteurs de ces petites bandes dessinées un peu débiles qui envahissent depuis quelques semaines nos pages facebook, vous insurger à propos du titre de mon article. Je rigole déjà.

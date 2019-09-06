@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2013-04-10 11:06:24+00:00
-layout: post
-redirect_from: joe-mobile-moins-cher/
-slug: joe-mobile-moins-cher
 title: Joe Mobile moins cher
-wordpress_id: 1438448985
+date: 2013-04-10 11:06:24 Z
 categories:
 - Consommacteur
 - Liveblog
 tags:
 - Joe Mobile
+author: art
+comments: true
+layout: post
+redirect_from: joe-mobile-moins-cher/
+wordpress_id: 1438448985
 ---
 
 Joe Mobile qui me rapproche de la barre des 10€, c'est quand même fort. En effet, après un premier mois à 20€, j'ai changé de forfait pour passer à une offre à 12€, avec 1h d'appel, sms/mms illimités, et 1Go de data. Bref, une offre plus adapté a mes besoin, mais surtout **bien moins cher** ! <!-- more -->

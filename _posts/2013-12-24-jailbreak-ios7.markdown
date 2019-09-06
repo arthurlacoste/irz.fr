@@ -1,18 +1,10 @@
 ---
-author: art
-comments: true
-date: 2013-12-24 12:37:30+00:00
-layout: post
-redirect_from: jailbreak-ios7/
-slug: jailbreak-ios7
 title: Jailbreak d'iOS 7
-wordpress_id: 1438449239
+date: 2013-12-24 12:37:30 Z
 categories:
 - Apple
 - Overgeek
 - Tutoriel
-post_format:
-- En passant
 tags:
 - '7.0'
 - 7.0.1
@@ -28,6 +20,13 @@ tags:
 - iPod
 - iTouch
 - jailbreak
+author: art
+comments: true
+layout: post
+redirect_from: jailbreak-ios7/
+wordpress_id: 1438449239
+post_format:
+- En passant
 ---
 
 La solution evasi0n est la seule permettant un jailbreak untethered (jailbreak complet ne nécessitant pas de redémarrage avec un ordinateur de votre iDevice) de l'ensemble des terminaux sous iOS 7.0, 7.0.1, 7.0.2, 7.0.3 et 7.0.4.

@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2012-04-28 20:07:43+00:00
-layout: post
-redirect_from: liste-definie-de-categories-dans-la-sidebar-wordpress/
-slug: liste-definie-de-categories-dans-la-sidebar-wordpress
 title: Afficher une liste définie de catégories dans la sidebar de votre blog WordPress
-wordpress_id: 1438448473
+date: 2012-04-28 20:07:43 Z
 categories:
 - Tutoriel
 - Wordpress
-post_format:
-- Galerie
 tags:
 - Array
 - catégories
@@ -20,6 +12,13 @@ tags:
 - widget
 - wordpress
 - wp_list_categories
+author: art
+comments: true
+layout: post
+redirect_from: liste-definie-de-categories-dans-la-sidebar-wordpress/
+wordpress_id: 1438448473
+post_format:
+- Galerie
 ---
 
 Suite à des demandes récurrentes, voici comment faire pour afficher non pas toutes les catégories (j'en ai une liste longue comme le bras et il est possible d'explorer tout ça dans la page [Archives](https://irz.fr/archives)), mais une liste définie de catégories à afficher en barre latérale.

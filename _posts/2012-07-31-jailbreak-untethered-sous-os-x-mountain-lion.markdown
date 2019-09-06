@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2012-07-31 08:02:28+00:00
-layout: post
-redirect_from: jailbreak-untethered-sous-os-x-mountain-lion/
-slug: jailbreak-untethered-sous-os-x-mountain-lion
 title: Jailbreak untethered sous OS X Mountain Lion
-wordpress_id: 1438448487
+date: 2012-07-31 08:02:28 Z
 categories:
 - Apple
 - Logiciels
@@ -21,6 +15,11 @@ tags:
 - Moutain Lion
 - OSX
 - untethered
+author: art
+comments: true
+layout: post
+redirect_from: jailbreak-untethered-sous-os-x-mountain-lion/
+wordpress_id: 1438448487
 ---
 
 Pour ceux d'entre vous qui tentent désespérément de Jailbreaker leurs iPad sous Absinthe avec OS X Moutain Lion, sachez que c'est en réalité assez simple. Pour cela, il faut dans un premier temps faire un clique droit sur le fichier Absinthe.app et afficher le contenu du packet. Ensuite, dans Contents > MacOS, il suffit de prendre le fichier Absinthe-10.6 et de le glisser dans une fenêtre du terminal, puis d'appuyer sur entrée.

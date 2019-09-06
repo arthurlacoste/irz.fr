@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-04-30 07:30:03+00:00
-layout: post
-redirect_from: premier-roadtrip-velo/
-slug: premier-roadtrip-velo
 title: Mon premier road trip en vélo
-wordpress_id: 1438459884
+date: 2016-04-30 07:30:03 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: premier-roadtrip-velo/
+wordpress_id: 1438459884
 ---
 
 Je profite de mon train du retour pour faire le point sur ces quelques jours de vélo. Je voulais parler d'un road trip : j'avais pensé faire un peu plus de 150 km, en 3/4 jours, pour me préparer à un plus gros départ, peut être à l'étranger.<!-- more -->

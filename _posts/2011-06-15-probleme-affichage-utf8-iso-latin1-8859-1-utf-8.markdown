@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2011-06-15 21:33:00+00:00
-layout: post
-redirect_from: probleme-affichage-utf8-iso-latin1-8859-1-utf-8/
-slug: probleme-affichage-utf8-iso-latin1-8859-1-utf-8
 title: Comprendre son problème d'affichage UTF-8 / ISO-8859-1
-wordpress_id: 1438448212
+date: 2011-06-15 21:33:00 Z
 categories:
 - Divers
 - Tutoriel
-post_format:
-- Galerie
 tags:
 - html
 - iso
 - navigateur
 - utf-8
+author: art
+comments: true
+layout: post
+redirect_from: probleme-affichage-utf8-iso-latin1-8859-1-utf-8/
+wordpress_id: 1438448212
+post_format:
+- Galerie
 ---
 
 La différence entre l'UTF-8 et l'ISO-8859-1 est simple. Le premier permet d'utiliser une ribambelle de caractères lorsque l'autre se limite à 256 caractères. L'UTF-8 permet notamment d'écrire un document en plusieurs langues, ce qui n'est pas négligeable.

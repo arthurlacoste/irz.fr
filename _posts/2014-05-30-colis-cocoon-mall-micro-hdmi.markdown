@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2014-05-30 06:00:32+00:00
-layout: post
-redirect_from: colis-cocoon-mall-micro-hdmi/
-slug: colis-cocoon-mall-micro-hdmi
 title: 'Dans mon colis : Cocoon Mall'
-wordpress_id: 1438449348
+date: 2014-05-30 06:00:32 Z
 categories:
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: colis-cocoon-mall-micro-hdmi/
+wordpress_id: 1438449348
 ---
 
 Alors là, pour le coup, grosse surprise de ce vendeur professionnel de chez Amazon. Pour 3,47€, un [adaptateur Micro HDMI](http://www.amazon.fr/gp/product/B004HG7PRO/ref=oh_details_o01_s00_i00?ie=UTF8&psc=1) pour mon Asus Transformer t100, avec une petite carte qui fait toujours plaisir !

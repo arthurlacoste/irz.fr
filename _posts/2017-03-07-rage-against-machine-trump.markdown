@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2017-03-07 10:29:17+00:00
-layout: post
-redirect_from: rage-against-machine-trump/
-slug: rage-against-machine-trump
 title: Il y a 20 ans Rage Against The Machine savait déjà pour Trump
-wordpress_id: 1438493794
+date: 2017-03-07 10:29:17 Z
 categories:
 - Musique
 tags:
 - killing in the name
 - Rage Against The Machine
+author: art
+comments: true
+layout: post
+redirect_from: rage-against-machine-trump/
+wordpress_id: 1438493794
 ---
 
 Une société répressive dirigé par l’appât du gain et la télévision ? Et ou Donald Trump serait président ? Ce n'est pas un journal de 2016 que je vous lit, il s'agit bel et bien d'un clip de Rage Against The Machine datant de 1999 !<!-- more -->

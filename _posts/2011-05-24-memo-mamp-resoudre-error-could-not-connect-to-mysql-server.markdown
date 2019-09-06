@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-05-24 15:34:13+00:00
-layout: post
-redirect_from: memo-mamp-resoudre-error-could-not-connect-to-mysql-server/
-slug: memo-mamp-resoudre-error-could-not-connect-to-mysql-server
 title: 'Mémo MAMP : Résoudre "Error: Could not connect to MySQL server!"'
-wordpress_id: 149
+date: 2011-05-24 15:34:13 Z
 categories:
 - Développement
 - Tutoriel
@@ -18,6 +12,11 @@ tags:
 - mamp mysql ne démarre pas
 - mysql
 - php
+author: art
+comments: true
+layout: post
+redirect_from: memo-mamp-resoudre-error-could-not-connect-to-mysql-server/
+wordpress_id: 149
 ---
 
 En installant Mac OS X Lion (entre autres, car le problème se pose aussi avec Leopard, Snow leopard ou bien Mountain Lion), il est possible que le MySQL de votre version de MAMP ne fonctionne plus. Parfois on n'a pas envie de comprendre le pourquoi comment et origine du problème ! A celui-ci, allez dans le terminal Mac OS, et tapez les incantations magique suivantes :

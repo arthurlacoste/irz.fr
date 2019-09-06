@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-07-24 14:17:46+00:00
-layout: post
-redirect_from: chambersign-certeurope-gemalto/
-slug: chambersign-certeurope-gemalto
 title: Mon certificat n'apparaît pas alors qu'il est installé
-wordpress_id: 1438449398
+date: 2014-07-24 14:17:46 Z
 categories:
 - Divers
 - Liveblog
@@ -18,6 +12,11 @@ tags:
 - dématérialisation
 - Gemalto
 - marchés publics
+author: art
+comments: true
+layout: post
+redirect_from: chambersign-certeurope-gemalto/
+wordpress_id: 1438449398
 ---
 
 Vous êtes en train de signer vos plis dématérialisés et votre certificat n'apparaît pas ? Voici une petite astuce qui fait apparaître votre certificat comme par magie. Cette procédure fonctionne pour les certificats nécessitant l'utilisation du logiciel Gemalto pour fonctionner, Chambersign et Certeurope en font parti.

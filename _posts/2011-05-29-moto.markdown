@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2011-05-29 15:00:32+00:00
-layout: post
-redirect_from: moto/
-slug: moto
 title: Motocyclette ou cyclomoteur ? Quelle différence et comment reconnaître les
   différentes motos
-wordpress_id: 1438447557
+date: 2011-05-29 15:00:32 Z
 categories:
 - Code de la route
 tags:
@@ -15,6 +9,11 @@ tags:
 - cylindrée
 - vélomoteur
 - vélomoteur à 3 roues
+author: art
+comments: true
+layout: post
+redirect_from: moto/
+wordpress_id: 1438447557
 ---
 
 Il n'est pas toujours aisé de différencier la motocyclette du cyclomoteur, et cet article va tenter de vous aider a les différencier.

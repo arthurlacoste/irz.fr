@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2014-10-10 10:51:58+00:00
-layout: post
-redirect_from: jailbreak-ios8-iphone-6/
-slug: jailbreak-ios8-iphone-6
 title: Jailbreak iOS8 !
-wordpress_id: 1438449516
+date: 2014-10-10 10:51:58 Z
 categories:
 - Apple
 - Overgeek
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: jailbreak-ios8-iphone-6/
+wordpress_id: 1438449516
 ---
 
 Pour jailbreaker votre appareil sous iOS8, vous pouvez utiliser Pangu 8, qui va jailbreaker votre téléphone et installer Cydia. Cette méthode est compatible iOS 8, 8.0.1, 8.0.2, 8.1 et 8.1.1.

@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-08-31 08:05:56+00:00
-layout: post
-redirect_from: bref-lui-cest-demain/
-slug: bref-lui-cest-demain
 title: 'Bref : lui, c''est demain'
-wordpress_id: 1438448362
+date: 2011-08-31 08:05:56 Z
 categories:
 - Video
 tags:
@@ -14,6 +8,11 @@ tags:
 - canal +
 - demain
 - jamais
+author: art
+comments: true
+layout: post
+redirect_from: bref-lui-cest-demain/
+wordpress_id: 1438448362
 ---
 
 La procrastination, c'est ça :

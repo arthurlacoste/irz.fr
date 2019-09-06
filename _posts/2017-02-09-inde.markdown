@@ -1,17 +1,9 @@
 ---
-author: art
-comments: true
-date: 2017-02-09 13:39:20+00:00
-layout: post
-redirect_from: inde/
-slug: inde
 title: L'inde
-wordpress_id: 1438493050
+date: 2017-02-09 13:39:20 Z
 categories:
 - Parcours
 - Video
-post_format:
-- Vidéo
 tags:
 - 700D
 - gandhi
@@ -22,12 +14,18 @@ tags:
 - taj mahal
 - varanasi
 - Voyage
+author: art
+comments: true
+layout: post
+redirect_from: inde/
+wordpress_id: 1438493050
+post_format:
+- Vidéo
 header:
   video:
     id: CiAZZAcTepo
     provider: youtube
 ---
-
 
 L’inde, c’est un pays vraiment pas comme les autres. J’y suis allé pendant 3 semaines et j’ai eu la chance de découvrir un monde parallèle.
 <!-- more -->

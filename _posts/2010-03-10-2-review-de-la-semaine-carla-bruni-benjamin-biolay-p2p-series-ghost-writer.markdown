@@ -1,16 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-03-10 06:20:16+00:00
-excerpt: 'Pour l''édition du 8 Mars 2010, je vous l''ai fait moins personnelle, j''ai
-  compris la leçon.
-
-  '
-layout: post
-redirect_from: 2-review-de-la-semaine-carla-bruni-benjamin-biolay-p2p-series-ghost-writer/
-slug: 2-review-de-la-semaine-carla-bruni-benjamin-biolay-p2p-series-ghost-writer
 title: Seconde review de la semaine
-wordpress_id: 269
+date: 2010-03-10 06:20:16 Z
 categories:
 - Actu
 tags:
@@ -18,6 +8,15 @@ tags:
 - oscars
 - review
 - twitter
+author: art
+comments: true
+excerpt: 'Pour l''édition du 8 Mars 2010, je vous l''ai fait moins personnelle, j''ai
+  compris la leçon.
+
+'
+layout: post
+redirect_from: 2-review-de-la-semaine-carla-bruni-benjamin-biolay-p2p-series-ghost-writer/
+wordpress_id: 269
 ---
 
 Pour l'édition du 8 Mars 2010, je vous la fait moins personnelle, j'ai compris.

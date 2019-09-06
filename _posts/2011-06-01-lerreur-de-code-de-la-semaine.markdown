@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2011-06-01 06:00:49+00:00
-layout: post
-redirect_from: ?p=1438447611
-published: false
-slug: lerreur-de-code-de-la-semaine
 title: L'erreur de code de la semaine
-wordpress_id: 1438447611
+date: 2011-06-01 06:00:49 Z
+published: false
 categories:
 - Code de la route
 - Erreur de code
+author: art
+comments: true
+layout: post
+redirect_from: "?p=1438447611"
+wordpress_id: 1438447611
 ---
 
 Du nouveau par ici !

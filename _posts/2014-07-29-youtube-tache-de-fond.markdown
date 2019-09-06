@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-07-29 10:21:20+00:00
-layout: post
-redirect_from: youtube-tache-de-fond/
-slug: youtube-tache-de-fond
 title: Comment utiliser YouTube en tâche de fond ?
-wordpress_id: 1438449431
+date: 2014-07-29 10:21:20 Z
 categories:
 - Android
 - Apple
@@ -18,6 +12,11 @@ tags:
 - Youtube en multitâche
 - Youtube en tâche de fond
 - Youtube verrouillé
+author: art
+comments: true
+layout: post
+redirect_from: youtube-tache-de-fond/
+wordpress_id: 1438449431
 ---
 
 Il est possible d'utiliser simplement YouTube pour écouter de la musique, sans forcément regarder la vidéo. Sur votre ordinateur, ça marche très bien, vous ouvrez un onglet, puis passez à un autre onglet ou pouvez utiliser un autre logiciel. Tout ceci ce fait naturellement.

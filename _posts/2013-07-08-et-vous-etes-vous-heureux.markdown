@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2013-07-08 09:24:16+00:00
-layout: post
-redirect_from: et-vous-etes-vous-heureux/
-slug: et-vous-etes-vous-heureux
 title: Et vous, êtes-vous heureux ?
-wordpress_id: 1438449099
+date: 2013-07-08 09:24:16 Z
 categories:
 - 3615MyLife
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: et-vous-etes-vous-heureux/
+wordpress_id: 1438449099
 ---
 
 L'été pointe le bout de son nez, enfin !

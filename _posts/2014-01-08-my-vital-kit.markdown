@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2014-01-08 07:00:58+00:00
-layout: post
-redirect_from: my-vital-kit/
-slug: my-vital-kit
 title: My Vital Kit
-wordpress_id: 1438449290
+date: 2014-01-08 07:00:58 Z
 categories:
 - Lifestyle
 - Web
+author: art
+comments: true
+layout: post
+redirect_from: my-vital-kit/
+wordpress_id: 1438449290
 post_format:
 - En passant
 ---

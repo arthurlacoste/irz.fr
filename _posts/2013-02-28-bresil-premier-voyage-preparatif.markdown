@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-02-28 10:51:36+00:00
-layout: post
-redirect_from: bresil-premier-voyage-preparatif/
-slug: bresil-premier-voyage-preparatif
-title: '[Brésil] Mon premier voyage : #1 préparatif'
-wordpress_id: 1438448856
+title: "[Brésil] Mon premier voyage : #1 préparatif"
+date: 2013-02-28 10:51:36 Z
 categories:
 - Parcours
-post_format:
-- En passant
 tags:
 - brésil
 - Madrid
 - New York
 - USA
+author: art
+comments: true
+layout: post
+redirect_from: bresil-premier-voyage-preparatif/
+wordpress_id: 1438448856
+post_format:
+- En passant
 ---
 
 Ceci est le premier épisode de ma première fois du mois de mars, c'est-à-dire la première fois que je foule du pied un autre continent que l'europe, la première fois que je prend l'avion, la première fois que je voyage vraiment, dude ! <!-- more -->

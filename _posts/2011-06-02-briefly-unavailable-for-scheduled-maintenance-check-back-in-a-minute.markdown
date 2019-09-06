@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2011-06-02 06:00:30+00:00
-layout: post
-redirect_from: briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute/
-slug: briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute
 title: Briefly unavailable for scheduled maintenance. Check back in a minute.
-wordpress_id: 1438447664
+date: 2011-06-02 06:00:30 Z
 categories:
 - Tutoriel
 - Wordpress
-post_format:
-- Galerie
 tags:
 - erreur
 - wordpress
+author: art
+comments: true
+layout: post
+redirect_from: briefly-unavailable-for-scheduled-maintenance-check-back-in-a-minute/
+wordpress_id: 1438447664
+post_format:
+- Galerie
 ---
 
 Briefly unavailable for scheduled maintenance. Check back in a minute.

@@ -1,21 +1,20 @@
 ---
+title: Apple, il est temps de supprimer Bing de l'App Store
+date: 2006-04-17 10:51:26 Z
+categories:
+- Apple
+tags:
+- Apple
+- Bing
 author: art
 comments: true
-date: 2006-04-17 10:51:26+00:00
 excerpt: Bing, l'application dédié à la recherche de Microsoft devrait être supprimé.
   Pourquoi ? Car l'on peut naviguer, et trouver des images pornographiques, et même
   des trucs carrément dégueulasse ! Si apple veux suivre ses règles absurdes, bing
   pour iPhone doit disparaître.
 layout: post
 redirect_from: apple-il-est-temps-de-supprimer-bing-de-lapp-store/
-slug: apple-il-est-temps-de-supprimer-bing-de-lapp-store
-title: Apple, il est temps de supprimer Bing de l'App Store
 wordpress_id: 846
-categories:
-- Apple
-tags:
-- Apple
-- Bing
 ---
 
 <img alt="bing no forbidden" data-src="https://static.irz.fr/2010/01/no-bing.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/01/no-bing.jpg" />Bing, l'application dédié à la recherche de Microsoft devrait être supprimé. Pourquoi ? Car l'on peut naviguer, et trouver des images pornographiques, et même des trucs carrément dégueulasse ! Si apple veux suivre [ses règles absurdes](http://gizmodo.com/5446287/apple-its-time-to-delete-safari-from-the-iphone), bing pour iPhone doit disparaître.

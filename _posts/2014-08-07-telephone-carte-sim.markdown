@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2014-08-07 10:56:16+00:00
-layout: post
-redirect_from: telephone-carte-sim/
-slug: telephone-carte-sim
 title: Liste des téléphones par type de carte Sim
-wordpress_id: 1438449466
+date: 2014-08-07 10:56:16 Z
 categories:
 - Tutoriel
 tags:
 - carte sim
 - smartphone
+author: art
+comments: true
+layout: post
+redirect_from: telephone-carte-sim/
+wordpress_id: 1438449466
 ---
 
 Les nanosim et microsim sont essentiellement utilisées dans les smartphones et tablettes, car elles cherchent sans cesse à repousser les limites de la finesse, et chaque millimètre carré en moins est un peu de place de gagné.

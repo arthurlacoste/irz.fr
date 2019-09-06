@@ -1,16 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-03-11 10:10:56+00:00
-last_modified_at: 2017-12-12
-excerpt: Albert Einstein est considéré depuis longtemps comme un génie par les gens.
-  Il travaillait dans la physique théorique, était philosophe, auteur, il est sans
-  doute le scientifique le plus influent qui ai jamais existé.
-layout: post
-redirect_from: lecons-de-vie-citation-albert-einstein/
-slug: lecons-de-vie-citation-albert-einstein
 title: Les 10 leçons de vie d'Albert Einstein
-wordpress_id: 294
+date: 2010-03-11 10:10:56 Z
 categories:
 - Idées
 tags:
@@ -23,6 +13,15 @@ tags:
 - expérience
 - intelligence
 - succès
+author: art
+comments: true
+last_modified_at: 2017-12-12 00:00:00 Z
+excerpt: Albert Einstein est considéré depuis longtemps comme un génie par les gens.
+  Il travaillait dans la physique théorique, était philosophe, auteur, il est sans
+  doute le scientifique le plus influent qui ai jamais existé.
+layout: post
+redirect_from: lecons-de-vie-citation-albert-einstein/
+wordpress_id: 294
 ---
 
 <img alt="No alt" data-src="https://static.irz.fr/2010/03/einstein-242x300.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/einstein-242x300.jpg" />Albert Einstein est considéré depuis longtemps comme un génie. Il travaillait dans la physique théorique, était philosophe, auteur, et il est sans doute le scientifique le plus influent qui ai jamais existé. Einstein a apporté sa contribution au monde scientifique, notamment avec la théorie de la relativité, la prédiction de la déviation de la lumière par gravité, ou encore ses travaux sur la mécanique quantique et la cosmologie.

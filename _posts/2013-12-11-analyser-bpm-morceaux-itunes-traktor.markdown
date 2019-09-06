@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2013-12-11 12:20:58+00:00
-layout: post
-redirect_from: analyser-bpm-morceaux-itunes-traktor/
-slug: analyser-bpm-morceaux-itunes-traktor
 title: Analyser le BPM de toutes vos chansons iTunes avec Traktor
-wordpress_id: 1438449209
+date: 2013-12-11 12:20:58 Z
 categories:
 - Apple
 - Overgeek
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: analyser-bpm-morceaux-itunes-traktor/
+wordpress_id: 1438449209
 ---
 
 Lorsque vous avez des centaines de BPM de chansons à analyser, que ce soit sur iTunes ou dans des dossiers spécifiques sur votre petit ordinateur (sur votre pc ou sur votre mac, je fait pas de jaloux !), je suis sur que vous vous êtes souvent posé la question de comment faire pour analyser vos BPM sans devoir charger le BPM à chaque nouvelle piste comme je le faisait, pour parfois vous retrouver avec des différences de fou une fois le scan effectué.

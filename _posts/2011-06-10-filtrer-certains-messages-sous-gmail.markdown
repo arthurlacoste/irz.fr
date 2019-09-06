@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2011-06-10 21:54:24+00:00
-layout: post
-redirect_from: filtrer-certains-messages-sous-gmail/
-slug: filtrer-certains-messages-sous-gmail
 title: Filtrer certains messages sous Gmail
-wordpress_id: 1438448043
+date: 2011-06-10 21:54:24 Z
 categories:
 - Google
 - Tutoriel
-post_format:
-- Galerie
 tags:
 - filtrer
 - gmail
 - google
 - tips
+author: art
+comments: true
+layout: post
+redirect_from: filtrer-certains-messages-sous-gmail/
+wordpress_id: 1438448043
+post_format:
+- Galerie
 ---
 
 Parfois votre boite mail devient un bousier innommable parce qu'un site ne vous laisse pas l'opportunité de désactiver les notifications par mail. Dans ce cas, comment faire pour avoir accès à vos mails sans que votre boite de réception se remplisse quotidiennement d'infâmes et nombreuses notifications ?

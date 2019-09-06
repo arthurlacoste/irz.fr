@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2014-07-29 23:06:47+00:00
-layout: post
-redirect_from: admin-afficher-zone/
-slug: admin-afficher-zone
 title: N'afficher certaines zones que si vous êtes administrateur
-wordpress_id: 1438449440
+date: 2014-07-29 23:06:47 Z
 categories:
 - Liveblog
 - Tutoriel
 - Wordpress
+author: art
+comments: true
+layout: post
+redirect_from: admin-afficher-zone/
+wordpress_id: 1438449440
 ---
 
 Vous voulez profiter de votre sidebar pour y ajouter quelques liens spécifiques, qui ne vous profiterons qu'a vous, administrateur ? Alors n'utilisez pas la fonction "faux ami" is_admin(), qui détecte si vous êtes sur une page d'administration (dans le dossier wp-admin/, tout simplement).

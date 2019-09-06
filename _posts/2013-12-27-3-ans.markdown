@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-12-27 08:01:16+00:00
-layout: post
-redirect_from: 3-ans/
-slug: 3-ans
 title: IRZ fête ses 3 ans !
-wordpress_id: 1438449256
+date: 2013-12-27 08:01:16 Z
 categories:
 - 3615MyLife
 - Overgeek
 - Web
-post_format:
-- En passant
 tags:
 - monetisation
 - pub
 - redacteur
+author: art
+comments: true
+layout: post
+redirect_from: 3-ans/
+wordpress_id: 1438449256
+post_format:
+- En passant
 ---
 
 IRZ était au départ un énième blog. Je voulais me lâcher, en parlant de tout, mais surtout de rien. Un bloc notes "personnel" partagé sans grande ambition. Avec le temps, les visiteurs se sont accumulés et aujourd'hui, le site commence à atteindre une certaine maturité. Vous pouvez d'ailleurs lire [cet article](https://irz.fr/origine-nom-site-toute-verite-irz), qui évoque la genèse de IRZ.

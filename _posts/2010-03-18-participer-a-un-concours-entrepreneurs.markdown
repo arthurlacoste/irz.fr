@@ -1,17 +1,16 @@
 ---
+title: Prix de l’entrepreneur à l’IAE de Grenoble 2010
+date: 2010-03-18 10:27:49 Z
+categories:
+- Actu
 author: art
 comments: true
-date: 2010-03-18 10:27:49+00:00
 excerpt: Contrairement au titre, je n'annonce pas l'ouverture d'un énième concours
   d'entrepreneurs, mais plutôt la sélection finale de ce concours, c'est-à-dire l'intervention
   des entrepreneurs afin de gagner ce prix.
 layout: post
 redirect_from: participer-a-un-concours-entrepreneurs/
-slug: participer-a-un-concours-entrepreneurs
-title: Prix de l’entrepreneur à l’IAE de Grenoble 2010
 wordpress_id: 395
-categories:
-- Actu
 ---
 
 <a href="https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi.png"><img alt="Logo IAE grenoble" data-src="https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi-300x300.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/03/Logo_IAE_grenoble_300dpi-300x300.png" /></a>Contrairement au titre, je n'annonce pas l'ouverture d'un énième concours d'entrepreneurs, mais plutôt la sélection finale de ce concours, c'est-à-dire l'intervention des entrepreneurs afin de gagner ce prix.

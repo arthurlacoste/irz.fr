@@ -1,20 +1,18 @@
 ---
-author: art
-date: 2017-11-28 08:29:46+00:00
-layout: post
-slug: wordpress-jekyll
 title: Comment et pourquoi migrer de WordPress à Jekyll
+date: 2017-11-28 08:29:46 Z
 categories:
 - Dev
 tags:
 - blog
+author: art
+layout: post
 lang: fr
 header:
   overlay_image: https://static.irz.fr/2017/11/adventure-times.gif
   overlay_filter: 0.5
-  caption: "Crédit photo : **Adventure Time**"
+  caption: 'Crédit photo : **Adventure Time**'
 ---
-
 
 Changer le moteur de IRZ me fait de l'oeil, depuis quelques années maintenant. Parce qu’en y réfléchissant bien, **les articles sont du contenu statique**, et ils devraient par définition être servis de cette manière.
 

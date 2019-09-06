@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-02-10 12:05:31+00:00
-layout: post
-redirect_from: meilleur-blog-dofollow/
-slug: meilleur-blog-dofollow
 title: Je suis le meilleur blog dofollow
-wordpress_id: 1438448770
+date: 2013-02-10 12:05:31 Z
 categories:
 - Overgeek
 - Tutoriel
@@ -17,6 +11,11 @@ tags:
 - php
 - str_replace
 - wp_rel_nofollow
+author: art
+comments: true
+layout: post
+redirect_from: meilleur-blog-dofollow/
+wordpress_id: 1438448770
 ---
 
 C'est important d'**avoir une haute estime de soi** ! Non, je ne suis pas le meilleur des blogs DoFollow de la blogosphère Française, seulement l'un de ses représentants.

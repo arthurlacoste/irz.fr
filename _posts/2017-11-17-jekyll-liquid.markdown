@@ -1,13 +1,12 @@
 ---
-author: art
-date: 2017-11-17 08:29:46+00:00
-layout: post
-slug: jekyll-liquid
-title: "Introduction à Liquid le moteur de template de Jekyll"
+title: Introduction à Liquid le moteur de template de Jekyll
+date: 2017-11-17 08:29:46 Z
 categories:
 - Web
 tags:
 - Jekyll
+author: art
+layout: post
 toc: true
 ---
 

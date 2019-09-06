@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2011-06-10 06:00:52+00:00
-layout: post
-redirect_from: minimaliste/
-slug: minimaliste
 title: C'est mon petit côté minimaliste
-wordpress_id: 1438448031
+date: 2011-06-10 06:00:52 Z
 categories:
 - Apple
-post_format:
-- Galerie
 tags:
 - Apple
 - bureau
@@ -18,6 +10,13 @@ tags:
 - ergonomie
 - mac
 - spotlight
+author: art
+comments: true
+layout: post
+redirect_from: minimaliste/
+wordpress_id: 1438448031
+post_format:
+- Galerie
 ---
 
 <a href="https://static.irz.fr/2011/06/cerberus-2011-06-09-à-14.57.44.png"><img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-09-à-14.57.44-1024x640.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-09-à-14.57.44-1024x640.png" /></a>

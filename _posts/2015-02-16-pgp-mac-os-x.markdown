@@ -1,13 +1,6 @@
 ---
-author: art
-comments: true
-date: 2015-02-16 14:11:44+00:00
-last_modified_at: 2017-11-19 14:11:44+00:00
-layout: post
-redirect_from: pgp-mac-os-x/
-slug: pgp-mac-os-x
 title: Utiliser PGP sous Mac OS X
-wordpress_id: 1438449622
+date: 2015-02-16 14:11:44 Z
 categories:
 - Apple
 - Tutoriel
@@ -17,6 +10,12 @@ tags:
 - OS X
 - PGP
 - Sécurité
+author: art
+comments: true
+last_modified_at: 2017-11-19 14:11:44 Z
+layout: post
+redirect_from: pgp-mac-os-x/
+wordpress_id: 1438449622
 ---
 
 Quand j’ai décidé de paramétrer mon Mac et plus particulièrement de mettre en place PGP, j’ai été étonné de voir à quel point il était difficile - non pas seulement d’installer le logiciel - mais de comprendre les mécanismes permettant d’utiliser simplement PGP. Il n’y a pas de tutoriel “PGP pour les nuls” sur internet (ni même en librairie !), j’ai donc décidé d’en écrire un. <!-- more -->C’est le plus simple que je puisse faire, et je l’écris pour que n’importe quelle personne, même la première venue, puisse sur son mac :

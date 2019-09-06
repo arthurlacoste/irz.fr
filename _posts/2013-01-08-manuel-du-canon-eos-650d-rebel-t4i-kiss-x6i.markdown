@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-01-08 23:35:02+00:00
-layout: post
-redirect_from: manuel-du-canon-eos-650d-rebel-t4i-kiss-x6i/
-slug: manuel-du-canon-eos-650d-rebel-t4i-kiss-x6i
 title: Manuel du Canon EOS 650D / Rebel T4i / Kiss X6i
-wordpress_id: 1438448613
+date: 2013-01-08 23:35:02 Z
 categories:
 - Photo
 tags:
@@ -14,6 +8,11 @@ tags:
 - différence
 - Kiss X6i
 - Rebel T4i
+author: art
+comments: true
+layout: post
+redirect_from: manuel-du-canon-eos-650d-rebel-t4i-kiss-x6i/
+wordpress_id: 1438448613
 ---
 
 Voici un lien direct vers le manuel de téléchargement du 650D. En effet, ayant acheté mon appareil depuis [mydigitaland.com](https://irz.fr/jai-teste-pour-vous-digitaland-mydigitaland), et ayant été livré depuis Hong Kong (ps: frais de douane de 21€ pour le colis de 605€), le manuel intégré est en anglais. C'est sympa, ça fait de la lecture, mais pour saisir certaines subtilités, rien de mieux que la langue de Shakespeare. Et sur les deux CD intégrés dans la boite du 650D, aucune trace d'une doc pdf

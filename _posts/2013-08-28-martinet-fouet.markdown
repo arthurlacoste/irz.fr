@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2013-08-28 14:48:31+00:00
-layout: post
-redirect_from: martinet-fouet/
-slug: martinet-fouet
 title: Puis-je utiliser un martinet dans la vie de tous les jours ?
-wordpress_id: 1438449139
+date: 2013-08-28 14:48:31 Z
 categories:
 - Lifestyle
-post_format:
-- En passant
 tags:
 - enfant maltraité
 - fouet
@@ -18,6 +10,13 @@ tags:
 - sado-maso
 - sm
 - violence
+author: art
+comments: true
+layout: post
+redirect_from: martinet-fouet/
+wordpress_id: 1438449139
+post_format:
+- En passant
 ---
 
 Le martinet, c'est un petit fouet. Un manche en bois et quelques lanières de cuir, il est utilisé depuis des générations comme instrument de torture **soft**.<!-- more -->

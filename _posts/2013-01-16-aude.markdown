@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2013-01-16 21:36:40+00:00
-layout: post
-redirect_from: aude/
-slug: aude
 title: Aude
-wordpress_id: 1438448659
+date: 2013-01-16 21:36:40 Z
 categories:
 - WTF
-post_format:
-- Image
 tags:
 - capture d'écran
 - conne
@@ -18,6 +10,13 @@ tags:
 - inintéressant
 - intéressant
 - iPhone 5
+author: art
+comments: true
+layout: post
+redirect_from: aude/
+wordpress_id: 1438448659
+post_format:
+- Image
 ---
 
 Si elle n'existait pas il faudrait l'inventer.

@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2011-06-18 16:37:42+00:00
-layout: post
-redirect_from: birmanie-la-dictature-de-labsurde/
-slug: birmanie-la-dictature-de-labsurde
 title: 'Birmanie : la dictature de l''absurde'
-wordpress_id: 1438448297
+date: 2011-06-18 16:37:42 Z
 categories:
 - Video
 tags:
 - birmanie
+author: art
+comments: true
+layout: post
+redirect_from: birmanie-la-dictature-de-labsurde/
+wordpress_id: 1438448297
 ---
 
 [dailymotion xjc70g_happy-world-birmanie-la-dictature-de-l-absurde_news]

@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2013-12-30 06:00:55+00:00
-layout: post
-redirect_from: scanner-smartphone/
-slug: scanner-smartphone
 title: 'Scanner avec votre téléphone en prenant une photo : la solution ?'
-wordpress_id: 1438449236
+date: 2013-12-30 06:00:55 Z
 categories:
 - Android
 - Apple
-post_format:
-- En passant
 tags:
 - Android
 - iOS
+author: art
+comments: true
+layout: post
+redirect_from: scanner-smartphone/
+wordpress_id: 1438449236
+post_format:
+- En passant
 ---
 
 De nos jours, on peut distinguer 2 grandes familles de scan. Il y a le **scan administratif**, ou vous allez capturer votre document en noir et blanc de manière a ce qu'il soit lisible, et pour le reste (la définition) on s'en tape. Il y a aussi le scan de précision, ou on bourre le dpi pour avoir le maximum de qualité et de rendu fidèle a l'original. Bien entendu il y a un entre deux, ou vous allez scanner en couleur et en recherchant un rapport qualité "a peu près bonne".

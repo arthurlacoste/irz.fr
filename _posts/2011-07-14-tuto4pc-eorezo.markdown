@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-07-14 15:13:33+00:00
-layout: post
-redirect_from: tuto4pc-eorezo/
-slug: tuto4pc-eorezo
 title: 'Tuto4pc: Le nouveau cheval de Troie d''eoRezo'
-wordpress_id: 1438448338
+date: 2011-07-14 15:13:33 Z
 categories:
 - Web
+author: art
+comments: true
+layout: post
+redirect_from: tuto4pc-eorezo/
+wordpress_id: 1438448338
 post_format:
 - Galerie
 ---

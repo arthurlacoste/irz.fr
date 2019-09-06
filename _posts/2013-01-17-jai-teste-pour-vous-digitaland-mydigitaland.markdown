@@ -1,17 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-01-17 08:00:45+00:00
-excerpt: Internet est une jungle ou les sites d'entreprise et de e-commerce se multiplient
-  aussi vite que des petits lapins sur un bateau. Et c'est peau dire ! La série d'article
-  "J'ai testé pour vous" permet d'évaluer le site en lui même, le design, l’ergonomie,
-  ainsi que le service de l'entreprise en question en se faisant livrer, ou bien sur
-  le terrain.
-layout: post
-redirect_from: jai-teste-pour-vous-digitaland-mydigitaland/
-slug: jai-teste-pour-vous-digitaland-mydigitaland
 title: 'J''ai testé pour vous : Digitaland'
-wordpress_id: 1438448649
+date: 2013-01-17 08:00:45 Z
 categories:
 - Consommacteur
 - L'essentiel
@@ -21,6 +10,16 @@ tags:
 - e-commerce
 - j'ai testé pour vous
 - Un consommateur averti en vaut deux
+author: art
+comments: true
+excerpt: Internet est une jungle ou les sites d'entreprise et de e-commerce se multiplient
+  aussi vite que des petits lapins sur un bateau. Et c'est peau dire ! La série d'article
+  "J'ai testé pour vous" permet d'évaluer le site en lui même, le design, l’ergonomie,
+  ainsi que le service de l'entreprise en question en se faisant livrer, ou bien sur
+  le terrain.
+layout: post
+redirect_from: jai-teste-pour-vous-digitaland-mydigitaland/
+wordpress_id: 1438448649
 ---
 
 {% include video id="OXRy-8wNvSQ" provider="youtube" %}

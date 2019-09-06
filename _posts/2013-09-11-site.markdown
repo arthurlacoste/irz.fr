@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-09-11 13:43:23+00:00
-layout: post
-redirect_from: site/
-slug: site
 title: A quoi ça sert, un site ?
-wordpress_id: 1438449146
+date: 2013-09-11 13:43:23 Z
 categories:
 - Web
+author: art
+comments: true
+layout: post
+redirect_from: site/
+wordpress_id: 1438449146
 post_format:
 - En passant
 ---

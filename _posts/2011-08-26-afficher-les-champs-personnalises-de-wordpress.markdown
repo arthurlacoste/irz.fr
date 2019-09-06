@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2011-08-26 07:00:13+00:00
-layout: post
-redirect_from: afficher-les-champs-personnalises-de-wordpress/
-slug: afficher-les-champs-personnalises-de-wordpress
 title: Afficher les Champs personnalisés de Wordpress
-wordpress_id: 1438448348
+date: 2011-08-26 07:00:13 Z
 categories:
 - Tutoriel
 - Wordpress
@@ -16,6 +10,11 @@ tags:
 - can't see
 - champ personnalisé
 - display
+author: art
+comments: true
+layout: post
+redirect_from: afficher-les-champs-personnalises-de-wordpress/
+wordpress_id: 1438448348
 ---
 
 Certains thèmes proposent d'agrémenter votre blog avec de magnifiques slides. Mais bien sûr, c'est mieux si vous arrivez à ajouter le champ personnalisé correspondant.

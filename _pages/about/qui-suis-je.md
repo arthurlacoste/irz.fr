@@ -1,8 +1,8 @@
 ---
-title: "Qui suis-je"
-permalink: /qui-suis-je/
+title: Qui suis-je
+permalink: "/qui-suis-je/"
 sidebar:
-  nav: "about"
+  nav: about
 ---
 
 Prend place, assis-toi, je t'en prie ! Fait comme chez toi. Tu prendras bien une

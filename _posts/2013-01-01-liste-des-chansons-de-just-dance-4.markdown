@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-01-01 14:01:57+00:00
-layout: post
-redirect_from: liste-des-chansons-de-just-dance-4/
-slug: liste-des-chansons-de-just-dance-4
 title: Liste des chansons de Just Dance 4
-wordpress_id: 1438448563
+date: 2013-01-01 14:01:57 Z
 categories:
 - Musique
+author: art
+comments: true
+layout: post
+redirect_from: liste-des-chansons-de-just-dance-4/
+wordpress_id: 1438448563
 ---
 
 Après avoir pris une grosse claque hier soir (oui le réveillon du jour de l'an) en jouant a Just Dance 4, je ressors la liste des chansons du jeu, histoire de me préparer psychologiquement à les écouter. Ouais. 

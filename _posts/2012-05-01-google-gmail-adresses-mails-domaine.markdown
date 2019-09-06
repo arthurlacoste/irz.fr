@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2012-05-01 08:00:15+00:00
-layout: post
-redirect_from: google-gmail-adresses-mails-domaine/
-slug: google-gmail-adresses-mails-domaine
 title: Laissez Google gérer les adresses mails de votre domaine
-wordpress_id: 63
+date: 2012-05-01 08:00:15 Z
 categories:
 - Google
 - Tutoriel
-post_format:
-- Galerie
 tags:
 - gmail
 - google
+author: art
+comments: true
+layout: post
+redirect_from: google-gmail-adresses-mails-domaine/
+wordpress_id: 63
+post_format:
+- Galerie
 ---
 
 La gestion des adresses mails de votre nom de domaine par votre hébergeur est souvent complexe et laborieuse, surtout qu'elle offre souvent un service de piètre qualité et de quantité limité. Lorsque le domaine vous appartient, libre a vous de choisir un autre service pour la gestion de votre "serveur de messagerie".

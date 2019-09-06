@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2010-06-17 11:21:03+00:00
-layout: post
-redirect_from: generalisation-malbouffe/
-slug: generalisation-malbouffe
 title: Vers une généralisation de la malbouffe ?
-wordpress_id: 1438447694
+date: 2010-06-17 11:21:03 Z
 categories:
 - L'essentiel
 - Manger
@@ -16,6 +10,11 @@ tags:
 - Mc Do
 - Mc Donald's
 - Quick
+author: art
+comments: true
+layout: post
+redirect_from: generalisation-malbouffe/
+wordpress_id: 1438447694
 ---
 
 Adepte de la junk food depuis de nombreuses années, j'ai eu l'occasion de tester pour vous le nouveau produit de chez Quick : **les churros**. Je ne sais pas chez vous, mais ici, à Grenoble, il y a autant de vendeurs de churros ambulants qu'il y a de parc dans la ville. Et le niveau est élevé. Je vais donc être assez critique envers la "sacro-sainte" restauration rapide.

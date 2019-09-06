@@ -1,13 +1,7 @@
 ---
-author: art
-comments: true
-date: 2013-04-29 11:14:25+00:00
-layout: post
-redirect_from: ios-restaurer-iphone/
-slug: ios-restaurer-iphone
 title: Installer un version propre et customisé de iOS sur votre iPhone (ou autre
   iDevice)
-wordpress_id: 1438449033
+date: 2013-04-29 11:14:25 Z
 categories:
 - Apple
 - Overgeek
@@ -17,6 +11,11 @@ tags:
 - iPhone
 - iPod
 - jailbreak
+author: art
+comments: true
+layout: post
+redirect_from: ios-restaurer-iphone/
+wordpress_id: 1438449033
 ---
 
 Lorsque vous disposez d'un version ancestrale de iOS, vous avez parfois besoin de passer à une version supérieur de iOS, sans pour autant installer la dernière version (qui n'est généralement pas jailbreakable !). Il y a donc une petite astuce qui permet d'installer une version customisé d'iOS en mettant votre iPhone en mode de restauration.

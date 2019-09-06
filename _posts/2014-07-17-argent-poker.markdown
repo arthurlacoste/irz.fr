@@ -1,17 +1,16 @@
 ---
-author: art
-comments: true
-date: 2014-07-17 09:58:33+00:00
-layout: post
-redirect_from: argent-poker/
-slug: argent-poker
 title: Se faire de l’argent avec le poker en ligne
-wordpress_id: 1438449389
+date: 2014-07-17 09:58:33 Z
 categories:
 - Liveblog
 - Parcours
 tags:
 - poker
+author: art
+comments: true
+layout: post
+redirect_from: argent-poker/
+wordpress_id: 1438449389
 ---
 
 En 2003, un inconnu, amateur de poker à ses heures perdues, [devient riche et célèbre, en l'espace de quelques instants](http://blogs.lexpress.fr/des-jetons-et-des-hommes/2014/07/16/la-revolution-moneymaker/). Chris Moneymaker, un comptable américain fort bien nommé, remporte à 27 ans les World Series of Poker (le championnat le plus convoité de la communauté internationale) alors qu’il n’a jamais joué au poker ailleurs que derrière son ordinateur. <!-- more -->Il en résultera un déclic généralisé pour ceux qui étaient derrière leurs écrans ou qui ont vu les gros titres des journaux. Joueur ou non, l’individu lambda s’est dit “je peux moi aussi tenter ma chance !”. S’en est suivi une immense vague d’inscriptions, des millions de nouveaux arrivants venus du monde entier sur les sites de poker en ligne. En ce temps là, beaucoup de joueurs professionnels ont profité de ce phénomène et se sont remplis les poches sur le dos des débutants. Par chance, de nos jours, grâce aux magazines, vidéos, logiciels et autres livres “pour les nuls” les jeunes joueurs peuvent maintenant se créer leur propre savoir et avec de l’application, perfectionner leur technique en moins de temps qu’il n’en faut pour le dire.

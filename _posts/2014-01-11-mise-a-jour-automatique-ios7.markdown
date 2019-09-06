@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-01-11 07:00:35+00:00
-layout: post
-redirect_from: mise-a-jour-automatique-ios7/
-slug: mise-a-jour-automatique-ios7
 title: Mettre en place les mises à jour automatiques sur iOS 7
-wordpress_id: 1438449285
+date: 2014-01-11 07:00:35 Z
 categories:
 - Overgeek
 - Tutoriel
@@ -18,6 +12,11 @@ tags:
 - iPod
 - iPod Touch
 - mises à jour
+author: art
+comments: true
+layout: post
+redirect_from: mise-a-jour-automatique-ios7/
+wordpress_id: 1438449285
 ---
 
 Avant iOS 7, je me souvient que les mises à jour devaient être faites manuellement, et souvent, les apps restaient un moment dans leurs anciennes versions, faute de notification adéquate et de système permettant (comme maintenant) de mettre à jour de manière transparente les applications. 

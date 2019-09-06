@@ -1,15 +1,14 @@
 ---
-author: art
-comments: true
-date: 2015-08-04 08:28:32+00:00
-layout: post
-redirect_from: commentaires-beau/
-slug: commentaires-beau
 title: Les commentaires, c'est beau mais...
-wordpress_id: 1438449654
+date: 2015-08-04 08:28:32 Z
 categories:
 - Blog
 - Liveblog
+author: art
+comments: true
+layout: post
+redirect_from: commentaires-beau/
+wordpress_id: 1438449654
 post_format:
 - En passant
 ---

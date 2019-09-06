@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-01-25 19:37:15+00:00
-layout: post
-redirect_from: origine-nom-site-toute-verite-irz/
-slug: origine-nom-site-toute-verite-irz
 title: Toute la vérité sur irz.fr !
-wordpress_id: 1438448670
+date: 2013-01-25 19:37:15 Z
 categories:
 - Parcours
 tags:
 - dévoilé
 - enfin
 - mystère
+author: art
+comments: true
+layout: post
+redirect_from: origine-nom-site-toute-verite-irz/
+wordpress_id: 1438448670
 ---
 
 En près de 2 ans d'existence de irz.fr, la version 3 du site ouvre ses portes !

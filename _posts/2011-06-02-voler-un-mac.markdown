@@ -1,20 +1,19 @@
 ---
-author: art
-comments: true
-date: 2011-06-02 11:23:10+00:00
-layout: post
-redirect_from: voler-un-mac/
-slug: voler-un-mac
 title: Voila pourquoi il ne faut pas voler un mac
-wordpress_id: 1438447716
+date: 2011-06-02 11:23:10 Z
 categories:
 - Apple
 - Logiciels
-post_format:
-- Galerie
 tags:
 - vol
 - Voler un mac
+author: art
+comments: true
+layout: post
+redirect_from: voler-un-mac/
+wordpress_id: 1438447716
+post_format:
+- Galerie
 ---
 
  {% include figure image_path="https://static.irz.fr/2011/06/tumblr_llvrhxBLUo1qkzrzto1_500.jpg" alt="Voilà une capture d'écran du voleur prise grâce au logiciel Hidden" caption="Voilà une capture d'écran du voleur prise grâce au logiciel Hidden" %}

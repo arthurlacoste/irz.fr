@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-01-26 17:30:41+00:00
-layout: post
-redirect_from: la-minute-musique-1/
-slug: la-minute-musique-1
 title: 'La minute musique #1'
-wordpress_id: 1438448722
+date: 2013-01-26 17:30:41 Z
 categories:
 - Musique
-post_format:
-- Son
 tags:
 - boss wave
 - dubstep
 - La minute musique
 - pixel-art
 - xilent
+author: art
+comments: true
+layout: post
+redirect_from: la-minute-musique-1/
+wordpress_id: 1438448722
+post_format:
+- Son
 header:
   video:
     id: 4wTLjEqj5Xk

@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2011-06-01 01:08:34+00:00
-layout: post
-redirect_from: fatal-error-cannot-redeclare-update_category_cache-previously-declared-in-deprecated-php-on-line-2603/
-slug: fatal-error-cannot-redeclare-update_category_cache-previously-declared-in-deprecated-php-on-line-2603
 title: 'Résoudre le Fatal error: Cannot redeclare update_category_cache() (previously
   declared in /deprecated.php on line 2603'
-wordpress_id: 1438447667
+date: 2011-06-01 01:08:34 Z
 categories:
 - Tutoriel
 - Wordpress
-post_format:
-- Galerie
 tags:
 - php
 - wordpress
+author: art
+comments: true
+layout: post
+redirect_from: fatal-error-cannot-redeclare-update_category_cache-previously-declared-in-deprecated-php-on-line-2603/
+wordpress_id: 1438447667
+post_format:
+- Galerie
 ---
 
 Diantre ! Votre blog wordpress à été victime d'un mystérieux bug lors de votre dernière mise-à-jour ?

@@ -1,18 +1,10 @@
 ---
-author: art
-comments: true
-date: 2011-11-09 06:00:56+00:00
-layout: post
-redirect_from: ?p=1438448102
-published: false
-slug: erreur-de-code-20
 title: L’erreur de code de la semaine
-wordpress_id: 1438448102
+date: 2011-11-09 06:00:56 Z
+published: false
 categories:
 - Code de la route
 - Erreur de code
-post_format:
-- Image
 tags:
 - code
 - enpc
@@ -23,6 +15,13 @@ tags:
 - questions
 - révisions
 - série
+author: art
+comments: true
+layout: post
+redirect_from: "?p=1438448102"
+wordpress_id: 1438448102
+post_format:
+- Image
 ---
 
 <img alt="No alt" data-src="https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.06.27.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2011/06/cerberus-2011-06-11-à-00.06.27.png" />

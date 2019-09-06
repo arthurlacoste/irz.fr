@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2011-06-07 23:02:12+00:00
-layout: post
-redirect_from: les-categories-de-permis/
-slug: les-categories-de-permis
 title: Les catégories de permis
-wordpress_id: 1438447971
+date: 2011-06-07 23:02:12 Z
 categories:
 - Code de la route
 tags:
 - permis
+author: art
+comments: true
+layout: post
+redirect_from: les-categories-de-permis/
+wordpress_id: 1438447971
 ---
 
 ### Le permis de conduire catégorie B :

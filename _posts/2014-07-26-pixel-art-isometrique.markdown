@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2014-07-26 15:32:35+00:00
-layout: post
-redirect_from: pixel-art-isometrique/
-slug: pixel-art-isometrique
 title: Créer votre premier pixel-art isométrique
-wordpress_id: 1438448520
+date: 2014-07-26 15:32:35 Z
 categories:
 - Dessins
 - Divers
@@ -14,6 +8,11 @@ categories:
 - Tutoriel
 tags:
 - pixel-art
+author: art
+comments: true
+layout: post
+redirect_from: pixel-art-isometrique/
+wordpress_id: 1438448520
 ---
 
 Pour réaliser des objets existants tels qu'un cadenas, un appareil photo , des clefs, un stylo, un photo de l'objet ou l'objet à vos côté peut être un bon moyen de visualiser ce que vous faites. Sinon, un petit croquis papier ou un rapide schéma peut être un excellent moyen de substitution.

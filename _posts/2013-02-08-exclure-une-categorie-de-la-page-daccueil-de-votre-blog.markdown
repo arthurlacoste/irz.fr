@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-02-08 15:02:10+00:00
-layout: post
-redirect_from: exclure-une-categorie-de-la-page-daccueil-de-votre-blog/
-slug: exclure-une-categorie-de-la-page-daccueil-de-votre-blog
 title: Exclure une catégorie de la page d'accueil de votre blog
-wordpress_id: 1438448767
+date: 2013-02-08 15:02:10 Z
 categories:
 - Overgeek
 - Tutoriel
@@ -15,6 +9,11 @@ tags:
 - is_home
 - query_posts
 - WP_Query
+author: art
+comments: true
+layout: post
+redirect_from: exclure-une-categorie-de-la-page-daccueil-de-votre-blog/
+wordpress_id: 1438448767
 ---
 
 La solution est indiqué dans le [codex de Wordpress](http://codex.wordpress.org/Template_Tags/query_posts), mais pour les non anglophones, je vais vous traduire ça, parce que je suis un mec sympa. Pour exclure une catégorie de la page d'accueil, il suffit, dans le fichier index.php situé à la racine de votre thème d'ajouter ces quelques lignes de code **a placer juste après les balises "<?"** :

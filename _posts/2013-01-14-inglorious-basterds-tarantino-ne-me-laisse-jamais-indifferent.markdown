@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-01-14 07:24:21+00:00
-layout: post
-redirect_from: inglorious-basterds-tarantino-ne-me-laisse-jamais-indifferent/
-slug: inglorious-basterds-tarantino-ne-me-laisse-jamais-indifferent
 title: 'Inglourious Basterds : Tarantino ne me laisse jamais indifférent'
-wordpress_id: 1438448634
+date: 2013-01-14 07:24:21 Z
 categories:
 - Video
 tags:
 - Cinéma
 - Merci Sofyan
 - Quentin Tarantino
+author: art
+comments: true
+layout: post
+redirect_from: inglorious-basterds-tarantino-ne-me-laisse-jamais-indifferent/
+wordpress_id: 1438448634
 ---
 
 Que ce soit Pulp Fiction, Kill Bill, ou bien Death Proof, Tarantino ne me laisse jamais indifférent. Parfois sont style néo-narratif aux scènes ultra violentes me laisse perplexe, parfois ce grand homme du cinéma nous pond un chef-d'oeuvre.

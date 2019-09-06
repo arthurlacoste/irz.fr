@@ -1,22 +1,21 @@
 ---
-author: art
-comments: true
-date: 2013-05-22 13:46:19+00:00
-layout: post
-redirect_from: la-danse/
-slug: la-danse
 title: L'histoire de ma vie
-wordpress_id: 1438449068
+date: 2013-05-22 13:46:19 Z
 categories:
 - Coloriages
 - Dessins
-post_format:
-- En passant
 tags:
 - ballerine
 - danseuse
 - grosse
 - tutu
+author: art
+comments: true
+layout: post
+redirect_from: la-danse/
+wordpress_id: 1438449068
+post_format:
+- En passant
 ---
 
 <a href="https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie.png"><img alt="danseuse-histoire-de-la-vie" data-src="https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie-640x619.png" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2013/05/danseuse-histoire-de-la-vie-640x619.png" /></a><!-- more -->

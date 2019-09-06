@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2011-08-17 12:07:21+00:00
-layout: post
-redirect_from: diffamation-crocus-charancieu/
-slug: diffamation-crocus-charancieu
 title: 'Accusation en diffamation : Quelle jurisprudence pour les moules ?'
-wordpress_id: 1438448351
+date: 2011-08-17 12:07:21 Z
 categories:
 - Manger
 - Parcours
 tags:
 - crocus
 - malbouffe
+author: art
+comments: true
+layout: post
+redirect_from: diffamation-crocus-charancieu/
+wordpress_id: 1438448351
 ---
 
 Voici ce que j'ai reçu ce matin par courrier avec accusé de réception : un joli courrier de l'avocat du [Crocus de charancieu](https://irz.fr/restaurant-le-crocus-charancieu-moules-frites). Suite à ce courrier et pour ne pas être condamné pour diffamation, je modifie l'article de manière à ne plus être inquiété par la justice.

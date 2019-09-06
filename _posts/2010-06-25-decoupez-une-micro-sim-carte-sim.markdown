@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2010-06-25 00:43:19+00:00
-layout: post
-redirect_from: decoupez-une-micro-sim-carte-sim/
-slug: decoupez-une-micro-sim-carte-sim
 title: Impatients ? Découpez une micro sim dans une carte sim
-wordpress_id: 1438447706
+date: 2010-06-25 00:43:19 Z
 categories:
 - Apple
 - Idées
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: decoupez-une-micro-sim-carte-sim/
+wordpress_id: 1438447706
 ---
 
 <a href="https://static.irz.fr/2010/06/IMG_0026.jpg"><img alt="microsim maison" data-src="https://static.irz.fr/2010/06/IMG_0026-1024x303.jpg" src="https://static.irz.fr/thumb.php?size=<100&crop=0&src=https://static.irz.fr/2010/06/IMG_0026-1024x303.jpg" /></a>

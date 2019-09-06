@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2013-02-15 13:22:35+00:00
-layout: post
-redirect_from: tweak-cydia-androidlock-xt/
-slug: tweak-cydia-androidlock-xt
 title: 'Tweak Cydia : Androidlock XT'
-wordpress_id: 1438448818
+date: 2013-02-15 13:22:35 Z
 categories:
 - Android
 - Apple
@@ -16,6 +10,11 @@ tags:
 - iOS
 - iPhone
 - Tweak
+author: art
+comments: true
+layout: post
+redirect_from: tweak-cydia-androidlock-xt/
+wordpress_id: 1438448818
 ---
 
 Si il y a bien une chose qui m'a toujours manqué depuis mon retour sur iPhone, c'est bien le déverrouillage par chevrons de Android. Effectivement, il n'y a pas que ça, Android est vraiment un OS mobile proche de la maturité, mais ce n'est pas du tout l'objet de cet article !

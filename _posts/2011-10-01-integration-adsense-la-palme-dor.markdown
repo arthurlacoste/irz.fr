@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-10-01 12:55:04+00:00
-layout: post
-redirect_from: integration-adsense-la-palme-dor/
-slug: integration-adsense-la-palme-dor
 title: 'Intégration adsense : la palme d''or'
-wordpress_id: 1438448418
+date: 2011-10-01 12:55:04 Z
 categories:
 - Web
+author: art
+comments: true
+layout: post
+redirect_from: integration-adsense-la-palme-dor/
+wordpress_id: 1438448418
 post_format:
 - Galerie
 ---

@@ -1,20 +1,17 @@
 ---
-author: art
-comments: true
-date: 2010-03-21 19:37:12+00:00
-excerpt: Bonne review !
-layout: post
-redirect_from: la-review-quatre/
-slug: la-review-quatre
 title: La (quatrième) Review
-wordpress_id: 433
+date: 2010-03-21 19:37:12 Z
 categories:
 - Actu
 tags:
 - review
+author: art
+comments: true
+excerpt: Bonne review !
+layout: post
+redirect_from: la-review-quatre/
+wordpress_id: 433
 ---
-
-
 
 **Recouvrer la vue grâce à une sucette**
 Recouvrer la vue grâce à une sucette, c'est maintenant possible. On l'avais déjà vu il y a quelques temps sur les chaînes de télé Française de façon expérimentale avec Gilbert Montagné. Un homme à pu ainsi lire, jouer au ballon, aux morpions avec sa fille, et tenez vous bien, faire de l'escalade. Regardez [cette vidéo](http://www.youtube.com/watch?v=xNkw28fz9u0).

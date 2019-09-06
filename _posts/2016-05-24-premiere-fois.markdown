@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2016-05-24 18:06:23+00:00
-layout: post
-redirect_from: premiere-fois/
-slug: premiere-fois
 title: Première fois
-wordpress_id: 1438453092
+date: 2016-05-24 18:06:23 Z
 categories:
 - Parcours
+author: art
+comments: true
+layout: post
+redirect_from: premiere-fois/
+wordpress_id: 1438453092
 ---
 
 Je ne sais si vous êtes comme moi, mais en ce qui me concerne, j’adore les premières fois.

@@ -1,6 +1,6 @@
 ---
-title: "Mes concerts"
-permalink: /liste-concerts/
+title: Mes concerts
+permalink: "/liste-concerts/"
 layout: single
 ---
 

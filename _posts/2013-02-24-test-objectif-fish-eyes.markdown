@@ -1,21 +1,20 @@
 ---
-author: art
-comments: true
-date: 2013-02-24 09:05:47+00:00
-layout: post
-redirect_from: test-objectif-fish-eyes/
-slug: test-objectif-fish-eyes
 title: 'Test : objectif fish-eyes'
-wordpress_id: 1438448825
+date: 2013-02-24 09:05:47 Z
 categories:
 - Android
 - Apple
 - Consommacteur
 - Photo
-post_format:
-- En passant
 tags:
 - iPhone
+author: art
+comments: true
+layout: post
+redirect_from: test-objectif-fish-eyes/
+wordpress_id: 1438448825
+post_format:
+- En passant
 ---
 
 Aujourd’hui je vais vous parler d’un produit pas très cher qui va un peu changer des photos que vous prenez habituellement avec votre téléphone : c’est un objectif fish-eyes ! 

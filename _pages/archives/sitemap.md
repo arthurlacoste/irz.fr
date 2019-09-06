@@ -1,11 +1,11 @@
 ---
+title: Sitemap
+permalink: "/sitemap/"
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
 author_profile: false
 exclude_from_search: true
 sidebar:
-  nav: "archives"
+  nav: archives
 ---
 
 {% include base_path %}

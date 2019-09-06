@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2012-05-03 18:59:58+00:00
-layout: post
-redirect_from: copyright-php/
-slug: copyright-php
 title: N'ayez plus jamais à mettre à jour votre copyright de bas de page
-wordpress_id: 1438448475
+date: 2012-05-03 18:59:58 Z
 categories:
 - Développement
 - PHP
@@ -16,6 +10,11 @@ tags:
 - copyright
 - fonction
 - php
+author: art
+comments: true
+layout: post
+redirect_from: copyright-php/
+wordpress_id: 1438448475
 ---
 
 C'est une chose que je constate souvent, en bas de page, à côté du copyright, il y a souvent une année, qui correspond à l'année de création de l'entreprise (style '[annee] © Tartempion production') si c'est l'année courante, ou une formule comprenant deux années, la première étant l'année de création de l’entreprise (ou du site), la seconde étant l'année courante (style '1997-[annee] © Tartempion production').

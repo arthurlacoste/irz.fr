@@ -1,16 +1,8 @@
 ---
-author: art
-comments: true
-date: 2017-03-01 14:36:32+00:00
-layout: post
-redirect_from: watchtime-youube/
-slug: watchtime-youube
 title: Youtube est notre nouvelle télévision ! Je vous explique le Watch time Youtube
-wordpress_id: 1438493760
+date: 2017-03-01 14:36:32 Z
 categories:
 - Consommacteur
-post_format:
-- Vidéo
 tags:
 - David Lafarge
 - IbraTV
@@ -19,6 +11,13 @@ tags:
 - wacthtime
 - watch time optimiser
 - watch time youtube
+author: art
+comments: true
+layout: post
+redirect_from: watchtime-youube/
+wordpress_id: 1438493760
+post_format:
+- Vidéo
 header:
   video:
     id: RbP7qp7n9YY

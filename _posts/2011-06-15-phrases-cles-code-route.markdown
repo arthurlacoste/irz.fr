@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2011-06-15 09:29:25+00:00
-layout: post
-redirect_from: phrases-cles-code-route/
-slug: phrases-cles-code-route
 title: Phrases clés du code de la route
-wordpress_id: 1438448116
+date: 2011-06-15 09:29:25 Z
 categories:
 - Code de la route
+author: art
+comments: true
+layout: post
+redirect_from: phrases-cles-code-route/
+wordpress_id: 1438448116
 post_format:
 - Galerie
 ---

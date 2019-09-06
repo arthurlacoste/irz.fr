@@ -1,12 +1,6 @@
 ---
-author: art
-comments: true
-date: 2012-03-23 08:00:10+00:00
-layout: post
-redirect_from: hear-halterrego-bbh200-beewi/
-slug: hear-halterrego-bbh200-beewi
 title: Coup de gueule contre le micro casque bluetooth H.ear de Halterrego
-wordpress_id: 1438448452
+date: 2012-03-23 08:00:10 Z
 categories:
 - Liveblog
 tags:
@@ -18,6 +12,11 @@ tags:
 - halterrego
 - matériel
 - test
+author: art
+comments: true
+layout: post
+redirect_from: hear-halterrego-bbh200-beewi/
+wordpress_id: 1438448452
 ---
 
 Attention, ceci n'est pas une critique <del>constructive</del> explicative comme vous pourriez le trouver ailleurs. Niveau fonctionnalité, il n'y a pratiquement rien à redire en comparaison du prix.

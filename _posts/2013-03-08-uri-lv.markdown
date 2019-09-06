@@ -1,18 +1,17 @@
 ---
-author: art
-comments: true
-date: 2013-03-08 12:12:43+00:00
-layout: post
-redirect_from: uri-lv/
-slug: uri-lv
 title: Passer à URI.LV
-wordpress_id: 1438448848
+date: 2013-03-08 12:12:43 Z
 categories:
 - Blog
-post_format:
-- En passant
 tags:
 - blog
+author: art
+comments: true
+layout: post
+redirect_from: uri-lv/
+wordpress_id: 1438448848
+post_format:
+- En passant
 ---
 
 Vous qui bloguez, vous savez que vos lecteurs peuvent vous lire via **votre flux RSS** ?

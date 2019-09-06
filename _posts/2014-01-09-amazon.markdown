@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2014-01-09 07:00:06+00:00
-layout: post
-redirect_from: amazon/
-slug: amazon
 title: 'Amazon.fr : l''envers du décor'
-wordpress_id: 1438449278
+date: 2014-01-09 07:00:06 Z
 categories:
 - Consommacteur
 - Overgeek
-post_format:
-- En passant
 tags:
 - Un consommateur averti en vaut deux
+author: art
+comments: true
+layout: post
+redirect_from: amazon/
+wordpress_id: 1438449278
+post_format:
+- En passant
 ---
 
 Vous savez, internet permet de mettre sur un même pied d'égalité une multinationale et une petite entreprise familiale. D'aspect, la vitrine d'un site de e-commerce peut vous donner l'impression qu'une entreprise au bord de la faillite est en réalité prospère.

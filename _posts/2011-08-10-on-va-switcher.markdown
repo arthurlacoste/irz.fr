@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2011-08-10 21:16:44+00:00
-layout: post
-redirect_from: on-va-switcher/
-slug: on-va-switcher
 title: On va switcher !
-wordpress_id: 1438448343
+date: 2011-08-10 21:16:44 Z
 categories:
 - Apple
 - Logiciels
 - Windows
+author: art
+comments: true
+layout: post
+redirect_from: on-va-switcher/
+wordpress_id: 1438448343
 post_format:
 - Galerie
 ---

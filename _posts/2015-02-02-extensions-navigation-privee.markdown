@@ -1,16 +1,15 @@
 ---
-author: art
-comments: true
-date: 2015-02-02 11:39:32+00:00
-layout: post
-redirect_from: extensions-navigation-privee/
-slug: extensions-navigation-privee
 title: Activer les extensions en mode mode navigation privée
-wordpress_id: 1438449582
+date: 2015-02-02 11:39:32 Z
 categories:
 - Google
 - Liveblog
 - Tutoriel
+author: art
+comments: true
+layout: post
+redirect_from: extensions-navigation-privee/
+wordpress_id: 1438449582
 ---
 
 Le mode navigation privée est pratique : il permet de lancer une session purgée de tout cookie et historique de navigation. Par défaut, les extensions sont désactivées dans ce mode, ce qui est très bien ! Parfois, vous souhaiteriez cependant utiliser certaines de vos extensions dans ce mode.

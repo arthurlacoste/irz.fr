@@ -1,14 +1,13 @@
 ---
-author: art
-comments: true
-date: 2013-02-08 15:44:57+00:00
-layout: post
-redirect_from: ecouter-musique/
-slug: ecouter-musique
 title: Qu'est ce que j'utilise pour écouter de la musique ?
-wordpress_id: 1438447698
+date: 2013-02-08 15:44:57 Z
 categories:
 - Musique
+author: art
+comments: true
+layout: post
+redirect_from: ecouter-musique/
+wordpress_id: 1438447698
 ---
 
 J'ai une bonne oreille. Pas exceptionnelle non plus, je ne fais pas la différence entre certains casques (haut et bas de gamme) et ne pourrais jamais faire une super critique sonore sur le rendu de basses ou d'aigus d'une paire d'enceinte.

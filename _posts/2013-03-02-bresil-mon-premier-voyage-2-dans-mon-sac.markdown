@@ -1,19 +1,18 @@
 ---
-author: art
-comments: true
-date: 2013-03-02 01:19:21+00:00
-layout: post
-redirect_from: bresil-mon-premier-voyage-2-dans-mon-sac/
-slug: bresil-mon-premier-voyage-2-dans-mon-sac
-title: '[Brésil] Mon premier voyage #2 : Dans mon sac'
-wordpress_id: 1438448910
+title: "[Brésil] Mon premier voyage #2 : Dans mon sac"
+date: 2013-03-02 01:19:21 Z
 categories:
 - Parcours
-post_format:
-- En passant
 tags:
 - brésil
 - valise
+author: art
+comments: true
+layout: post
+redirect_from: bresil-mon-premier-voyage-2-dans-mon-sac/
+wordpress_id: 1438448910
+post_format:
+- En passant
 ---
 
 Vous savez que je pars à Rio de Janeiro une grosse semaine, [je vous ai en effet déjà parlé de quelque-uns de mes préparatifs](https://irz.fr/bresil-premier-voyage-preparatif). Cependant, je ne vous ai pas encore parlé de ce qu'il y a dans mon sac ! Et oui, je vais répondre à la fameuse question du "**What's in my bag ?**" ! <!-- more -->
