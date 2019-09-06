@@ -121,7 +121,6 @@ Pour ne rien vous cacher, je vous dois cette page. Elle répertorie toutes les c
 - 08/04/13 : [Hôtel, Hostel, ou Motel ?](https://irz.fr/hotel-hostel-motel) (21€/mois)
 - 22/03/13 : [Ma première rencontre sur internet](https://irz.fr/site-de-rencontre) (70€)
 
-
   [IRZ]: http://irz.fr
   [depuis le 24 décembre 2010]: https://irz.fr/origine-nom-site-toute-verite-irz
   [Arthur]: https://irz.fr/qui-suis-je "Qui suis-je ?"
